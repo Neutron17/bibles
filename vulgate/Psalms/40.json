@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 40,
+    "name": "Psalms 40",
+    "verses": [
+        {
+            "chapter": 40,
+            "verse": 1,
+            "name": "Psalms 40:1",
+            "text": "In finem. Psalmus ipsi David.  "
+        },
+        {
+            "chapter": 40,
+            "verse": 2,
+            "name": "Psalms 40:2",
+            "text": "  Beatus qui intelligit super egenum et pauperem :  in die mala liberabit eum Dominus. "
+        },
+        {
+            "chapter": 40,
+            "verse": 3,
+            "name": "Psalms 40:3",
+            "text": " Dominus conservet eum, et vivificet eum,  et beatum faciat eum in terra,  et non tradat eum in animam inimicorum ejus. "
+        },
+        {
+            "chapter": 40,
+            "verse": 4,
+            "name": "Psalms 40:4",
+            "text": " Dominus opem ferat illi super lectum doloris ejus ;  universum stratum ejus versasti in infirmitate ejus. "
+        },
+        {
+            "chapter": 40,
+            "verse": 5,
+            "name": "Psalms 40:5",
+            "text": " Ego dixi : Domine, miserere mei ;  sana animam meam, quia peccavi tibi. "
+        },
+        {
+            "chapter": 40,
+            "verse": 6,
+            "name": "Psalms 40:6",
+            "text": " Inimici mei dixerunt mala mihi :  Quando morietur, et peribit nomen ejus ? "
+        },
+        {
+            "chapter": 40,
+            "verse": 7,
+            "name": "Psalms 40:7",
+            "text": " Et si ingrediebatur ut videret, vana loquebatur ;  cor ejus congregavit iniquitatem sibi.  Egrediebatur foras et loquebatur. "
+        },
+        {
+            "chapter": 40,
+            "verse": 8,
+            "name": "Psalms 40:8",
+            "text": " In idipsum adversum me susurrabant omnes inimici mei ;  adversum me cogitabant mala mihi. "
+        },
+        {
+            "chapter": 40,
+            "verse": 9,
+            "name": "Psalms 40:9",
+            "text": " Verbum iniquum constituerunt adversum me :  Numquid qui dormit non adjiciet ut resurgat ? "
+        },
+        {
+            "chapter": 40,
+            "verse": 10,
+            "name": "Psalms 40:10",
+            "text": " Etenim homo pacis meæ in quo speravi,  qui edebat panes meos,  magnificavit super me supplantationem. "
+        },
+        {
+            "chapter": 40,
+            "verse": 11,
+            "name": "Psalms 40:11",
+            "text": " Tu autem, Domine, miserere mei,  et resuscita me ; et retribuam eis. "
+        },
+        {
+            "chapter": 40,
+            "verse": 12,
+            "name": "Psalms 40:12",
+            "text": " In hoc cognovi quoniam voluisti me,  quoniam non gaudebit inimicus meus super me. "
+        },
+        {
+            "chapter": 40,
+            "verse": 13,
+            "name": "Psalms 40:13",
+            "text": " Me autem propter innocentiam suscepisti ;  et confirmasti me in conspectu tuo in æternum. "
+        },
+        {
+            "chapter": 40,
+            "verse": 14,
+            "name": "Psalms 40:14",
+            "text": " Benedictus Dominus Deus Israël  a sæculo et usque in sæculum. Fiat, fiat.  "
+        }
+    ]
+}

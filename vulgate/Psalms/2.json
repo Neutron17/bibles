@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 2,
+    "name": "Psalms 2",
+    "verses": [
+        {
+            "chapter": 2,
+            "verse": 1,
+            "name": "Psalms 2:1",
+            "text": "Quare fremuerunt gentes,  et populi meditati sunt inania ? "
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "name": "Psalms 2:2",
+            "text": " Astiterunt reges terræ,  et principes convenerunt in unum  adversus Dominum, et adversus christum ejus. "
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "name": "Psalms 2:3",
+            "text": " Dirumpamus vincula eorum,  et projiciamus a nobis jugum ipsorum. "
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "name": "Psalms 2:4",
+            "text": " Qui habitat in cælis irridebit eos,  et Dominus subsannabit eos. "
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "name": "Psalms 2:5",
+            "text": " Tunc loquetur ad eos in ira sua,  et in furore suo conturbabit eos. "
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "name": "Psalms 2:6",
+            "text": " Ego autem constitutus sum rex ab eo  super Sion, montem sanctum ejus,  prædicans præceptum ejus. "
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "name": "Psalms 2:7",
+            "text": " Dominus dixit ad me : Filius meus es tu ;  ego hodie genui te. "
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "name": "Psalms 2:8",
+            "text": " Postula a me, et dabo tibi gentes hæreditatem tuam,  et possessionem tuam terminos terræ. "
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "name": "Psalms 2:9",
+            "text": " Reges eos in virga ferrea,  et tamquam vas figuli confringes eos. "
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "name": "Psalms 2:10",
+            "text": " Et nunc, reges, intelligite ;  erudimini, qui judicatis terram. "
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "name": "Psalms 2:11",
+            "text": " Servite Domino in timore,  et exsultate ei cum tremore. "
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "name": "Psalms 2:12",
+            "text": " Apprehendite disciplinam, nequando irascatur Dominus,  et pereatis de via justa. "
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "name": "Psalms 2:13",
+            "text": " Cum exarserit in brevi ira ejus,  beati omnes qui confidunt in eo.  "
+        }
+    ]
+}

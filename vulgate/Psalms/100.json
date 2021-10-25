@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 100,
+    "name": "Psalms 100",
+    "verses": [
+        {
+            "chapter": 100,
+            "verse": 1,
+            "name": "Psalms 100:1",
+            "text": "Psalmus ipsi David.   Misericordiam et judicium cantabo tibi, Domine ;  psallam, "
+        },
+        {
+            "chapter": 100,
+            "verse": 2,
+            "name": "Psalms 100:2",
+            "text": "et intelligam in via immaculata : quando venies ad me ?  Perambulabam in innocentia cordis mei, in medio domus meæ. "
+        },
+        {
+            "chapter": 100,
+            "verse": 3,
+            "name": "Psalms 100:3",
+            "text": " Non proponebam ante oculos meos rem injustam ;  facientes prævaricationes odivi ;  non adhæsit mihi "
+        },
+        {
+            "chapter": 100,
+            "verse": 4,
+            "name": "Psalms 100:4",
+            "text": "cor pravum ;  declinantem a me malignum non cognoscebam. "
+        },
+        {
+            "chapter": 100,
+            "verse": 5,
+            "name": "Psalms 100:5",
+            "text": " Detrahentem secreto proximo suo, hunc persequebar :  superbo oculo, et insatiabili corde, cum hoc non edebam. "
+        },
+        {
+            "chapter": 100,
+            "verse": 6,
+            "name": "Psalms 100:6",
+            "text": " Oculi mei ad fideles terræ, ut sedeant mecum ;  ambulans in via immaculata, hic mihi ministrabat. "
+        },
+        {
+            "chapter": 100,
+            "verse": 7,
+            "name": "Psalms 100:7",
+            "text": " Non habitabit in medio domus meæ qui facit superbiam ;  qui loquitur iniqua non direxit in conspectu oculorum meorum. "
+        },
+        {
+            "chapter": 100,
+            "verse": 8,
+            "name": "Psalms 100:8",
+            "text": " In matutino interficiebam omnes peccatores terræ,  ut disperderem de civitate Domini omnes operantes iniquitatem.  "
+        }
+    ]
+}

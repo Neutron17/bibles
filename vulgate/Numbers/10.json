@@ -1,0 +1,230 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 10,
+    "name": "Numbers 10",
+    "verses": [
+        {
+            "chapter": 10,
+            "verse": 1,
+            "name": "Numbers 10:1",
+            "text": "Locutusque est Dominus ad Moysen, dicens : "
+        },
+        {
+            "chapter": 10,
+            "verse": 2,
+            "name": "Numbers 10:2",
+            "text": "Fac tibi duas tubas argenteas ductiles, quibus convocare possis multitudinem quando movenda sunt castra. "
+        },
+        {
+            "chapter": 10,
+            "verse": 3,
+            "name": "Numbers 10:3",
+            "text": "Cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi fœderis. "
+        },
+        {
+            "chapter": 10,
+            "verse": 4,
+            "name": "Numbers 10:4",
+            "text": "Si semel clangueris, venient ad te principes, et capita multitudinis Israël. "
+        },
+        {
+            "chapter": 10,
+            "verse": 5,
+            "name": "Numbers 10:5",
+            "text": "Si autem prolixior atque concisus clangor increpuerit, movebunt castra primi qui sunt ad orientalem plagam. "
+        },
+        {
+            "chapter": 10,
+            "verse": 6,
+            "name": "Numbers 10:6",
+            "text": "In secundo autem sonitu et pari ululatu tubæ, levabunt tentoria qui habitant ad meridiem ; et juxta hunc modum reliqui facient, ululantibus tubis in profectionem. "
+        },
+        {
+            "chapter": 10,
+            "verse": 7,
+            "name": "Numbers 10:7",
+            "text": "Quando autem congregandus est populus, simplex tubarum clangor erit, et non concise ululabunt. "
+        },
+        {
+            "chapter": 10,
+            "verse": 8,
+            "name": "Numbers 10:8",
+            "text": "Filii autem Aaron sacerdotes clangent tubis : eritque hoc legitimum sempiternum in generationibus vestris. "
+        },
+        {
+            "chapter": 10,
+            "verse": 9,
+            "name": "Numbers 10:9",
+            "text": "Si exieritis ad bellum de terra vestra contra hostes qui dimicant adversum vos, clangetis ululantibus tubis, et erit recordatio vestri coram Domino Deo vestro, ut eruamini de manibus inimicorum vestrorum. "
+        },
+        {
+            "chapter": 10,
+            "verse": 10,
+            "name": "Numbers 10:10",
+            "text": "Siquando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. Ego Dominus Deus vester.  "
+        },
+        {
+            "chapter": 10,
+            "verse": 11,
+            "name": "Numbers 10:11",
+            "text": " Anno secundo, mense secundo, vigesima die mensis, elevata est nubes de tabernaculo fœderis : "
+        },
+        {
+            "chapter": 10,
+            "verse": 12,
+            "name": "Numbers 10:12",
+            "text": "profectique sunt filii Israël per turmas suas de deserto Sinai, et recubuit nubes in solitudine Pharan. "
+        },
+        {
+            "chapter": 10,
+            "verse": 13,
+            "name": "Numbers 10:13",
+            "text": "Moveruntque castra primi juxta imperium Domini in manu Moysi. "
+        },
+        {
+            "chapter": 10,
+            "verse": 14,
+            "name": "Numbers 10:14",
+            "text": "Filii Juda per turmas suas : quorum princeps erat Nahasson filius Aminadab. "
+        },
+        {
+            "chapter": 10,
+            "verse": 15,
+            "name": "Numbers 10:15",
+            "text": "In tribu filiorum Issachar fuit princeps Nathanaël filius Suar. "
+        },
+        {
+            "chapter": 10,
+            "verse": 16,
+            "name": "Numbers 10:16",
+            "text": "In tribu Zabulon erat princeps Eliab filius Helon. "
+        },
+        {
+            "chapter": 10,
+            "verse": 17,
+            "name": "Numbers 10:17",
+            "text": "Depositumque est tabernaculum, quod portantes egressi sunt filii Gerson et Merari. "
+        },
+        {
+            "chapter": 10,
+            "verse": 18,
+            "name": "Numbers 10:18",
+            "text": "Profectique sunt et filii Ruben, per turmas et ordinem suum : quorum princeps erat Helisur filius Sedeur. "
+        },
+        {
+            "chapter": 10,
+            "verse": 19,
+            "name": "Numbers 10:19",
+            "text": "In tribu autem filiorum Simeon, princeps fuit Salamiel filius Surisaddai. "
+        },
+        {
+            "chapter": 10,
+            "verse": 20,
+            "name": "Numbers 10:20",
+            "text": "Porro in tribu Gad erat princeps Eliasaph filius Duel. "
+        },
+        {
+            "chapter": 10,
+            "verse": 21,
+            "name": "Numbers 10:21",
+            "text": "Profectique sunt et Caathitæ portantes sanctuarium. Tamdiu tabernaculum portabatur, donec venirent ad erectionis locum. "
+        },
+        {
+            "chapter": 10,
+            "verse": 22,
+            "name": "Numbers 10:22",
+            "text": "Moverunt castra et filii Ephraim per turmas suas, in quorum exercitu princeps erat Elisama filius Ammiud. "
+        },
+        {
+            "chapter": 10,
+            "verse": 23,
+            "name": "Numbers 10:23",
+            "text": "In tribu autem filiorum Manasse princeps fuit Gamaliel filius Phadassur. "
+        },
+        {
+            "chapter": 10,
+            "verse": 24,
+            "name": "Numbers 10:24",
+            "text": "Et in tribu Benjamin erat dux Abidan filius Gedeonis. "
+        },
+        {
+            "chapter": 10,
+            "verse": 25,
+            "name": "Numbers 10:25",
+            "text": "Novissimi castrorum omnium profecti sunt filii Dan per turmas suas, in quorum exercitu princeps fuit Ahiezer filius Ammisaddai. "
+        },
+        {
+            "chapter": 10,
+            "verse": 26,
+            "name": "Numbers 10:26",
+            "text": "In tribu autem filiorum Aser erat princeps Phegiel filius Ochran. "
+        },
+        {
+            "chapter": 10,
+            "verse": 27,
+            "name": "Numbers 10:27",
+            "text": "Et in tribu filiorum Nephthali princeps fuit Ahira filius Enan. "
+        },
+        {
+            "chapter": 10,
+            "verse": 28,
+            "name": "Numbers 10:28",
+            "text": "Hæc sunt castra, et profectiones filiorum Israël per turmas suas quando egrediebantur.  "
+        },
+        {
+            "chapter": 10,
+            "verse": 29,
+            "name": "Numbers 10:29",
+            "text": " Dixitque Moyses Hobab filio Raguel Madianitæ, cognato suo : Proficiscimur ad locum quem Dominus daturus est nobis : veni nobiscum, ut benefaciamus tibi, quia Dominus bona promisit Israëli. "
+        },
+        {
+            "chapter": 10,
+            "verse": 30,
+            "name": "Numbers 10:30",
+            "text": "Cui ille respondit : Non vadam tecum, sed revertar in terram meam, in qua natus sum. "
+        },
+        {
+            "chapter": 10,
+            "verse": 31,
+            "name": "Numbers 10:31",
+            "text": "Et ille : Noli, inquit, nos relinquere : tu enim nosti in quibus locis per desertum castra ponere debeamus, et eris ductor noster. "
+        },
+        {
+            "chapter": 10,
+            "verse": 32,
+            "name": "Numbers 10:32",
+            "text": "Cumque nobiscum veneris, quidquid optimum fuerit ex opibus, quas nobis traditurus est Dominus, dabimus tibi. "
+        },
+        {
+            "chapter": 10,
+            "verse": 33,
+            "name": "Numbers 10:33",
+            "text": "Profecti sunt ergo de monte Domini viam trium dierum, arcaque fœderis Domini præcedebat eos, per dies tres providens castrorum locum. "
+        },
+        {
+            "chapter": 10,
+            "verse": 34,
+            "name": "Numbers 10:34",
+            "text": "Nubes quoque Domini super eos erat per diem cum incederent. "
+        },
+        {
+            "chapter": 10,
+            "verse": 35,
+            "name": "Numbers 10:35",
+            "text": "Cumque elevaretur arca, dicebat Moyses : Surge, Domine, et dissipentur inimici tui, et fugiant qui oderunt te, a facie tua. "
+        },
+        {
+            "chapter": 10,
+            "verse": 36,
+            "name": "Numbers 10:36",
+            "text": "Cum autem deponeretur, aiebat : Revertere, Domine, ad multitudinem exercitus Israël.   "
+        }
+    ]
+}

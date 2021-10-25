@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 115,
+    "name": "Psalms 115",
+    "verses": [
+        {
+            "chapter": 115,
+            "verse": 1,
+            "name": "Psalms 115:1",
+            "text": "Alleluja.   Credidi, propter quod locutus sum ;  ego autem humiliatus sum nimis. "
+        },
+        {
+            "chapter": 115,
+            "verse": 2,
+            "name": "Psalms 115:2",
+            "text": " Ego dixi in excessu meo :  Omnis homo mendax. "
+        },
+        {
+            "chapter": 115,
+            "verse": 3,
+            "name": "Psalms 115:3",
+            "text": " Quid retribuam Domino  pro omnibus quæ retribuit mihi ? "
+        },
+        {
+            "chapter": 115,
+            "verse": 4,
+            "name": "Psalms 115:4",
+            "text": " Calicem salutaris accipiam,  et nomen Domini invocabo. "
+        },
+        {
+            "chapter": 115,
+            "verse": 5,
+            "name": "Psalms 115:5",
+            "text": " Vota mea Domino reddam  coram omni populo ejus. "
+        },
+        {
+            "chapter": 115,
+            "verse": 6,
+            "name": "Psalms 115:6",
+            "text": " Pretiosa in conspectu Domini  mors sanctorum ejus. "
+        },
+        {
+            "chapter": 115,
+            "verse": 7,
+            "name": "Psalms 115:7",
+            "text": " O Domine, quia ego servus tuus ;  ego servus tuus, et filius ancillæ tuæ.  Dirupisti vincula mea : "
+        },
+        {
+            "chapter": 115,
+            "verse": 8,
+            "name": "Psalms 115:8",
+            "text": " tibi sacrificabo hostiam laudis,  et nomen Domini invocabo. "
+        },
+        {
+            "chapter": 115,
+            "verse": 9,
+            "name": "Psalms 115:9",
+            "text": " Vota mea Domino reddam  in conspectu omnis populi ejus ; "
+        },
+        {
+            "chapter": 115,
+            "verse": 10,
+            "name": "Psalms 115:10",
+            "text": " in atriis domus Domini,  in medio tui, Jerusalem.  "
+        }
+    ]
+}

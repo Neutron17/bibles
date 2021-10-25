@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 58,
+    "book_name": "Hebrews",
+    "chapter": 1,
+    "name": "Hebrews 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Hebrews 1:1",
+            "text": "Multifariam, multisque modis olim Deus loquens patribus in prophetis : "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Hebrews 1:2",
+            "text": "novissime, diebus istis locutus est nobis in Filio, quem constituit hæredem universorum, per quem fecit et sæcula : "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Hebrews 1:3",
+            "text": "qui cum sit splendor gloriæ, et figura substantiæ ejus, portansque omnia verbo virtutis suæ, purgationem peccatorum faciens, sedet ad dexteram majestatis in excelsis : "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Hebrews 1:4",
+            "text": "tanto melior angelis effectus, quanto differentius præ illis nomen hæreditavit. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Hebrews 1:5",
+            "text": "Cui enim dixit aliquando angelorum : Filius meus es tu, ego hodie genui te ? Et rursum : Ego ero illi in patrem, et ipse erit mihi in filium ? "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Hebrews 1:6",
+            "text": "Et cum iterum introducit primogenitum in orbem terræ, dicit : Et adorent eum omnes angeli Dei. "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Hebrews 1:7",
+            "text": "Et ad angelos quidem dicit : Qui facit angelos suos spiritus, et ministros suos flammam ignis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Hebrews 1:8",
+            "text": "Ad Filium autem : Thronus tuus Deus in sæculum sæculi : virga æquitatis, virga regni tui. "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Hebrews 1:9",
+            "text": "Dilexisti justitiam, et odisti iniquitatem : propterea unxit te Deus, Deus tuus, oleo exultationis præ participibus tuis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Hebrews 1:10",
+            "text": "Et : Tu in principio, Domine, terram fundasti : et opera manuum tuarum sunt cæli. "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Hebrews 1:11",
+            "text": "Ipsi peribunt, tu autem permanebis, et omnes ut vestimentum veterascent : "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Hebrews 1:12",
+            "text": "et velut amictum mutabis eos, et mutabuntur : tu autem idem ipse es, et anni tui non deficient. "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Hebrews 1:13",
+            "text": "Ad quem autem angelorum dixit aliquando : Sede a dextris meis, quoadusque ponam inimicos tuos scabellum pedum tuorum ? "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Hebrews 1:14",
+            "text": "Nonne omnes sunt administratorii spiritus, in ministerium missi propter eos, qui hæreditatem capient salutis ?   "
+        }
+    ]
+}

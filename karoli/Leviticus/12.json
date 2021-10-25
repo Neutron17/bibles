@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 3,
+    "book_name": "Leviticus",
+    "chapter": 12,
+    "name": "Leviticus 12",
+    "verses": [
+        {
+            "chapter": 12,
+            "verse": 1,
+            "name": "Leviticus 12:1",
+            "text": " Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "name": "Leviticus 12:2",
+            "text": "Szólj Izráel fiainak, mondván: Ha az asszony lebetegszik, és fiat szül, tisztátalan legyen hét napig; az ő havi betegségének ideje szerint legyen tisztátalan."
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "name": "Leviticus 12:3",
+            "text": "A nyolczadik napon pedig metéljék körül a fiú férfitestének bőrét. "
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "name": "Leviticus 12:4",
+            "text": "Azután harminczhárom napig maradjon otthon a vértől való tisztulás miatt; semmi szent dolgot ne illessen, a szent helyre se menjen be, míg el nem telnek az ő tisztulásának napjai."
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "name": "Leviticus 12:5",
+            "text": "Ha pedig leányt szül, két hétig legyen tisztátalan, mint havi betegségekor, és hatvanhat napig maradjon otthon a vértől való tisztulása végett."
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "name": "Leviticus 12:6",
+            "text": "Mikor pedig letelnek az ő tisztulásának napjai, fiú miatt vagy leány miatt, hozzon egészen égőáldozatul esztendős bárányt, galambfiat vagy gerliczét bűnért való áldozatul, a gyülekezet sátorának nyílása elé a paphoz."
+        },
+        {
+            "chapter": 12,
+            "verse": 7,
+            "name": "Leviticus 12:7",
+            "text": "És áldozza meg azt az Úr előtt; és szerezzen néki engesztelést; így lesz tisztává az ő vérfolyása után. Ez a törvénye a fiút vagy leányt szülő asszonynak."
+        },
+        {
+            "chapter": 12,
+            "verse": 8,
+            "name": "Leviticus 12:8",
+            "text": "Ha pedig nincs elég módja bárányhoz, vigyen két gerliczét vagy két galambfiat, egyiket egészen égőáldozatul, a másikat bűnért való áldozatul, és szerezzen néki engesztelést a pap, és tiszta lesz.  "
+        }
+    ]
+}

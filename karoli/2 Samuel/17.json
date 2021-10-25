@@ -1,0 +1,188 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 10,
+    "book_name": "2 Samuel",
+    "chapter": 17,
+    "name": "2 Samuel 17",
+    "verses": [
+        {
+            "chapter": 17,
+            "verse": 1,
+            "name": "2 Samuel 17:1",
+            "text": " Monda azért Akhitófel Absolonnak: Engedj kiválasztanom tizenkétezer embert, hogy felkeljek, és üldözzem Dávidot ez éjjel. "
+        },
+        {
+            "chapter": 17,
+            "verse": 2,
+            "name": "2 Samuel 17:2",
+            "text": "És megtámadom őt, míg fáradt és erőtlen kezű; megrettentem őt, és megfutamodik az egész nép, mely vele van; és a királyt magát megölöm. "
+        },
+        {
+            "chapter": 17,
+            "verse": 3,
+            "name": "2 Samuel 17:3",
+            "text": "És visszavezetem te hozzád az egész népet, mert az egésznek visszatérése attól a férfiútól függ, a kit te üldözöl; és akkor az egész nép békességben lesz."
+        },
+        {
+            "chapter": 17,
+            "verse": 4,
+            "name": "2 Samuel 17:4",
+            "text": "Igen tetszék e beszéd Absolonnak és Izráel minden véneinek."
+        },
+        {
+            "chapter": 17,
+            "verse": 5,
+            "name": "2 Samuel 17:5",
+            "text": "És monda Absolon: Hívják ide mégis az Arkeabeli Khúsait is, és hallgassuk meg, mit szól ő is. "
+        },
+        {
+            "chapter": 17,
+            "verse": 6,
+            "name": "2 Samuel 17:6",
+            "text": "És mikor megérkezék Khúsai Absolonhoz, monda néki Absolon ilyenképen: Akhitófel ilyen tanácsot ád, megfogadjuk-é az ő szavát, vagy ne? Szólj hozzá."
+        },
+        {
+            "chapter": 17,
+            "verse": 7,
+            "name": "2 Samuel 17:7",
+            "text": "Monda akkor Khúsai Absolonnak: Nem jó tanács az, a melyet Akhitófel ez egyszer adott. "
+        },
+        {
+            "chapter": 17,
+            "verse": 8,
+            "name": "2 Samuel 17:8",
+            "text": "És monda Khúsai: Tudod magad, hogy a te atyád és az ő emberei igen erős vitézek és igen elkeseredett szívűek, mint a kölykeitől megfosztott medve a mezőn. Annakfelette a te atyád igen hadakozó ember, ki nem alszik a néppel együtt. "
+        },
+        {
+            "chapter": 17,
+            "verse": 9,
+            "name": "2 Samuel 17:9",
+            "text": "Ilyenkor ő valami barlangban lappang, vagy valami más helyen, és meglehet, hogy mindjárt kezdetben elesvén némelyek közülök, valaki meghallja, és azt kezdi mondani: Megveretett az Absolon népe."
+        },
+        {
+            "chapter": 17,
+            "verse": 10,
+            "name": "2 Samuel 17:10",
+            "text": "És még az erős vitéz is, kinek szíve olyan, mint az oroszlánnak szíve, igen megrémül; mert az egész Izráel tudja, hogy a te atyád igen erős vitéz, és azok is, a kik vele vannak, erős vitézek."
+        },
+        {
+            "chapter": 17,
+            "verse": 11,
+            "name": "2 Samuel 17:11",
+            "text": "Én azért azt tanácsolom, hogy gyűjtsd magadhoz az egész Izráelt Dántól fogva mind Bersebáig, oly számban, mint a tenger partján való föveny; és magad is menj el a hadba."
+        },
+        {
+            "chapter": 17,
+            "verse": 12,
+            "name": "2 Samuel 17:12",
+            "text": "Akkor aztán támadjuk meg őt azon a helyen, a hol található, és úgy lepjük meg őt, miként a harmat a földre esik, hogy se közüle, se azok közül, a kik vele vannak, egy se maradjon meg."
+        },
+        {
+            "chapter": 17,
+            "verse": 13,
+            "name": "2 Samuel 17:13",
+            "text": "Ha pedig városba szaladna, mind az egész Izráel köteleket húzzon a város körül, és vonjuk azt a patakba, hogy még csak egy kövecskét se találjanak ott."
+        },
+        {
+            "chapter": 17,
+            "verse": 14,
+            "name": "2 Samuel 17:14",
+            "text": "És monda Absolon és Izráelnek minden férfia: Jobb az Arkeabeli Khúsainak tanácsa az Akhitófel tanácsánál. Az Úr parancsolta vala pedig, hogy az Akhitófel tanácsa elvettessék, mely jó vala, hogy veszedelmet hozzon az Úr Absolonra. "
+        },
+        {
+            "chapter": 17,
+            "verse": 15,
+            "name": "2 Samuel 17:15",
+            "text": "Monda pedig Khúsai Sádók és Abjátár papoknak: Ilyen s ilyen tanácsot adott Akhitófel Absolonnak és Izráel véneinek; én pedig ilyen s ilyen tanácsot adtam. "
+        },
+        {
+            "chapter": 17,
+            "verse": 16,
+            "name": "2 Samuel 17:16",
+            "text": "Azért sietve küldjetek el, és izenjétek meg Dávidnak ilyen szóval: Ne maradj ez éjjel a pusztának mezején, hanem inkább menj át, hogy valamiképen el ne nyelettessék a király és az egész nép, mely vele van. "
+        },
+        {
+            "chapter": 17,
+            "verse": 17,
+            "name": "2 Samuel 17:17",
+            "text": "Jonathán pedig és Akhimás a Rógel forrásánál állanak vala, a hová méne egy leányzó, ki megmondá ezeket nékik, és ők elmenvén, megmondák Dávid királynak, mert nem akarják vala magokat megmutatni, bemenvén a városba. "
+        },
+        {
+            "chapter": 17,
+            "verse": 18,
+            "name": "2 Samuel 17:18",
+            "text": "Meglátá mindazáltal őket egy szolga, és megmondá Absolonnak: Elmenének azért ők ketten sietséggel, és menének egy ember házába Bahurim városában, kinek tornáczában volt egy kút, és oda szállának alá. "
+        },
+        {
+            "chapter": 17,
+            "verse": 19,
+            "name": "2 Samuel 17:19",
+            "text": "Az asszony pedig egy terítőt vőn és beteríté a kút száját, arra pedig darált árpát hintett; és nem vevék észre."
+        },
+        {
+            "chapter": 17,
+            "verse": 20,
+            "name": "2 Samuel 17:20",
+            "text": "Menének pedig az Absolon szolgái az asszonyhoz a házba, és mondának: Hol van Akhimás és Jonathán? Felele nékik az asszony: Általgázolának a patakon. És keresék őket, de mivel nem találták, visszatérének Jeruzsálembe."
+        },
+        {
+            "chapter": 17,
+            "verse": 21,
+            "name": "2 Samuel 17:21",
+            "text": "Mikor pedig elmentek, kijövének a kútból, és elmenvén, megmondák ezeket Dávid királynak, és mondának Dávidnak: Keljetek fel és menjetek által gyorsan a vizen; mert ilyen tanácsot adott ti ellenetek Akhitófel. "
+        },
+        {
+            "chapter": 17,
+            "verse": 22,
+            "name": "2 Samuel 17:22",
+            "text": "Felkele azért Dávid és mind a vele való nép, és általkelének a Jordánon, míg megvirrada; egy sem hiányzék, a ki által nem ment volna a Jordánon. "
+        },
+        {
+            "chapter": 17,
+            "verse": 23,
+            "name": "2 Samuel 17:23",
+            "text": "Látván pedig Akhitófel, hogy az ő tanácsát nem hajtották végre: megnyergelé szamarát, és felkelvén elméne házához, az ő városába; és elrendezvén háznépének dolgát, megfojtá magát, és meghala; és eltemetteték az ő atyjának sírjába. "
+        },
+        {
+            "chapter": 17,
+            "verse": 24,
+            "name": "2 Samuel 17:24",
+            "text": "És midőn Dávid Mahanáimba érkezett, átkele Absolon a Jordánon, ő és Izráelnek férfiai mindnyájan ő vele."
+        },
+        {
+            "chapter": 17,
+            "verse": 25,
+            "name": "2 Samuel 17:25",
+            "text": "És Amasát tevé Absolon fővezérré a sereg felett Joáb helyett. Amasa pedig egy férfi fia vala, a kinek a neve az Izráelita Jithra vala, a ki beméne Abigailhoz, a Náhás leányához, ki Sérujának, a Joáb anyjának nővére vala. "
+        },
+        {
+            "chapter": 17,
+            "verse": 26,
+            "name": "2 Samuel 17:26",
+            "text": "És tábort jára Izráel és Absolon a Gileád földén."
+        },
+        {
+            "chapter": 17,
+            "verse": 27,
+            "name": "2 Samuel 17:27",
+            "text": "Lőn pedig, hogy mikor Dávid Mahanáimba jutott, ímé Sóbi, az Ammoniták városából, Rabbából való Náhásnak fia, és a Ló-Debár városból való Ammielnek fia, Mákir, és a Gileád tartományában, Rógelimban lakozó Barzillai. "
+        },
+        {
+            "chapter": 17,
+            "verse": 28,
+            "name": "2 Samuel 17:28",
+            "text": "Ágyneműt, medenczéket és cserépedényeket, búzát, árpát, lisztet, pergelt búzát, babot, lencsét, pergelt árpát,"
+        },
+        {
+            "chapter": 17,
+            "verse": 29,
+            "name": "2 Samuel 17:29",
+            "text": "Mézet, vajat, juhot, ünősajtokat hozának Dávidnak és az ő vele való népnek eleségül. Mert azt gondolják vala magokban: A nép éhes, fáradt és eltikkadt a pusztában.   "
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 60,
+    "name": "Psalms 60",
+    "verses": [
+        {
+            "chapter": 60,
+            "verse": 1,
+            "name": "Psalms 60:1",
+            "text": "In finem. In hymnis David.  "
+        },
+        {
+            "chapter": 60,
+            "verse": 2,
+            "name": "Psalms 60:2",
+            "text": "  Exaudi, Deus, deprecationem meam ;  intende orationi meæ. "
+        },
+        {
+            "chapter": 60,
+            "verse": 3,
+            "name": "Psalms 60:3",
+            "text": " A finibus terræ ad te clamavi, dum anxiaretur cor meum ;  in petra exaltasti me.  Deduxisti me, "
+        },
+        {
+            "chapter": 60,
+            "verse": 4,
+            "name": "Psalms 60:4",
+            "text": "quia factus es spes mea :  turris fortitudinis a facie inimici. "
+        },
+        {
+            "chapter": 60,
+            "verse": 5,
+            "name": "Psalms 60:5",
+            "text": " Inhabitabo in tabernaculo tuo in sæcula ;  protegar in velamento alarum tuarum. "
+        },
+        {
+            "chapter": 60,
+            "verse": 6,
+            "name": "Psalms 60:6",
+            "text": " Quoniam tu, Deus meus, exaudisti orationem meam ;  dedisti hæreditatem timentibus nomen tuum. "
+        },
+        {
+            "chapter": 60,
+            "verse": 7,
+            "name": "Psalms 60:7",
+            "text": " Dies super dies regis adjicies ;  annos ejus usque in diem generationis et generationis. "
+        },
+        {
+            "chapter": 60,
+            "verse": 8,
+            "name": "Psalms 60:8",
+            "text": " Permanet in æternum in conspectu Dei :  misericordiam et veritatem ejus quis requiret ? "
+        },
+        {
+            "chapter": 60,
+            "verse": 9,
+            "name": "Psalms 60:9",
+            "text": " Sic psalmum dicam nomini tuo in sæculum sæculi,  ut reddam vota mea de die in diem.  "
+        }
+    ]
+}

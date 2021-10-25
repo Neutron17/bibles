@@ -1,0 +1,80 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 64,
+    "name": "Psalms 64",
+    "verses": [
+        {
+            "chapter": 64,
+            "verse": 1,
+            "name": "Psalms 64:1",
+            "text": " Az éneklőmesternek; Dávid zsoltára. "
+        },
+        {
+            "chapter": 64,
+            "verse": 2,
+            "name": "Psalms 64:2",
+            "text": "Hallgasd meg, Isten, az én szómat, mikor panaszkodom; az ellenségtől való félelemtől mentsd meg éltemet."
+        },
+        {
+            "chapter": 64,
+            "verse": 3,
+            "name": "Psalms 64:3",
+            "text": "Rejts el engem a rosszakaróknak tanácsa elől, a gonosztevőknek gyülekezetétől."
+        },
+        {
+            "chapter": 64,
+            "verse": 4,
+            "name": "Psalms 64:4",
+            "text": "A kik megélesítik nyelvöket, mint a szablyát; irányozzák nyilokat, keserű beszédöket. "
+        },
+        {
+            "chapter": 64,
+            "verse": 5,
+            "name": "Psalms 64:5",
+            "text": "Hogy lövöldözzék titkon az ártatlant; nagy hirtelenséggel lövöldözik azt, és nem félnek. "
+        },
+        {
+            "chapter": 64,
+            "verse": 6,
+            "name": "Psalms 64:6",
+            "text": "Megátalkodottak gonosz szándékukban; megegyeztek, hogy tőrt vetnek titkon, mondják: ki látja őket? "
+        },
+        {
+            "chapter": 64,
+            "verse": 7,
+            "name": "Psalms 64:7",
+            "text": "Álnokságokat koholnak; a kikoholt tervet végrehajták; mindenikök keble és szíve kikutathatatlan. "
+        },
+        {
+            "chapter": 64,
+            "verse": 8,
+            "name": "Psalms 64:8",
+            "text": "De meglövi őket az Isten; hirtelen nyíl üt rajtok sebet. "
+        },
+        {
+            "chapter": 64,
+            "verse": 9,
+            "name": "Psalms 64:9",
+            "text": "És megejtik őket, a nyelvök lesz ellenök; iszonyodik mindenki, a ki őket látja."
+        },
+        {
+            "chapter": 64,
+            "verse": 10,
+            "name": "Psalms 64:10",
+            "text": "Akkor megfélemlenek mind az emberek; hirdetni fogják Istennek dolgát, és megértik cselekedetét. "
+        },
+        {
+            "chapter": 64,
+            "verse": 11,
+            "name": "Psalms 64:11",
+            "text": "Örvendeni fog az igaz Istenben, és hozzá menekül; és dicsekedni fognak minden egyenesszívűek.   "
+        }
+    ]
+}

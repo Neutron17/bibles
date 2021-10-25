@@ -1,0 +1,194 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 3,
+    "book_name": "Leviticus",
+    "chapter": 18,
+    "name": "Leviticus 18",
+    "verses": [
+        {
+            "chapter": 18,
+            "verse": 1,
+            "name": "Leviticus 18:1",
+            "text": "Locutus est Dominus ad Moysen, dicens : "
+        },
+        {
+            "chapter": 18,
+            "verse": 2,
+            "name": "Leviticus 18:2",
+            "text": "Loquere filiis Israël, et dices ad eos : Ego Dominus Deus vester : "
+        },
+        {
+            "chapter": 18,
+            "verse": 3,
+            "name": "Leviticus 18:3",
+            "text": "juxta consuetudinem terræ Ægypti, in qua habitastis, non facietis : et juxta morem regionis Chanaan, ad quam ego introducturus sum vos, non agetis, nec in legitimis eorum ambulabitis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 4,
+            "name": "Leviticus 18:4",
+            "text": "Facietis judicia mea, et præcepta mea servabitis, et ambulabitis in eis. Ego Dominus Deus vester. "
+        },
+        {
+            "chapter": 18,
+            "verse": 5,
+            "name": "Leviticus 18:5",
+            "text": "Custodite leges meas atque judicia, quæ faciens homo, vivet in eis. Ego Dominus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 6,
+            "name": "Leviticus 18:6",
+            "text": "Omnis homo ad proximam sanguinis sui non accedet, ut revelet turpitudinem ejus. Ego Dominus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 7,
+            "name": "Leviticus 18:7",
+            "text": "Turpitudinem patris tui et turpitudinem matris tuæ non discooperies : mater tua est : non revelabis turpitudinem ejus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 8,
+            "name": "Leviticus 18:8",
+            "text": "Turpitudinem uxoris patris tui non discooperies : turpitudo enim patris tui est. "
+        },
+        {
+            "chapter": 18,
+            "verse": 9,
+            "name": "Leviticus 18:9",
+            "text": "Turpitudinem sororis tuæ ex patre sive ex matre, quæ domi vel foris genita est, non revelabis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 10,
+            "name": "Leviticus 18:10",
+            "text": "Turpitudinem filiæ filii tui vel neptis ex filia non revelabis : quia turpitudo tua est. "
+        },
+        {
+            "chapter": 18,
+            "verse": 11,
+            "name": "Leviticus 18:11",
+            "text": "Turpitudinem filiæ uxoris patris tui, quam peperit patri tuo, et est soror tua, non revelabis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 12,
+            "name": "Leviticus 18:12",
+            "text": "Turpitudinem sororis patris tui non discooperies : quia caro est patris tui. "
+        },
+        {
+            "chapter": 18,
+            "verse": 13,
+            "name": "Leviticus 18:13",
+            "text": "Turpitudinem sororis matris tuæ non revelabis, eo quod caro sit matris tuæ. "
+        },
+        {
+            "chapter": 18,
+            "verse": 14,
+            "name": "Leviticus 18:14",
+            "text": "Turpitudinem patrui tui non revelabis, nec accedes ad uxorem ejus, quæ tibi affinitate conjungitur. "
+        },
+        {
+            "chapter": 18,
+            "verse": 15,
+            "name": "Leviticus 18:15",
+            "text": "Turpitudinem nurus tuæ non revelabis, quia uxor filii tui est : nec discooperies ignominiam ejus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 16,
+            "name": "Leviticus 18:16",
+            "text": "Turpitudinem uxoris fratris tui non revelabis : quia turpitudo fratris tui est. "
+        },
+        {
+            "chapter": 18,
+            "verse": 17,
+            "name": "Leviticus 18:17",
+            "text": "Turpitudinem uxoris tuæ et filiæ ejus non revelabis. Filiam filii ejus, et filiam filiæ illius non sumes, ut reveles ignominiam ejus : quia caro illius sunt, et talis coitus incestus est. "
+        },
+        {
+            "chapter": 18,
+            "verse": 18,
+            "name": "Leviticus 18:18",
+            "text": "Sororem uxoris tuæ in pellicatum illius non accipies, nec revelabis turpitudinem ejus adhuc illa vivente.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 19,
+            "name": "Leviticus 18:19",
+            "text": " Ad mulierem quæ patitur menstrua non accedes, nec revelabis fœditatem ejus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 20,
+            "name": "Leviticus 18:20",
+            "text": "Cum uxore proximi tui non coibis, nec seminis commistione maculaberis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 21,
+            "name": "Leviticus 18:21",
+            "text": "De semine tuo non dabis ut consecretur idolo Moloch, nec pollues nomen Dei tui. Ego Dominus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 22,
+            "name": "Leviticus 18:22",
+            "text": "Cum masculo non commiscearis coitu femineo, quia abominatio est. "
+        },
+        {
+            "chapter": 18,
+            "verse": 23,
+            "name": "Leviticus 18:23",
+            "text": "Cum omni pecore non coibis, nec maculaberis cum eo. Mulier non succumbet jumento, nec miscebitur ei, quia scelus est. "
+        },
+        {
+            "chapter": 18,
+            "verse": 24,
+            "name": "Leviticus 18:24",
+            "text": "Nec polluamini in omnibus his quibus contaminatæ sunt universæ gentes, quas ego ejiciam ante conspectum vestrum, "
+        },
+        {
+            "chapter": 18,
+            "verse": 25,
+            "name": "Leviticus 18:25",
+            "text": "et quibus polluta est terra : cujus ego scelera visitabo, ut evomat habitatores suos. "
+        },
+        {
+            "chapter": 18,
+            "verse": 26,
+            "name": "Leviticus 18:26",
+            "text": "Custodite legitima mea atque judicia, et non faciatis ex omnibus abominationibus istis, tam indigena quam colonus qui peregrinantur apud vos. "
+        },
+        {
+            "chapter": 18,
+            "verse": 27,
+            "name": "Leviticus 18:27",
+            "text": "Omnes enim execrationes istas fecerunt accolæ terræ qui fuerunt ante vos, et polluerunt eam. "
+        },
+        {
+            "chapter": 18,
+            "verse": 28,
+            "name": "Leviticus 18:28",
+            "text": "Cavete ergo ne et vos similiter evomat, cum paria feceritis, sicut evomuit gentem, quæ fuit ante vos. "
+        },
+        {
+            "chapter": 18,
+            "verse": 29,
+            "name": "Leviticus 18:29",
+            "text": "Omnis anima, quæ fecerit de abominationibus his quippiam, peribit de medio populi sui. "
+        },
+        {
+            "chapter": 18,
+            "verse": 30,
+            "name": "Leviticus 18:30",
+            "text": "Custodite mandata mea. Nolite facere quæ fecerunt hi qui fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester.   "
+        }
+    ]
+}

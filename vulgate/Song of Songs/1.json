@@ -1,0 +1,110 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 22,
+    "book_name": "Song of Songs",
+    "chapter": 1,
+    "name": "Song of Songs 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Song of Songs 1:1",
+            "text": "Osculetur me osculo oris sui ;  quia meliora sunt ubera tua vino, "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Song of Songs 1:2",
+            "text": " fragrantia unguentis optimis.  Oleum effusum nomen tuum ;  ideo adolescentulæ dilexerunt te.   "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Song of Songs 1:3",
+            "text": "   Trahe me, post te curremus  in odorem unguentorum tuorum.  Introduxit me rex in cellaria sua ;  exsultabimus et lætabimur in te,  memores uberum tuorum super vinum.  Recti diligunt te.   "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Song of Songs 1:4",
+            "text": "   Nigra sum, sed formosa, filiæ Jerusalem,  sicut tabernacula Cedar, sicut pelles Salomonis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Song of Songs 1:5",
+            "text": " Nolite me considerare quod fusca sim,  quia decoloravit me sol.  Filii matris meæ pugnaverunt contra me ;  posuerunt me custodem in vineis :  vineam meam non custodivi. "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Song of Songs 1:6",
+            "text": " Indica mihi, quem diligit anima mea, ubi pascas,  ubi cubes in meridie,  ne vagari incipiam post greges sodalium tuorum.   "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Song of Songs 1:7",
+            "text": "   Si ignoras te, o pulcherrima inter mulieres,  egredere, et abi post vestigia gregum,  et pasce hædos tuos juxta tabernacula pastorum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Song of Songs 1:8",
+            "text": " Equitatui meo in curribus Pharaonis  assimilavi te, amica mea. "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Song of Songs 1:9",
+            "text": " Pulchræ sunt genæ tuæ sicut turturis ;  collum tuum sicut monilia. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Song of Songs 1:10",
+            "text": " Murenulas aureas faciemus tibi,  vermiculatas argento.   "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Song of Songs 1:11",
+            "text": "   Dum esset rex in accubitu suo,  nardus mea dedit odorem suum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Song of Songs 1:12",
+            "text": " Fasciculus myrrhæ dilectus meus mihi ;  inter ubera mea commorabitur. "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Song of Songs 1:13",
+            "text": " Botrus cypri dilectus meus mihi  in vineis Engaddi.   "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Song of Songs 1:14",
+            "text": "   Ecce tu pulchra es, amica mea ! ecce tu pulchra es !  Oculi tui columbarum.   "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Song of Songs 1:15",
+            "text": "   Ecce tu pulcher es, dilecte mi, et decorus !  Lectulus noster floridus. "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Song of Songs 1:16",
+            "text": " Tigna domorum nostrarum cedrina,  laquearia nostra cypressina.  "
+        }
+    ]
+}

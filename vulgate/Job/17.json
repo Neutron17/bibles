@@ -1,0 +1,110 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 18,
+    "book_name": "Job",
+    "chapter": 17,
+    "name": "Job 17",
+    "verses": [
+        {
+            "chapter": 17,
+            "verse": 1,
+            "name": "Job 17:1",
+            "text": "Spiritus meus attenuabitur ;  dies mei breviabuntur :  et solum mihi superest sepulchrum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 2,
+            "name": "Job 17:2",
+            "text": " Non peccavi,  et in amaritudinibus moratur oculus meus. "
+        },
+        {
+            "chapter": 17,
+            "verse": 3,
+            "name": "Job 17:3",
+            "text": " Libera me, Domine, et pone me juxta te,  et cujusvis manus pugnet contra me. "
+        },
+        {
+            "chapter": 17,
+            "verse": 4,
+            "name": "Job 17:4",
+            "text": " Cor eorum longe fecisti a disciplina :  propterea non exaltabuntur. "
+        },
+        {
+            "chapter": 17,
+            "verse": 5,
+            "name": "Job 17:5",
+            "text": " Prædam pollicetur sociis,  et oculi filiorum ejus deficient. "
+        },
+        {
+            "chapter": 17,
+            "verse": 6,
+            "name": "Job 17:6",
+            "text": " Posuit me quasi in proverbium vulgi,  et exemplum sum coram eis. "
+        },
+        {
+            "chapter": 17,
+            "verse": 7,
+            "name": "Job 17:7",
+            "text": " Caligavit ab indignatione oculus meus,  et membra mea quasi in nihilum redacta sunt. "
+        },
+        {
+            "chapter": 17,
+            "verse": 8,
+            "name": "Job 17:8",
+            "text": " Stupebunt justi super hoc,  et innocens contra hypocritam suscitabitur. "
+        },
+        {
+            "chapter": 17,
+            "verse": 9,
+            "name": "Job 17:9",
+            "text": " Et tenebit justus viam suam,  et mundis manibus addet fortitudinem. "
+        },
+        {
+            "chapter": 17,
+            "verse": 10,
+            "name": "Job 17:10",
+            "text": " Igitur omnes vos convertimini, et venite,  et non inveniam in vobis ullum sapientem. "
+        },
+        {
+            "chapter": 17,
+            "verse": 11,
+            "name": "Job 17:11",
+            "text": " Dies mei transierunt ;  cogitationes meæ dissipatæ sunt,  torquentes cor meum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 12,
+            "name": "Job 17:12",
+            "text": " Noctem verterunt in diem,  et rursum post tenebras spero lucem. "
+        },
+        {
+            "chapter": 17,
+            "verse": 13,
+            "name": "Job 17:13",
+            "text": " Si sustinuero, infernus domus mea est,  et in tenebris stravi lectulum meum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 14,
+            "name": "Job 17:14",
+            "text": " Putredini dixi : Pater meus es ;  Mater mea, et soror mea, vermibus. "
+        },
+        {
+            "chapter": 17,
+            "verse": 15,
+            "name": "Job 17:15",
+            "text": " Ubi est ergo nunc præstolatio mea ?  et patientiam meam quis considerat ? "
+        },
+        {
+            "chapter": 17,
+            "verse": 16,
+            "name": "Job 17:16",
+            "text": " In profundissimum infernum descendent omnia mea :  putasne saltem ibi erit requies mihi ?  "
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 5,
+    "name": "Psalms 5",
+    "verses": [
+        {
+            "chapter": 5,
+            "verse": 1,
+            "name": "Psalms 5:1",
+            "text": "In finem, pro ea quæ hæreditatem consequitur. Psalmus David.  "
+        },
+        {
+            "chapter": 5,
+            "verse": 2,
+            "name": "Psalms 5:2",
+            "text": "  Verba mea auribus percipe, Domine ;  intellige clamorem meum. "
+        },
+        {
+            "chapter": 5,
+            "verse": 3,
+            "name": "Psalms 5:3",
+            "text": " Intende voci orationis meæ,  rex meus et Deus meus. "
+        },
+        {
+            "chapter": 5,
+            "verse": 4,
+            "name": "Psalms 5:4",
+            "text": " Quoniam ad te orabo, Domine :  mane exaudies vocem meam. "
+        },
+        {
+            "chapter": 5,
+            "verse": 5,
+            "name": "Psalms 5:5",
+            "text": " Mane astabo tibi, et videbo  quoniam non Deus volens iniquitatem tu es. "
+        },
+        {
+            "chapter": 5,
+            "verse": 6,
+            "name": "Psalms 5:6",
+            "text": " Neque habitabit juxta te malignus,  neque permanebunt injusti ante oculos tuos. "
+        },
+        {
+            "chapter": 5,
+            "verse": 7,
+            "name": "Psalms 5:7",
+            "text": " Odisti omnes qui operantur iniquitatem ;  perdes omnes qui loquuntur mendacium.  Virum sanguinum et dolosum abominabitur Dominus. "
+        },
+        {
+            "chapter": 5,
+            "verse": 8,
+            "name": "Psalms 5:8",
+            "text": " Ego autem in multitudine misericordiæ tuæ  introibo in domum tuam ;  adorabo ad templum sanctum tuum in timore tuo. "
+        },
+        {
+            "chapter": 5,
+            "verse": 9,
+            "name": "Psalms 5:9",
+            "text": " Domine, deduc me in justitia tua :  propter inimicos meos dirige in conspectu tuo viam meam. "
+        },
+        {
+            "chapter": 5,
+            "verse": 10,
+            "name": "Psalms 5:10",
+            "text": " Quoniam non est in ore eorum veritas ;  cor eorum vanum est. "
+        },
+        {
+            "chapter": 5,
+            "verse": 11,
+            "name": "Psalms 5:11",
+            "text": " Sepulchrum patens est guttur eorum ;  linguis suis dolose agebant :  judica illos, Deus.  Decidant a cogitationibus suis ;  secundum multitudinem impietatum eorum expelle eos,  quoniam irritaverunt te, Domine. "
+        },
+        {
+            "chapter": 5,
+            "verse": 12,
+            "name": "Psalms 5:12",
+            "text": " Et lætentur omnes qui sperant in te ;  in æternum exsultabunt, et habitabis in eis.  Et gloriabuntur in te omnes qui diligunt nomen tuum, "
+        },
+        {
+            "chapter": 5,
+            "verse": 13,
+            "name": "Psalms 5:13",
+            "text": " quoniam tu benedices justo.  Domine, ut scuto bonæ voluntatis tuæ coronasti nos.  "
+        }
+    ]
+}

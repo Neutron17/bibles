@@ -1,0 +1,338 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 1,
+    "name": "Numbers 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Numbers 1:1",
+            "text": " Szóla pedig az Úr Mózesnek a Sinai pusztájában, a gyülekezet sátorában, a második hónapnak elsején, az Égyiptom földéből való kijövetelök után a második esztendőben, mondván: "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Numbers 1:2",
+            "text": "Vegyétek számba Izráel fiainak egész gyülekezetét, az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a neveknek száma szerint, minden férfiút főről főre, "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Numbers 1:3",
+            "text": "Húsz esztendőstől fogva és feljebb, mindent, a ki hadba mehet Izráelben; számláljátok meg őket az ő seregök szerint, te és Áron."
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Numbers 1:4",
+            "text": "És legyen veletek egy-egy férfiú mindenik törzsből, mindenik feje legyen az ő atyái házának."
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Numbers 1:5",
+            "text": "Ezek pedig a férfiak nevei, a kik veletek legyenek: Rúbenből Elisúr, Sedeúrnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Numbers 1:6",
+            "text": "Simeonból Selúmiel, Surisaddainak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Numbers 1:7",
+            "text": "Júdából Naasson, Amminádábnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Numbers 1:8",
+            "text": "Izsakhárból Néthánéel, Suárnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Numbers 1:9",
+            "text": "Zebulonból Eliáb, Hélonnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Numbers 1:10",
+            "text": "József fiai közül: Efraimból Elisama, Ammihudnak fia; Manasséból Gámliel, Pédasurnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Numbers 1:11",
+            "text": "Benjáminból Abidán, Gideóni fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Numbers 1:12",
+            "text": "Dánból Ahiézer, Ammisaddai fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Numbers 1:13",
+            "text": "Áserből Págiel, Okránnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Numbers 1:14",
+            "text": "Gádból Eleásaf, Déhuelnek fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Numbers 1:15",
+            "text": "Nafthaliból Akhira, Enánnak fia."
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Numbers 1:16",
+            "text": "Ezek a gyülekezetnek hivatalosai, az ő atyjok törzseinek fejei, Izráel ezereinek is fejei ők."
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "Numbers 1:17",
+            "text": "Maga mellé vevé azért Mózes és Áron e férfiakat, a kik név szerint is előszámláltattak vala."
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "Numbers 1:18",
+            "text": "És összegyüjték az egész gyülekezetet a második hónapnak első napján; és vallást tőnek az ő születésökről, az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendőstől fogva és feljebb főről főre."
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "Numbers 1:19",
+            "text": "A miképen megparancsolta vala az Úr Mózesnek, úgy számlálá meg őket a Sinai pusztájában."
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "Numbers 1:20",
+            "text": "Valának pedig Rúbennek, Izráel elsőszülöttének fiai, azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, főről főre, minden férfiú, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "Numbers 1:21",
+            "text": "A kik megszámláltattak a Rúben törzséből: negyvenhat ezer és ötszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "Numbers 1:22",
+            "text": "Simeon fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, az ő megszámláltjai, a neveknek száma szerint, főről főre, minden férfiú, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 23,
+            "name": "Numbers 1:23",
+            "text": "A kik megszámláltattak Simeon törzséből: ötvenkilencz ezer és háromszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 24,
+            "name": "Numbers 1:24",
+            "text": "Gád fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 25,
+            "name": "Numbers 1:25",
+            "text": "A kik megszámláltattak Gád törzséből: negyvenöt ezer és hatszáz ötven."
+        },
+        {
+            "chapter": 1,
+            "verse": 26,
+            "name": "Numbers 1:26",
+            "text": "Júda fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 27,
+            "name": "Numbers 1:27",
+            "text": "A kik megszámláltattak Júda törzséből: hetvennégy ezer és hatszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 28,
+            "name": "Numbers 1:28",
+            "text": "Izsakhár fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 29,
+            "name": "Numbers 1:29",
+            "text": "A kik megszámláltattak Izsakhár törzséből: ötvennégy ezer és négyszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 30,
+            "name": "Numbers 1:30",
+            "text": "Zebulon fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 31,
+            "name": "Numbers 1:31",
+            "text": "A kik megszámláltattak Zebulon törzséből: ötvenhét ezer és négyszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 32,
+            "name": "Numbers 1:32",
+            "text": "József fiaiból Efraim fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 33,
+            "name": "Numbers 1:33",
+            "text": "A kik megszámláltattak Efraim törzséből: negyvenezer és ötszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 34,
+            "name": "Numbers 1:34",
+            "text": "Manasse fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 35,
+            "name": "Numbers 1:35",
+            "text": "A kik megszámláltattak Manasse törzséből: harminczkét ezer és kétszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 36,
+            "name": "Numbers 1:36",
+            "text": "Benjámin fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 37,
+            "name": "Numbers 1:37",
+            "text": "A kik megszámláltattak Benjámin törzséből: harminczöt ezer és négyszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 38,
+            "name": "Numbers 1:38",
+            "text": "Dán fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 39,
+            "name": "Numbers 1:39",
+            "text": "A kik megszámláltattak Dán törzséből: hatvankét ezer és hétszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 40,
+            "name": "Numbers 1:40",
+            "text": "Áser fiai közül azoknak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 41,
+            "name": "Numbers 1:41",
+            "text": "A kik megszámláltattak Áser törzséből: negyvenegy ezer és ötszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 42,
+            "name": "Numbers 1:42",
+            "text": "A Nafthali fiainak szülöttei az ő nemzetségeik szerint, az ő atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető;"
+        },
+        {
+            "chapter": 1,
+            "verse": 43,
+            "name": "Numbers 1:43",
+            "text": "A kik megszámláltattak a Nafthali törzséből: ötvenhárom ezer és négyszáz."
+        },
+        {
+            "chapter": 1,
+            "verse": 44,
+            "name": "Numbers 1:44",
+            "text": "Ezek azok a megszámláltattak, a kiket megszámláltak Mózes és Áron és Izráel fejedelmei, tizenkét férfiú; egy-egy férfiú vala az ő atyáiknak házanépéből."
+        },
+        {
+            "chapter": 1,
+            "verse": 45,
+            "name": "Numbers 1:45",
+            "text": "Valának azért mindnyájan, a kik megszámláltattak az Izráel fiai közűl az ő atyáiknak háznépe szerint, húsz esztendőstől fogva és feljebb, minden hadba mehető az Izráelben;"
+        },
+        {
+            "chapter": 1,
+            "verse": 46,
+            "name": "Numbers 1:46",
+            "text": "Valának mindnyájan a megszámláltattak: hatszáz háromezer és ötszáz ötven. "
+        },
+        {
+            "chapter": 1,
+            "verse": 47,
+            "name": "Numbers 1:47",
+            "text": "De a léviták az ő atyáiknak háznépe szerint nem számláltattak közéjök.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 48,
+            "name": "Numbers 1:48",
+            "text": " Mert szólott vala az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 1,
+            "verse": 49,
+            "name": "Numbers 1:49",
+            "text": "Csak a Lévi törzsét ne vedd számba, és azokat ne számláld Izráel fiai közé; "
+        },
+        {
+            "chapter": 1,
+            "verse": 50,
+            "name": "Numbers 1:50",
+            "text": "Hanem a lévitákat rendeld a bizonyság hajlékához, és minden edényéhez, és minden ahhoz valókhoz; ők hordozzák a hajlékot, és annak minden edényét, és ők szolgáljanak mellette, és a hajlék körül táborozzanak."
+        },
+        {
+            "chapter": 1,
+            "verse": 51,
+            "name": "Numbers 1:51",
+            "text": "És mikor a hajléknak elébb kell indulni, a léviták szedjék azt szét, mikor pedig megáll a hajlék, a léviták állassák azt fel, az idegen pedig, a ki oda járul, meghaljon. "
+        },
+        {
+            "chapter": 1,
+            "verse": 52,
+            "name": "Numbers 1:52",
+            "text": "És tábort járjanak Izráel fiai kiki az ő táborában, és kiki az ő zászlója alatt, az ő seregeik szerint."
+        },
+        {
+            "chapter": 1,
+            "verse": 53,
+            "name": "Numbers 1:53",
+            "text": "A léviták pedig tábort járjanak a bizonyság hajléka körül, hogy ne legyen harag Izráel fiainak gyülekezetén; és megtartsák a léviták a bizonyság hajlékának őrizetét. "
+        },
+        {
+            "chapter": 1,
+            "verse": 54,
+            "name": "Numbers 1:54",
+            "text": "Cselekedének azért az Izráel fiai mind a szerint, a mint parancsolta vala az Úr Mózesnek, úgy cselekedének.  "
+        }
+    ]
+}

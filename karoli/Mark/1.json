@@ -1,0 +1,284 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 41,
+    "book_name": "Mark",
+    "chapter": 1,
+    "name": "Mark 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Mark 1:1",
+            "text": " A Jézus Krisztus, az Isten Fia evangyéliomának kezdete, "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Mark 1:2",
+            "text": "A mint meg van írva a prófétáknál: Ímé én elküldöm az én követemet a te orczád előtt, a ki megkészíti a te útadat előtted; "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Mark 1:3",
+            "text": "Kiáltónak szava a pusztában: Készítsétek meg az Úrnak útját, egyengessétek meg az ő ösvényeit: "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Mark 1:4",
+            "text": "Előáll vala János, keresztelvén a pusztában és prédikálván a megtérésnek keresztségét a bűnöknek bocsánatára."
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Mark 1:5",
+            "text": "És kiméne hozzá Júdeának egész tartománya és a Jeruzsálembeliek is, és megkeresztelkedének mindnyájan ő általa a Jordán vizében, bűneikről vallást tévén."
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Mark 1:6",
+            "text": "János pedig teveszőrruhát és dereka körül bőrövet viselt vala, és sáskát és erdei mézet eszik vala."
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Mark 1:7",
+            "text": "És prédikála, mondván: Utánam jő, a ki erősebb nálam, a kinek nem vagyok méltó, hogy lehajolván, sarujának szíjját megoldjam."
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Mark 1:8",
+            "text": "Én vízzel kereszteltelek titeket, de ő Szent Lélekkel keresztel titeket."
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Mark 1:9",
+            "text": "És lőn azokban a napokban, eljöve Jézus a galileai Názáretből, és megkeresztelteték János által a Jordánban. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Mark 1:10",
+            "text": "És azonnal feljővén a vízből, látá az egeket megnyilatkozni, és a Lelket mint egy galambot ő reá leszállani; "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Mark 1:11",
+            "text": "És szózat lőn az égből: Te vagy az én szerelmes fiam, a kiben én gyönyörködöm. "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Mark 1:12",
+            "text": "És a Lélek azonnal elragadá őt a pusztába. "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Mark 1:13",
+            "text": "És ott volt a pusztában negyven napig kísértetve a Sátántól, és a vad állatokkal vala együtt; és az angyalok szolgálnak vala néki. "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Mark 1:14",
+            "text": "Minekutána pedig János tömlöczbe vettetett, elméne Jézus Galileába, prédikálván az Isten országának evangyéliomát, "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Mark 1:15",
+            "text": "És mondván: Bétölt az idő, és elközelített az Istennek országa; térjetek meg, és higyjetek az evangyéliomban. "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Mark 1:16",
+            "text": "Mikor pedig Galilea tengere mellett járt, látá Simont és Andrást, annak testvérét, a mint a tengerbe hálót vetének; mert halászok valának. "
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "Mark 1:17",
+            "text": "És monda nékik Jézus: Kövessetek engem, és én azt mívelem, hogy embereket halászszatok. "
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "Mark 1:18",
+            "text": "És azonnal elhagyván az ő hálóikat, követék őt. "
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "Mark 1:19",
+            "text": "És onnan egy kevéssé elébb menve, látá Jakabot, a Zebedeus fiát és annak testvérét, Jánost, a mint a hajóban azok is a hálókat kötözgetik vala."
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "Mark 1:20",
+            "text": "És azonnal hívá őket. És ők atyjukat, Zebedeust a napszámosokkal a hajóban hagyva, utána menének."
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "Mark 1:21",
+            "text": "És bemenének Kapernaumba; és mindjárt szombatnapon bemenvén a zsinagógába, tanít vala."
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "Mark 1:22",
+            "text": "És elálmélkodának az ő tanításán; mert úgy tanítja vala őket, mint a kinek hatalma van, és nem úgy mint az írástudók. "
+        },
+        {
+            "chapter": 1,
+            "verse": 23,
+            "name": "Mark 1:23",
+            "text": "Vala pedig azok zsinagógájában egy ember, a kiben tisztátalan lélek volt, és felkiálta,"
+        },
+        {
+            "chapter": 1,
+            "verse": 24,
+            "name": "Mark 1:24",
+            "text": "És monda: Ah! mi dolgunk van nékünk veled, Názáreti Jézus? Azért jöttél-é, hogy elveszíts minket? Tudom, hogy ki vagy te: az Istennek Szentje. "
+        },
+        {
+            "chapter": 1,
+            "verse": 25,
+            "name": "Mark 1:25",
+            "text": "És megdorgálá őt Jézus, mondván: Némulj meg, és menj ki belőle. "
+        },
+        {
+            "chapter": 1,
+            "verse": 26,
+            "name": "Mark 1:26",
+            "text": "És a tisztátalan lélek megszaggatá őt, és fenszóval kiáltva, kiméne belőle. "
+        },
+        {
+            "chapter": 1,
+            "verse": 27,
+            "name": "Mark 1:27",
+            "text": "És mindnyájan elálmélkodának, annyira, hogy egymás között kérdezgeték, mondván: Mi ez? Micsoda új tudomány ez, hogy hatalommal parancsol a tisztátalan lelkeknek is, és engedelmeskednek néki?"
+        },
+        {
+            "chapter": 1,
+            "verse": 28,
+            "name": "Mark 1:28",
+            "text": "És azonnal elméne az ő híre Galilea egész környékére."
+        },
+        {
+            "chapter": 1,
+            "verse": 29,
+            "name": "Mark 1:29",
+            "text": "És a zsinagógából azonnal kimenvén, a Simon és András házához menének Jakabbal és Jánossal együtt. "
+        },
+        {
+            "chapter": 1,
+            "verse": 30,
+            "name": "Mark 1:30",
+            "text": "A Simon napa pedig hideglelésben fekszik vala, és azonnal szólának néki felőle."
+        },
+        {
+            "chapter": 1,
+            "verse": 31,
+            "name": "Mark 1:31",
+            "text": "És ő odamenvén, fölemelé azt, annak kezét fogván; és elhagyá azt a hideglelés azonnal, és szolgál vala nékik. "
+        },
+        {
+            "chapter": 1,
+            "verse": 32,
+            "name": "Mark 1:32",
+            "text": "Estefelé pedig, a mikor leszállt a nap, mind ő hozzá vivék a betegeseket és az ördöngősöket; "
+        },
+        {
+            "chapter": 1,
+            "verse": 33,
+            "name": "Mark 1:33",
+            "text": "És az egész város oda gyűlt vala az ajtó elé."
+        },
+        {
+            "chapter": 1,
+            "verse": 34,
+            "name": "Mark 1:34",
+            "text": "És meggyógyíta sokakat, a kik különféle betegségekben sínlődnek vala; és sok ördögöt kiűze, és nem hagyja vala szólni az ördögöket, mivelhogy őt ismerék. "
+        },
+        {
+            "chapter": 1,
+            "verse": 35,
+            "name": "Mark 1:35",
+            "text": "Kora reggel pedig, még szürkületkor, fölkelvén, kiméne, és elméne egy puszta helyre és ott imádkozék. "
+        },
+        {
+            "chapter": 1,
+            "verse": 36,
+            "name": "Mark 1:36",
+            "text": "Simon pedig és a vele lévők utána sietének; "
+        },
+        {
+            "chapter": 1,
+            "verse": 37,
+            "name": "Mark 1:37",
+            "text": "És a mikor megtalálák őt, mondának néki: Mindenki téged keres. "
+        },
+        {
+            "chapter": 1,
+            "verse": 38,
+            "name": "Mark 1:38",
+            "text": "És ő monda nékik: Menjünk a közel való városokba, hogy ott is prédikáljak, mert azért jöttem. "
+        },
+        {
+            "chapter": 1,
+            "verse": 39,
+            "name": "Mark 1:39",
+            "text": "És prédikál vala azoknak zsinagógáiban, egész Galileában, és ördögöket űz vala. "
+        },
+        {
+            "chapter": 1,
+            "verse": 40,
+            "name": "Mark 1:40",
+            "text": "És jöve hozzá egy bélpoklos, kérvén őt és leborulván előtte és mondván néki: Ha akarod, megtisztíthatsz engem. "
+        },
+        {
+            "chapter": 1,
+            "verse": 41,
+            "name": "Mark 1:41",
+            "text": "Jézus pedig könyörületességre indulván, kezét kinyújtva megérinté őt, és monda néki: Akarom, tisztulj meg. "
+        },
+        {
+            "chapter": 1,
+            "verse": 42,
+            "name": "Mark 1:42",
+            "text": "És a mint ezt mondja vala, azonnal eltávozék tőle a poklosság és megtisztula. "
+        },
+        {
+            "chapter": 1,
+            "verse": 43,
+            "name": "Mark 1:43",
+            "text": "És erősen megfenyegetvén, azonnal elküldé őt, "
+        },
+        {
+            "chapter": 1,
+            "verse": 44,
+            "name": "Mark 1:44",
+            "text": "És monda néki: Meglásd, hogy senkinek semmit ne szólj; hanem eredj el, mutasd meg magadat a papnak, és vidd fel a te tisztulásodért, a mit Mózes parancsolt, bizonyságul nékik. "
+        },
+        {
+            "chapter": 1,
+            "verse": 45,
+            "name": "Mark 1:45",
+            "text": "Az pedig kimenvén, kezde sokat beszélni és terjeszteni a dolgot, annyira, hogy nyilvánosan immár be sem mehetett Jézus a városba, hanem künn puszta helyeken vala, és mennek vala hozzá mindenfelől.   "
+        }
+    ]
+}

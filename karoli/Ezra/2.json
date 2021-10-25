@@ -1,0 +1,434 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 15,
+    "book_name": "Ezra",
+    "chapter": 2,
+    "name": "Ezra 2",
+    "verses": [
+        {
+            "chapter": 2,
+            "verse": 1,
+            "name": "Ezra 2:1",
+            "text": " Ezek pedig a tartománynak fiai, kik feljöttek vala a rabság foglyai közül, a kiket Nabukodonozor, Babilónia királya, fogva vitetett Babilóniába, s most visszajövének Jeruzsálembe és Júdába, kiki az ő városába."
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "name": "Ezra 2:2",
+            "text": "Kik jövének Zorobábellel, Jésuával, Nehémiással, Serájával, Rélájával, Mordokhaival, Bilsánnal, Miszpárral, Bigvaival, Rehummal, Baanával. Izráel népe férfiainak száma ez: "
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "name": "Ezra 2:3",
+            "text": "Paros fiai kétezerszázhetvenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "name": "Ezra 2:4",
+            "text": "Sefátja fiai háromszázhetvenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "name": "Ezra 2:5",
+            "text": "Árah fiai hétszázhetvenöt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "name": "Ezra 2:6",
+            "text": "Pahath-Moáb fiai, Jésua és Joáb fiaitól, kétezernyolczszáztizenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "name": "Ezra 2:7",
+            "text": "Élám fiai ezerkétszázötvennégy;"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "name": "Ezra 2:8",
+            "text": "Zattu fiai kilenczszáznegyvenöt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "name": "Ezra 2:9",
+            "text": "Zakkai fiai hétszázhatvan;"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "name": "Ezra 2:10",
+            "text": "Báni fiai hatszáznegyvenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "name": "Ezra 2:11",
+            "text": "Bébai fiai hatszázhuszonhárom;"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "name": "Ezra 2:12",
+            "text": "Azgád fiai ezerkétszázhuszonkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "name": "Ezra 2:13",
+            "text": "Adónikám fiai hatszázhatvanhat;"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "name": "Ezra 2:14",
+            "text": "Bigvai fiai kétezerötvenhat;"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "name": "Ezra 2:15",
+            "text": "Ádin fiai négyszázötvennégy;"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "name": "Ezra 2:16",
+            "text": "Áter fiai, Ezékiástól, kilenczvennyolcz;"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "name": "Ezra 2:17",
+            "text": "Bésai fiai háromszázhuszonhárom;"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "name": "Ezra 2:18",
+            "text": "Jórá fiai száztizenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "name": "Ezra 2:19",
+            "text": "Hásum fiai kétszázhuszonhárom;"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "name": "Ezra 2:20",
+            "text": "Gibbár fiai kilenczvenöt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "name": "Ezra 2:21",
+            "text": "Bethlehem fiai százhuszonhárom;"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "name": "Ezra 2:22",
+            "text": "Netófah férfiai ötvenhat;"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "name": "Ezra 2:23",
+            "text": "Anathóth férfiai százhuszonnyolcz;"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "name": "Ezra 2:24",
+            "text": "Azmáveth fiai negyvenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "name": "Ezra 2:25",
+            "text": "Kirjáth-Árim, Kefira és Beéróth fiai hétszáznegyvenhárom;"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "name": "Ezra 2:26",
+            "text": "Ráma és Géba fiai hatszázhuszonegy;"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "name": "Ezra 2:27",
+            "text": "Mikmás férfiai százhuszonkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "name": "Ezra 2:28",
+            "text": "Béthel és Ái férfiai kétszázhuszonhárom;"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "name": "Ezra 2:29",
+            "text": "Nebó fiai ötvenkettő;"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "name": "Ezra 2:30",
+            "text": "Magbis fiai százötvenhat;"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "name": "Ezra 2:31",
+            "text": "A másik Élám fiai ezerkétszázötvennégy;"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "name": "Ezra 2:32",
+            "text": "Hárim fiai háromszázhúsz;"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "name": "Ezra 2:33",
+            "text": "Lód, Hádid és Ónó fiai hétszázhuszonöt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "name": "Ezra 2:34",
+            "text": "Jérikó fiai háromszáznegyvenöt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "name": "Ezra 2:35",
+            "text": "Szenáa fiai háromezerhatszázharmincz;"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "name": "Ezra 2:36",
+            "text": "A papok: Jedája fiai, Jésua családjából, kilenczszázhetvenhárom; "
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "name": "Ezra 2:37",
+            "text": "Immér fiai ezerötvenkettő; "
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "name": "Ezra 2:38",
+            "text": "Pashur fiai ezerkétszáznegyvenhét; "
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "name": "Ezra 2:39",
+            "text": "Hárim fiai ezertizenhét; "
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "name": "Ezra 2:40",
+            "text": "A Léviták: Jésuának és Kadmiélnek fiai, Hodávia fiaitól, hetvennégy. "
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "name": "Ezra 2:41",
+            "text": "Az énekesek: Asáf fiai százhuszonnyolcz;"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "name": "Ezra 2:42",
+            "text": "A kapunállók fiai: Sallum fiai, Ater fiai, Talmón fiai, Akkub fiai, Hatita fiai, Sóbai fiai, összesen százharminczkilencz."
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "name": "Ezra 2:43",
+            "text": "A Léviták szolgái: Siha fiai, Hasufa fiai, Tabbaóth fiai; "
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "name": "Ezra 2:44",
+            "text": "Kérósz fiai, Sziaha fiai, Pádón fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "name": "Ezra 2:45",
+            "text": "Lebána fiai, Hagába fiai, Akkub fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "name": "Ezra 2:46",
+            "text": "Hágáb fiai, Salmai fiai, Hanán fiai, "
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "name": "Ezra 2:47",
+            "text": "Giddél fiai, Gahar fiai, Reája fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "name": "Ezra 2:48",
+            "text": "Resin fiai, Nekóda fiai, Gazzám fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "name": "Ezra 2:49",
+            "text": "Uzza fiai, Pászéah fiai, Bészai fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "name": "Ezra 2:50",
+            "text": "Aszna fiai, Meunim fiai, Nefiszim fiai. "
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "name": "Ezra 2:51",
+            "text": "Bakbuk fiai, Hakufa fiai, Harhur fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "name": "Ezra 2:52",
+            "text": "Basluth fiai, Mehida fiai, Harsa fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "name": "Ezra 2:53",
+            "text": "Barkósz fiai, Sziszera fiai, Temah fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "name": "Ezra 2:54",
+            "text": "Nesiah fiai, Hatifa fiai;"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "name": "Ezra 2:55",
+            "text": "Salamon szolgáinak fiai: Szótai fiai, Haszszófereth fiai, Peruda fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "name": "Ezra 2:56",
+            "text": "Jaalá fiai, Darkón fiai, Giddél fiai,"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "name": "Ezra 2:57",
+            "text": "Sefátia fiai, Hattil fiai, Pókhereth-Hássebaim fiai, Ámi fiai. "
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "name": "Ezra 2:58",
+            "text": "Összesen a Léviták szolgái és a Salamon szolgáinak fiai háromszázkilenczvenkettő."
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "name": "Ezra 2:59",
+            "text": "És ezek, a kik feljövének Tél-Melahból, Tél-Harsából, Kerub-Addán-Immérből, de nem mondhatták meg családjukat és eredetüket, hogy Izráel közül valók-é:"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "name": "Ezra 2:60",
+            "text": "Delája fiai, Tóbiás fiai, Nekóda fiai hatszázötvenkettő."
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "name": "Ezra 2:61",
+            "text": "És a papok fiai közül: Habája fiai, Hakkós fiai, Barzillai fiai, ki a Gileádbeli Barzillai leányai közül vett magának feleséget, és ezek nevéről nevezteték; "
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "name": "Ezra 2:62",
+            "text": "Ezek keresték írásukat, tudniillik a nemzetségök könyvét, de nem találák, miért is kirekesztetének a papságból;"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "name": "Ezra 2:63",
+            "text": "És megmondá nékik a király helytartója, hogy ne egyenek a szentséges áldozatból, mígnem pap ítél az Urimmal és Tummimmal. "
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "name": "Ezra 2:64",
+            "text": "Mind az egész gyülekezet együtt negyvenkétezerháromszázhatvan."
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "name": "Ezra 2:65",
+            "text": "Szolgáikon és szolgálóikon kivül – ezek száma hétezerháromszázharminczhét – valának nékik énekes férfiaik és asszonyaik kétszázan. "
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "name": "Ezra 2:66",
+            "text": "Lovaik hétszázharminczhat, öszvéreik kétszáznegyvenöt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "name": "Ezra 2:67",
+            "text": "Tevéik négyszázharminczöt, hatezerhétszázhúsz szamárral."
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "name": "Ezra 2:68",
+            "text": "A családfők közül pedig, mikor megérkezének az Úr házához, mely Jeruzsálemben van, némelyek önkénytesen adakozának az Isten házára, hogy fölépítenék azt az ő helyén;"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "name": "Ezra 2:69",
+            "text": "Tehetségök szerint adának az építés költségére aranyban hatvanegyezer dárikot, s ezüstben ötezer mánét, és száz papi ruhát."
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "name": "Ezra 2:70",
+            "text": "És lakozának mind a papok, mind a Léviták, mind a nép fiai, mind az énekesek, mind a kapunállók, mind a Léviták szolgái városaikban, s így az egész Izráel a maga városaiban vala.  "
+        }
+    ]
+}

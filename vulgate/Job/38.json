@@ -1,0 +1,260 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 18,
+    "book_name": "Job",
+    "chapter": 38,
+    "name": "Job 38",
+    "verses": [
+        {
+            "chapter": 38,
+            "verse": 1,
+            "name": "Job 38:1",
+            "text": "Respondens autem Dominus Job de turbine, dixit :  "
+        },
+        {
+            "chapter": 38,
+            "verse": 2,
+            "name": "Job 38:2",
+            "text": "  Quis est iste involvens sententias  sermonibus imperitis ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 3,
+            "name": "Job 38:3",
+            "text": " Accinge sicut vir lumbos tuos :  interrogabo te, et responde mihi. "
+        },
+        {
+            "chapter": 38,
+            "verse": 4,
+            "name": "Job 38:4",
+            "text": " Ubi eras quando ponebam fundamenta terræ ?  indica mihi, si habes intelligentiam. "
+        },
+        {
+            "chapter": 38,
+            "verse": 5,
+            "name": "Job 38:5",
+            "text": " Quis posuit mensuras ejus, si nosti ?  vel quis tetendit super eam lineam ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 6,
+            "name": "Job 38:6",
+            "text": " Super quo bases illius solidatæ sunt ?  aut quis demisit lapidem angularem ejus, "
+        },
+        {
+            "chapter": 38,
+            "verse": 7,
+            "name": "Job 38:7",
+            "text": " cum me laudarent simul astra matutina,  et jubilarent omnes filii Dei ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 8,
+            "name": "Job 38:8",
+            "text": " Quis conclusit ostiis mare,  quando erumpebat quasi de vulva procedens ; "
+        },
+        {
+            "chapter": 38,
+            "verse": 9,
+            "name": "Job 38:9",
+            "text": " cum ponerem nubem vestimentum ejus,  et caligine illud quasi pannis infantiæ obvolverem ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 10,
+            "name": "Job 38:10",
+            "text": " Circumdedi illud terminis meis,  et posui vectem et ostia, "
+        },
+        {
+            "chapter": 38,
+            "verse": 11,
+            "name": "Job 38:11",
+            "text": " et dixi : Usque huc venies, et non procedes amplius,  et hic confringes tumentes fluctus tuos. "
+        },
+        {
+            "chapter": 38,
+            "verse": 12,
+            "name": "Job 38:12",
+            "text": " Numquid post ortum tuum præcepisti diluculo,  et ostendisti auroræ locum suum ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 13,
+            "name": "Job 38:13",
+            "text": " Et tenuisti concutiens extrema terræ,  et excussisti impios ex ea ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 14,
+            "name": "Job 38:14",
+            "text": " Restituetur ut lutum signaculum,  et stabit sicut vestimentum : "
+        },
+        {
+            "chapter": 38,
+            "verse": 15,
+            "name": "Job 38:15",
+            "text": " auferetur ab impiis lux sua,  et brachium excelsum confringetur. "
+        },
+        {
+            "chapter": 38,
+            "verse": 16,
+            "name": "Job 38:16",
+            "text": " Numquid ingressus es profunda maris,  et in novissimis abyssi deambulasti ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 17,
+            "name": "Job 38:17",
+            "text": " Numquid apertæ sunt tibi portæ mortis,  et ostia tenebrosa vidisti ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 18,
+            "name": "Job 38:18",
+            "text": " Numquid considerasti latitudinem terræ ?  indica mihi, si nosti, omnia : "
+        },
+        {
+            "chapter": 38,
+            "verse": 19,
+            "name": "Job 38:19",
+            "text": " in qua via lux habitet,  et tenebrarum quis locus sit : "
+        },
+        {
+            "chapter": 38,
+            "verse": 20,
+            "name": "Job 38:20",
+            "text": " ut ducas unumquodque ad terminos suos,  et intelligas semitas domus ejus. "
+        },
+        {
+            "chapter": 38,
+            "verse": 21,
+            "name": "Job 38:21",
+            "text": " Sciebas tunc quod nasciturus esses,  et numerum dierum tuorum noveras ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 22,
+            "name": "Job 38:22",
+            "text": " Numquid ingressus es thesauros nivis,  aut thesauros grandinis aspexisti, "
+        },
+        {
+            "chapter": 38,
+            "verse": 23,
+            "name": "Job 38:23",
+            "text": " quæ præparavi in tempus hostis,  in diem pugnæ et belli ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 24,
+            "name": "Job 38:24",
+            "text": " Per quam viam spargitur lux,  dividitur æstus super terram ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 25,
+            "name": "Job 38:25",
+            "text": " Quis dedit vehementissimo imbri cursum,  et viam sonantis tonitrui, "
+        },
+        {
+            "chapter": 38,
+            "verse": 26,
+            "name": "Job 38:26",
+            "text": " ut plueret super terram absque homine in deserto,  ubi nullus mortalium commoratur ; "
+        },
+        {
+            "chapter": 38,
+            "verse": 27,
+            "name": "Job 38:27",
+            "text": " ut impleret inviam et desolatam,  et produceret herbas virentes ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 28,
+            "name": "Job 38:28",
+            "text": " Quis est pluviæ pater ?  vel quis genuit stillas roris ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 29,
+            "name": "Job 38:29",
+            "text": " De cujus utero egressa est glacies ?  et gelu de cælo quis genuit ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 30,
+            "name": "Job 38:30",
+            "text": " In similitudinem lapidis aquæ durantur,  et superficies abyssi constringitur. "
+        },
+        {
+            "chapter": 38,
+            "verse": 31,
+            "name": "Job 38:31",
+            "text": " Numquid conjungere valebis micantes stellas Pleiadas,  aut gyrum Arcturi poteris dissipare ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 32,
+            "name": "Job 38:32",
+            "text": " Numquid producis luciferum in tempore suo,  et vesperum super filios terræ consurgere facis ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 33,
+            "name": "Job 38:33",
+            "text": " Numquid nosti ordinem cæli,  et pones rationem ejus in terra ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 34,
+            "name": "Job 38:34",
+            "text": " Numquid elevabis in nebula vocem tuam,  et impetus aquarum operiet te ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 35,
+            "name": "Job 38:35",
+            "text": " Numquid mittes fulgura, et ibunt,  et revertentia dicent tibi : Adsumus ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 36,
+            "name": "Job 38:36",
+            "text": " Quis posuit in visceribus hominis sapientiam ?  vel quis dedit gallo intelligentiam ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 37,
+            "name": "Job 38:37",
+            "text": " Quis enarrabit cælorum rationem ?  et concentum cæli quis dormire faciet ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 38,
+            "name": "Job 38:38",
+            "text": " Quando fundebatur pulvis in terra,  et glebæ compingebantur ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 39,
+            "name": "Job 38:39",
+            "text": " Numquid capies leænæ prædam,  et animam catulorum ejus implebis, "
+        },
+        {
+            "chapter": 38,
+            "verse": 40,
+            "name": "Job 38:40",
+            "text": " quando cubant in antris,  et in specubus insidiantur ? "
+        },
+        {
+            "chapter": 38,
+            "verse": 41,
+            "name": "Job 38:41",
+            "text": " Quis præparat corvo escam suam,  quando pulli ejus clamant ad Deum,  vagantes, eo quod non habeant cibos ?  "
+        }
+    ]
+}

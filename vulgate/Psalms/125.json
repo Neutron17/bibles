@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 125,
+    "name": "Psalms 125",
+    "verses": [
+        {
+            "chapter": 125,
+            "verse": 1,
+            "name": "Psalms 125:1",
+            "text": "Canticum graduum.   In convertendo Dominus captivitatem Sion,  facti sumus sicut consolati. "
+        },
+        {
+            "chapter": 125,
+            "verse": 2,
+            "name": "Psalms 125:2",
+            "text": " Tunc repletum est gaudio os nostrum,  et lingua nostra exsultatione.  Tunc dicent inter gentes :  Magnificavit Dominus facere cum eis. "
+        },
+        {
+            "chapter": 125,
+            "verse": 3,
+            "name": "Psalms 125:3",
+            "text": " Magnificavit Dominus facere nobiscum ;  facti sumus lætantes. "
+        },
+        {
+            "chapter": 125,
+            "verse": 4,
+            "name": "Psalms 125:4",
+            "text": " Converte, Domine, captivitatem nostram,  sicut torrens in austro. "
+        },
+        {
+            "chapter": 125,
+            "verse": 5,
+            "name": "Psalms 125:5",
+            "text": " Qui seminant in lacrimis,  in exsultatione metent. "
+        },
+        {
+            "chapter": 125,
+            "verse": 6,
+            "name": "Psalms 125:6",
+            "text": " Euntes ibant et flebant,  mittentes semina sua.  Venientes autem venient cum exsultatione,  portantes manipulos suos.  "
+        }
+    ]
+}

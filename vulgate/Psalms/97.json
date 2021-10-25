@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 97,
+    "name": "Psalms 97",
+    "verses": [
+        {
+            "chapter": 97,
+            "verse": 1,
+            "name": "Psalms 97:1",
+            "text": "Psalmus ipsi David.   Cantate Domino canticum novum,  quia mirabilia fecit.  Salvavit sibi dextera ejus,  et brachium sanctum ejus. "
+        },
+        {
+            "chapter": 97,
+            "verse": 2,
+            "name": "Psalms 97:2",
+            "text": " Notum fecit Dominus salutare suum ;  in conspectu gentium revelavit justitiam suam. "
+        },
+        {
+            "chapter": 97,
+            "verse": 3,
+            "name": "Psalms 97:3",
+            "text": " Recordatus est misericordiæ suæ,  et veritatis suæ domui Israël.  Viderunt omnes termini terræ  salutare Dei nostri. "
+        },
+        {
+            "chapter": 97,
+            "verse": 4,
+            "name": "Psalms 97:4",
+            "text": " Jubilate Deo, omnis terra ;  cantate, et exsultate, et psallite. "
+        },
+        {
+            "chapter": 97,
+            "verse": 5,
+            "name": "Psalms 97:5",
+            "text": " Psallite Domino in cithara ;  in cithara et voce psalmi ; "
+        },
+        {
+            "chapter": 97,
+            "verse": 6,
+            "name": "Psalms 97:6",
+            "text": " in tubis ductilibus, et voce tubæ corneæ.  Jubilate in conspectu regis Domini : "
+        },
+        {
+            "chapter": 97,
+            "verse": 7,
+            "name": "Psalms 97:7",
+            "text": " moveatur mare, et plenitudo ejus ;  orbis terrarum, et qui habitant in eo. "
+        },
+        {
+            "chapter": 97,
+            "verse": 8,
+            "name": "Psalms 97:8",
+            "text": " Flumina plaudent manu ;  simul montes exsultabunt "
+        },
+        {
+            "chapter": 97,
+            "verse": 9,
+            "name": "Psalms 97:9",
+            "text": "a conspectu Domini :  quoniam venit judicare terram.  Judicabit orbem terrarum in justitia,  et populos in æquitate.  "
+        }
+    ]
+}

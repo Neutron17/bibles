@@ -1,0 +1,110 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 54,
+    "book_name": "1 Timothy",
+    "chapter": 3,
+    "name": "1 Timothy 3",
+    "verses": [
+        {
+            "chapter": 3,
+            "verse": 1,
+            "name": "1 Timothy 3:1",
+            "text": "Fidelis sermo : si quis episcopatum desiderat, bonum opus desiderat. "
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "name": "1 Timothy 3:2",
+            "text": "Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem, "
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "name": "1 Timothy 3:3",
+            "text": "non vinolentum, non percussorem, sed modestum : non litigiosum, non cupidum, sed "
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "name": "1 Timothy 3:4",
+            "text": "suæ domui bene præpositum : filios habentem subditos cum omni castitate. "
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "name": "1 Timothy 3:5",
+            "text": "Si quis autem domui suæ præesse nescit, quomodo ecclesiæ Dei diligentiam habebit ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "name": "1 Timothy 3:6",
+            "text": "Non neophytum : ne in superbiam elatus, in judicium incidat diaboli. "
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "name": "1 Timothy 3:7",
+            "text": "Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli. "
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "name": "1 Timothy 3:8",
+            "text": "Diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes : "
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "name": "1 Timothy 3:9",
+            "text": "habentes mysterium fidei in conscientia pura. "
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "name": "1 Timothy 3:10",
+            "text": "Et hi autem probentur primum : et sic ministrent, nullum crimen habentes. "
+        },
+        {
+            "chapter": 3,
+            "verse": 11,
+            "name": "1 Timothy 3:11",
+            "text": "Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus. "
+        },
+        {
+            "chapter": 3,
+            "verse": 12,
+            "name": "1 Timothy 3:12",
+            "text": "Diaconi sint unius uxoris viri, qui filiis suis bene præsint, et suis domibus. "
+        },
+        {
+            "chapter": 3,
+            "verse": 13,
+            "name": "1 Timothy 3:13",
+            "text": "Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quæ est in Christo Jesu.  "
+        },
+        {
+            "chapter": 3,
+            "verse": 14,
+            "name": "1 Timothy 3:14",
+            "text": " Hæc tibi scribo, sperans me ad te venire cito : "
+        },
+        {
+            "chapter": 3,
+            "verse": 15,
+            "name": "1 Timothy 3:15",
+            "text": "si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quæ est ecclesia Dei vivi, columna et firmamentum veritatis. "
+        },
+        {
+            "chapter": 3,
+            "verse": 16,
+            "name": "1 Timothy 3:16",
+            "text": "Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, justificatum est in spiritu, apparuit angelis, prædicatum est gentibus, creditum est in mundo, assumptum est in gloria.   "
+        }
+    ]
+}

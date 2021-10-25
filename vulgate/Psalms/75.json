@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 75,
+    "name": "Psalms 75",
+    "verses": [
+        {
+            "chapter": 75,
+            "verse": 1,
+            "name": "Psalms 75:1",
+            "text": "In finem, in laudibus. Psalmus Asaph, canticum ad Assyrios.  "
+        },
+        {
+            "chapter": 75,
+            "verse": 2,
+            "name": "Psalms 75:2",
+            "text": "  Notus in Judæa Deus ;  in Israël magnum nomen ejus. "
+        },
+        {
+            "chapter": 75,
+            "verse": 3,
+            "name": "Psalms 75:3",
+            "text": " Et factus est in pace locus ejus,  et habitatio ejus in Sion. "
+        },
+        {
+            "chapter": 75,
+            "verse": 4,
+            "name": "Psalms 75:4",
+            "text": " Ibi confregit potentias arcuum,  scutum, gladium, et bellum. "
+        },
+        {
+            "chapter": 75,
+            "verse": 5,
+            "name": "Psalms 75:5",
+            "text": " Illuminans tu mirabiliter a montibus æternis ; "
+        },
+        {
+            "chapter": 75,
+            "verse": 6,
+            "name": "Psalms 75:6",
+            "text": " turbati sunt omnes insipientes corde.  Dormierunt somnum suum,  et nihil invenerunt omnes viri divitiarum in manibus suis. "
+        },
+        {
+            "chapter": 75,
+            "verse": 7,
+            "name": "Psalms 75:7",
+            "text": " Ab increpatione tua, Deus Jacob,  dormitaverunt qui ascenderunt equos. "
+        },
+        {
+            "chapter": 75,
+            "verse": 8,
+            "name": "Psalms 75:8",
+            "text": " Tu terribilis es ; et quis resistet tibi ?  ex tunc ira tua. "
+        },
+        {
+            "chapter": 75,
+            "verse": 9,
+            "name": "Psalms 75:9",
+            "text": " De cælo auditum fecisti judicium :  terra tremuit et quievit "
+        },
+        {
+            "chapter": 75,
+            "verse": 10,
+            "name": "Psalms 75:10",
+            "text": "cum exsurgeret in judicium Deus,  ut salvos faceret omnes mansuetos terræ. "
+        },
+        {
+            "chapter": 75,
+            "verse": 11,
+            "name": "Psalms 75:11",
+            "text": " Quoniam cogitatio hominis confitebitur tibi,  et reliquiæ cogitationis diem festum agent tibi. "
+        },
+        {
+            "chapter": 75,
+            "verse": 12,
+            "name": "Psalms 75:12",
+            "text": " Vovete et reddite Domino Deo vestro,  omnes qui in circuitu ejus affertis munera :  terribili, "
+        },
+        {
+            "chapter": 75,
+            "verse": 13,
+            "name": "Psalms 75:13",
+            "text": "et ei qui aufert spiritum principum :  terribili apud reges terræ.  "
+        }
+    ]
+}

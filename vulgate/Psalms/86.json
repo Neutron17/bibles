@@ -1,0 +1,56 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 86,
+    "name": "Psalms 86",
+    "verses": [
+        {
+            "chapter": 86,
+            "verse": 1,
+            "name": "Psalms 86:1",
+            "text": "Filiis Core. Psalmus cantici.   Fundamenta ejus in montibus sanctis ; "
+        },
+        {
+            "chapter": 86,
+            "verse": 2,
+            "name": "Psalms 86:2",
+            "text": " diligit Dominus portas Sion super omnia tabernacula Jacob. "
+        },
+        {
+            "chapter": 86,
+            "verse": 3,
+            "name": "Psalms 86:3",
+            "text": " Gloriosa dicta sunt de te, civitas Dei ! "
+        },
+        {
+            "chapter": 86,
+            "verse": 4,
+            "name": "Psalms 86:4",
+            "text": " Memor ero Rahab et Babylonis, scientium me ;  ecce alienigenæ, et Tyrus, et populus Æthiopum,  hi fuerunt illic. "
+        },
+        {
+            "chapter": 86,
+            "verse": 5,
+            "name": "Psalms 86:5",
+            "text": " Numquid Sion dicet : Homo et homo natus est in ea,  et ipse fundavit eam Altissimus ? "
+        },
+        {
+            "chapter": 86,
+            "verse": 6,
+            "name": "Psalms 86:6",
+            "text": " Dominus narrabit in scripturis populorum et principum,  horum qui fuerunt in ea. "
+        },
+        {
+            "chapter": 86,
+            "verse": 7,
+            "name": "Psalms 86:7",
+            "text": " Sicut lætantium omnium  habitatio est in te.  "
+        }
+    ]
+}

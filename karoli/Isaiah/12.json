@@ -1,0 +1,50 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 12,
+    "name": "Isaiah 12",
+    "verses": [
+        {
+            "chapter": 12,
+            "verse": 1,
+            "name": "Isaiah 12:1",
+            "text": " És így szólsz ama napon: Hálákat adok néked, oh Uram! mert jóllehet haragudtál reám, de elfordult haragod, és megvígasztaltál engemet! "
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "name": "Isaiah 12:2",
+            "text": "Ímé, az Isten az én szabadítóm! bízom és nem félek; mert erősségem és énekem az Úr, az Úr, és lőn nékem szabadítóm! "
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "name": "Isaiah 12:3",
+            "text": "S örömmel merítetek vizet a szabadító kútfejéből,"
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "name": "Isaiah 12:4",
+            "text": "És így szólotok ama napon: Adjatok hálát az Úrnak, magasztaljátok az Ő nevét, hirdessétek a népek közt nagyságos dolgait, mondjátok, hogy nagy az Ő neve. "
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "name": "Isaiah 12:5",
+            "text": "Mondjatok éneket az Úrnak, mert nagy dolgot cselekedett; adjátok tudtára ezt az egész földnek! "
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "name": "Isaiah 12:6",
+            "text": "Kiálts és örvendj, Sionnak lakosa, mert nagy közötted Izráelnek Szentje!   "
+        }
+    ]
+}

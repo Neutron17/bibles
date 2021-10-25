@@ -1,0 +1,344 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 13,
+    "book_name": "1 Chronicles",
+    "chapter": 2,
+    "name": "1 Chronicles 2",
+    "verses": [
+        {
+            "chapter": 2,
+            "verse": 1,
+            "name": "1 Chronicles 2:1",
+            "text": " Ezek az Izráel fiai: Rúben, Simeon, Lévi, Júda, Issakhár és Zebulon; "
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "name": "1 Chronicles 2:2",
+            "text": "Dán, József, Benjámin, Nafthali, Gád és Áser."
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "name": "1 Chronicles 2:3",
+            "text": "Júdának fiai: Hér, Ónán és Séla; e három születék néki a Kanaánita Súahnak leányától. De Hér, Júdának elsőszülött fia gonosz vala az Úr szemei előtt, és megölé őt az Úr. "
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "name": "1 Chronicles 2:4",
+            "text": "Thámár pedig, az ő menye szülé néki Péreczet és Zerákhot. Júdának fiai mindnyájan öten valának. "
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "name": "1 Chronicles 2:5",
+            "text": "Pérecz fiai: Kheczrón és Khámul. "
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "name": "1 Chronicles 2:6",
+            "text": "Zerákh fiai pedig: Zimri és Ethán, Hémán, Kálkól és Dára; mindenestől öten."
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "name": "1 Chronicles 2:7",
+            "text": "Kármi fiai: Ákán, Izráelnek megrontója, mivel lopott a zsákmányból. "
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "name": "1 Chronicles 2:8",
+            "text": "Ethán fia: Azária."
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "name": "1 Chronicles 2:9",
+            "text": "Kheczrón fiai, kik születtenek néki: Jérakhméel, Rám és Kélubai. "
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "name": "1 Chronicles 2:10",
+            "text": "Rám nemzé Amminádábot, Amminádáb pedig nemzé Nakhsont, a Júda fiainak fejedelmét."
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "name": "1 Chronicles 2:11",
+            "text": "Nakhson nemzé Szálmát, Szálma pedig nemzé Boázt;"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "name": "1 Chronicles 2:12",
+            "text": "Boáz nemzé Obedet; Obed nemzé Isait;"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "name": "1 Chronicles 2:13",
+            "text": "Isai pedig nemzé Eliábot, az ő elsőszülöttét, és Abinádábot, másodikat, Simeát, harmadikat. "
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "name": "1 Chronicles 2:14",
+            "text": "Netanéelt, negyediket, és Raddait, ötödiket."
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "name": "1 Chronicles 2:15",
+            "text": "Osemet, hatodikat és Dávidot, a hetedik fiát; "
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "name": "1 Chronicles 2:16",
+            "text": "És nővéreiket, Séruját és Abigáilt. Sérujának pedig fiai voltak: Absai, Joáb és Asáel, e három. "
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "name": "1 Chronicles 2:17",
+            "text": "Abigáil szülé Amasát; Amasának atyja pedig az Ismáel nemzetségéből való Jéter vala. "
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "name": "1 Chronicles 2:18",
+            "text": "Káleb pedig, a Kheczrón fia nemzett vala az ő Azuba nevű feleségétől és Jérióttól; és ezek az ő fiai: Jéser, Sobáb és Ardon."
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "name": "1 Chronicles 2:19",
+            "text": "Azuba meghala, és Káleb vevé magának feleségül Efratát, és ez szülé néki Húrt."
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "name": "1 Chronicles 2:20",
+            "text": "Húr nemzé Urit, Uri pedig nemzé Bésaléelt. "
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "name": "1 Chronicles 2:21",
+            "text": "Azután beméne Kheczrón Mákirnak, Gileád atyjának leányához; mert ő ezt elvette vala hatvan esztendős korában, és szülé néki Ségubot."
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "name": "1 Chronicles 2:22",
+            "text": "Ségub pedig nemzé Jáirt, kinek huszonhárom városa vala a Gileád földén. "
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "name": "1 Chronicles 2:23",
+            "text": "De Gesur és Árám elvették tőlük Jáir falvait, Kenáthot és mezővárosait, hatvan várost. Mindezek Mákirnak, a Gileád atyjának fiaié."
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "name": "1 Chronicles 2:24",
+            "text": "Minekutána pedig meghala Kheczrón Káleb-Efratában, akkor szülé néki Abija, a Kheczrón felesége, Ashúrt, Tékoa atyját."
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "name": "1 Chronicles 2:25",
+            "text": "Jérakhméelnek, a Kheczrón elsőszülöttének fiai voltak: Rám, az elsőszülött, Búna, Orem, Osem és Akhija."
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "name": "1 Chronicles 2:26",
+            "text": "Volt más felesége is Jérakhméelnek, Atára nevű; ez az Onám anyja."
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "name": "1 Chronicles 2:27",
+            "text": "Rámnak, Jérakhméel elsőszülöttének pedig fiai voltak: Maás, Jámin és Héker."
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "name": "1 Chronicles 2:28",
+            "text": "Onám fiai voltak: Sammai és Jáda; és Sammai fiai: Nádáb és Abisúr."
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "name": "1 Chronicles 2:29",
+            "text": "Abisúr feleségének neve Abihail, a ki szülé néki Akhbánt és Mólidot."
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "name": "1 Chronicles 2:30",
+            "text": "Nádáb fiai: Széled és Appaim: Széled magtalanul halt meg."
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "name": "1 Chronicles 2:31",
+            "text": "Appaim fia: Isi; Isi fia: Sésán; Sésán fia: Ahálai."
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "name": "1 Chronicles 2:32",
+            "text": "Jáda fiai, a ki Sammai testvére volt: Jéter és Jonathán; Jéter magtalanul halt meg."
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "name": "1 Chronicles 2:33",
+            "text": "Jonathán fiai: Pélet és Záza. Ezek voltak a Jérakhméel fiai."
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "name": "1 Chronicles 2:34",
+            "text": "Sésánnak nem voltak fiai, hanem csak leányai; de volt Sésánnak egy Égyiptombeli szolgája, Járha nevű."
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "name": "1 Chronicles 2:35",
+            "text": "És adá Sésán e Járha nevű szolgájának az ő leányát feleségül, a ki szülé néki Athait."
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "name": "1 Chronicles 2:36",
+            "text": "Athai pedig nemzé Nátánt; Nátán nemzé Zabádot;"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "name": "1 Chronicles 2:37",
+            "text": "Zabád nemzé Eflált; Eflál nemzé Obedet;"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "name": "1 Chronicles 2:38",
+            "text": "Obed nemzé Jéhut; Jéhu nemzé Azáriát."
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "name": "1 Chronicles 2:39",
+            "text": "Azária nemzé Hélest; Héles nemzé Elását;"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "name": "1 Chronicles 2:40",
+            "text": "Elása nemzé Sisémait; Sisémai nemzé Sallumot;"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "name": "1 Chronicles 2:41",
+            "text": "Sallum nemzé Jékámiát; Jékámia pedig nemzé Elisámát."
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "name": "1 Chronicles 2:42",
+            "text": "A Káleb fiai pedig, a ki Jérakhméel testvére vala: elsőszülötte Mésa; ez volt Zifnek és Marésa fiainak atyjok, Hebronnak atyja."
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "name": "1 Chronicles 2:43",
+            "text": "Hebron fiai: Kórah, Tappuah, Rékem és Séma."
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "name": "1 Chronicles 2:44",
+            "text": "Séma pedig nemzé Rahámot, a Jorkeám atyját; és Rékem nemzé Sammait,"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "name": "1 Chronicles 2:45",
+            "text": "A Sammai fia pedig: Máon; ez a Máon volt a Bethsúr atyja."
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "name": "1 Chronicles 2:46",
+            "text": "Efa pedig, a Káleb ágyastársa, szülé Háránt és Mósát és Gázezt; és Hárán nemzé Gázezt."
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "name": "1 Chronicles 2:47",
+            "text": "Jaddai fiai pedig: Régem, Jotám, Gésán, Pelet, Héfa és Saáf."
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "name": "1 Chronicles 2:48",
+            "text": "A Káleb ágyasa Maaka szülé Sébert és Tirhánát."
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "name": "1 Chronicles 2:49",
+            "text": "És szülé Saáfot, Madmanna atyját, Sevát, a Makbéna atyját és Gibea atyját; és Aksza a Káleb leánya vala. "
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "name": "1 Chronicles 2:50",
+            "text": "Ezek voltak Káleb fiai, a ki Húrnak, az Efrata elsőszülöttének fia volt: Sobál, Kirját-Jeárim atyja."
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "name": "1 Chronicles 2:51",
+            "text": "Szálma, Bethlehem atyja; Háref, Bethgáder atyja."
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "name": "1 Chronicles 2:52",
+            "text": "Voltak pedig Sobálnak is, a Kirját-Jeárim atyjának fiai: Haroé, a fél Menuhót ura."
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "name": "1 Chronicles 2:53",
+            "text": "A Kirját-Jeárim háznépei: Jitreusok, Puteusok, Sumateusok, Misraiteusok; ezektől származának a Sorateusok és az Estaoliteusok. "
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "name": "1 Chronicles 2:54",
+            "text": "Szálma fiai, Bethlehem és a Netofátbeliek, Atróth, Beth-Joáb, a Czórabeli Manahateusok fele."
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "name": "1 Chronicles 2:55",
+            "text": "És a Jábesben lakozó tudós emberek háznépei: a Tirateusok, Simateusok, Sukateusok. Ezek a Kineusok, a kik Hámáttól, a Rékáb házának atyjától származtak.   "
+        }
+    ]
+}

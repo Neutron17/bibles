@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 64,
+    "name": "Psalms 64",
+    "verses": [
+        {
+            "chapter": 64,
+            "verse": 1,
+            "name": "Psalms 64:1",
+            "text": "In finem. Psalmus David, canticum Jeremiæ et Ezechielis populo transmigrationis, cum inciperent exire.  "
+        },
+        {
+            "chapter": 64,
+            "verse": 2,
+            "name": "Psalms 64:2",
+            "text": "  Te decet hymnus, Deus, in Sion,  et tibi reddetur votum in Jerusalem. "
+        },
+        {
+            "chapter": 64,
+            "verse": 3,
+            "name": "Psalms 64:3",
+            "text": " Exaudi orationem meam ;  ad te omnis caro veniet. "
+        },
+        {
+            "chapter": 64,
+            "verse": 4,
+            "name": "Psalms 64:4",
+            "text": " Verba iniquorum prævaluerunt super nos,  et impietatibus nostris tu propitiaberis. "
+        },
+        {
+            "chapter": 64,
+            "verse": 5,
+            "name": "Psalms 64:5",
+            "text": " Beatus quem elegisti et assumpsisti :  inhabitabit in atriis tuis.  Replebimur in bonis domus tuæ ;  sanctum est templum tuum, "
+        },
+        {
+            "chapter": 64,
+            "verse": 6,
+            "name": "Psalms 64:6",
+            "text": " mirabile in æquitate.  Exaudi nos, Deus, salutaris noster,  spes omnium finium terræ, et in mari longe. "
+        },
+        {
+            "chapter": 64,
+            "verse": 7,
+            "name": "Psalms 64:7",
+            "text": " Præparans montes in virtute tua,  accinctus potentia ; "
+        },
+        {
+            "chapter": 64,
+            "verse": 8,
+            "name": "Psalms 64:8",
+            "text": " qui conturbas profundum maris,  sonum fluctuum ejus.  Turbabuntur gentes, "
+        },
+        {
+            "chapter": 64,
+            "verse": 9,
+            "name": "Psalms 64:9",
+            "text": " et timebunt qui habitant terminos a signis tuis ;  exitus matutini et vespere delectabis. "
+        },
+        {
+            "chapter": 64,
+            "verse": 10,
+            "name": "Psalms 64:10",
+            "text": " Visitasti terram, et inebriasti eam ;  multiplicasti locupletare eam.  Flumen Dei repletum est aquis ; parasti cibum illorum :  quoniam ita est præparatio ejus. "
+        },
+        {
+            "chapter": 64,
+            "verse": 11,
+            "name": "Psalms 64:11",
+            "text": " Rivos ejus inebria ;  multiplica genimina ejus :  in stillicidiis ejus lætabitur germinans. "
+        },
+        {
+            "chapter": 64,
+            "verse": 12,
+            "name": "Psalms 64:12",
+            "text": " Benedices coronæ anni benignitatis tuæ,  et campi tui replebuntur ubertate. "
+        },
+        {
+            "chapter": 64,
+            "verse": 13,
+            "name": "Psalms 64:13",
+            "text": " Pinguescent speciosa deserti,  et exsultatione colles accingentur. "
+        },
+        {
+            "chapter": 64,
+            "verse": 14,
+            "name": "Psalms 64:14",
+            "text": " Induti sunt arietes ovium,  et valles abundabunt frumento ;  clamabunt, etenim hymnum dicent.  "
+        }
+    ]
+}

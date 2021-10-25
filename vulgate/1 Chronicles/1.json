@@ -1,0 +1,338 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 13,
+    "book_name": "1 Chronicles",
+    "chapter": 1,
+    "name": "1 Chronicles 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "1 Chronicles 1:1",
+            "text": "Adam, Seth, Enos, "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "1 Chronicles 1:2",
+            "text": "Cainan, Malaleel, Jared, "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "1 Chronicles 1:3",
+            "text": "Henoch, Mathusale, Lamech, "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "1 Chronicles 1:4",
+            "text": "Noë, Sem, Cham, et Japtheth. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "1 Chronicles 1:5",
+            "text": "Filii Japheth : Gomer, et Magog, et Madai, et Javan, Thubal, Mosoch, Thiras. "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "1 Chronicles 1:6",
+            "text": "Porro filii Gomer : Ascenez, et Riphath, et Thogorma. "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "1 Chronicles 1:7",
+            "text": "Filii autem Javan : Elisa et Tharsis, Cethim et Dodanim. "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "1 Chronicles 1:8",
+            "text": "Filii Cham : Chus, et Mesraim, et Phut, et Chanaan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "1 Chronicles 1:9",
+            "text": "Filii autem Chus : Saba, et Hevila, Sabatha, et Regma, et Sabathacha. Porro filii Regma : Saba, et Dadan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "1 Chronicles 1:10",
+            "text": "Chus autem genuit Nemrod : iste cœpit esse potens in terra. "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "1 Chronicles 1:11",
+            "text": "Mesraim vero genuit Ludim, et Anamim, et Laabim, et Nephtuim, "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "1 Chronicles 1:12",
+            "text": "Phetrusim quoque, et Casluim : de quibus egressi sunt Philisthiim, et Caphtorim. "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "1 Chronicles 1:13",
+            "text": "Chanaan vero genuit Sidonem primogenitum suum, Hethæum quoque, "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "1 Chronicles 1:14",
+            "text": "et Jebusæum, et Amorrhæum, et Gergesæum, "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "1 Chronicles 1:15",
+            "text": "Hevæumque et Aracæum, et Sinæum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "1 Chronicles 1:16",
+            "text": "Aradium quoque, et Samaræum, et Hamathæum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "1 Chronicles 1:17",
+            "text": "Filii Sem : Ælam, et Assur, et Arphaxad, et Lud, et Aram, et Hus, et Hul, et Gether, et Mosoch. "
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "1 Chronicles 1:18",
+            "text": "Arphaxad autem genuit Sale, qui et ipse genuit Heber. "
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "1 Chronicles 1:19",
+            "text": "Porro Heber nati sunt duo filii : nomen uni Phaleg, quia in diebus ejus divisa est terra ; et nomen fratris ejus Jectan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "1 Chronicles 1:20",
+            "text": "Jectan autem genuit Elmodad, et Saleph, et Asarmoth, et Jare, "
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "1 Chronicles 1:21",
+            "text": "Adoram quoque, et Huzal, et Decla, "
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "1 Chronicles 1:22",
+            "text": "Hebal etiam, et Abimaël, et Saba, necnon "
+        },
+        {
+            "chapter": 1,
+            "verse": 23,
+            "name": "1 Chronicles 1:23",
+            "text": "et Ophir, et Hevila, et Jobab : omnes isti filii Jectan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 24,
+            "name": "1 Chronicles 1:24",
+            "text": "Sem, Arphaxad, Sale, "
+        },
+        {
+            "chapter": 1,
+            "verse": 25,
+            "name": "1 Chronicles 1:25",
+            "text": "Heber, Phaleg, Ragau, "
+        },
+        {
+            "chapter": 1,
+            "verse": 26,
+            "name": "1 Chronicles 1:26",
+            "text": "Serug, Nachor, Thare, "
+        },
+        {
+            "chapter": 1,
+            "verse": 27,
+            "name": "1 Chronicles 1:27",
+            "text": "Abram : iste est Abraham.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 28,
+            "name": "1 Chronicles 1:28",
+            "text": " Filii autem Abraham, Isaac et Ismahel. "
+        },
+        {
+            "chapter": 1,
+            "verse": 29,
+            "name": "1 Chronicles 1:29",
+            "text": "Et hæ generationes eorum. Primogenitus Ismahelis, Nabaioth, et Cedar, et Adbeel, et Mabsam, "
+        },
+        {
+            "chapter": 1,
+            "verse": 30,
+            "name": "1 Chronicles 1:30",
+            "text": "et Masma, et Duma, Massa, Hadad, et Thema, "
+        },
+        {
+            "chapter": 1,
+            "verse": 31,
+            "name": "1 Chronicles 1:31",
+            "text": "Jetur, Naphis, Cedma : hi sunt filii Ismahelis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 32,
+            "name": "1 Chronicles 1:32",
+            "text": "Filii autem Ceturæ concubinæ Abraham, quos genuit : Zamran, Jecsan, Madan, Madian, Jesboc, et Sue. Porro filii Jecsan : Saba, et Dadan. Filii autem Dadan : Assurim, et Latussim, et Laomim. "
+        },
+        {
+            "chapter": 1,
+            "verse": 33,
+            "name": "1 Chronicles 1:33",
+            "text": "Filii autem Madian : Epha, et Epher, et Henoch, et Abida, et Eldaa : omnes hi filii Ceturæ. "
+        },
+        {
+            "chapter": 1,
+            "verse": 34,
+            "name": "1 Chronicles 1:34",
+            "text": "Genuit autem Abraham Isaac : cujus fuerunt filii Esau, et Israël. "
+        },
+        {
+            "chapter": 1,
+            "verse": 35,
+            "name": "1 Chronicles 1:35",
+            "text": "Filii Esau : Eliphaz, Rahuel, Jehus, Ihelom, et Core. "
+        },
+        {
+            "chapter": 1,
+            "verse": 36,
+            "name": "1 Chronicles 1:36",
+            "text": "Filii Eliphaz : Theman, Omar, Sephi, Gathan, Cenez, Thamna, Amalec. "
+        },
+        {
+            "chapter": 1,
+            "verse": 37,
+            "name": "1 Chronicles 1:37",
+            "text": "Filii Rahuel : Nahath, Zara, Samma, Meza. "
+        },
+        {
+            "chapter": 1,
+            "verse": 38,
+            "name": "1 Chronicles 1:38",
+            "text": "Filii Seir : Lotan, Sobal, Sebeon, Ana, Dison, Eser, Disan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 39,
+            "name": "1 Chronicles 1:39",
+            "text": "Filii Lotan : Hori, Homam. Soror autem Lotan fuit Thamna. "
+        },
+        {
+            "chapter": 1,
+            "verse": 40,
+            "name": "1 Chronicles 1:40",
+            "text": "Filii Sobal : Alian, et Manahath, et Ebal, Sephi et Onam. Filii Sebeon : Aja et Ana. Filii Ana : Dison. "
+        },
+        {
+            "chapter": 1,
+            "verse": 41,
+            "name": "1 Chronicles 1:41",
+            "text": "Filii Dison : Hamram, et Heseban, et Jethran, et Charan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 42,
+            "name": "1 Chronicles 1:42",
+            "text": "Filii Eser : Balaan, et Zavan, et Jacan. Filii Disan : Hus et Aran.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 43,
+            "name": "1 Chronicles 1:43",
+            "text": " Isti sunt reges qui imperaverunt in terra Edom, antequam esset rex super filios Israël. Bale filius Beor : et nomen civitatis ejus, Denaba. "
+        },
+        {
+            "chapter": 1,
+            "verse": 44,
+            "name": "1 Chronicles 1:44",
+            "text": "Mortuus est autem Bale, et regnavit pro eo Jobab filius Zare de Bosra. "
+        },
+        {
+            "chapter": 1,
+            "verse": 45,
+            "name": "1 Chronicles 1:45",
+            "text": "Cumque et Jobab fuisset mortuus, regnavit pro eo Husam de terra Themanorum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 46,
+            "name": "1 Chronicles 1:46",
+            "text": "Obiit quoque et Husam, et regnavit pro eo Adad filius Badad, qui percussit Madian in terra Moab : et nomen civitatis ejus Avith. "
+        },
+        {
+            "chapter": 1,
+            "verse": 47,
+            "name": "1 Chronicles 1:47",
+            "text": "Cumque et Adad fuisset mortuus, regnavit pro eo Semla de Masreca. "
+        },
+        {
+            "chapter": 1,
+            "verse": 48,
+            "name": "1 Chronicles 1:48",
+            "text": "Sed et Semla mortuus est, et regnavit pro eo Saul de Rohoboth, quæ juxta amnem sita est. "
+        },
+        {
+            "chapter": 1,
+            "verse": 49,
+            "name": "1 Chronicles 1:49",
+            "text": "Mortuo quoque Saul, regnavit pro eo Balanan filius Achobor. "
+        },
+        {
+            "chapter": 1,
+            "verse": 50,
+            "name": "1 Chronicles 1:50",
+            "text": "Sed et hic mortuus est, et regnavit pro eo Adad : cujus urbis nomen fuit Phau, et appellata est uxor ejus Meetabel filia Matred filiæ Mezaab.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 51,
+            "name": "1 Chronicles 1:51",
+            "text": " Adad autem mortuo, duces pro regibus in Edom esse cœperunt : dux Thamna, dux Alva, dux Jetheth, "
+        },
+        {
+            "chapter": 1,
+            "verse": 52,
+            "name": "1 Chronicles 1:52",
+            "text": "dux Oolibama, dux Ela, dux Phinon, "
+        },
+        {
+            "chapter": 1,
+            "verse": 53,
+            "name": "1 Chronicles 1:53",
+            "text": "dux Cenez, dux Theman, dux Mabsar, "
+        },
+        {
+            "chapter": 1,
+            "verse": 54,
+            "name": "1 Chronicles 1:54",
+            "text": "dux Magdiel, dux Hiram : hi duces Edom.   "
+        }
+    ]
+}

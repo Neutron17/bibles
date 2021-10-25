@@ -1,0 +1,50 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 20,
+    "name": "Isaiah 20",
+    "verses": [
+        {
+            "chapter": 20,
+            "verse": 1,
+            "name": "Isaiah 20:1",
+            "text": " Amely esztendőben Asdódba ment a Tartán, Szargon Assiria királya küldvén őt, és vívá Asdódot és azt elfoglalá: "
+        },
+        {
+            "chapter": 20,
+            "verse": 2,
+            "name": "Isaiah 20:2",
+            "text": "Ez időben szólott az Úr Ésaiás, Ámos fia által, mondván: Menj és oldd le a gyászruhát derekadról, és sarudat vond le lábadról! És úgy cselekedett, járván ruha és saru nélkül. "
+        },
+        {
+            "chapter": 20,
+            "verse": 3,
+            "name": "Isaiah 20:3",
+            "text": "És mondá az Úr: A mint szolgám Ésaiás ruha és saru nélkül jár három esztendeig jegyül és jelenségül Égyiptomra és Szerecsenországra nézve: "
+        },
+        {
+            "chapter": 20,
+            "verse": 4,
+            "name": "Isaiah 20:4",
+            "text": "Úgy viszi el Assiria királya Égyiptom foglyait és Szerecsenország rabjait, ifjakat és véneket, ruha és saru nélkül és mezítelen alfellel, Égyiptomnak gyalázatára; "
+        },
+        {
+            "chapter": 20,
+            "verse": 5,
+            "name": "Isaiah 20:5",
+            "text": "S megrettennek és megszégyenülnek Szerecsenország miatt, a melyben reménykedtek, és Égyiptom miatt, a melyben dicsekedtek. "
+        },
+        {
+            "chapter": 20,
+            "verse": 6,
+            "name": "Isaiah 20:6",
+            "text": "És szól e partvidék lakosa ama napon: Ímé így járt reménységünk, hova segítségért futottunk, hogy Assiria királyától megszabaduljunk; hát mi miként menekülhetnénk meg?  "
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 3,
+    "book_name": "Leviticus",
+    "chapter": 11,
+    "name": "Leviticus 11",
+    "verses": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "name": "Leviticus 11:1",
+            "text": "Locutusque est Dominus ad Moysen et Aaron, dicens : "
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "name": "Leviticus 11:2",
+            "text": "Dicite filiis Israël : Hæc sunt animalia quæ comedere debetis de cunctis animantibus terræ : "
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "name": "Leviticus 11:3",
+            "text": "omne quod habet divisam ungulam, et ruminat in pecoribus, comedetis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "name": "Leviticus 11:4",
+            "text": "Quidquid autem ruminat quidem, et habet ungulam, sed non dividit eam, sicut camelus et cetera, non comedetis illud, et inter immunda reputabitis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "name": "Leviticus 11:5",
+            "text": "Chœrogryllus qui ruminat, ungulamque non dividit, immundus est. "
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "name": "Leviticus 11:6",
+            "text": "Lepus quoque : nam et ipse ruminat, sed ungulam non dividit. "
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "name": "Leviticus 11:7",
+            "text": "Et sus : qui cum ungulam dividat, non ruminat. "
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "name": "Leviticus 11:8",
+            "text": "Horum carnibus non vescemini, nec cadavera contingetis, quia immunda sunt vobis.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "name": "Leviticus 11:9",
+            "text": " Hæc sunt quæ gignuntur in aquis, et vesci licitum est : omne quod habet pinnulas et squamas, tam in mari quam in fluminibus et stagnis, comedetis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 10,
+            "name": "Leviticus 11:10",
+            "text": "Quidquid autem pinnulas et squamas non habet, eorum quæ in aquis moventur et vivunt, abominabile vobis, "
+        },
+        {
+            "chapter": 11,
+            "verse": 11,
+            "name": "Leviticus 11:11",
+            "text": "execrandumque erit : carnes eorum non comedetis, et morticina vitabitis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 12,
+            "name": "Leviticus 11:12",
+            "text": "Cuncta quæ non habent pinnulas et squamas in aquis, polluta erunt.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 13,
+            "name": "Leviticus 11:13",
+            "text": " Hæc sunt quæ de avibus comedere non debetis, et vitanda sunt vobis : aquilam, et gryphem, et haliæetum, "
+        },
+        {
+            "chapter": 11,
+            "verse": 14,
+            "name": "Leviticus 11:14",
+            "text": "et milvum ac vulturem juxta genus suum, "
+        },
+        {
+            "chapter": 11,
+            "verse": 15,
+            "name": "Leviticus 11:15",
+            "text": "et omne corvini generis in similitudinem suam, "
+        },
+        {
+            "chapter": 11,
+            "verse": 16,
+            "name": "Leviticus 11:16",
+            "text": "struthionem, et noctuam, et larum, et accipitrem juxta genus suum : "
+        },
+        {
+            "chapter": 11,
+            "verse": 17,
+            "name": "Leviticus 11:17",
+            "text": "bubonem, et mergulum, et ibin, "
+        },
+        {
+            "chapter": 11,
+            "verse": 18,
+            "name": "Leviticus 11:18",
+            "text": "et cygnum, et onocrotalum, et porphyrionem, "
+        },
+        {
+            "chapter": 11,
+            "verse": 19,
+            "name": "Leviticus 11:19",
+            "text": "herodionem, et charadrion juxta genus suum, upupam quoque, et vespertilionem.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 20,
+            "name": "Leviticus 11:20",
+            "text": " Omne de volucribus quod graditur super quatuor pedes, abominabile erit vobis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 21,
+            "name": "Leviticus 11:21",
+            "text": "Quidquid autem ambulat quidem super quatuor pedes, sed habet longiora retro crura, per quæ salit super terram, "
+        },
+        {
+            "chapter": 11,
+            "verse": 22,
+            "name": "Leviticus 11:22",
+            "text": "comedere debetis, ut est bruchus in genere suo, et attacus atque ophiomachus, ac locusta, singula juxta genus suum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 23,
+            "name": "Leviticus 11:23",
+            "text": "Quidquid autem ex volucribus quatuor tantum habet pedes, execrabile erit vobis : "
+        },
+        {
+            "chapter": 11,
+            "verse": 24,
+            "name": "Leviticus 11:24",
+            "text": "et quicumque morticina eorum tetigerit, polluetur, et erit immundus usque ad vesperum : "
+        },
+        {
+            "chapter": 11,
+            "verse": 25,
+            "name": "Leviticus 11:25",
+            "text": "et si necesse fuerit ut portet quippiam horum mortuum, lavabit vestimenta sua, et immundus erit usque ad occasum solis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 26,
+            "name": "Leviticus 11:26",
+            "text": "Omne animal quod habet quidem ungulam, sed non dividit eam, nec ruminat, immundum erit : et qui tetigerit illud, contaminabitur. "
+        },
+        {
+            "chapter": 11,
+            "verse": 27,
+            "name": "Leviticus 11:27",
+            "text": "Quod ambulat super manus ex cunctis animantibus, quæ incedunt quadrupedia, immundum erit : qui tetigerit morticina eorum, polluetur usque ad vesperum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 28,
+            "name": "Leviticus 11:28",
+            "text": "Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua, et immundus erit usque ad vesperum : quia omnia hæc immunda sunt vobis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 29,
+            "name": "Leviticus 11:29",
+            "text": "Hæc quoque inter polluta reputabuntur de his quæ moventur in terra, mustela et mus et crocodilus, singula juxta genus suum, "
+        },
+        {
+            "chapter": 11,
+            "verse": 30,
+            "name": "Leviticus 11:30",
+            "text": "mygale, et chamæleon, et stellio, et lacerta, et talpa.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 31,
+            "name": "Leviticus 11:31",
+            "text": " Omnia hæc immunda sunt. Qui tetigerit morticina eorum, immundus erit usque ad vesperum : "
+        },
+        {
+            "chapter": 11,
+            "verse": 32,
+            "name": "Leviticus 11:32",
+            "text": "et super quod ceciderit quidquam de morticinis eorum, polluetur, tam vas ligneum et vestimentum, quam pelles et cilicia : et in quocumque fit opus, tingentur aqua, et polluta erunt usque ad vesperum, et sic postea mundabuntur. "
+        },
+        {
+            "chapter": 11,
+            "verse": 33,
+            "name": "Leviticus 11:33",
+            "text": "Vas autem fictile, in quod horum quidquam intro cecidit, polluetur, et idcirco frangendum est. "
+        },
+        {
+            "chapter": 11,
+            "verse": 34,
+            "name": "Leviticus 11:34",
+            "text": "Omnis cibus, quem comedetis, si fusa fuerit super eum aqua, immundus erit : et omne liquens quod bibitur de universo vase, immundum erit. "
+        },
+        {
+            "chapter": 11,
+            "verse": 35,
+            "name": "Leviticus 11:35",
+            "text": "Et quidquid de morticinis hujuscemodi ceciderit super illud, immundum erit : sive clibani, sive chytropodes, destruentur, et immundi erunt. "
+        },
+        {
+            "chapter": 11,
+            "verse": 36,
+            "name": "Leviticus 11:36",
+            "text": "Fontes vero et cisternæ, et omnis aquarum congregatio munda erit. Qui morticinum eorum tetigerit, polluetur. "
+        },
+        {
+            "chapter": 11,
+            "verse": 37,
+            "name": "Leviticus 11:37",
+            "text": "Si ceciderit super sementem, non polluet eam. "
+        },
+        {
+            "chapter": 11,
+            "verse": 38,
+            "name": "Leviticus 11:38",
+            "text": "Si autem quispiam aqua sementem perfuderit, et postea morticinis tacta fuerit, illico polluetur. "
+        },
+        {
+            "chapter": 11,
+            "verse": 39,
+            "name": "Leviticus 11:39",
+            "text": "Si mortuum fuerit animal, quod licet vobis comedere, qui cadaver ejus tetigerit, immundus erit usque ad vesperum : "
+        },
+        {
+            "chapter": 11,
+            "verse": 40,
+            "name": "Leviticus 11:40",
+            "text": "et qui comederit ex eo quippiam, sive portaverit, lavabit vestimenta sua, et immundus erit usque ad vesperum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 41,
+            "name": "Leviticus 11:41",
+            "text": "Omne quod reptat super terram, abominabile erit, nec assumetur in cibum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 42,
+            "name": "Leviticus 11:42",
+            "text": "Quidquid super pectus quadrupes graditur, et multos habet pedes, sive per humum trahitur, non comedetis, quia abominabile est. "
+        },
+        {
+            "chapter": 11,
+            "verse": 43,
+            "name": "Leviticus 11:43",
+            "text": "Nolite contaminare animas vestras, nec tangatis quidquam eorum, ne immundi sitis. "
+        },
+        {
+            "chapter": 11,
+            "verse": 44,
+            "name": "Leviticus 11:44",
+            "text": "Ego enim sum Dominus Deus vester : sancti estote, quia ego sanctus sum. Ne polluatis animas vestras in omni reptili quod movetur super terram. "
+        },
+        {
+            "chapter": 11,
+            "verse": 45,
+            "name": "Leviticus 11:45",
+            "text": "Ego enim sum Dominus, qui eduxi vos de terra Ægypti, ut essem vobis in Deum. Sancti eritis, quia ego sanctus sum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 46,
+            "name": "Leviticus 11:46",
+            "text": "Ista est lex animantium ac volucrum, et omnis animæ viventis, quæ movetur in aqua, et reptat in terra, "
+        },
+        {
+            "chapter": 11,
+            "verse": 47,
+            "name": "Leviticus 11:47",
+            "text": "ut differentias noveritis mundi et immundi, et sciatis quid comedere et quid respuere debeatis.   "
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 43,
+    "name": "Psalms 43",
+    "verses": [
+        {
+            "chapter": 43,
+            "verse": 1,
+            "name": "Psalms 43:1",
+            "text": " Ítélj meg engem oh Isten! és oltalmazd meg ügyemet az irgalmatlan nemzetség ellen; az álnok és hamis embertől szabadíts meg engem."
+        },
+        {
+            "chapter": 43,
+            "verse": 2,
+            "name": "Psalms 43:2",
+            "text": "Hiszen te vagy oltalmam Istene, miért vetettél hát meg engemet? Miért kell gyászban járnom ellenség háborgatása miatt?"
+        },
+        {
+            "chapter": 43,
+            "verse": 3,
+            "name": "Psalms 43:3",
+            "text": "Küldd el világosságodat és igazságodat, azok vezessenek engem; vigyenek el a te szent hegyedre és hajlékaidba."
+        },
+        {
+            "chapter": 43,
+            "verse": 4,
+            "name": "Psalms 43:4",
+            "text": "Hadd menjek be Isten oltárához, vígasságos örömömnek Istenéhez, és hadd dicsérjelek téged cziterával, Isten, én Istenem! "
+        },
+        {
+            "chapter": 43,
+            "verse": 5,
+            "name": "Psalms 43:5",
+            "text": "Miért csüggedsz el lelkem, miért nyughatatlankodol bennem? Bízzál Istenben, mert még hálát adok én néki, az én szabadítómnak és Istenemnek.   "
+        }
+    ]
+}

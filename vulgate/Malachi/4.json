@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "verses": [
+        {
+            "chapter": 4,
+            "verse": 1,
+            "name": "Malachi 4:1",
+            "text": "Ecce enim dies veniet succensa quasi caminus : et erunt omnes superbi et omnes facientes impietatem stipula : et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem et germen. "
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "name": "Malachi 4:2",
+            "text": "Et orietur vobis timentibus nomen meum sol justitiæ, et sanitas in pennis ejus : et egrediemini, et salietis sicut vituli de armento. "
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "name": "Malachi 4:3",
+            "text": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum, in die qua ego facio, dicit Dominus exercituum. "
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "name": "Malachi 4:4",
+            "text": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israël, præcepta et judicia. "
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "name": "Malachi 4:5",
+            "text": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus et horribilis. "
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "name": "Malachi 4:6",
+            "text": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum : ne forte veniam, et percutiam terram anathemate.    "
+        }
+    ]
+}

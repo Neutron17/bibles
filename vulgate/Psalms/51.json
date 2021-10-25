@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 51,
+    "name": "Psalms 51",
+    "verses": [
+        {
+            "chapter": 51,
+            "verse": 1,
+            "name": "Psalms 51:1",
+            "text": "In finem. Intellectus David, "
+        },
+        {
+            "chapter": 51,
+            "verse": 2,
+            "name": "Psalms 51:2",
+            "text": "cum venit Doëg Idumæus, et nuntiavit Sauli : Venit David in domum Achimelech.  "
+        },
+        {
+            "chapter": 51,
+            "verse": 3,
+            "name": "Psalms 51:3",
+            "text": "  Quid gloriaris in malitia,  qui potens es in iniquitate ? "
+        },
+        {
+            "chapter": 51,
+            "verse": 4,
+            "name": "Psalms 51:4",
+            "text": " Tota die injustitiam cogitavit lingua tua ;  sicut novacula acuta fecisti dolum. "
+        },
+        {
+            "chapter": 51,
+            "verse": 5,
+            "name": "Psalms 51:5",
+            "text": " Dilexisti malitiam super benignitatem ;  iniquitatem magis quam loqui æquitatem. "
+        },
+        {
+            "chapter": 51,
+            "verse": 6,
+            "name": "Psalms 51:6",
+            "text": " Dilexisti omnia verba præcipitationis ;  lingua dolosa. "
+        },
+        {
+            "chapter": 51,
+            "verse": 7,
+            "name": "Psalms 51:7",
+            "text": " Propterea Deus destruet te in finem ;  evellet te, et emigrabit te de tabernaculo tuo,  et radicem tuam de terra viventium. "
+        },
+        {
+            "chapter": 51,
+            "verse": 8,
+            "name": "Psalms 51:8",
+            "text": " Videbunt justi, et timebunt ;  et super eum ridebunt, et dicent : "
+        },
+        {
+            "chapter": 51,
+            "verse": 9,
+            "name": "Psalms 51:9",
+            "text": " Ecce homo qui non posuit Deum adjutorem suum ;  sed speravit in multitudine divitiarum suarum,  et prævaluit in vanitate sua. "
+        },
+        {
+            "chapter": 51,
+            "verse": 10,
+            "name": "Psalms 51:10",
+            "text": " Ego autem, sicut oliva fructifera in domo Dei ;  speravi in misericordia Dei, in æternum et in sæculum sæculi. "
+        },
+        {
+            "chapter": 51,
+            "verse": 11,
+            "name": "Psalms 51:11",
+            "text": " Confitebor tibi in sæculum, quia fecisti ;  et exspectabo nomen tuum,  quoniam bonum est in conspectu sanctorum tuorum.  "
+        }
+    ]
+}

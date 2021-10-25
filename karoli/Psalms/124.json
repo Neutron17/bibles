@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 124,
+    "name": "Psalms 124",
+    "verses": [
+        {
+            "chapter": 124,
+            "verse": 1,
+            "name": "Psalms 124:1",
+            "text": " Grádicsok éneke, Dávidtól. Ha nem az Úr az, a ki velünk volt, így szóljon Izráel,"
+        },
+        {
+            "chapter": 124,
+            "verse": 2,
+            "name": "Psalms 124:2",
+            "text": "Ha nem az Úr az, a ki velünk volt, mikor ránk támadtak az emberek: "
+        },
+        {
+            "chapter": 124,
+            "verse": 3,
+            "name": "Psalms 124:3",
+            "text": "Akkor elevenen nyeltek volna el minket, a mint felgerjedt haragjok ellenünk; "
+        },
+        {
+            "chapter": 124,
+            "verse": 4,
+            "name": "Psalms 124:4",
+            "text": "Akkor elborítottak volna minket a vizek, patak futott volna át felettünk; "
+        },
+        {
+            "chapter": 124,
+            "verse": 5,
+            "name": "Psalms 124:5",
+            "text": "Akkor átfutottak volna rajtunk a felbőszült vizek."
+        },
+        {
+            "chapter": 124,
+            "verse": 6,
+            "name": "Psalms 124:6",
+            "text": "Áldott az Úr, a ki nem adott minket fogaik prédájául! "
+        },
+        {
+            "chapter": 124,
+            "verse": 7,
+            "name": "Psalms 124:7",
+            "text": "Lelkünk megszabadult, mint a madár, a madarásznak tőréből. A tőr elszakadt, mi pedig megszabadultunk. "
+        },
+        {
+            "chapter": 124,
+            "verse": 8,
+            "name": "Psalms 124:8",
+            "text": "A mi segítségünk az Úr nevében van, a ki teremtette az eget és földet.   "
+        }
+    ]
+}

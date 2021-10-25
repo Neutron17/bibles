@@ -1,0 +1,92 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 30,
+    "name": "Psalms 30",
+    "verses": [
+        {
+            "chapter": 30,
+            "verse": 1,
+            "name": "Psalms 30:1",
+            "text": " Dávid zsoltára. Templomszentelési ének."
+        },
+        {
+            "chapter": 30,
+            "verse": 2,
+            "name": "Psalms 30:2",
+            "text": "Magasztallak Uram, hogy felemeltél engem, és nem engedted, hogy ellenségeim örüljenek rajtam. "
+        },
+        {
+            "chapter": 30,
+            "verse": 3,
+            "name": "Psalms 30:3",
+            "text": "Uram, Istenem, hozzád kiáltottam, és te meggyógyítottál engem!"
+        },
+        {
+            "chapter": 30,
+            "verse": 4,
+            "name": "Psalms 30:4",
+            "text": "Uram, felhoztad a Seolból az én lelkemet, fölélesztettél a sírbaszállók közül. "
+        },
+        {
+            "chapter": 30,
+            "verse": 5,
+            "name": "Psalms 30:5",
+            "text": "Zengedezzetek az Úrnak, ti hívei! Dicsőítsétek szent emlékezetét. "
+        },
+        {
+            "chapter": 30,
+            "verse": 6,
+            "name": "Psalms 30:6",
+            "text": "Mert csak pillanatig tart haragja, de élethossziglan jóakarata; este bánat száll be hozzánk, reggelre öröm. "
+        },
+        {
+            "chapter": 30,
+            "verse": 7,
+            "name": "Psalms 30:7",
+            "text": "Azt mondtam azért én jó állapotomban: Nem rendülhetek meg soha."
+        },
+        {
+            "chapter": 30,
+            "verse": 8,
+            "name": "Psalms 30:8",
+            "text": "Uram, jókedvedből erősséget állítottál föl hegyemre; de elrejtéd orczádat, és megroskadtam. "
+        },
+        {
+            "chapter": 30,
+            "verse": 9,
+            "name": "Psalms 30:9",
+            "text": "Hozzád kiáltok, Uram! Az én Uramnak irgalmáért könyörgök!"
+        },
+        {
+            "chapter": 30,
+            "verse": 10,
+            "name": "Psalms 30:10",
+            "text": "Mit használ vérem, ha sírba szállok? Dicsér-e téged a por; hirdeti-é igazságodat? "
+        },
+        {
+            "chapter": 30,
+            "verse": 11,
+            "name": "Psalms 30:11",
+            "text": "Hallgass meg, Uram, könyörülj rajtam! Uram, légy segítségem! "
+        },
+        {
+            "chapter": 30,
+            "verse": 12,
+            "name": "Psalms 30:12",
+            "text": "Siralmamat vígságra fordítottad, leoldoztad gyászruhámat, körülöveztél örömmel. "
+        },
+        {
+            "chapter": 30,
+            "verse": 13,
+            "name": "Psalms 30:13",
+            "text": "Hogy zengjen néked és el ne hallgasson felőled a dicséret: Uram, én Istenem, örökké dicsőítlek téged.  "
+        }
+    ]
+}

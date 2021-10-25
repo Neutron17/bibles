@@ -1,0 +1,416 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 1,
+    "book_name": "Genesis",
+    "chapter": 24,
+    "name": "Genesis 24",
+    "verses": [
+        {
+            "chapter": 24,
+            "verse": 1,
+            "name": "Genesis 24:1",
+            "text": " Ábrahám pedig vén élemedett ember vala, és az Úr mindenben megáldotta vala Ábrahámot."
+        },
+        {
+            "chapter": 24,
+            "verse": 2,
+            "name": "Genesis 24:2",
+            "text": "Monda azért Ábrahám az ő háza öregebb szolgájának, a ki őnéki mindenében gazda vala: Tedd a kezed tomporom alá! "
+        },
+        {
+            "chapter": 24,
+            "verse": 3,
+            "name": "Genesis 24:3",
+            "text": "Hogy megeskesselek téged az Úrra, a mennynek Istenére, és a földnek Istenére, hogy nem vészesz feleséget az én fiamnak a Kananeusok leányai közűl, a kik között lakom."
+        },
+        {
+            "chapter": 24,
+            "verse": 4,
+            "name": "Genesis 24:4",
+            "text": "Hanem elmégysz az én hazámba, és az én rokonságim közé és onnan vészesz feleséget az én fiamnak Izsáknak."
+        },
+        {
+            "chapter": 24,
+            "verse": 5,
+            "name": "Genesis 24:5",
+            "text": "Monda pedig őnéki a szolga: Hátha az a leányzó nem akar velem eljőni e földre, ugyan vissza vigyem-é a te fiadat arra a földre, a honnan kijöttél vala?"
+        },
+        {
+            "chapter": 24,
+            "verse": 6,
+            "name": "Genesis 24:6",
+            "text": "Felele néki Ábrahám: Vigyázz, az én fiamat oda vissza ne vidd."
+        },
+        {
+            "chapter": 24,
+            "verse": 7,
+            "name": "Genesis 24:7",
+            "text": "Az Úr az égnek Istene, ki engemet kihozott az én atyámnak házából, és az én rokonságimnak földéről, a ki szólt nékem, és megesküdött nékem mondván: A te magodnak adom ezt a földet; elbocsátja az ő Angyalát te előtted, hogy onnan végy az én fiamnak feleséget. "
+        },
+        {
+            "chapter": 24,
+            "verse": 8,
+            "name": "Genesis 24:8",
+            "text": "Hogyha pedig nem akar a leányzó teveled eljőni, ment lészesz az én esketésem alól; csakhogy az én fiamat oda vissza ne vidd."
+        },
+        {
+            "chapter": 24,
+            "verse": 9,
+            "name": "Genesis 24:9",
+            "text": "Veté azért a szolga az ő kezét az ő urának Ábrahámnak tompora alá, és megesküvék néki e dolog felől."
+        },
+        {
+            "chapter": 24,
+            "verse": 10,
+            "name": "Genesis 24:10",
+            "text": "És vőn a szolga tíz tevét az ő urának tevéi közűl, és elindula; (mert az urának minden gazdagsága az ő kezében vala). Felkele tehát és elméne Mésopotámiába, a Nákhor városába."
+        },
+        {
+            "chapter": 24,
+            "verse": 11,
+            "name": "Genesis 24:11",
+            "text": "És megpihenteté a tevéket a városon kivűl egy kútfőnél, este felé, mikor a leányok vizet meríteni járnak."
+        },
+        {
+            "chapter": 24,
+            "verse": 12,
+            "name": "Genesis 24:12",
+            "text": "És monda: Uram! én uramnak Ábrahámnak Istene, hozd elém még ma, és légy kegyelmes az én uram Ábrahám iránt."
+        },
+        {
+            "chapter": 24,
+            "verse": 13,
+            "name": "Genesis 24:13",
+            "text": "Ímé én a víz forrása mellé állok és e város lakosainak leányai kijőnek vizet meríteni."
+        },
+        {
+            "chapter": 24,
+            "verse": 14,
+            "name": "Genesis 24:14",
+            "text": "Legyen azért, hogy a mely leánynak ezt mondom: Hajtsd meg a te vedredet, hogy igyam, és az azt mondándja: igyál, sőt a te tevéidet is megitatom: hogy azt rendelted légyen a te szolgádnak Izsáknak, és erről ismerjem meg, hogy irgalmasságot cselekedtél az én urammal."
+        },
+        {
+            "chapter": 24,
+            "verse": 15,
+            "name": "Genesis 24:15",
+            "text": "És lőn, minekelőtte elvégezte volna a beszédet, ímé jő vala Rebeka, Bethuélnek leánya, a ki Milkhának, az Ábrahám testvérének Nákhor feleségének vala fia, és pedig vedrével a vállán. "
+        },
+        {
+            "chapter": 24,
+            "verse": 16,
+            "name": "Genesis 24:16",
+            "text": "A leányzó pedig felette szép ábrázatú vala; szűz, és férfi még nem ismeré őt, és aláméne a forrásra, és megtölté vedrét, és feljöve."
+        },
+        {
+            "chapter": 24,
+            "verse": 17,
+            "name": "Genesis 24:17",
+            "text": "Akkor a szolga eleibe futamodék és monda: Kérlek, adj innom nékem egy kevés vizet a te vedredből."
+        },
+        {
+            "chapter": 24,
+            "verse": 18,
+            "name": "Genesis 24:18",
+            "text": "Az pedig monda: Igyál uram! és sietve leereszté a vedret az ő kezére, és inni ada néki."
+        },
+        {
+            "chapter": 24,
+            "verse": 19,
+            "name": "Genesis 24:19",
+            "text": "És minekutána eleget adott néki innia, monda: A te tevéidnek is merítek, míg eleget nem isznak."
+        },
+        {
+            "chapter": 24,
+            "verse": 20,
+            "name": "Genesis 24:20",
+            "text": "És sietett és kiüríté vedrét a válúba és ismét elfuta a forrásra meríteni, és meríte mind az ő tevéinek."
+        },
+        {
+            "chapter": 24,
+            "verse": 21,
+            "name": "Genesis 24:21",
+            "text": "Az ember pedig álmélkodva néz vala reá, és veszteg hallgat vala, tudni akarván: vajjon szerencséssé teszi-é az Úr az ő útját, vagy nem."
+        },
+        {
+            "chapter": 24,
+            "verse": 22,
+            "name": "Genesis 24:22",
+            "text": "És lőn, mikor a tevék már eleget ittak, elévőn az ember egy aranyfüggőt, a melynek súlya fél siklus, és két karpereczet, a melynek súlya tíz arany. "
+        },
+        {
+            "chapter": 24,
+            "verse": 23,
+            "name": "Genesis 24:23",
+            "text": "És monda: Kinek a leánya vagy te? kérlek mondd meg nékem: van-é a te atyádnak házában hálásra való helyünk?"
+        },
+        {
+            "chapter": 24,
+            "verse": 24,
+            "name": "Genesis 24:24",
+            "text": "Az pedig felele néki: Bethuél leánya vagyok a Milkha fiáé, a kit ő Nákhornak szűlt. "
+        },
+        {
+            "chapter": 24,
+            "verse": 25,
+            "name": "Genesis 24:25",
+            "text": "Azt is mondá: Szalma is, abrak is bőven van minálunk, és hálásra való hely is van."
+        },
+        {
+            "chapter": 24,
+            "verse": 26,
+            "name": "Genesis 24:26",
+            "text": "Meghajtá azért magát az ember, és imádá az Urat."
+        },
+        {
+            "chapter": 24,
+            "verse": 27,
+            "name": "Genesis 24:27",
+            "text": "És monda: Áldott az Úr az én uramnak Ábrahámnak Istene, ki nem vonta meg az ő irgalmasságát és hűségét az én uramtól. Az Úr vezérlett engem ez útamban az én uram atyjafiainak házához."
+        },
+        {
+            "chapter": 24,
+            "verse": 28,
+            "name": "Genesis 24:28",
+            "text": "Elfuta azonközben a leányzó, és elbeszélé az ő anyja házában, a mint ezek történtek."
+        },
+        {
+            "chapter": 24,
+            "verse": 29,
+            "name": "Genesis 24:29",
+            "text": "Vala pedig Rebekának egy bátyja, kinek neve Lábán vala. És kifutamodék Lábán ahhoz az emberhez a forráshoz."
+        },
+        {
+            "chapter": 24,
+            "verse": 30,
+            "name": "Genesis 24:30",
+            "text": "Mert mikor látta a függőt, és a pereczeket az ő húgának karjain, és hallotta húgának Rebekának beszédét, a ki ezt mondja vala: Így szóla nékem az a férfiú; akkor méne ki a férfiúhoz; és ímé ez ott áll vala a tevék mellett a forrásnál."
+        },
+        {
+            "chapter": 24,
+            "verse": 31,
+            "name": "Genesis 24:31",
+            "text": "És monda: Jőjj be Istennek áldott embere; mit állasz ide kinn? holott én elkészítettem a házat, és a tevéknek is van hely."
+        },
+        {
+            "chapter": 24,
+            "verse": 32,
+            "name": "Genesis 24:32",
+            "text": "Beméne azért a férfiú a házhoz, ő pedig lenyergelé a tevéket, és ada a tevéknek szalmát és abrakot; és vizet az ő lábai megmosására és az emberek lábainak, kik ő vele valának."
+        },
+        {
+            "chapter": 24,
+            "verse": 33,
+            "name": "Genesis 24:33",
+            "text": "És enni valót tevének eleibe, de ő monda: Nem eszem, míg el nem mondom az én beszédemet. És szóla: Mondd el."
+        },
+        {
+            "chapter": 24,
+            "verse": 34,
+            "name": "Genesis 24:34",
+            "text": "Monda azért: Én az Ábrahám szolgája vagyok."
+        },
+        {
+            "chapter": 24,
+            "verse": 35,
+            "name": "Genesis 24:35",
+            "text": "Az Úr pedig igen megáldotta az én uramat, úgy hogy nagygyá lett: mert adott néki juhokat, barmokat, ezüstöt, aranyat, szolgákat, szolgálóleányokat, tevéket, szamarakat."
+        },
+        {
+            "chapter": 24,
+            "verse": 36,
+            "name": "Genesis 24:36",
+            "text": "És Sára az én uramnak felesége fiat szűlt az én uramnak, az ő vénségében, és annak adá mindenét, a mije van. "
+        },
+        {
+            "chapter": 24,
+            "verse": 37,
+            "name": "Genesis 24:37",
+            "text": "Engem pedig megesküdtetett az én uram, mondván: Ne végy feleséget az én fiamnak a Kananeusok leányai közűl, a kiknek földjén én lakom."
+        },
+        {
+            "chapter": 24,
+            "verse": 38,
+            "name": "Genesis 24:38",
+            "text": "Hanem menj el az én atyámnak házához, és az én rokonságom közé, hogy onnan végy feleséget az én fiamnak."
+        },
+        {
+            "chapter": 24,
+            "verse": 39,
+            "name": "Genesis 24:39",
+            "text": "Mikor pedig azt mondám az én uramnak: Hátha nem akarna velem az a leányzó eljőni?"
+        },
+        {
+            "chapter": 24,
+            "verse": 40,
+            "name": "Genesis 24:40",
+            "text": "Monda nékem: Az Úr, a kinek én színe előtt jártam, elbocsátja az ő angyalát teveled, és szerencséssé teszi a te útadat, hogy feleséget vehess az én fiamnak az én nemzetségem közűl, és az én atyám házából."
+        },
+        {
+            "chapter": 24,
+            "verse": 41,
+            "name": "Genesis 24:41",
+            "text": "Csak akkor leszesz fölmentve esketésem alól, ha elmenéndesz az én nemzetségem közé; és ha nem adják oda: ment leszesz az én esketésem alól."
+        },
+        {
+            "chapter": 24,
+            "verse": 42,
+            "name": "Genesis 24:42",
+            "text": "Mikor ma a forráshoz érkezém, mondék: Uram, én uramnak, Ábrahámnak Istene, vajha szerencséssé tennéd az én útamat, melyen járok:"
+        },
+        {
+            "chapter": 24,
+            "verse": 43,
+            "name": "Genesis 24:43",
+            "text": "Ímé én e forrás mellett állok; és legyen, hogy az a hajadon, a ki kijön vizet meríteni, s a kinek azt mondom: Adj innom nékem egy kevés vizet a te vedredből,"
+        },
+        {
+            "chapter": 24,
+            "verse": 44,
+            "name": "Genesis 24:44",
+            "text": "És az ezt mondja nékem: Te is igyál, és a te tevéidnek is merítek; az legyen a feleség, a kit az Úr az én uram fiának rendelt."
+        },
+        {
+            "chapter": 24,
+            "verse": 45,
+            "name": "Genesis 24:45",
+            "text": "Én még el sem végeztem vala az én szívemben a beszédet, és ímé kijő vala Rebeka, vedrével a vállán, és leméne a forrásra és meríte, én pedig mondék néki: Adj innom kérlek."
+        },
+        {
+            "chapter": 24,
+            "verse": 46,
+            "name": "Genesis 24:46",
+            "text": "Ő pedig sietett és leereszté az ő vedrét és monda: Igyál, sőt a te tevéidnek is inni adok; és én ivám, s a tevéknek is inni ada."
+        },
+        {
+            "chapter": 24,
+            "verse": 47,
+            "name": "Genesis 24:47",
+            "text": "És megkérdezém őt és mondék: Ki leánya vagy? ő pedig felele: Bethuélnek, a Nákhor fiának leánya vagyok, a kit Milkha szűlt vala őnéki. Ekkor a függőt orrába, és e pereczeket karjaira tevém."
+        },
+        {
+            "chapter": 24,
+            "verse": 48,
+            "name": "Genesis 24:48",
+            "text": "Meghajtván azért magamat, imádám az Urat, és áldám az Urat, az én uramnak Ábrahámnak Istenét, ki engem igaz úton vezérelt, hogy az én uram atyjafiának leányát vegyem az ő fiának feleségűl."
+        },
+        {
+            "chapter": 24,
+            "verse": 49,
+            "name": "Genesis 24:49",
+            "text": "Most azért, ha szeretettel és hűséggel akartok lenni az én uramhoz, mondjátok meg; ha pedig nem, adjátok tudtomra, hogy én vagy jobbra vagy balra forduljak."
+        },
+        {
+            "chapter": 24,
+            "verse": 50,
+            "name": "Genesis 24:50",
+            "text": "És felele Lábán és Bethuél, és mondának: Az Úrtól van e dolog: Nem mondhatunk neked sem jót, sem rosszat."
+        },
+        {
+            "chapter": 24,
+            "verse": 51,
+            "name": "Genesis 24:51",
+            "text": "Ímé előtted van Rebeka, vegyed, menj el; és legyen felesége a te urad fiának, a mint az Úr elvégezte."
+        },
+        {
+            "chapter": 24,
+            "verse": 52,
+            "name": "Genesis 24:52",
+            "text": "És lőn, a mint hallja vala az Ábrahám szolgája azoknak beszédét, meghajtá magát a földig az Úr előtt."
+        },
+        {
+            "chapter": 24,
+            "verse": 53,
+            "name": "Genesis 24:53",
+            "text": "És hoza elő a szolga ezüst edényeket és arany edényeket és ruhákat, és adá azokat Rebekának: drága ajándékokat ada az ő bátyjának is és az ő anyjának."
+        },
+        {
+            "chapter": 24,
+            "verse": 54,
+            "name": "Genesis 24:54",
+            "text": "Evének azután és ivának, ő és a férfiak, a kik ő vele valának, és ott hálának. Mikor pedig felkelének reggel, monda: Bocsássatok el engem az én uramhoz."
+        },
+        {
+            "chapter": 24,
+            "verse": 55,
+            "name": "Genesis 24:55",
+            "text": "Monda pedig a leány bátyja és anyja: Maradjon velünk a leány még vagy tíz napig, azután menjen el."
+        },
+        {
+            "chapter": 24,
+            "verse": 56,
+            "name": "Genesis 24:56",
+            "text": "A szolga pedig monda nékik: Ne késleljetek meg engem, holott az Úr szerencséssé tette az én útamat; bocsássatok el azért engem, hogy menjek az én uramhoz."
+        },
+        {
+            "chapter": 24,
+            "verse": 57,
+            "name": "Genesis 24:57",
+            "text": "Mondának akkor: Hívjuk elő a leányt, és kérdjük meg őt."
+        },
+        {
+            "chapter": 24,
+            "verse": 58,
+            "name": "Genesis 24:58",
+            "text": "Szólíták azért Rebekát, és mondának néki: Akarsz-é elmenni e férfiúval? és monda: Elmegyek."
+        },
+        {
+            "chapter": 24,
+            "verse": 59,
+            "name": "Genesis 24:59",
+            "text": "Elbocsáták azért Rebekát, az ő húgokat, és az ő dajkáját, és az Ábrahám szolgáját, és az ő embereit."
+        },
+        {
+            "chapter": 24,
+            "verse": 60,
+            "name": "Genesis 24:60",
+            "text": "És megáldák Rebekát, és mondák néki: Te mi húgunk! szaporodjál ezerszer való ezerig. És bírja a te magod az ő ellenségeinek kapuját. "
+        },
+        {
+            "chapter": 24,
+            "verse": 61,
+            "name": "Genesis 24:61",
+            "text": "És felkele Rebeka és az ő szolgálóleányai, és felűlének a tevékre, s követék azt a férfiút. Így vevé a szolga Rebekát, és elméne."
+        },
+        {
+            "chapter": 24,
+            "verse": 62,
+            "name": "Genesis 24:62",
+            "text": "Izsák pedig visszajő vala a Lakhai Rói forrástól; és lakik vala a déli tartományban. "
+        },
+        {
+            "chapter": 24,
+            "verse": 63,
+            "name": "Genesis 24:63",
+            "text": "És kiméne Izsák este felé elmélkedni a mezőre, és felemelé szemeit és látá, hogy ímé tevék jőnek."
+        },
+        {
+            "chapter": 24,
+            "verse": 64,
+            "name": "Genesis 24:64",
+            "text": "Rebeka is felemelé szemeit s meglátá Izsákot, és leszálla a tevéről."
+        },
+        {
+            "chapter": 24,
+            "verse": 65,
+            "name": "Genesis 24:65",
+            "text": "És monda a szolgának: Kicsoda az a férfiú, a ki a mezőn előnkbe jő? A szolga pedig monda: Az én uram ő. Akkor fogta a fátyolt és elfedezé magát."
+        },
+        {
+            "chapter": 24,
+            "verse": 66,
+            "name": "Genesis 24:66",
+            "text": "Elbeszélé azután a szolga Izsáknak mindazokat a dolgokat, a melyeket cselekedett vala."
+        },
+        {
+            "chapter": 24,
+            "verse": 67,
+            "name": "Genesis 24:67",
+            "text": "Izsák pedig bevivé Rebekát Sárának az ő anyjának sátorába. És elvevé Rebekát és lőn néki felesége és szereté őt. S megvigasztalódék Izsák az ő anyja halála után.  "
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 21,
+    "book_name": "Ecclesiastes",
+    "chapter": 6,
+    "name": "Ecclesiastes 6",
+    "verses": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "name": "Ecclesiastes 6:1",
+            "text": "Est et aliud malum quod vidi sub sole,  et quidem frequens apud homines : "
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "name": "Ecclesiastes 6:2",
+            "text": " vir cui dedit Deus divitias,  et substantiam, et honorem,  et nihil deest animæ suæ ex omnibus quæ desiderat ;  nec tribuit ei potestatem Deus ut comedat ex eo,  sed homo extraneus vorabit illud :  hoc vanitas et miseria magna est. "
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "name": "Ecclesiastes 6:3",
+            "text": " Si genuerit quispiam centum liberos,  et vixerit multos annos,  et plures dies ætatis habuerit,  et anima illius non utatur bonis substantiæ suæ,  sepulturaque careat :  de hoc ergo pronuntio quod melior illo sit abortivus. "
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "name": "Ecclesiastes 6:4",
+            "text": " Frustra enim venit,  et pergit ad tenebras,  et oblivione delebitur nomen ejus. "
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "name": "Ecclesiastes 6:5",
+            "text": " Non vidit solem,  neque cognovit distantiam boni et mali. "
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "name": "Ecclesiastes 6:6",
+            "text": " Etiam si duobus millibus annis vixerit,  et non fuerit perfruitus bonis,  nonne ad unum locum properant omnia ? "
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "name": "Ecclesiastes 6:7",
+            "text": " Omnis labor hominis in ore ejus ;  sed anima ejus non implebitur. "
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "name": "Ecclesiastes 6:8",
+            "text": " Quid habet amplius sapiens a stulto ?  et quid pauper, nisi ut pergat illuc ubi est vita ? "
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "name": "Ecclesiastes 6:9",
+            "text": " Melius est videre quod cupias,  quam desiderare quod nescias.  Sed et hoc vanitas est, et præsumptio spiritus. "
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "name": "Ecclesiastes 6:10",
+            "text": " Qui futurus est, jam vocatum est nomen ejus ;  et scitur quod homo sit,  et non possit contra fortiorem se in judicio contendere. "
+        },
+        {
+            "chapter": 6,
+            "verse": 11,
+            "name": "Ecclesiastes 6:11",
+            "text": " Verba sunt plurima,  multamque in disputando habentia vanitatem.  "
+        }
+    ]
+}

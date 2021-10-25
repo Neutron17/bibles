@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 22,
+    "name": "Psalms 22",
+    "verses": [
+        {
+            "chapter": 22,
+            "verse": 1,
+            "name": "Psalms 22:1",
+            "text": "Psalmus David.   Dominus regit me, et nihil mihi deerit : "
+        },
+        {
+            "chapter": 22,
+            "verse": 2,
+            "name": "Psalms 22:2",
+            "text": " in loco pascuæ, ibi me collocavit.  Super aquam refectionis educavit me ; "
+        },
+        {
+            "chapter": 22,
+            "verse": 3,
+            "name": "Psalms 22:3",
+            "text": " animam meam convertit.  Deduxit me super semitas justitiæ  propter nomen suum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 4,
+            "name": "Psalms 22:4",
+            "text": " Nam etsi ambulavero in medio umbræ mortis,  non timebo mala, quoniam tu mecum es.  Virga tua, et baculus tuus,  ipsa me consolata sunt. "
+        },
+        {
+            "chapter": 22,
+            "verse": 5,
+            "name": "Psalms 22:5",
+            "text": " Parasti in conspectu meo mensam  adversus eos qui tribulant me ;  impinguasti in oleo caput meum :  et calix meus inebrians, quam præclarus est ! "
+        },
+        {
+            "chapter": 22,
+            "verse": 6,
+            "name": "Psalms 22:6",
+            "text": " Et misericordia tua subsequetur me  omnibus diebus vitæ meæ ;  et ut inhabitem in domo Domini  in longitudinem dierum.  "
+        }
+    ]
+}

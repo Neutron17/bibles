@@ -1,0 +1,74 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 47,
+    "name": "Psalms 47",
+    "verses": [
+        {
+            "chapter": 47,
+            "verse": 1,
+            "name": "Psalms 47:1",
+            "text": " Az éneklőmesternek, a Kóráh fiainak zsoltára. "
+        },
+        {
+            "chapter": 47,
+            "verse": 2,
+            "name": "Psalms 47:2",
+            "text": "Ti népek mind tapsoljatok, harsogjatok Istennek vígságos szóval."
+        },
+        {
+            "chapter": 47,
+            "verse": 3,
+            "name": "Psalms 47:3",
+            "text": "Mert az Úr felséges, rettenetes; nagy király az egész földön. "
+        },
+        {
+            "chapter": 47,
+            "verse": 4,
+            "name": "Psalms 47:4",
+            "text": "Alánk veti a népeket, a nemzeteket lábaink alá. "
+        },
+        {
+            "chapter": 47,
+            "verse": 5,
+            "name": "Psalms 47:5",
+            "text": "Kiválasztja nékünk örökségünket, Jákób dicsőségét, a kit szeret. Szela. "
+        },
+        {
+            "chapter": 47,
+            "verse": 6,
+            "name": "Psalms 47:6",
+            "text": "Felvonul Isten harsona-szónál, kürtzengés közt az Úr. "
+        },
+        {
+            "chapter": 47,
+            "verse": 7,
+            "name": "Psalms 47:7",
+            "text": "Énekeljetek Istennek, énekeljetek; énekeljetek királyunknak, énekeljetek!"
+        },
+        {
+            "chapter": 47,
+            "verse": 8,
+            "name": "Psalms 47:8",
+            "text": "Mert az egész föld királya az Isten: énekeljetek bölcseséggel."
+        },
+        {
+            "chapter": 47,
+            "verse": 9,
+            "name": "Psalms 47:9",
+            "text": "Isten uralkodik a nemzetek fölött; Isten ott ül az ő szentségének trónján. "
+        },
+        {
+            "chapter": 47,
+            "verse": 10,
+            "name": "Psalms 47:10",
+            "text": "Népek fejedelmei gyülekeztek össze, mint Ábrahám Istenének népe, mert Istené a földnek pajzsai; magasságos ő igen!  "
+        }
+    ]
+}

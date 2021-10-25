@@ -1,0 +1,44 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 24,
+    "book_name": "Jeremiah",
+    "chapter": 45,
+    "name": "Jeremiah 45",
+    "verses": [
+        {
+            "chapter": 45,
+            "verse": 1,
+            "name": "Jeremiah 45:1",
+            "text": "Verbum quod locutus est Jeremias propheta ad Baruch filium Neriæ, cum scripsisset verba hæc in libro ex ore Jeremiæ, anno quarto Joakim filii Josiæ regis Juda, dicens : "
+        },
+        {
+            "chapter": 45,
+            "verse": 2,
+            "name": "Jeremiah 45:2",
+            "text": "Hæc dicit Dominus Deus Israël ad te, Baruch : "
+        },
+        {
+            "chapter": 45,
+            "verse": 3,
+            "name": "Jeremiah 45:3",
+            "text": "Dixisti : Væ misero mihi ! quoniam addidit Dominus dolorem dolori meo : laboravi in gemitu meo, et requiem non inveni. "
+        },
+        {
+            "chapter": 45,
+            "verse": 4,
+            "name": "Jeremiah 45:4",
+            "text": "Hæc dicit Dominus : Sic dices ad eum : Ecce quos ædificavi, ego destruo, et quos plantavi, ego evello, et universam terram hanc : "
+        },
+        {
+            "chapter": 45,
+            "verse": 5,
+            "name": "Jeremiah 45:5",
+            "text": "et tu quæris tibi grandia ? noli quærere, quia ecce ego adducam malum super omnem carnem, ait Dominus, et dabo tibi animam tuam in salutem in omnibus locis ad quæcumque perrexeris.   "
+        }
+    ]
+}

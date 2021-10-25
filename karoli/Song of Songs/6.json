@@ -1,0 +1,74 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 22,
+    "book_name": "Song of Songs",
+    "chapter": 6,
+    "name": "Song of Songs 6",
+    "verses": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "name": "Song of Songs 6:1",
+            "text": " Szép vagy én mátkám, mint Tirsa városa, kedves, mint Jeruzsálem, rettenetes, mint a zászlós tábor. "
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "name": "Song of Songs 6:2",
+            "text": "Fordítsd el a te szemeidet én tőlem, mert azok megzavarnak engem. A te hajad olyan, mint a kecskéknek nyája, melyek a Gileádról szállanak alá. "
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "name": "Song of Songs 6:3",
+            "text": "A te fogaid hasonlók a juhok nyájához, melyek feljőnek a fördőből, melyek mind kettősöket ellenek, és meddő azok között nincsen.  "
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "name": "Song of Songs 6:4",
+            "text": "Mint a pomagránát darabja a te vakszemed, a te fátyolod alatt. "
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "name": "Song of Songs 6:5",
+            "text": "Hatvanan vannak a királynék, és nyolczvanan az ágyasok és számtalan a leányzó."
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "name": "Song of Songs 6:6",
+            "text": "És az én galambom, az én tökéletesem, az ő anyjának egyetlenegye, az ő szülőjének választottja. Látják a leányok, és boldognak mondják őt, a királynéasszonyok és az ágyasok, és dicsérik őt."
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "name": "Song of Songs 6:7",
+            "text": "Kicsoda az, a ki úgy láttatik mintegy hajnal, szép, mint a hold, tiszta, mint a nap, rettenetes, mint a zászlós tábor?"
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "name": "Song of Songs 6:8",
+            "text": "A diófás kertekbe mentem vala alá, hogy a völgynek zöld fűveit lássam; hogy megnézzem, ha fakad-é a szőlő, és a pomagránátfák virágzanak-é?"
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "name": "Song of Songs 6:9",
+            "text": "Nem tudtam, hogy az én elmém ültete engem az én nemes népemnek díszhintajába."
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "name": "Song of Songs 6:10",
+            "text": "Térj meg, oh Sulamit! térj meg, térj meg, hogy nézzünk téged! Mit néztek Sulamiton? mintegy Machanaimbeli körtánczot!  "
+        }
+    ]
+}

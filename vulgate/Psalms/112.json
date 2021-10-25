@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 112,
+    "name": "Psalms 112",
+    "verses": [
+        {
+            "chapter": 112,
+            "verse": 1,
+            "name": "Psalms 112:1",
+            "text": "Alleluja.   Laudate, pueri, Dominum ;  laudate nomen Domini. "
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "name": "Psalms 112:2",
+            "text": " Sit nomen Domini benedictum  ex hoc nunc et usque in sæculum. "
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "name": "Psalms 112:3",
+            "text": " A solis ortu usque ad occasum  laudabile nomen Domini. "
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "name": "Psalms 112:4",
+            "text": " Excelsus super omnes gentes Dominus,  et super cælos gloria ejus. "
+        },
+        {
+            "chapter": 112,
+            "verse": 5,
+            "name": "Psalms 112:5",
+            "text": " Quis sicut Dominus Deus noster, qui in altis habitat, "
+        },
+        {
+            "chapter": 112,
+            "verse": 6,
+            "name": "Psalms 112:6",
+            "text": " et humilia respicit in cælo et in terra ? "
+        },
+        {
+            "chapter": 112,
+            "verse": 7,
+            "name": "Psalms 112:7",
+            "text": " Suscitans a terra inopem,  et de stercore erigens pauperem : "
+        },
+        {
+            "chapter": 112,
+            "verse": 8,
+            "name": "Psalms 112:8",
+            "text": " ut collocet eum cum principibus,  cum principibus populi sui. "
+        },
+        {
+            "chapter": 112,
+            "verse": 9,
+            "name": "Psalms 112:9",
+            "text": " Qui habitare facit sterilem in domo,  matrem filiorum lætantem.  "
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 1,
+    "book_name": "Genesis",
+    "chapter": 1,
+    "name": "Genesis 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Genesis 1:1",
+            "text": " Kezdetben teremté Isten az eget és a földet. "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Genesis 1:2",
+            "text": "A föld pedig kietlen és puszta vala, és setétség vala a mélység színén, és az Isten Lelke lebeg vala a vizek felett."
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Genesis 1:3",
+            "text": "És monda Isten: Legyen világosság: és lőn világosság. "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Genesis 1:4",
+            "text": "És látá Isten, hogy jó a világosság; és elválasztá Isten a világosságot a setétségtől. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Genesis 1:5",
+            "text": "És nevezé Isten a világosságot nappalnak, és a setétséget nevezé éjszakának: és lőn este és lőn reggel, első nap."
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Genesis 1:6",
+            "text": "És monda Isten: Legyen mennyezet a víz között, a mely elválaszsza a vizeket a vizektől. "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Genesis 1:7",
+            "text": "Teremté tehát Isten a mennyezetet, és elválasztá a mennyezet alatt való vizeket, a mennyezet felett való vizektől. És úgy lőn. "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Genesis 1:8",
+            "text": "És nevezé Isten a mennyezetet égnek: és lőn este, és lőn reggel, második nap."
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Genesis 1:9",
+            "text": "És monda Isten: Gyűljenek egybe az ég alatt való vizek egy helyre, hogy tessék meg a száraz. És úgy lőn. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Genesis 1:10",
+            "text": "És nevezé Isten a szárazat földnek; az egybegyűlt vizeket pedig tengernek nevezé. És látá Isten, hogy jó. "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Genesis 1:11",
+            "text": "Azután monda Isten: Hajtson a föld gyenge fűvet, maghozó fűvet, gyümölcsfát, a mely gyümölcsöt hozzon az ő neme szerint, a melyben legyen néki magva e földön. És úgy lőn."
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Genesis 1:12",
+            "text": "Hajta tehát a föld gyenge fűvet, maghozó fűvet az ő neme szerint, és gyümölcstermő fát, a melynek gyümölcsében mag van az ő neme szerint. És látá Isten, hogy jó."
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Genesis 1:13",
+            "text": "És lőn este és lőn reggel, harmadik nap."
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Genesis 1:14",
+            "text": "És monda Isten: Legyenek világító testek az ég mennyezetén, hogy elválaszszák a nappalt az éjszakától, és legyenek jelek, és meghatározói ünnepeknek, napoknak és esztendőknek. "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Genesis 1:15",
+            "text": "És legyenek világítókul az ég mennyezetén hogy világítsanak a földre. És úgy lőn. "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Genesis 1:16",
+            "text": "Teremté tehát Isten a két nagy világító testet: a nagyobbik világító testet, hogy uralkodjék nappal és a kisebbik világító testet, hogy uralkodjék éjjel; és a csillagokat. "
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "Genesis 1:17",
+            "text": "És helyezteté Isten azokat az ég mennyezetére, hogy világítsanak a földre;"
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "Genesis 1:18",
+            "text": "És hogy uralkodjanak a nappalon és az éjszakán, és elválaszszák a világosságot a setétségtől. És látá Isten, hogy jó."
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "Genesis 1:19",
+            "text": "És lőn este és lőn reggel, negyedik nap."
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "Genesis 1:20",
+            "text": "És monda Isten: Pezsdűljenek a vizek élő állatok nyüzsgésétől; és madarak repdessenek a föld felett, az ég mennyezetének színén."
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "Genesis 1:21",
+            "text": "És teremté Isten a nagy vízi állatokat, és mindazokat a csúszó-mászó állatokat, a melyek nyüzsögnek a vizekben az ő nemök szerint, és mindenféle szárnyas repdesőt az ő neme szerint. És látá Isten, hogy jó."
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "Genesis 1:22",
+            "text": "És megáldá azokat Isten, mondván: Szaporodjatok, és sokasodjatok, és töltsétek be a tenger vizeit; a madár is sokasodjék a földön. "
+        },
+        {
+            "chapter": 1,
+            "verse": 23,
+            "name": "Genesis 1:23",
+            "text": "És lőn este és lőn reggel, ötödik nap."
+        },
+        {
+            "chapter": 1,
+            "verse": 24,
+            "name": "Genesis 1:24",
+            "text": "Azután monda az Isten: Hozzon a föld élő állatokat nemök szerint: barmokat, csúszó-mászó állatokat és szárazföldi vadakat nemök szerint. És úgy lőn."
+        },
+        {
+            "chapter": 1,
+            "verse": 25,
+            "name": "Genesis 1:25",
+            "text": "Teremté tehát Isten a szárazföldi vadakat nemök szerint, a barmokat nemök szerint, és a földön csúszó-mászó mindenféle állatokat nemök szerint. És látá Isten, hogy jó. "
+        },
+        {
+            "chapter": 1,
+            "verse": 26,
+            "name": "Genesis 1:26",
+            "text": " És monda Isten: Teremtsünk embert a mi képünkre és hasonlatosságunkra; és uralkodjék a tenger halain, az ég madarain, a barmokon, mind az egész földön, és a földön csúszó-mászó mindenféle állatokon. "
+        },
+        {
+            "chapter": 1,
+            "verse": 27,
+            "name": "Genesis 1:27",
+            "text": "Teremté tehát az Isten az embert az ő képére, Isten képére teremté őt: férfiúvá és asszonynyá teremté őket. "
+        },
+        {
+            "chapter": 1,
+            "verse": 28,
+            "name": "Genesis 1:28",
+            "text": "És megáldá Isten őket, és monda nékik Isten: Szaporodjatok és sokasodjatok, és töltsétek be a földet és hajtsátok birodalmatok alá; és uralkodjatok a tenger halain, az ég madarain, és a földön csúszó-mászó mindenféle állatokon."
+        },
+        {
+            "chapter": 1,
+            "verse": 29,
+            "name": "Genesis 1:29",
+            "text": "És monda Isten: Ímé néktek adok minden maghozó fűvet az egész föld színén, és minden fát, a melyen maghozó gyümölcs van; az legyen néktek eledelül. "
+        },
+        {
+            "chapter": 1,
+            "verse": 30,
+            "name": "Genesis 1:30",
+            "text": "A föld minden vadainak pedig, és az ég minden madarainak, és a földön csúszó-mászó mindenféle állatoknak, a melyekben élő lélek van, a zöld fűveket adom eledelűl. És úgy lőn. "
+        },
+        {
+            "chapter": 1,
+            "verse": 31,
+            "name": "Genesis 1:31",
+            "text": "És látá Isten, hogy minden a mit teremtett vala, ímé igen jó. És lőn este és lőn reggel, hatodik nap.  "
+        }
+    ]
+}

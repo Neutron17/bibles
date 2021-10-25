@@ -1,0 +1,392 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 6,
+    "book_name": "Joshua",
+    "chapter": 15,
+    "name": "Joshua 15",
+    "verses": [
+        {
+            "chapter": 15,
+            "verse": 1,
+            "name": "Joshua 15:1",
+            "text": "Igitur sors filiorum Judæ per cognationes suas ista fuit : a termino Edom, desertum Sin, contra meridiem, et usque ad extremam partem australis plagæ. "
+        },
+        {
+            "chapter": 15,
+            "verse": 2,
+            "name": "Joshua 15:2",
+            "text": "Initium ejus a summitate maris salsissimi, et a lingua ejus, quæ respicit meridiem. "
+        },
+        {
+            "chapter": 15,
+            "verse": 3,
+            "name": "Joshua 15:3",
+            "text": "Egrediturque contra ascensum Scorpionis, et pertransit in Sina : ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa, "
+        },
+        {
+            "chapter": 15,
+            "verse": 4,
+            "name": "Joshua 15:4",
+            "text": "atque inde pertransiens in Asemona, et perveniens ad torrentem Ægypti : eruntque termini ejus mare magnum. Hic erit finis meridianæ plagæ. "
+        },
+        {
+            "chapter": 15,
+            "verse": 5,
+            "name": "Joshua 15:5",
+            "text": "Ab oriente vero erit initium, mare salsissimum usque ad extrema Jordanis : et ea quæ respiciunt ad aquilonem, a lingua maris usque ad eumdem Jordanis fluvium. "
+        },
+        {
+            "chapter": 15,
+            "verse": 6,
+            "name": "Joshua 15:6",
+            "text": "Ascenditque terminus in Beth Hagla, et transit ab aquilone in Beth Araba, ascendens ad lapidem Boën filii Ruben : "
+        },
+        {
+            "chapter": 15,
+            "verse": 7,
+            "name": "Joshua 15:7",
+            "text": "et tendens usque ad terminos Debera de valle Achor, contra aquilonem respiciens Galgala, quæ est ex adverso ascensionis Adommim, ab australi parte torrentis : transitque aquas, quæ vocantur fons solis : et erunt exitus ejus ad fontem Rogel. "
+        },
+        {
+            "chapter": 15,
+            "verse": 8,
+            "name": "Joshua 15:8",
+            "text": "Ascenditque per convallem filii Ennom ex latere Jebusæi ad meridiem, hæc est Jerusalem : et inde se erigens ad verticem montis, qui est contra Geennom ad occidentem in summitate vallis Raphaim contra aquilonem : "
+        },
+        {
+            "chapter": 15,
+            "verse": 9,
+            "name": "Joshua 15:9",
+            "text": "pertransitque a vertice montis usque ad fontem aquæ Nephtoa : et pervenit usque ad vicos montis Ephron : inclinaturque in Baala, quæ est Cariathiarim, id est, urbs silvarum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 10,
+            "name": "Joshua 15:10",
+            "text": "Et circuit de Baala contra occidentem, usque ad montem Seir : transitque juxta latus montis Jarim ad aquilonem in Cheslon : et descendit in Bethsames, transitque in Thamna. "
+        },
+        {
+            "chapter": 15,
+            "verse": 11,
+            "name": "Joshua 15:11",
+            "text": "Et pervenit contra aquilonem partis Accaron ex latere : inclinaturque Sechrona, et transit montem Baala : pervenitque in Jebneel, et magni maris contra occidentem fine concluditur. "
+        },
+        {
+            "chapter": 15,
+            "verse": 12,
+            "name": "Joshua 15:12",
+            "text": "Hi sunt termini filiorum Juda per circuitum in cognationibus suis.  "
+        },
+        {
+            "chapter": 15,
+            "verse": 13,
+            "name": "Joshua 15:13",
+            "text": " Caleb vero filio Jephone dedit partem in medio filiorum Juda, sicut præceperat ei Dominus : Cariath Arbe patris Enac, ipsa est Hebron. "
+        },
+        {
+            "chapter": 15,
+            "verse": 14,
+            "name": "Joshua 15:14",
+            "text": "Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac. "
+        },
+        {
+            "chapter": 15,
+            "verse": 15,
+            "name": "Joshua 15:15",
+            "text": "Atque inde conscendens venit ad habitatores Dabir, quæ prius vocabatur Cariath Sepher, id est, civitas litterarum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 16,
+            "name": "Joshua 15:16",
+            "text": "Dixitque Caleb : Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem. "
+        },
+        {
+            "chapter": 15,
+            "verse": 17,
+            "name": "Joshua 15:17",
+            "text": "Cepitque eam Othoniel filius Cenez frater Caleb junior : deditque ei Axam filiam suam uxorem. "
+        },
+        {
+            "chapter": 15,
+            "verse": 18,
+            "name": "Joshua 15:18",
+            "text": "Quæ, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum. Suspiravitque ut sedebat in asino : cui Caleb : Quid habes ? inquit. "
+        },
+        {
+            "chapter": 15,
+            "verse": 19,
+            "name": "Joshua 15:19",
+            "text": "At illa respondit : Da mihi benedictionem : terram australem et arentem dedisti mihi ; junge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius.  "
+        },
+        {
+            "chapter": 15,
+            "verse": 20,
+            "name": "Joshua 15:20",
+            "text": " Hæc est possessio tribus filiorum Juda per cognationes suas. "
+        },
+        {
+            "chapter": 15,
+            "verse": 21,
+            "name": "Joshua 15:21",
+            "text": "Erantque civitates ab extremis partibus filiorum Juda juxta terminos Edom a meridie : Cabseel et Eder et Jagur, "
+        },
+        {
+            "chapter": 15,
+            "verse": 22,
+            "name": "Joshua 15:22",
+            "text": "et Cyna et Dimona et Adada, "
+        },
+        {
+            "chapter": 15,
+            "verse": 23,
+            "name": "Joshua 15:23",
+            "text": "et Cades et Asor et Jethnam, "
+        },
+        {
+            "chapter": 15,
+            "verse": 24,
+            "name": "Joshua 15:24",
+            "text": "Ziph et Telem et Baloth, "
+        },
+        {
+            "chapter": 15,
+            "verse": 25,
+            "name": "Joshua 15:25",
+            "text": "Asor nova et Carioth, Hesron, hæc est Asor ; "
+        },
+        {
+            "chapter": 15,
+            "verse": 26,
+            "name": "Joshua 15:26",
+            "text": "Amam, Sama, et Molada, "
+        },
+        {
+            "chapter": 15,
+            "verse": 27,
+            "name": "Joshua 15:27",
+            "text": "et Asergadda et Hassemon et Bethphelet, "
+        },
+        {
+            "chapter": 15,
+            "verse": 28,
+            "name": "Joshua 15:28",
+            "text": "et Hasersual et Bersabee et Baziothia, "
+        },
+        {
+            "chapter": 15,
+            "verse": 29,
+            "name": "Joshua 15:29",
+            "text": "et Baala et Jim et Esem, "
+        },
+        {
+            "chapter": 15,
+            "verse": 30,
+            "name": "Joshua 15:30",
+            "text": "et Eltholad et Cesil et Harma, "
+        },
+        {
+            "chapter": 15,
+            "verse": 31,
+            "name": "Joshua 15:31",
+            "text": "et Siceleg et Medemena et Sensenna, "
+        },
+        {
+            "chapter": 15,
+            "verse": 32,
+            "name": "Joshua 15:32",
+            "text": "Lebaoth et Selim et Aën et Remon. Omnes civitates viginti novem, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 33,
+            "name": "Joshua 15:33",
+            "text": "In campestribus vero : Estaol et Sarea et Asena, "
+        },
+        {
+            "chapter": 15,
+            "verse": 34,
+            "name": "Joshua 15:34",
+            "text": "et Zanoë et Ængannim et Taphua et Enaim, "
+        },
+        {
+            "chapter": 15,
+            "verse": 35,
+            "name": "Joshua 15:35",
+            "text": "et Jerimoth et Adullam, Socho et Azeca, "
+        },
+        {
+            "chapter": 15,
+            "verse": 36,
+            "name": "Joshua 15:36",
+            "text": "et Saraim et Adithaim et Gedera et Gederothaim : urbes quatuordecim, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 37,
+            "name": "Joshua 15:37",
+            "text": "Sanan et Hadassa et Magdalgad, "
+        },
+        {
+            "chapter": 15,
+            "verse": 38,
+            "name": "Joshua 15:38",
+            "text": "Delean et Masepha et Jecthel, "
+        },
+        {
+            "chapter": 15,
+            "verse": 39,
+            "name": "Joshua 15:39",
+            "text": "Lachis et Bascath et Eglon, "
+        },
+        {
+            "chapter": 15,
+            "verse": 40,
+            "name": "Joshua 15:40",
+            "text": "Chebbon et Leheman et Cethlis, "
+        },
+        {
+            "chapter": 15,
+            "verse": 41,
+            "name": "Joshua 15:41",
+            "text": "et Gideroth et Bethdagon et Naama et Maceda : civitates sedecim, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 42,
+            "name": "Joshua 15:42",
+            "text": "Labana et Ether et Asan, "
+        },
+        {
+            "chapter": 15,
+            "verse": 43,
+            "name": "Joshua 15:43",
+            "text": "Jephtha et Esna et Nesib, "
+        },
+        {
+            "chapter": 15,
+            "verse": 44,
+            "name": "Joshua 15:44",
+            "text": "et Ceila et Achzib et Maresa : civitates novem, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 45,
+            "name": "Joshua 15:45",
+            "text": "Accaron cum vicis et villulis suis. "
+        },
+        {
+            "chapter": 15,
+            "verse": 46,
+            "name": "Joshua 15:46",
+            "text": "Ab Accaron usque ad mare : omnia quæ vergunt ad Azotum et viculos ejus. "
+        },
+        {
+            "chapter": 15,
+            "verse": 47,
+            "name": "Joshua 15:47",
+            "text": "Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem Ægypti, et mare magnum terminus ejus. "
+        },
+        {
+            "chapter": 15,
+            "verse": 48,
+            "name": "Joshua 15:48",
+            "text": "Et in monte : Samir et Jether et Socoth "
+        },
+        {
+            "chapter": 15,
+            "verse": 49,
+            "name": "Joshua 15:49",
+            "text": "et Danna et Cariathsenna, hæc est Dabir : "
+        },
+        {
+            "chapter": 15,
+            "verse": 50,
+            "name": "Joshua 15:50",
+            "text": "Anab et Istemo et Anim, "
+        },
+        {
+            "chapter": 15,
+            "verse": 51,
+            "name": "Joshua 15:51",
+            "text": "Gosen et Olon et Gilo : civitates undecim et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 52,
+            "name": "Joshua 15:52",
+            "text": "Arab et Ruma et Esaan, "
+        },
+        {
+            "chapter": 15,
+            "verse": 53,
+            "name": "Joshua 15:53",
+            "text": "et Janum et Beththaphua et Apheca, "
+        },
+        {
+            "chapter": 15,
+            "verse": 54,
+            "name": "Joshua 15:54",
+            "text": "Athmatha, et Cariath Arbe, hæc est Hebron, et Sior : civitates novem, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 55,
+            "name": "Joshua 15:55",
+            "text": "Maon et Carmel et Ziph et Jota, "
+        },
+        {
+            "chapter": 15,
+            "verse": 56,
+            "name": "Joshua 15:56",
+            "text": "Jezraël et Jucadam et Zanoë, "
+        },
+        {
+            "chapter": 15,
+            "verse": 57,
+            "name": "Joshua 15:57",
+            "text": "Accain, Gabaa et Thamna : civitates decem et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 58,
+            "name": "Joshua 15:58",
+            "text": "Halhul, et Besur, et Gedor, "
+        },
+        {
+            "chapter": 15,
+            "verse": 59,
+            "name": "Joshua 15:59",
+            "text": "Mareth, et Bethanoth, et Eltecon : civitates sex et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 60,
+            "name": "Joshua 15:60",
+            "text": "Cariathbaal, hæc est Cariathiarim urbs silvarum, et Arebba : civitates duæ, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 61,
+            "name": "Joshua 15:61",
+            "text": "In deserto Betharaba, Meddin, et Sachacha, "
+        },
+        {
+            "chapter": 15,
+            "verse": 62,
+            "name": "Joshua 15:62",
+            "text": "et Nebsan, et civitas salis, et Engaddi : civitates sex, et villæ earum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 63,
+            "name": "Joshua 15:63",
+            "text": "Jebusæum autem habitatorem Jerusalem non potuerunt filii Juda delere : habitavitque Jebusæus cum filiis Juda in Jerusalem usque in præsentem diem.   "
+        }
+    ]
+}

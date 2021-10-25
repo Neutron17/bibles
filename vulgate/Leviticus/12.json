@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 3,
+    "book_name": "Leviticus",
+    "chapter": 12,
+    "name": "Leviticus 12",
+    "verses": [
+        {
+            "chapter": 12,
+            "verse": 1,
+            "name": "Leviticus 12:1",
+            "text": "Locutusque est Dominus ad Moysen, dicens : "
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "name": "Leviticus 12:2",
+            "text": "Loquere filiis Israël, et dices ad eos : Mulier, si suscepto semine pepererit masculum, immunda erit septem diebus juxta dies separationis menstruæ. "
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "name": "Leviticus 12:3",
+            "text": "Et die octavo circumcidetur infantulus : "
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "name": "Leviticus 12:4",
+            "text": "ipsa vero triginta tribus diebus manebit in sanguine purificationis suæ. Omne sanctum non tanget, nec ingredietur in sanctuarium, donec impleantur dies purificationis suæ. "
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "name": "Leviticus 12:5",
+            "text": "Sin autem feminam pepererit, immunda erit duabus hebdomadibus juxta ritum fluxus menstrui, et sexaginta sex diebus manebit in sanguine purificationis suæ. "
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "name": "Leviticus 12:6",
+            "text": "Cumque expleti fuerint dies purificationis suæ, pro filio sive pro filia, deferet agnum anniculum in holocaustum, et pullum columbæ sive turturem pro peccato, ad ostium tabernaculi testimonii, et tradet sacerdoti, "
+        },
+        {
+            "chapter": 12,
+            "verse": 7,
+            "name": "Leviticus 12:7",
+            "text": "qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio sanguinis sui : ista est lex parientis masculum aut feminam. "
+        },
+        {
+            "chapter": 12,
+            "verse": 8,
+            "name": "Leviticus 12:8",
+            "text": "Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato : orabitque pro ea sacerdos, et sic mundabitur.   "
+        }
+    ]
+}

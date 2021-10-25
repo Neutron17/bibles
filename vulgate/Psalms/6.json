@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 6,
+    "name": "Psalms 6",
+    "verses": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "name": "Psalms 6:1",
+            "text": "In finem, in carminibus. Psalmus David. Pro octava.  "
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "name": "Psalms 6:2",
+            "text": "  Domine, ne in furore tuo arguas me,  neque in ira tua corripias me. "
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "name": "Psalms 6:3",
+            "text": " Miserere mei, Domine, quoniam infirmus sum ;  sana me, Domine, quoniam conturbata sunt ossa mea. "
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "name": "Psalms 6:4",
+            "text": " Et anima mea turbata est valde ;  sed tu, Domine, usquequo ? "
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "name": "Psalms 6:5",
+            "text": " Convertere, Domine, et eripe animam meam ;  salvum me fac propter misericordiam tuam. "
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "name": "Psalms 6:6",
+            "text": " Quoniam non est in morte qui memor sit tui ;  in inferno autem quis confitebitur tibi ? "
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "name": "Psalms 6:7",
+            "text": " Laboravi in gemitu meo ;  lavabo per singulas noctes lectum meum :  lacrimis meis stratum meum rigabo. "
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "name": "Psalms 6:8",
+            "text": " Turbatus est a furore oculus meus ;  inveteravi inter omnes inimicos meos. "
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "name": "Psalms 6:9",
+            "text": " Discedite a me omnes qui operamini iniquitatem,  quoniam exaudivit Dominus vocem fletus mei. "
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "name": "Psalms 6:10",
+            "text": " Exaudivit Dominus deprecationem meam ;  Dominus orationem meam suscepit. "
+        },
+        {
+            "chapter": 6,
+            "verse": 11,
+            "name": "Psalms 6:11",
+            "text": " Erubescant, et conturbentur vehementer, omnes inimici mei ;  convertantur, et erubescant valde velociter.  "
+        }
+    ]
+}

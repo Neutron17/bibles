@@ -1,0 +1,206 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 1,
+    "book_name": "Genesis",
+    "chapter": 11,
+    "name": "Genesis 11",
+    "verses": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "name": "Genesis 11:1",
+            "text": "Erat autem terra labii unius, et sermonum eorumdem. "
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "name": "Genesis 11:2",
+            "text": "Cumque proficiscerentur de oriente, invenerunt campum in terra Sennaar, et habitaverunt in eo. "
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "name": "Genesis 11:3",
+            "text": "Dixitque alter ad proximum suum : Venite, faciamus lateres, et coquamus eos igni. Habueruntque lateres pro saxis, et bitumen pro cæmento : "
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "name": "Genesis 11:4",
+            "text": "et dixerunt : Venite, faciamus nobis civitatem et turrim, cujus culmen pertingat ad cælum : et celebremus nomen nostrum antequam dividamur in universas terras. "
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "name": "Genesis 11:5",
+            "text": "Descendit autem Dominus ut videret civitatem et turrim, quam ædificabant filii Adam, "
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "name": "Genesis 11:6",
+            "text": "et dixit : Ecce, unus est populus, et unum labium omnibus : cœperuntque hoc facere, nec desistent a cogitationibus suis, donec eas opere compleant. "
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "name": "Genesis 11:7",
+            "text": "Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non audiat unusquisque vocem proximi sui. "
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "name": "Genesis 11:8",
+            "text": "Atque ita divisit eos Dominus ex illo loco in universas terras, et cessaverunt ædificare civitatem. "
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "name": "Genesis 11:9",
+            "text": "Et idcirco vocatum est nomen ejus Babel, quia ibi confusum est labium universæ terræ : et inde dispersit eos Dominus super faciem cunctarum regionum.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 10,
+            "name": "Genesis 11:10",
+            "text": " Hæ sunt generationes Sem : Sem erat centum annorum quando genuit Arphaxad, biennio post diluvium. "
+        },
+        {
+            "chapter": 11,
+            "verse": 11,
+            "name": "Genesis 11:11",
+            "text": "Vixitque Sem, postquam genuit Arphaxad, quingentis annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 12,
+            "name": "Genesis 11:12",
+            "text": "Porro Arphaxad vixit triginta quinque annis, et genuit Sale. "
+        },
+        {
+            "chapter": 11,
+            "verse": 13,
+            "name": "Genesis 11:13",
+            "text": "Vixitque Arphaxad, postquam genuit Sale, trecentis tribus annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 14,
+            "name": "Genesis 11:14",
+            "text": "Sale quoque vixit triginta annis, et genuit Heber. "
+        },
+        {
+            "chapter": 11,
+            "verse": 15,
+            "name": "Genesis 11:15",
+            "text": "Vixitque Sale, postquam genuit Heber, quadringentis tribus annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 16,
+            "name": "Genesis 11:16",
+            "text": "Vixit autem Heber triginta quatuor annis, et genuit Phaleg. "
+        },
+        {
+            "chapter": 11,
+            "verse": 17,
+            "name": "Genesis 11:17",
+            "text": "Et vixit Heber postquam genuit Phaleg, quadringentis triginta annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 18,
+            "name": "Genesis 11:18",
+            "text": "Vixit quoque Phaleg triginta annis, et genuit Reu. "
+        },
+        {
+            "chapter": 11,
+            "verse": 19,
+            "name": "Genesis 11:19",
+            "text": "Vixitque Phaleg, postquam genuit Reu, ducentis novem annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 20,
+            "name": "Genesis 11:20",
+            "text": "Vixit autem Reu triginta duobus annis, et genuit Sarug. "
+        },
+        {
+            "chapter": 11,
+            "verse": 21,
+            "name": "Genesis 11:21",
+            "text": "Vixit quoque Reu, postquam genuit Sarug, ducentis septem annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 22,
+            "name": "Genesis 11:22",
+            "text": "Vixit vero Sarug triginta annis, et genuit Nachor. "
+        },
+        {
+            "chapter": 11,
+            "verse": 23,
+            "name": "Genesis 11:23",
+            "text": "Vixitque Sarug, postquam genuit Nachor, ducentis annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 24,
+            "name": "Genesis 11:24",
+            "text": "Vixit autem Nachor viginti novem annis, et genuit Thare. "
+        },
+        {
+            "chapter": 11,
+            "verse": 25,
+            "name": "Genesis 11:25",
+            "text": "Vixitque Nachor, postquam genuit Thare, centum decem et novem annis : et genuit filios et filias. "
+        },
+        {
+            "chapter": 11,
+            "verse": 26,
+            "name": "Genesis 11:26",
+            "text": "Vixitque Thare septuaginta annis, et genuit Abram, et Nachor, et Aran.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 27,
+            "name": "Genesis 11:27",
+            "text": " Hæ sunt autem generationes Thare : Thare genuit Abram, Nachor et Aran. Porro Aran genuit Lot. "
+        },
+        {
+            "chapter": 11,
+            "verse": 28,
+            "name": "Genesis 11:28",
+            "text": "Mortuusque est Aran ante Thare patrem suum, in terra nativitatis suæ, in Ur Chaldæorum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 29,
+            "name": "Genesis 11:29",
+            "text": "Duxerunt autem Abram et Nachor uxores : nomen uxoris Abram, Sarai : et nomen uxoris Nachor, Melcha filia Aran, patris Melchæ, et patris Jeschæ. "
+        },
+        {
+            "chapter": 11,
+            "verse": 30,
+            "name": "Genesis 11:30",
+            "text": "Erat autem Sarai sterilis, nec habebat liberos. "
+        },
+        {
+            "chapter": 11,
+            "verse": 31,
+            "name": "Genesis 11:31",
+            "text": "Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldæorum, ut irent in terram Chanaan : veneruntque usque Haran, et habitaverunt ibi. "
+        },
+        {
+            "chapter": 11,
+            "verse": 32,
+            "name": "Genesis 11:32",
+            "text": "Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.   "
+        }
+    ]
+}

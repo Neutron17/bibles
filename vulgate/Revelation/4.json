@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 66,
+    "book_name": "Revelation",
+    "chapter": 4,
+    "name": "Revelation 4",
+    "verses": [
+        {
+            "chapter": 4,
+            "verse": 1,
+            "name": "Revelation 4:1",
+            "text": "Post hæc vidi : et ecce ostium apertum in cælo, et vox prima, quam audivi tamquam tubæ loquentis mecum, dicens : Ascende huc, et ostendam tibi quæ oportet fieri post hæc. "
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "name": "Revelation 4:2",
+            "text": "Et statim fui in spiritu : et ecce sedes posita erat in cælo, et supra sedem sedens. "
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "name": "Revelation 4:3",
+            "text": "Et qui sedebat similis erat aspectui lapidis jaspidis, et sardinis : et iris erat in circuitu sedis similis visioni smaragdinæ. "
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "name": "Revelation 4:4",
+            "text": "Et in circuitu sedis sedilia viginti quatuor : et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronæ aureæ. "
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "name": "Revelation 4:5",
+            "text": "Et de throno procedebant fulgura, et voces, et tonitrua : et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei. "
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "name": "Revelation 4:6",
+            "text": "Et in conspectu sedis tamquam mare vitreum simile crystallo : et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro. "
+        },
+        {
+            "chapter": 4,
+            "verse": 7,
+            "name": "Revelation 4:7",
+            "text": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilæ volanti. "
+        },
+        {
+            "chapter": 4,
+            "verse": 8,
+            "name": "Revelation 4:8",
+            "text": "Et quatuor animalia, singula eorum habebant alas senas : et in circuitu, et intus plena sunt oculis : et requiem non habebant die ac nocte, dicentia : Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est. "
+        },
+        {
+            "chapter": 4,
+            "verse": 9,
+            "name": "Revelation 4:9",
+            "text": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in sæcula sæculorum, "
+        },
+        {
+            "chapter": 4,
+            "verse": 10,
+            "name": "Revelation 4:10",
+            "text": "procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum, dicentes : "
+        },
+        {
+            "chapter": 4,
+            "verse": 11,
+            "name": "Revelation 4:11",
+            "text": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem : quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.   "
+        }
+    ]
+}

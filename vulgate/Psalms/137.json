@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 137,
+    "name": "Psalms 137",
+    "verses": [
+        {
+            "chapter": 137,
+            "verse": 1,
+            "name": "Psalms 137:1",
+            "text": "Ipsi David.   Confitebor tibi, Domine, in toto corde meo,  quoniam audisti verba oris mei.  In conspectu angelorum psallam tibi ; "
+        },
+        {
+            "chapter": 137,
+            "verse": 2,
+            "name": "Psalms 137:2",
+            "text": " adorabo ad templum sanctum tuum,  et confitebor nomini tuo :  super misericordia tua et veritate tua ;  quoniam magnificasti super omne, nomen sanctum tuum. "
+        },
+        {
+            "chapter": 137,
+            "verse": 3,
+            "name": "Psalms 137:3",
+            "text": " In quacumque die invocavero te, exaudi me ;  multiplicabis in anima mea virtutem. "
+        },
+        {
+            "chapter": 137,
+            "verse": 4,
+            "name": "Psalms 137:4",
+            "text": " Confiteantur tibi, Domine, omnes reges terræ,  quia audierunt omnia verba oris tui. "
+        },
+        {
+            "chapter": 137,
+            "verse": 5,
+            "name": "Psalms 137:5",
+            "text": " Et cantent in viis Domini,  quoniam magna est gloria Domini ; "
+        },
+        {
+            "chapter": 137,
+            "verse": 6,
+            "name": "Psalms 137:6",
+            "text": " quoniam excelsus Dominus, et humilia respicit,  et alta a longe cognoscit. "
+        },
+        {
+            "chapter": 137,
+            "verse": 7,
+            "name": "Psalms 137:7",
+            "text": " Si ambulavero in medio tribulationis, vivificabis me ;  et super iram inimicorum meorum extendisti manum tuam,  et salvum me fecit dextera tua. "
+        },
+        {
+            "chapter": 137,
+            "verse": 8,
+            "name": "Psalms 137:8",
+            "text": " Dominus retribuet pro me.  Domine, misericordia tua in sæculum ;  opera manuum tuarum ne despicias.  "
+        }
+    ]
+}

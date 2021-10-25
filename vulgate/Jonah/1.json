@@ -1,0 +1,110 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Jonah 1:1",
+            "text": "Et factum est verbum Domini ad Jonam, filium Amathi, dicens : "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Jonah 1:2",
+            "text": "Surge, et vade in Niniven, civitatem grandem, et prædica in ea, quia ascendit malitia ejus coram me. "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Jonah 1:3",
+            "text": "Et surrexit Jonas, ut fugeret in Tharsis a facie Domini, et descendit in Joppen : et invenit navem euntem in Tharsis, et dedit naulum ejus, et descendit in eam ut iret cum eis in Tharsis a facie Domini. "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Jonah 1:4",
+            "text": "Dominus autem misit ventum magnum in mare : et facta est tempestas magna in mari, et navis periclitabatur conteri. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Jonah 1:5",
+            "text": "Et timuerunt nautæ, et clamaverunt viri ad deum suum, et miserunt vasa quæ erant in navi, in mare, ut alleviaretur ab eis ; et Jonas descendit ad interiora navis, et dormiebat sopore gravi. "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Jonah 1:6",
+            "text": "Et accessit ad eum gubernator, et dixit ei : Quid tu sopore deprimeris ? surge, invoca Deum tuum, si forte recogitet Deus de nobis, et non pereamus. "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Jonah 1:7",
+            "text": "Et dixit vir ad collegam suum : Venite et mittamus sortes, et sciamus quare hoc malum sit nobis. Et miserunt sortes, et cecidit sors super Jonam. "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Jonah 1:8",
+            "text": "Et dixerunt ad eum : Indica nobis cujus causa malum istud sit nobis : quod est opus tuum ? quæ terra tua, et quo vadis ? vel ex quo populo es tu ? "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Jonah 1:9",
+            "text": "Et dixit ad eos : Hebræus ego sum, et Dominum Deum cæli ego timeo, qui fecit mare et aridam. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Jonah 1:10",
+            "text": "Et timuerunt viri timore magno, et dixerunt ad eum : Quid hoc fecisti ? cognoverunt enim viri quod a facie Domini fugeret, quia indicaverat eis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Jonah 1:11",
+            "text": "Et dixerunt ad eum : Quid faciemus tibi, et cessabit mare a nobis ? quia mare ibat, et intumescebat. "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Jonah 1:12",
+            "text": "Et dixit ad eos : Tollite me, et mittite in mare, et cessabit mare a vobis : scio enim ego quoniam propter me tempestas hæc grandis venit super vos. "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Jonah 1:13",
+            "text": "Et remigabant viri ut reverterentur ad aridam, et non valebant, quia mare ibat, et intumescebat super eos. "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Jonah 1:14",
+            "text": "Et clamaverunt ad Dominum, et dixerunt : Quæsumus, Domine, ne pereamus in anima viri istius, et ne des super nos sanguinem innocentem : quia tu, Domine, sicut voluisti, fecisti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Jonah 1:15",
+            "text": "Et tulerunt Jonam, et miserunt in mare : et stetit mare a fervore suo. "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Jonah 1:16",
+            "text": "Et timuerunt viri timore magno Dominum : et immolaverunt hostias Domino, et voverunt vota.   "
+        }
+    ]
+}

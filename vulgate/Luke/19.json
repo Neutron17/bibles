@@ -1,0 +1,302 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 42,
+    "book_name": "Luke",
+    "chapter": 19,
+    "name": "Luke 19",
+    "verses": [
+        {
+            "chapter": 19,
+            "verse": 1,
+            "name": "Luke 19:1",
+            "text": "Et ingressus perambulabat Jericho. "
+        },
+        {
+            "chapter": 19,
+            "verse": 2,
+            "name": "Luke 19:2",
+            "text": "Et ecce vir nomine Zachæus : et hic princeps erat publicanorum, et ipse dives : "
+        },
+        {
+            "chapter": 19,
+            "verse": 3,
+            "name": "Luke 19:3",
+            "text": "et quærebat videre Jesum, quis esset : et non poterat præ turba, quia statura pusillus erat. "
+        },
+        {
+            "chapter": 19,
+            "verse": 4,
+            "name": "Luke 19:4",
+            "text": "Et præcurrens ascendit in arborem sycomorum ut videret eum : quia inde erat transiturus. "
+        },
+        {
+            "chapter": 19,
+            "verse": 5,
+            "name": "Luke 19:5",
+            "text": "Et cum venisset ad locum, suspiciens Jesus vidit illum, et dixit ad eum : Zachæe, festinans descende : quia hodie in domo tua oportet me manere. "
+        },
+        {
+            "chapter": 19,
+            "verse": 6,
+            "name": "Luke 19:6",
+            "text": "Et festinans descendit, et excepit illum gaudens. "
+        },
+        {
+            "chapter": 19,
+            "verse": 7,
+            "name": "Luke 19:7",
+            "text": "Et cum viderent omnes, murmurabant, dicentes quod ad hominem peccatorem divertisset. "
+        },
+        {
+            "chapter": 19,
+            "verse": 8,
+            "name": "Luke 19:8",
+            "text": "Stans autem Zachæus, dixit ad Dominum : Ecce dimidium bonorum meorum, Domine, do pauperibus : et si quid aliquem defraudavi, reddo quadruplum. "
+        },
+        {
+            "chapter": 19,
+            "verse": 9,
+            "name": "Luke 19:9",
+            "text": "Ait Jesus ad eum : Quia hodie salus domui huic facta est : eo quod et ipse filius sit Abrahæ. "
+        },
+        {
+            "chapter": 19,
+            "verse": 10,
+            "name": "Luke 19:10",
+            "text": "Venit enim Filius hominis quærere, et salvum facere quod perierat.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 11,
+            "name": "Luke 19:11",
+            "text": " Hæc illis audientibus adjiciens, dixit parabolam, eo quod esset prope Jerusalem : et quia existimarent quod confestim regnum Dei manifestaretur. "
+        },
+        {
+            "chapter": 19,
+            "verse": 12,
+            "name": "Luke 19:12",
+            "text": "Dixit ergo : Homo quidam nobilis abiit in regionem longinquam accipere sibi regnum, et reverti. "
+        },
+        {
+            "chapter": 19,
+            "verse": 13,
+            "name": "Luke 19:13",
+            "text": "Vocatis autem decem servis suis, dedit eis decem mnas, et ait ad illos : Negotiamini dum venio. "
+        },
+        {
+            "chapter": 19,
+            "verse": 14,
+            "name": "Luke 19:14",
+            "text": "Cives autem ejus oderant eum : et miserunt legationem post illum, dicentes : Nolumus hunc regnare super nos. "
+        },
+        {
+            "chapter": 19,
+            "verse": 15,
+            "name": "Luke 19:15",
+            "text": "Et factum est ut rediret accepto regno : et jussit vocari servos, quibus dedit pecuniam, ut sciret quantum quisque negotiatus esset. "
+        },
+        {
+            "chapter": 19,
+            "verse": 16,
+            "name": "Luke 19:16",
+            "text": "Venit autem primus dicens : Domine, mna tua decem mnas acquisivit. "
+        },
+        {
+            "chapter": 19,
+            "verse": 17,
+            "name": "Luke 19:17",
+            "text": "Et ait illi : Euge bone serve, quia in modico fuisti fidelis, eris potestatem habens super decem civitates. "
+        },
+        {
+            "chapter": 19,
+            "verse": 18,
+            "name": "Luke 19:18",
+            "text": "Et alter venit, dicens : Domine, mna tua fecit quinque mnas. "
+        },
+        {
+            "chapter": 19,
+            "verse": 19,
+            "name": "Luke 19:19",
+            "text": "Et huic ait : Et tu esto super quinque civitates. "
+        },
+        {
+            "chapter": 19,
+            "verse": 20,
+            "name": "Luke 19:20",
+            "text": "Et alter venit, dicens : Domine, ecce mna tua, quam habui repositam in sudario : "
+        },
+        {
+            "chapter": 19,
+            "verse": 21,
+            "name": "Luke 19:21",
+            "text": "timui enim te, quia homo austerus es : tollis quod non posuisti, et metis quod non seminasti. "
+        },
+        {
+            "chapter": 19,
+            "verse": 22,
+            "name": "Luke 19:22",
+            "text": "Dicit ei : De ore tuo te judico, serve nequam. Sciebas quod ego homo austerus sum, tollens quod non posui, et metens quod non seminavi : "
+        },
+        {
+            "chapter": 19,
+            "verse": 23,
+            "name": "Luke 19:23",
+            "text": "et quare non dedisti pecuniam meam ad mensam, ut ego veniens cum usuris utique exegissem illam ? "
+        },
+        {
+            "chapter": 19,
+            "verse": 24,
+            "name": "Luke 19:24",
+            "text": "Et astantibus dixit : Auferte ab illo mnam, et date illi qui decem mnas habet. "
+        },
+        {
+            "chapter": 19,
+            "verse": 25,
+            "name": "Luke 19:25",
+            "text": "Et dixerunt ei : Domine, habet decem mnas. "
+        },
+        {
+            "chapter": 19,
+            "verse": 26,
+            "name": "Luke 19:26",
+            "text": "Dico autem vobis, quia omni habenti dabitur, et abundabit : ab eo autem qui non habet, et quod habet auferetur ab eo. "
+        },
+        {
+            "chapter": 19,
+            "verse": 27,
+            "name": "Luke 19:27",
+            "text": "Verumtamen inimicos meos illos, qui noluerunt me regnare super se, adducite huc : et interficite ante me. "
+        },
+        {
+            "chapter": 19,
+            "verse": 28,
+            "name": "Luke 19:28",
+            "text": "Et his dictis, præcedebat ascendens Jerosolymam.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 29,
+            "name": "Luke 19:29",
+            "text": " Et factum est, cum appropinquasset ad Bethphage et Bethaniam, ad montem qui vocatur Oliveti, misit duos discipulos suos, "
+        },
+        {
+            "chapter": 19,
+            "verse": 30,
+            "name": "Luke 19:30",
+            "text": "dicens : Ite in castellum quod contra est : in quod introëuntes, invenietis pullum asinæ alligatum, cui nemo umquam hominum sedit : solvite illum, et adducite. "
+        },
+        {
+            "chapter": 19,
+            "verse": 31,
+            "name": "Luke 19:31",
+            "text": "Et si quis vos interrogaverit : Quare solvitis ? sic dicetis ei : Quia Dominus operam ejus desiderat. "
+        },
+        {
+            "chapter": 19,
+            "verse": 32,
+            "name": "Luke 19:32",
+            "text": "Abierunt autem qui missi erant : et invenerunt, sicut dixit illis, stantem pullum. "
+        },
+        {
+            "chapter": 19,
+            "verse": 33,
+            "name": "Luke 19:33",
+            "text": "Solventibus autem illis pullum, dixerunt domini ejus ad illos : Quid solvitis pullum ? "
+        },
+        {
+            "chapter": 19,
+            "verse": 34,
+            "name": "Luke 19:34",
+            "text": "At illi dixerunt : Quia Dominus eum necessarium habet. "
+        },
+        {
+            "chapter": 19,
+            "verse": 35,
+            "name": "Luke 19:35",
+            "text": "Et duxerunt illum ad Jesum. Et jactantes vestimenta sua supra pullum, imposuerunt Jesum. "
+        },
+        {
+            "chapter": 19,
+            "verse": 36,
+            "name": "Luke 19:36",
+            "text": "Eunte autem illo, substernebant vestimenta sua in via : "
+        },
+        {
+            "chapter": 19,
+            "verse": 37,
+            "name": "Luke 19:37",
+            "text": "et cum appropinquaret jam ad descensum montis Oliveti, cœperunt omnes turbæ discipulorum gaudentes laudare Deum voce magna super omnibus, quas viderant, virtutibus, "
+        },
+        {
+            "chapter": 19,
+            "verse": 38,
+            "name": "Luke 19:38",
+            "text": "dicentes : Benedictus, qui venit rex in nomine Domini : pax in cælo, et gloria in excelsis. "
+        },
+        {
+            "chapter": 19,
+            "verse": 39,
+            "name": "Luke 19:39",
+            "text": "Et quidam pharisæorum de turbis dixerunt ad illum : Magister, increpa discipulos tuos. "
+        },
+        {
+            "chapter": 19,
+            "verse": 40,
+            "name": "Luke 19:40",
+            "text": "Quibus ipse ait : Dico vobis, quia si hi tacuerint, lapides clamabunt.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 41,
+            "name": "Luke 19:41",
+            "text": " Et ut appropinquavit, videns civitatem flevit super illam, dicens : "
+        },
+        {
+            "chapter": 19,
+            "verse": 42,
+            "name": "Luke 19:42",
+            "text": "Quia si cognovisses et tu, et quidem in hac die tua, quæ ad pacem tibi : nunc autem abscondita sunt ab oculis tuis. "
+        },
+        {
+            "chapter": 19,
+            "verse": 43,
+            "name": "Luke 19:43",
+            "text": "Quia venient dies in te : et circumdabunt te inimici tui vallo, et circumdabunt te : et coangustabunt te undique : "
+        },
+        {
+            "chapter": 19,
+            "verse": 44,
+            "name": "Luke 19:44",
+            "text": "et ad terram prosternent te, et filios tuos, qui in te sunt, et non relinquent in te lapidem super lapidem : eo quod non cognoveris tempus visitationis tuæ. "
+        },
+        {
+            "chapter": 19,
+            "verse": 45,
+            "name": "Luke 19:45",
+            "text": "Et ingressus in templum, cœpit ejicere vendentes in illo, et ementes, "
+        },
+        {
+            "chapter": 19,
+            "verse": 46,
+            "name": "Luke 19:46",
+            "text": "dicens illis : Scriptum est : Quia domus mea domus orationis est : vos autem fecistis illam speluncam latronum. "
+        },
+        {
+            "chapter": 19,
+            "verse": 47,
+            "name": "Luke 19:47",
+            "text": "Et erat docens quotidie in templo. Principes autem sacerdotum, et scribæ, et princeps plebis quærebant illum perdere : "
+        },
+        {
+            "chapter": 19,
+            "verse": 48,
+            "name": "Luke 19:48",
+            "text": "et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum.   "
+        }
+    ]
+}

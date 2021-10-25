@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 27,
+    "name": "Psalms 27",
+    "verses": [
+        {
+            "chapter": 27,
+            "verse": 1,
+            "name": "Psalms 27:1",
+            "text": "Psalmus ipsi David.   Ad te, Domine, clamabo ; Deus meus, ne sileas a me :  nequando taceas a me, et assimilabor descendentibus in lacum. "
+        },
+        {
+            "chapter": 27,
+            "verse": 2,
+            "name": "Psalms 27:2",
+            "text": " Exaudi, Domine, vocem deprecationis meæ dum oro ad te ;  dum extollo manus meas ad templum sanctum tuum. "
+        },
+        {
+            "chapter": 27,
+            "verse": 3,
+            "name": "Psalms 27:3",
+            "text": " Ne simul trahas me cum peccatoribus,  et cum operantibus iniquitatem ne perdas me ;  qui loquuntur pacem cum proximo suo,  mala autem in cordibus eorum. "
+        },
+        {
+            "chapter": 27,
+            "verse": 4,
+            "name": "Psalms 27:4",
+            "text": " Da illis secundum opera eorum,  et secundum nequitiam adinventionum ipsorum.  Secundum opera manuum eorum tribue illis ;  redde retributionem eorum ipsis. "
+        },
+        {
+            "chapter": 27,
+            "verse": 5,
+            "name": "Psalms 27:5",
+            "text": " Quoniam non intellexerunt opera Domini,  et in opera manuum ejus destrues illos,  et non ædificabis eos. "
+        },
+        {
+            "chapter": 27,
+            "verse": 6,
+            "name": "Psalms 27:6",
+            "text": " Benedictus Dominus,  quoniam exaudivit vocem deprecationis meæ. "
+        },
+        {
+            "chapter": 27,
+            "verse": 7,
+            "name": "Psalms 27:7",
+            "text": " Dominus adjutor meus et protector meus ;  in ipso speravit cor meum, et adjutus sum :  et refloruit caro mea,  et ex voluntate mea confitebor ei. "
+        },
+        {
+            "chapter": 27,
+            "verse": 8,
+            "name": "Psalms 27:8",
+            "text": " Dominus fortitudo plebis suæ,  et protector salvationum christi sui est. "
+        },
+        {
+            "chapter": 27,
+            "verse": 9,
+            "name": "Psalms 27:9",
+            "text": " Salvum fac populum tuum, Domine, et benedic hæreditati tuæ ;  et rege eos, et extolle illos usque in æternum.  "
+        }
+    ]
+}

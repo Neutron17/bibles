@@ -1,0 +1,32 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 133,
+    "name": "Psalms 133",
+    "verses": [
+        {
+            "chapter": 133,
+            "verse": 1,
+            "name": "Psalms 133:1",
+            "text": " Grádicsok éneke Dávidtól. Ímé, mily jó és mily gyönyörűséges, a mikor együtt lakoznak az atyafiak!"
+        },
+        {
+            "chapter": 133,
+            "verse": 2,
+            "name": "Psalms 133:2",
+            "text": "Mint a drága olaj a fejen, a mely aláfoly a szakállon, az Áron szakállán; a mely lefoly köntöse prémjére; "
+        },
+        {
+            "chapter": 133,
+            "verse": 3,
+            "name": "Psalms 133:3",
+            "text": "Mint a Hermon harmatja, a mely leszáll Sion hegyeire. Csak oda küld áldást az Úr és életet örökké!  "
+        }
+    ]
+}

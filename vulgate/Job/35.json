@@ -1,0 +1,110 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 18,
+    "book_name": "Job",
+    "chapter": 35,
+    "name": "Job 35",
+    "verses": [
+        {
+            "chapter": 35,
+            "verse": 1,
+            "name": "Job 35:1",
+            "text": "Igitur Eliu hæc rursum locutus est :  "
+        },
+        {
+            "chapter": 35,
+            "verse": 2,
+            "name": "Job 35:2",
+            "text": "  Numquid æqua tibi videtur tua cogitatio,  ut diceres : Justior sum Deo ? "
+        },
+        {
+            "chapter": 35,
+            "verse": 3,
+            "name": "Job 35:3",
+            "text": " Dixisti enim : Non tibi placet quod rectum est :  vel quid tibi proderit, si ego peccavero ? "
+        },
+        {
+            "chapter": 35,
+            "verse": 4,
+            "name": "Job 35:4",
+            "text": " Itaque ego respondebo sermonibus tuis,  et amicis tuis tecum. "
+        },
+        {
+            "chapter": 35,
+            "verse": 5,
+            "name": "Job 35:5",
+            "text": " Suspice cælum, et intuere :  et contemplare æthera quod altior te sit. "
+        },
+        {
+            "chapter": 35,
+            "verse": 6,
+            "name": "Job 35:6",
+            "text": " Si peccaveris, quid ei nocebis ?  et si multiplicatæ fuerint iniquitates tuæ, quid facies contra eum ? "
+        },
+        {
+            "chapter": 35,
+            "verse": 7,
+            "name": "Job 35:7",
+            "text": " Porro si juste egeris, quid donabis ei ?  aut quid de manu tua accipiet ? "
+        },
+        {
+            "chapter": 35,
+            "verse": 8,
+            "name": "Job 35:8",
+            "text": " Homini qui similis tui est, nocebit impietas tua :  et filium hominis adjuvabit justitia tua. "
+        },
+        {
+            "chapter": 35,
+            "verse": 9,
+            "name": "Job 35:9",
+            "text": " Propter multitudinem calumniatorum clamabunt,  et ejulabunt propter vim brachii tyrannorum. "
+        },
+        {
+            "chapter": 35,
+            "verse": 10,
+            "name": "Job 35:10",
+            "text": " Et non dixit : Ubi est Deus qui fecit me,  qui dedit carmina in nocte ; "
+        },
+        {
+            "chapter": 35,
+            "verse": 11,
+            "name": "Job 35:11",
+            "text": " qui docet nos super jumenta terræ,  et super volucres cæli erudit nos ? "
+        },
+        {
+            "chapter": 35,
+            "verse": 12,
+            "name": "Job 35:12",
+            "text": " Ibi clamabunt, et non exaudiet,  propter superbiam malorum. "
+        },
+        {
+            "chapter": 35,
+            "verse": 13,
+            "name": "Job 35:13",
+            "text": " Non ergo frustra audiet Deus,  et Omnipotens causas singulorum intuebitur. "
+        },
+        {
+            "chapter": 35,
+            "verse": 14,
+            "name": "Job 35:14",
+            "text": " Etiam cum dixeris : Non considerat :  judicare coram illo, et expecta eum. "
+        },
+        {
+            "chapter": 35,
+            "verse": 15,
+            "name": "Job 35:15",
+            "text": " Nunc enim non infert furorem suum,  nec ulciscitur scelus valde. "
+        },
+        {
+            "chapter": 35,
+            "verse": 16,
+            "name": "Job 35:16",
+            "text": " Ergo Job frustra aperit os suum,  et absque scientia verba multiplicat.  "
+        }
+    ]
+}

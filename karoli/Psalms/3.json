@@ -1,0 +1,68 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 3,
+    "name": "Psalms 3",
+    "verses": [
+        {
+            "chapter": 3,
+            "verse": 1,
+            "name": "Psalms 3:1",
+            "text": " Dávid zsoltára; fia, Absolon elől való futásakor. "
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "name": "Psalms 3:2",
+            "text": "Uram! mennyire megsokasodtak ellenségeim! sokan vannak a reám támadók! "
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "name": "Psalms 3:3",
+            "text": "Sokan mondják az én lelkem felől: Nincs számára segítség Istennél, Szela. "
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "name": "Psalms 3:4",
+            "text": "De te, oh Uram! paizsom vagy nékem, dicsőségem, az, a ki felmagasztalja az én fejemet. "
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "name": "Psalms 3:5",
+            "text": "Felszóval kiálték az Úrhoz, és ő meghallgata engemet, az ő szentsége hegyéről. Szela. "
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "name": "Psalms 3:6",
+            "text": "Én lefekszem és elalszom; felébredek, mert az Úr támogat engem. "
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "name": "Psalms 3:7",
+            "text": "Nem félek sok ezernyi néptől sem, a mely köröskörül felállott ellenem. "
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "name": "Psalms 3:8",
+            "text": "Kelj fel Uram, tarts meg engem Istenem, mert te verted arczul minden ellenségemet; a gonoszok fogait összetörted. "
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "name": "Psalms 3:9",
+            "text": "Az Úré a szabadítás; legyen a te népeden a te áldásod. Szela.   "
+        }
+    ]
+}

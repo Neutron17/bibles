@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "verses": [
+        {
+            "chapter": 5,
+            "verse": 1,
+            "name": "1 Peter 5:1",
+            "text": "Seniores ergo, qui in vobis sunt, obsecro, consenior et testis Christi passionum : qui et ejus, quæ in futuro revelanda est, gloriæ communicator : "
+        },
+        {
+            "chapter": 5,
+            "verse": 2,
+            "name": "1 Peter 5:2",
+            "text": "pascite qui in vobis est gregem Dei, providentes non coacte, sed spontanee secundum Deum : neque turpis lucri gratia, sed voluntarie : "
+        },
+        {
+            "chapter": 5,
+            "verse": 3,
+            "name": "1 Peter 5:3",
+            "text": "neque ut dominantes in cleris, sed forma facti gregis ex animo. "
+        },
+        {
+            "chapter": 5,
+            "verse": 4,
+            "name": "1 Peter 5:4",
+            "text": "Et cum apparuerit princeps pastorum, percipietis immarcescibilem gloriæ coronam. "
+        },
+        {
+            "chapter": 5,
+            "verse": 5,
+            "name": "1 Peter 5:5",
+            "text": "Similiter adolescentes subditi estote senioribus.   Omnes autem invicem humilitatem insinuate, quia Deus superbis resistit, humilibus autem dat gratiam. "
+        },
+        {
+            "chapter": 5,
+            "verse": 6,
+            "name": "1 Peter 5:6",
+            "text": "Humiliamini igitur sub potenti manu Dei, ut vos exaltet in tempore visitationis : "
+        },
+        {
+            "chapter": 5,
+            "verse": 7,
+            "name": "1 Peter 5:7",
+            "text": "omnem sollicitudinem vestram projicientes in eum, quoniam ipsi cura est de vobis. "
+        },
+        {
+            "chapter": 5,
+            "verse": 8,
+            "name": "1 Peter 5:8",
+            "text": "Sobrii estote, et vigilate : quia adversarius vester diabolus tamquam leo rugiens circuit, quærens quem devoret : "
+        },
+        {
+            "chapter": 5,
+            "verse": 9,
+            "name": "1 Peter 5:9",
+            "text": "cui resistite fortes in fide : scientes eamdem passionem ei quæ in mundo est vestræ fraternitati fieri. "
+        },
+        {
+            "chapter": 5,
+            "verse": 10,
+            "name": "1 Peter 5:10",
+            "text": "Deus autem omnis gratiæ, qui vocavit nos in æternam suam gloriam in Christo Jesu, modicum passos ipse perficiet, confirmabit, solidabitque. "
+        },
+        {
+            "chapter": 5,
+            "verse": 11,
+            "name": "1 Peter 5:11",
+            "text": "Ipsi gloria, et imperium in sæcula sæculorum. Amen.  "
+        },
+        {
+            "chapter": 5,
+            "verse": 12,
+            "name": "1 Peter 5:12",
+            "text": " Per Silvanum fidelem fratrem vobis, ut arbitror, breviter scripsi : obsecrans et contestans, hanc esse veram gratiam Dei, in qua statis. "
+        },
+        {
+            "chapter": 5,
+            "verse": 13,
+            "name": "1 Peter 5:13",
+            "text": "Salutat vos ecclesia quæ est in Babylone coëlecta, et Marcus filius meus. "
+        },
+        {
+            "chapter": 5,
+            "verse": 14,
+            "name": "1 Peter 5:14",
+            "text": "Salutate invicem in osculo sancto. Gratia vobis omnibus qui estis in Christo Jesu. Amen.    "
+        }
+    ]
+}

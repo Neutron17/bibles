@@ -1,0 +1,68 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 4,
+    "name": "Psalms 4",
+    "verses": [
+        {
+            "chapter": 4,
+            "verse": 1,
+            "name": "Psalms 4:1",
+            "text": " Az éneklőmesternek a neginóthra, Dávid zsoltára. "
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "name": "Psalms 4:2",
+            "text": "Mikor kiáltok, hallgass meg engem, igazságomnak Istene; szorultságomban tág tért adtál nékem; könyörülj rajtam és halld meg az én imádságomat! "
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "name": "Psalms 4:3",
+            "text": "Emberek fiai! Meddig lesz gyalázatban az én dicsőségem? Meddig szerettek hiábavalóságot, és kerestek hazugságot? Szela. "
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "name": "Psalms 4:4",
+            "text": "Tudjátok meg hát, hogy kedveltjévé választott az Úr; meghallja az Úr, ha hozzá kiáltok! "
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "name": "Psalms 4:5",
+            "text": "Haragudjatok, de ne vétkezzetek: beszéljetek szívetekkel a ti ágyasházatokban és csillapodjatok! Szela. "
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "name": "Psalms 4:6",
+            "text": "Igazságnak áldozatával áldozzatok, és bízzatok az Úrban. "
+        },
+        {
+            "chapter": 4,
+            "verse": 7,
+            "name": "Psalms 4:7",
+            "text": "Sokan mondják: Kicsoda láttat velünk jót? Hozd fel reánk arczodnak világosságát, oh Uram! "
+        },
+        {
+            "chapter": 4,
+            "verse": 8,
+            "name": "Psalms 4:8",
+            "text": "Nagyobb örömöt adsz így szívembe, mint a mikor sok az ő búzájok és boruk. "
+        },
+        {
+            "chapter": 4,
+            "verse": 9,
+            "name": "Psalms 4:9",
+            "text": "Békességben fekszem le és legott elaluszom; mert te, Uram, egyedül adsz nékem bátorságos lakozást.   "
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 91,
+    "name": "Psalms 91",
+    "verses": [
+        {
+            "chapter": 91,
+            "verse": 1,
+            "name": "Psalms 91:1",
+            "text": "Psalmus cantici, in die sabbati.  "
+        },
+        {
+            "chapter": 91,
+            "verse": 2,
+            "name": "Psalms 91:2",
+            "text": "  Bonum est confiteri Domino,  et psallere nomini tuo, Altissime : "
+        },
+        {
+            "chapter": 91,
+            "verse": 3,
+            "name": "Psalms 91:3",
+            "text": " ad annuntiandum mane misericordiam tuam,  et veritatem tuam per noctem, "
+        },
+        {
+            "chapter": 91,
+            "verse": 4,
+            "name": "Psalms 91:4",
+            "text": " in decachordo, psalterio ;  cum cantico, in cithara. "
+        },
+        {
+            "chapter": 91,
+            "verse": 5,
+            "name": "Psalms 91:5",
+            "text": " Quia delectasti me, Domine, in factura tua ;  et in operibus manuum tuarum exsultabo. "
+        },
+        {
+            "chapter": 91,
+            "verse": 6,
+            "name": "Psalms 91:6",
+            "text": " Quam magnificata sunt opera tua, Domine !  nimis profundæ factæ sunt cogitationes tuæ. "
+        },
+        {
+            "chapter": 91,
+            "verse": 7,
+            "name": "Psalms 91:7",
+            "text": " Vir insipiens non cognoscet,  et stultus non intelliget hæc. "
+        },
+        {
+            "chapter": 91,
+            "verse": 8,
+            "name": "Psalms 91:8",
+            "text": " Cum exorti fuerint peccatores sicut fœnum,  et apparuerint omnes qui operantur iniquitatem,  ut intereant in sæculum sæculi : "
+        },
+        {
+            "chapter": 91,
+            "verse": 9,
+            "name": "Psalms 91:9",
+            "text": " tu autem Altissimus in æternum, Domine. "
+        },
+        {
+            "chapter": 91,
+            "verse": 10,
+            "name": "Psalms 91:10",
+            "text": " Quoniam ecce inimici tui, Domine,  quoniam ecce inimici tui peribunt ;  et dispergentur omnes qui operantur iniquitatem. "
+        },
+        {
+            "chapter": 91,
+            "verse": 11,
+            "name": "Psalms 91:11",
+            "text": " Et exaltabitur sicut unicornis cornu meum,  et senectus mea in misericordia uberi. "
+        },
+        {
+            "chapter": 91,
+            "verse": 12,
+            "name": "Psalms 91:12",
+            "text": " Et despexit oculus meus inimicos meos,  et in insurgentibus in me malignantibus audiet auris mea. "
+        },
+        {
+            "chapter": 91,
+            "verse": 13,
+            "name": "Psalms 91:13",
+            "text": " Justus ut palma florebit ;  sicut cedrus Libani multiplicabitur. "
+        },
+        {
+            "chapter": 91,
+            "verse": 14,
+            "name": "Psalms 91:14",
+            "text": " Plantati in domo Domini,  in atriis domus Dei nostri florebunt. "
+        },
+        {
+            "chapter": 91,
+            "verse": 15,
+            "name": "Psalms 91:15",
+            "text": " Adhuc multiplicabuntur in senecta uberi,  et bene patientes erunt : "
+        },
+        {
+            "chapter": 91,
+            "verse": 16,
+            "name": "Psalms 91:16",
+            "text": " ut annuntient quoniam rectus Dominus Deus noster,  et non est iniquitas in eo.  "
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 40,
+    "book_name": "Matthew",
+    "chapter": 25,
+    "name": "Matthew 25",
+    "verses": [
+        {
+            "chapter": 25,
+            "verse": 1,
+            "name": "Matthew 25:1",
+            "text": "Tunc simile erit regnum cælorum decem virginibus : quæ accipientes lampades suas exierunt obviam sponso et sponsæ. "
+        },
+        {
+            "chapter": 25,
+            "verse": 2,
+            "name": "Matthew 25:2",
+            "text": "Quinque autem ex eis erant fatuæ, et quinque prudentes : "
+        },
+        {
+            "chapter": 25,
+            "verse": 3,
+            "name": "Matthew 25:3",
+            "text": "sed quinque fatuæ, acceptis lampadibus, non sumpserunt oleum secum : "
+        },
+        {
+            "chapter": 25,
+            "verse": 4,
+            "name": "Matthew 25:4",
+            "text": "prudentes vero acceperunt oleum in vasis suis cum lampadibus. "
+        },
+        {
+            "chapter": 25,
+            "verse": 5,
+            "name": "Matthew 25:5",
+            "text": "Moram autem faciente sponso, dormitaverunt omnes et dormierunt. "
+        },
+        {
+            "chapter": 25,
+            "verse": 6,
+            "name": "Matthew 25:6",
+            "text": "Media autem nocte clamor factus est : Ecce sponsus venit, exite obviam ei. "
+        },
+        {
+            "chapter": 25,
+            "verse": 7,
+            "name": "Matthew 25:7",
+            "text": "Tunc surrexerunt omnes virgines illæ, et ornaverunt lampades suas. "
+        },
+        {
+            "chapter": 25,
+            "verse": 8,
+            "name": "Matthew 25:8",
+            "text": "Fatuæ autem sapientibus dixerunt : Date nobis de oleo vestro, quia lampades nostræ extinguuntur. "
+        },
+        {
+            "chapter": 25,
+            "verse": 9,
+            "name": "Matthew 25:9",
+            "text": "Responderunt prudentes, dicentes : Ne forte non sufficiat nobis, et vobis, ite potius ad vendentes, et emite vobis. "
+        },
+        {
+            "chapter": 25,
+            "verse": 10,
+            "name": "Matthew 25:10",
+            "text": "Dum autem irent emere, venit sponsus : et quæ paratæ erant, intraverunt cum eo ad nuptias, et clausa est janua. "
+        },
+        {
+            "chapter": 25,
+            "verse": 11,
+            "name": "Matthew 25:11",
+            "text": "Novissime vero veniunt et reliquæ virgines, dicentes : Domine, domine, aperi nobis. "
+        },
+        {
+            "chapter": 25,
+            "verse": 12,
+            "name": "Matthew 25:12",
+            "text": "At ille respondens, ait : Amen dico vobis, nescio vos. "
+        },
+        {
+            "chapter": 25,
+            "verse": 13,
+            "name": "Matthew 25:13",
+            "text": "Vigilate itaque, quia nescitis diem, neque horam.  "
+        },
+        {
+            "chapter": 25,
+            "verse": 14,
+            "name": "Matthew 25:14",
+            "text": " Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua. "
+        },
+        {
+            "chapter": 25,
+            "verse": 15,
+            "name": "Matthew 25:15",
+            "text": "Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem : et profectus est statim. "
+        },
+        {
+            "chapter": 25,
+            "verse": 16,
+            "name": "Matthew 25:16",
+            "text": "Abiit autem qui quinque talenta acceperat, et operatus est in eis, et lucratus est alia quinque. "
+        },
+        {
+            "chapter": 25,
+            "verse": 17,
+            "name": "Matthew 25:17",
+            "text": "Similiter et qui duo acceperat, lucratus est alia duo. "
+        },
+        {
+            "chapter": 25,
+            "verse": 18,
+            "name": "Matthew 25:18",
+            "text": "Qui autem unum acceperat, abiens fodit in terram, et abscondit pecuniam domini sui. "
+        },
+        {
+            "chapter": 25,
+            "verse": 19,
+            "name": "Matthew 25:19",
+            "text": "Post multum vero temporis venit dominus servorum illorum, et posuit rationem cum eis. "
+        },
+        {
+            "chapter": 25,
+            "verse": 20,
+            "name": "Matthew 25:20",
+            "text": "Et accedens qui quinque talenta acceperat, obtulit alia quinque talenta, dicens : Domine, quinque talenta tradidisti mihi, ecce alia quinque superlucratus sum. "
+        },
+        {
+            "chapter": 25,
+            "verse": 21,
+            "name": "Matthew 25:21",
+            "text": "Ait illi dominus ejus : Euge serve bone, et fidelis : quia super pauca fuisti fidelis, super multa te constituam ; intra in gaudium domini tui. "
+        },
+        {
+            "chapter": 25,
+            "verse": 22,
+            "name": "Matthew 25:22",
+            "text": "Accessit autem et qui duo talenta acceperat, et ait : Domine, duo talenta tradidisti mihi, ecce alia duo lucratus sum. "
+        },
+        {
+            "chapter": 25,
+            "verse": 23,
+            "name": "Matthew 25:23",
+            "text": "Ait illi dominus ejus : Euge serve bone, et fidelis : quia super pauca fuisti fidelis, super multa te constituam ; intra in gaudium domini tui. "
+        },
+        {
+            "chapter": 25,
+            "verse": 24,
+            "name": "Matthew 25:24",
+            "text": "Accedens autem et qui unum talentum acceperat, ait : Domine, scio quia homo durus es ; metis ubi non seminasti, et congregas ubi non sparsisti : "
+        },
+        {
+            "chapter": 25,
+            "verse": 25,
+            "name": "Matthew 25:25",
+            "text": "et timens abii, et abscondi talentum tuum in terra : ecce habes quod tuum est. "
+        },
+        {
+            "chapter": 25,
+            "verse": 26,
+            "name": "Matthew 25:26",
+            "text": "Respondens autem dominus ejus, dixit ei : Serve male, et piger, sciebas quia meto ubi non semino, et congrego ubi non sparsi : "
+        },
+        {
+            "chapter": 25,
+            "verse": 27,
+            "name": "Matthew 25:27",
+            "text": "oportuit ergo te committere pecuniam meam numulariis, et veniens ego recepissem utique quod meum est cum usura. "
+        },
+        {
+            "chapter": 25,
+            "verse": 28,
+            "name": "Matthew 25:28",
+            "text": "Tollite itaque ab eo talentum, et date ei qui habet decem talenta : "
+        },
+        {
+            "chapter": 25,
+            "verse": 29,
+            "name": "Matthew 25:29",
+            "text": "omni enim habenti dabitur, et abundabit : ei autem qui non habet, et quod videtur habere, auferetur ab eo. "
+        },
+        {
+            "chapter": 25,
+            "verse": 30,
+            "name": "Matthew 25:30",
+            "text": "Et inutilem servum ejicite in tenebras exteriores : illic erit fletus, et stridor dentium.  "
+        },
+        {
+            "chapter": 25,
+            "verse": 31,
+            "name": "Matthew 25:31",
+            "text": " Cum autem venerit Filius hominis in majestate sua, et omnes angeli cum eo, tunc sedebit super sedem majestatis suæ : "
+        },
+        {
+            "chapter": 25,
+            "verse": 32,
+            "name": "Matthew 25:32",
+            "text": "et congregabuntur ante eum omnes gentes, et separabit eos ab invicem, sicut pastor segregat oves ab hædis : "
+        },
+        {
+            "chapter": 25,
+            "verse": 33,
+            "name": "Matthew 25:33",
+            "text": "et statuet oves quidem a dextris suis, hædos autem a sinistris. "
+        },
+        {
+            "chapter": 25,
+            "verse": 34,
+            "name": "Matthew 25:34",
+            "text": "Tunc dicet rex his qui a dextris ejus erunt : Venite benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi : "
+        },
+        {
+            "chapter": 25,
+            "verse": 35,
+            "name": "Matthew 25:35",
+            "text": "esurivi enim, et dedistis mihi manducare : sitivi, et dedistis mihi bibere : hospes eram, et collegistis me : "
+        },
+        {
+            "chapter": 25,
+            "verse": 36,
+            "name": "Matthew 25:36",
+            "text": "nudus, et cooperuistis me : infirmus, et visitastis me : in carcere eram, et venistis ad me. "
+        },
+        {
+            "chapter": 25,
+            "verse": 37,
+            "name": "Matthew 25:37",
+            "text": "Tunc respondebunt ei justi, dicentes : Domine, quando te vidimus esurientem, et pavimus te : sitientem, et dedimus tibi potum ? "
+        },
+        {
+            "chapter": 25,
+            "verse": 38,
+            "name": "Matthew 25:38",
+            "text": "quando autem te vidimus hospitem, et collegimus te : aut nudum, et cooperuimus te ? "
+        },
+        {
+            "chapter": 25,
+            "verse": 39,
+            "name": "Matthew 25:39",
+            "text": "aut quando te vidimus infirmum, aut in carcere, et venimus ad te ? "
+        },
+        {
+            "chapter": 25,
+            "verse": 40,
+            "name": "Matthew 25:40",
+            "text": "Et respondens rex, dicet illis : Amen dico vobis, quamdiu fecistis uni ex his fratribus meis minimis, mihi fecistis. "
+        },
+        {
+            "chapter": 25,
+            "verse": 41,
+            "name": "Matthew 25:41",
+            "text": "Tunc dicet et his qui a sinistris erunt : Discedite a me maledicti in ignem æternum, qui paratus est diabolo, et angelis ejus : "
+        },
+        {
+            "chapter": 25,
+            "verse": 42,
+            "name": "Matthew 25:42",
+            "text": "esurivi enim, et non dedistis mihi manducare : sitivi, et non dedistis mihi potum : "
+        },
+        {
+            "chapter": 25,
+            "verse": 43,
+            "name": "Matthew 25:43",
+            "text": "hospes eram, et non collegistis me : nudus, et non cooperuistis me : infirmus, et in carcere, et non visitastis me. "
+        },
+        {
+            "chapter": 25,
+            "verse": 44,
+            "name": "Matthew 25:44",
+            "text": "Tunc respondebunt ei et ipsi, dicentes : Domine, quando te vidimus esurientem, aut sitientem, aut hospitem, aut nudum, aut infirmum, aut in carcere, et non ministravimus tibi ? "
+        },
+        {
+            "chapter": 25,
+            "verse": 45,
+            "name": "Matthew 25:45",
+            "text": "Tunc respondebit illis, dicens : Amen dico vobis : Quamdiu non fecistis uni de minoribus his, nec mihi fecistis. "
+        },
+        {
+            "chapter": 25,
+            "verse": 46,
+            "name": "Matthew 25:46",
+            "text": "Et ibunt hi in supplicium æternum : justi autem in vitam æternam.   "
+        }
+    ]
+}

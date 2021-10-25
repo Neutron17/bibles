@@ -1,0 +1,86 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 45,
+    "name": "Psalms 45",
+    "verses": [
+        {
+            "chapter": 45,
+            "verse": 1,
+            "name": "Psalms 45:1",
+            "text": "In finem, filiis Core, pro arcanis. Psalmus.  "
+        },
+        {
+            "chapter": 45,
+            "verse": 2,
+            "name": "Psalms 45:2",
+            "text": "  Deus noster refugium et virtus ;  adjutor in tribulationibus quæ invenerunt nos nimis. "
+        },
+        {
+            "chapter": 45,
+            "verse": 3,
+            "name": "Psalms 45:3",
+            "text": " Propterea non timebimus dum turbabitur terra,  et transferentur montes in cor maris. "
+        },
+        {
+            "chapter": 45,
+            "verse": 4,
+            "name": "Psalms 45:4",
+            "text": " Sonuerunt, et turbatæ sunt aquæ eorum ;  conturbati sunt montes in fortitudine ejus. "
+        },
+        {
+            "chapter": 45,
+            "verse": 5,
+            "name": "Psalms 45:5",
+            "text": " Fluminis impetus lætificat civitatem Dei :  sanctificavit tabernaculum suum Altissimus. "
+        },
+        {
+            "chapter": 45,
+            "verse": 6,
+            "name": "Psalms 45:6",
+            "text": " Deus in medio ejus, non commovebitur ;  adjuvabit eam Deus mane diluculo. "
+        },
+        {
+            "chapter": 45,
+            "verse": 7,
+            "name": "Psalms 45:7",
+            "text": " Conturbatæ sunt gentes, et inclinata sunt regna :  dedit vocem suam, mota est terra. "
+        },
+        {
+            "chapter": 45,
+            "verse": 8,
+            "name": "Psalms 45:8",
+            "text": " Dominus virtutum nobiscum ;  susceptor noster Deus Jacob. "
+        },
+        {
+            "chapter": 45,
+            "verse": 9,
+            "name": "Psalms 45:9",
+            "text": " Venite, et videte opera Domini,  quæ posuit prodigia super terram, "
+        },
+        {
+            "chapter": 45,
+            "verse": 10,
+            "name": "Psalms 45:10",
+            "text": " auferens bella usque ad finem terræ.  Arcum conteret, et confringet arma,  et scuta comburet igni. "
+        },
+        {
+            "chapter": 45,
+            "verse": 11,
+            "name": "Psalms 45:11",
+            "text": " Vacate, et videte quoniam ego sum Deus ;  exaltabor in gentibus, et exaltabor in terra. "
+        },
+        {
+            "chapter": 45,
+            "verse": 12,
+            "name": "Psalms 45:12",
+            "text": " Dominus virtutum nobiscum ;  susceptor noster Deus Jacob.  "
+        }
+    ]
+}

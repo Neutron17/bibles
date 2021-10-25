@@ -1,0 +1,548 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 7,
+    "name": "Numbers 7",
+    "verses": [
+        {
+            "chapter": 7,
+            "verse": 1,
+            "name": "Numbers 7:1",
+            "text": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud, unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa ejus : "
+        },
+        {
+            "chapter": 7,
+            "verse": 2,
+            "name": "Numbers 7:2",
+            "text": "obtulerunt principes Israël et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant, "
+        },
+        {
+            "chapter": 7,
+            "verse": 3,
+            "name": "Numbers 7:3",
+            "text": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi. "
+        },
+        {
+            "chapter": 7,
+            "verse": 4,
+            "name": "Numbers 7:4",
+            "text": "Ait autem Dominus ad Moysen : "
+        },
+        {
+            "chapter": 7,
+            "verse": 5,
+            "name": "Numbers 7:5",
+            "text": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis juxta ordinem ministerii sui. "
+        },
+        {
+            "chapter": 7,
+            "verse": 6,
+            "name": "Numbers 7:6",
+            "text": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis. "
+        },
+        {
+            "chapter": 7,
+            "verse": 7,
+            "name": "Numbers 7:7",
+            "text": "Duo plaustra et quatuor boves dedit filiis Gerson, juxta id quod habebant necessarium. "
+        },
+        {
+            "chapter": 7,
+            "verse": 8,
+            "name": "Numbers 7:8",
+            "text": "Quatuor alia plaustra et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis. "
+        },
+        {
+            "chapter": 7,
+            "verse": 9,
+            "name": "Numbers 7:9",
+            "text": "Filiis autem Caath non dedit plaustra et boves : quia in sanctuario serviunt, et onera propriis portant humeris.  "
+        },
+        {
+            "chapter": 7,
+            "verse": 10,
+            "name": "Numbers 7:10",
+            "text": " Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare. "
+        },
+        {
+            "chapter": 7,
+            "verse": 11,
+            "name": "Numbers 7:11",
+            "text": "Dixitque Dominus ad Moysen : Singuli duces per singulos dies offerant munera in dedicationem altaris. "
+        },
+        {
+            "chapter": 7,
+            "verse": 12,
+            "name": "Numbers 7:12",
+            "text": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Juda : "
+        },
+        {
+            "chapter": 7,
+            "verse": 13,
+            "name": "Numbers 7:13",
+            "text": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium : "
+        },
+        {
+            "chapter": 7,
+            "verse": 14,
+            "name": "Numbers 7:14",
+            "text": "mortariolum ex decem siclis aureis plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 15,
+            "name": "Numbers 7:15",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 16,
+            "name": "Numbers 7:16",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 17,
+            "name": "Numbers 7:17",
+            "text": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Nahasson filii Aminadab. "
+        },
+        {
+            "chapter": 7,
+            "verse": 18,
+            "name": "Numbers 7:18",
+            "text": "Secundo die obtulit Nathanaël filius Suar, dux de tribu Issachar, "
+        },
+        {
+            "chapter": 7,
+            "verse": 19,
+            "name": "Numbers 7:19",
+            "text": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium : "
+        },
+        {
+            "chapter": 7,
+            "verse": 20,
+            "name": "Numbers 7:20",
+            "text": "mortariolum aureum habens decem siclos plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 21,
+            "name": "Numbers 7:21",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 22,
+            "name": "Numbers 7:22",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 23,
+            "name": "Numbers 7:23",
+            "text": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Nathanaël filii Suar. "
+        },
+        {
+            "chapter": 7,
+            "verse": 24,
+            "name": "Numbers 7:24",
+            "text": "Tertio die princeps filiorum Zabulon, Eliab filius Helon, "
+        },
+        {
+            "chapter": 7,
+            "verse": 25,
+            "name": "Numbers 7:25",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium : "
+        },
+        {
+            "chapter": 7,
+            "verse": 26,
+            "name": "Numbers 7:26",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 27,
+            "name": "Numbers 7:27",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 28,
+            "name": "Numbers 7:28",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 29,
+            "name": "Numbers 7:29",
+            "text": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Eliab filii Helon. "
+        },
+        {
+            "chapter": 7,
+            "verse": 30,
+            "name": "Numbers 7:30",
+            "text": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur, "
+        },
+        {
+            "chapter": 7,
+            "verse": 31,
+            "name": "Numbers 7:31",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 32,
+            "name": "Numbers 7:32",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 33,
+            "name": "Numbers 7:33",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 34,
+            "name": "Numbers 7:34",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 35,
+            "name": "Numbers 7:35",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisur filii Sedeur. "
+        },
+        {
+            "chapter": 7,
+            "verse": 36,
+            "name": "Numbers 7:36",
+            "text": "Die quinto princeps filiorum Simeon, Salamiel filius Surisaddai, "
+        },
+        {
+            "chapter": 7,
+            "verse": 37,
+            "name": "Numbers 7:37",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 38,
+            "name": "Numbers 7:38",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 39,
+            "name": "Numbers 7:39",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 40,
+            "name": "Numbers 7:40",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 41,
+            "name": "Numbers 7:41",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Salamiel filii Surisaddai. "
+        },
+        {
+            "chapter": 7,
+            "verse": 42,
+            "name": "Numbers 7:42",
+            "text": "Die sexto princeps filiorum Gad, Eliasaph filius Duel, "
+        },
+        {
+            "chapter": 7,
+            "verse": 43,
+            "name": "Numbers 7:43",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 44,
+            "name": "Numbers 7:44",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 45,
+            "name": "Numbers 7:45",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 46,
+            "name": "Numbers 7:46",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 47,
+            "name": "Numbers 7:47",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Eliasaph filii Duel. "
+        },
+        {
+            "chapter": 7,
+            "verse": 48,
+            "name": "Numbers 7:48",
+            "text": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud, "
+        },
+        {
+            "chapter": 7,
+            "verse": 49,
+            "name": "Numbers 7:49",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 50,
+            "name": "Numbers 7:50",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 51,
+            "name": "Numbers 7:51",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 52,
+            "name": "Numbers 7:52",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 53,
+            "name": "Numbers 7:53",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisama filii Ammiud. "
+        },
+        {
+            "chapter": 7,
+            "verse": 54,
+            "name": "Numbers 7:54",
+            "text": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur, "
+        },
+        {
+            "chapter": 7,
+            "verse": 55,
+            "name": "Numbers 7:55",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 56,
+            "name": "Numbers 7:56",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 57,
+            "name": "Numbers 7:57",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 58,
+            "name": "Numbers 7:58",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 59,
+            "name": "Numbers 7:59",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Gamaliel filii Phadassur. "
+        },
+        {
+            "chapter": 7,
+            "verse": 60,
+            "name": "Numbers 7:60",
+            "text": "Die nono princeps filiorum Benjamin, Abidan filius Gedeonis, "
+        },
+        {
+            "chapter": 7,
+            "verse": 61,
+            "name": "Numbers 7:61",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 62,
+            "name": "Numbers 7:62",
+            "text": "et mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 63,
+            "name": "Numbers 7:63",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 64,
+            "name": "Numbers 7:64",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 65,
+            "name": "Numbers 7:65",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Abidan filii Gedeonis. "
+        },
+        {
+            "chapter": 7,
+            "verse": 66,
+            "name": "Numbers 7:66",
+            "text": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai, "
+        },
+        {
+            "chapter": 7,
+            "verse": 67,
+            "name": "Numbers 7:67",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 68,
+            "name": "Numbers 7:68",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 69,
+            "name": "Numbers 7:69",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 70,
+            "name": "Numbers 7:70",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 71,
+            "name": "Numbers 7:71",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahiezer filii Ammisaddai. "
+        },
+        {
+            "chapter": 7,
+            "verse": 72,
+            "name": "Numbers 7:72",
+            "text": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran, "
+        },
+        {
+            "chapter": 7,
+            "verse": 73,
+            "name": "Numbers 7:73",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 74,
+            "name": "Numbers 7:74",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 75,
+            "name": "Numbers 7:75",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 76,
+            "name": "Numbers 7:76",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 77,
+            "name": "Numbers 7:77",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Phegiel filii Ochran. "
+        },
+        {
+            "chapter": 7,
+            "verse": 78,
+            "name": "Numbers 7:78",
+            "text": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan, "
+        },
+        {
+            "chapter": 7,
+            "verse": 79,
+            "name": "Numbers 7:79",
+            "text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila oleo conspersa in sacrificum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 80,
+            "name": "Numbers 7:80",
+            "text": "mortariolum aureum appendens decem siclos, plenum incenso : "
+        },
+        {
+            "chapter": 7,
+            "verse": 81,
+            "name": "Numbers 7:81",
+            "text": "bovem de armento, et arietem, et agnum anniculum in holocaustum : "
+        },
+        {
+            "chapter": 7,
+            "verse": 82,
+            "name": "Numbers 7:82",
+            "text": "hircumque pro peccato : "
+        },
+        {
+            "chapter": 7,
+            "verse": 83,
+            "name": "Numbers 7:83",
+            "text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.  "
+        },
+        {
+            "chapter": 7,
+            "verse": 84,
+            "name": "Numbers 7:84",
+            "text": " Hæc in dedicatione altaris oblata sunt a principibus Israël, in die qua consecratum est : acetabula argentea duodecim : phialæ argenteæ duodecim : mortariola aurea duodecim : "
+        },
+        {
+            "chapter": 7,
+            "verse": 85,
+            "name": "Numbers 7:85",
+            "text": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala : id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere sanctuarii : "
+        },
+        {
+            "chapter": 7,
+            "verse": 86,
+            "name": "Numbers 7:86",
+            "text": "mortariola aurea duodecim plena incenso, denos siclos appendentia pondere sanctuarii : id est, simul auri sicli centum viginti : "
+        },
+        {
+            "chapter": 7,
+            "verse": 87,
+            "name": "Numbers 7:87",
+            "text": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum : hirci duodecim pro peccato. "
+        },
+        {
+            "chapter": 7,
+            "verse": 88,
+            "name": "Numbers 7:88",
+            "text": "In hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est. "
+        },
+        {
+            "chapter": 7,
+            "verse": 89,
+            "name": "Numbers 7:89",
+            "text": "Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.   "
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 114,
+    "name": "Psalms 114",
+    "verses": [
+        {
+            "chapter": 114,
+            "verse": 1,
+            "name": "Psalms 114:1",
+            "text": " Mikor Izráel népe kijöve Égyiptomból, Jákóbnak házanépe az idegen nép közül: "
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "name": "Psalms 114:2",
+            "text": "Júda lőn az ő szentséges népe és Izráel az ő királysága. "
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "name": "Psalms 114:3",
+            "text": "A tenger látá őt és elfutamodék; a Jordán hátrafordula. "
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "name": "Psalms 114:4",
+            "text": "A hegyek szöknek vala, mint a kosok, s a halmok, mint a juhoknak bárányai. "
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "name": "Psalms 114:5",
+            "text": "Mi a bajod, te tenger, hogy megfutamodál, és te Jordán, hogy hátrafordulál? "
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "name": "Psalms 114:6",
+            "text": "Hegyek, hogy szöktök vala, mint a kosok? Ti halmok, mint a juhoknak bárányai?"
+        },
+        {
+            "chapter": 114,
+            "verse": 7,
+            "name": "Psalms 114:7",
+            "text": "Indulj meg te föld az Úr orczája előtt, a Jákób Istene előtt, "
+        },
+        {
+            "chapter": 114,
+            "verse": 8,
+            "name": "Psalms 114:8",
+            "text": "A ki átváltoztatja a kősziklát álló tóvá, és a szirtet vizek forrásává.   "
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 66,
+    "name": "Psalms 66",
+    "verses": [
+        {
+            "chapter": 66,
+            "verse": 1,
+            "name": "Psalms 66:1",
+            "text": "In finem, in hymnis. Psalmus cantici David.  "
+        },
+        {
+            "chapter": 66,
+            "verse": 2,
+            "name": "Psalms 66:2",
+            "text": "  Deus misereatur nostri, et benedicat nobis ;  illuminet vultum suum super nos, et misereatur nostri : "
+        },
+        {
+            "chapter": 66,
+            "verse": 3,
+            "name": "Psalms 66:3",
+            "text": " ut cognoscamus in terra viam tuam,  in omnibus gentibus salutare tuum. "
+        },
+        {
+            "chapter": 66,
+            "verse": 4,
+            "name": "Psalms 66:4",
+            "text": " Confiteantur tibi populi, Deus :  confiteantur tibi populi omnes. "
+        },
+        {
+            "chapter": 66,
+            "verse": 5,
+            "name": "Psalms 66:5",
+            "text": " Lætentur et exsultent gentes,  quoniam judicas populos in æquitate,  et gentes in terra dirigis. "
+        },
+        {
+            "chapter": 66,
+            "verse": 6,
+            "name": "Psalms 66:6",
+            "text": " Confiteantur tibi populi, Deus :  confiteantur tibi populi omnes. "
+        },
+        {
+            "chapter": 66,
+            "verse": 7,
+            "name": "Psalms 66:7",
+            "text": " Terra dedit fructum suum :  benedicat nos Deus, Deus noster ! "
+        },
+        {
+            "chapter": 66,
+            "verse": 8,
+            "name": "Psalms 66:8",
+            "text": " Benedicat nos Deus,  et metuant eum omnes fines terræ.  "
+        }
+    ]
+}

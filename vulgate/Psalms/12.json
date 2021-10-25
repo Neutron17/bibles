@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 12,
+    "name": "Psalms 12",
+    "verses": [
+        {
+            "chapter": 12,
+            "verse": 1,
+            "name": "Psalms 12:1",
+            "text": "In finem. Psalmus David.   Usquequo, Domine, oblivisceris me in finem ?  usquequo avertis faciem tuam a me ? "
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "name": "Psalms 12:2",
+            "text": " quamdiu ponam consilia in anima mea ;  dolorem in corde meo per diem ? "
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "name": "Psalms 12:3",
+            "text": " usquequo exaltabitur inimicus meus super me ? "
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "name": "Psalms 12:4",
+            "text": " Respice, et exaudi me, Domine Deus meus.  Illumina oculos meos, ne umquam obdormiam in morte ; "
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "name": "Psalms 12:5",
+            "text": " nequando dicat inimicus meus : Prævalui adversus eum.  Qui tribulant me exsultabunt si motus fuero ; "
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "name": "Psalms 12:6",
+            "text": " ego autem in misericordia tua speravi.  Exsultabit cor meum in salutari tuo.  Cantabo Domino qui bona tribuit mihi ;  et psallam nomini Domini altissimi.  "
+        }
+    ]
+}

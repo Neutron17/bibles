@@ -1,0 +1,230 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 43,
+    "book_name": "John",
+    "chapter": 3,
+    "name": "John 3",
+    "verses": [
+        {
+            "chapter": 3,
+            "verse": 1,
+            "name": "John 3:1",
+            "text": "Erat autem homo ex pharisæis, Nicodemus nomine, princeps Judæorum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "name": "John 3:2",
+            "text": "Hic venit ad Jesum nocte, et dixit ei : Rabbi, scimus quia a Deo venisti magister, nemo enim potest hæc signa facere, quæ tu facis, nisi fuerit Deus cum eo. "
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "name": "John 3:3",
+            "text": "Respondit Jesus, et dixit ei : Amen, amen dico tibi, nisi quis renatus fuerit denuo, non potest videre regnum Dei. "
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "name": "John 3:4",
+            "text": "Dicit ad eum Nicodemus : Quomodo potest homo nasci, cum sit senex ? numquid potest in ventrem matris suæ iterato introire et renasci ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "name": "John 3:5",
+            "text": "Respondit Jesus : Amen, amen dico tibi, nisi quis renatus fuerit ex aqua, et Spiritu Sancto, non potest introire in regnum Dei. "
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "name": "John 3:6",
+            "text": "Quod natum est ex carne, caro est : et quod natum est ex spiritu, spiritus est. "
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "name": "John 3:7",
+            "text": "Non mireris quia dixi tibi : oportet vos nasci denuo. "
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "name": "John 3:8",
+            "text": "Spiritus ubi vult spirat, et vocem ejus audis, sed nescis unde veniat, aut quo vadat : sic est omnis qui natus est ex spiritu. "
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "name": "John 3:9",
+            "text": "Respondit Nicodemus, et dixit ei : Quomodo possunt hæc fieri ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "name": "John 3:10",
+            "text": "Respondit Jesus, et dixit ei : Tu es magister in Israël, et hæc ignoras ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 11,
+            "name": "John 3:11",
+            "text": "Amen, amen dico tibi, quia quod scimus loquimur, et quod vidimus testamur, et testimonium nostrum non accipitis. "
+        },
+        {
+            "chapter": 3,
+            "verse": 12,
+            "name": "John 3:12",
+            "text": "Si terrena dixi vobis, et non creditis : quomodo, si dixero vobis cælestia, credetis ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 13,
+            "name": "John 3:13",
+            "text": "Et nemo ascendit in cælum, nisi qui descendit de cælo, Filius hominis, qui est in cælo. "
+        },
+        {
+            "chapter": 3,
+            "verse": 14,
+            "name": "John 3:14",
+            "text": "Et sicut Moyses exaltavit serpentem in deserto, ita exaltari oportet Filium hominis : "
+        },
+        {
+            "chapter": 3,
+            "verse": 15,
+            "name": "John 3:15",
+            "text": "ut omnis qui credit in ipsum, non pereat, sed habeat vitam æternam. "
+        },
+        {
+            "chapter": 3,
+            "verse": 16,
+            "name": "John 3:16",
+            "text": "Sic enim Deus dilexit mundum, ut Filium suum unigenitum daret : ut omnis qui credit in eum, non pereat, sed habeat vitam æternam. "
+        },
+        {
+            "chapter": 3,
+            "verse": 17,
+            "name": "John 3:17",
+            "text": "Non enim misit Deus Filium suum in mundum, ut judicet mundum, sed ut salvetur mundus per ipsum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 18,
+            "name": "John 3:18",
+            "text": "Qui credit in eum, non judicatur ; qui autem non credit, jam judicatus est : quia non credit in nomine unigeniti Filii Dei. "
+        },
+        {
+            "chapter": 3,
+            "verse": 19,
+            "name": "John 3:19",
+            "text": "Hoc est autem judicium : quia lux venit in mundum, et dilexerunt homines magis tenebras quam lucem : erant enim eorum mala opera. "
+        },
+        {
+            "chapter": 3,
+            "verse": 20,
+            "name": "John 3:20",
+            "text": "Omnis enim qui male agit, odit lucem, et non venit ad lucem, ut non arguantur opera ejus : "
+        },
+        {
+            "chapter": 3,
+            "verse": 21,
+            "name": "John 3:21",
+            "text": "qui autem facit veritatem, venit ad lucem, ut manifestentur opera ejus, quia in Deo sunt facta.  "
+        },
+        {
+            "chapter": 3,
+            "verse": 22,
+            "name": "John 3:22",
+            "text": " Post hæc venit Jesus et discipuli ejus in terram Judæam : et illic demorabatur cum eis, et baptizabat. "
+        },
+        {
+            "chapter": 3,
+            "verse": 23,
+            "name": "John 3:23",
+            "text": "Erat autem et Joannes baptizans, in Ænnon, juxta Salim : quia aquæ multæ erant illic, et veniebant et baptizabantur. "
+        },
+        {
+            "chapter": 3,
+            "verse": 24,
+            "name": "John 3:24",
+            "text": "Nondum enim missus fuerat Joannes in carcerem. "
+        },
+        {
+            "chapter": 3,
+            "verse": 25,
+            "name": "John 3:25",
+            "text": "Facta est autem quæstio ex discipulis Joannis cum Judæis de purificatione. "
+        },
+        {
+            "chapter": 3,
+            "verse": 26,
+            "name": "John 3:26",
+            "text": "Et venerunt ad Joannem, et dixerunt ei : Rabbi, qui erat tecum trans Jordanem, cui tu testimonium perhibuisti, ecce hic baptizat, et omnes veniunt ad eum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 27,
+            "name": "John 3:27",
+            "text": "Respondit Joannes, et dixit : Non potest homo accipere quidquam, nisi fuerit ei datum de cælo. "
+        },
+        {
+            "chapter": 3,
+            "verse": 28,
+            "name": "John 3:28",
+            "text": "Ipsi vos mihi testimonium perhibetis, quod dixerim : Non sum ego Christus : sed quia missus sum ante illum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 29,
+            "name": "John 3:29",
+            "text": "Qui habet sponsam, sponsus est : amicus autem sponsi, qui stat, et audit eum, gaudio gaudet propter vocem sponsi. Hoc ergo gaudium meum impletum est. "
+        },
+        {
+            "chapter": 3,
+            "verse": 30,
+            "name": "John 3:30",
+            "text": "Illum oportet crescere, me autem minui. "
+        },
+        {
+            "chapter": 3,
+            "verse": 31,
+            "name": "John 3:31",
+            "text": "Qui desursum venit, super omnes est. Qui est de terra, de terra est, et de terra loquitur. Qui de cælo venit, super omnes est. "
+        },
+        {
+            "chapter": 3,
+            "verse": 32,
+            "name": "John 3:32",
+            "text": "Et quod vidit, et audivit, hoc testatur : et testimonium ejus nemo accipit. "
+        },
+        {
+            "chapter": 3,
+            "verse": 33,
+            "name": "John 3:33",
+            "text": "Qui accepit ejus testimonium signavit, quia Deus verax est. "
+        },
+        {
+            "chapter": 3,
+            "verse": 34,
+            "name": "John 3:34",
+            "text": "Quem enim misit Deus, verba Dei loquitur : non enim ad mensuram dat Deus spiritum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 35,
+            "name": "John 3:35",
+            "text": "Pater diligit Filium et omnia dedit in manu ejus. "
+        },
+        {
+            "chapter": 3,
+            "verse": 36,
+            "name": "John 3:36",
+            "text": "Qui credit in Filium, habet vitam æternam ; qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum.   "
+        }
+    ]
+}

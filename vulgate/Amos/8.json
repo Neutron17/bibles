@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 30,
+    "book_name": "Amos",
+    "chapter": 8,
+    "name": "Amos 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "Amos 8:1",
+            "text": "Hæc ostendit mihi Dominus Deus : et ecce uncinus pomorum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "Amos 8:2",
+            "text": "Et dixit : Quid tu vides, Amos ? Et dixi : Uncinum pomorum. Et dixit Dominus ad me :   Venit finis super populum meum Israël ;  non adjiciam ultra ut pertranseam eum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "Amos 8:3",
+            "text": " Et stridebunt cardines templi in die illa,  dicit Dominus Deus :  multi morientur ;  in omni loco projicietur silentium. "
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "Amos 8:4",
+            "text": " Audite hoc, qui conteritis pauperem,  et deficere facitis egenos terræ, "
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "Amos 8:5",
+            "text": " dicentes : Quando transibit mensis,  et venundabimus merces ?  et sabbatum, et aperiemus frumentum,  ut imminuamus mensuram, et augeamus siclum,  et supponamus stateras dolosas, "
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "Amos 8:6",
+            "text": " ut possideamus in argento egenos et pauperes pro calceamentis,  et quisquilias frumenti vendamus ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "Amos 8:7",
+            "text": " Juravit Dominus in superbiam Jacob :  Si oblitus fuero usque ad finem omnia opera eorum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "Amos 8:8",
+            "text": " Numquid super isto non commovebitur terra,  et lugebit omnis habitator ejus,  et ascendet quasi fluvius universus,  et ejicicetur, et defluet, quasi rivus Ægypti ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "Amos 8:9",
+            "text": " Et erit in die illa, dicit Dominus Deus :  occidet sol in meridie,  et tenebrescere faciam terram in die luminis : "
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "name": "Amos 8:10",
+            "text": " et convertam festivitates vestras in luctum,  et omnia cantica vestra in planctum,  et inducam super omne dorsum vestrum saccum,  et super omne caput calvitium :  et ponam eam quasi luctum unigeniti,  et novissima ejus quasi diem amarum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 11,
+            "name": "Amos 8:11",
+            "text": " Ecce dies veniunt, dicet Dominus,  et mittam famem in terram :  non famem panis, neque sitim aquæ,  sed audiendi verbum Domini. "
+        },
+        {
+            "chapter": 8,
+            "verse": 12,
+            "name": "Amos 8:12",
+            "text": " Et commovebuntur a mari usque ad mare,  et ab aquilone usque ad orientem :  circuibunt quærentes verbum Domini,  et non invenient. "
+        },
+        {
+            "chapter": 8,
+            "verse": 13,
+            "name": "Amos 8:13",
+            "text": " In die illa deficient virgines pulchræ et adolescentes in siti, "
+        },
+        {
+            "chapter": 8,
+            "verse": 14,
+            "name": "Amos 8:14",
+            "text": " qui jurant in delicto Samariæ,  et dicunt : Vivit Deus tuus, Dan,  et vivit via Bersabee ;  et cadent, et non resurgent ultra.  "
+        }
+    ]
+}

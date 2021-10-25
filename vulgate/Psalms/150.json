@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 150,
+    "name": "Psalms 150",
+    "verses": [
+        {
+            "chapter": 150,
+            "verse": 1,
+            "name": "Psalms 150:1",
+            "text": "Alleluja.   Laudate Dominum in sanctis ejus ;  laudate eum in firmamento virtutis ejus. "
+        },
+        {
+            "chapter": 150,
+            "verse": 2,
+            "name": "Psalms 150:2",
+            "text": " Laudate eum in virtutibus ejus ;  laudate eum secundum multitudinem magnitudinis ejus. "
+        },
+        {
+            "chapter": 150,
+            "verse": 3,
+            "name": "Psalms 150:3",
+            "text": " Laudate eum in sono tubæ ;  laudate eum in psalterio et cithara. "
+        },
+        {
+            "chapter": 150,
+            "verse": 4,
+            "name": "Psalms 150:4",
+            "text": " Laudate eum in tympano et choro ;  laudate eum in chordis et organo. "
+        },
+        {
+            "chapter": 150,
+            "verse": 5,
+            "name": "Psalms 150:5",
+            "text": " Laudate eum in cymbalis benesonantibus ;  laudate eum in cymbalis jubilationis. "
+        },
+        {
+            "chapter": 150,
+            "verse": 6,
+            "name": "Psalms 150:6",
+            "text": " Omnis spiritus laudet Dominum !  Alleluja.    "
+        }
+    ]
+}

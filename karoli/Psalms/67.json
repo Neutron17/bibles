@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 67,
+    "name": "Psalms 67",
+    "verses": [
+        {
+            "chapter": 67,
+            "verse": 1,
+            "name": "Psalms 67:1",
+            "text": " Az éneklőmesternek, hangszerekkel; zsoltár; ének. "
+        },
+        {
+            "chapter": 67,
+            "verse": 2,
+            "name": "Psalms 67:2",
+            "text": "Az Isten könyörüljön rajtunk és áldjon meg minket; világosítsa meg az ő orczáját rajtunk. Szela. "
+        },
+        {
+            "chapter": 67,
+            "verse": 3,
+            "name": "Psalms 67:3",
+            "text": "Hogy megismerjék e földön a te útadat, minden nép közt a te szabadításodat."
+        },
+        {
+            "chapter": 67,
+            "verse": 4,
+            "name": "Psalms 67:4",
+            "text": "Dicsérnek téged a népek, oh Isten, dicsérnek téged a népek mindnyájan. "
+        },
+        {
+            "chapter": 67,
+            "verse": 5,
+            "name": "Psalms 67:5",
+            "text": "Örvendnek és vígadnak a nemzetek, mert igazsággal ítéled a népeket, és a nemzeteket e földön te igazgatod. Szela. "
+        },
+        {
+            "chapter": 67,
+            "verse": 6,
+            "name": "Psalms 67:6",
+            "text": "Dicsérnek téged a népek, oh Isten, dicsérnek téged a népek mindnyájan. "
+        },
+        {
+            "chapter": 67,
+            "verse": 7,
+            "name": "Psalms 67:7",
+            "text": "A föld megadta az ő gyümölcsét: megáld minket az Isten, a mi Istenünk; "
+        },
+        {
+            "chapter": 67,
+            "verse": 8,
+            "name": "Psalms 67:8",
+            "text": "Megáld minket az Isten, és féli őt a földnek minden határa!   "
+        }
+    ]
+}

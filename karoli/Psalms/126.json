@@ -1,0 +1,50 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 126,
+    "name": "Psalms 126",
+    "verses": [
+        {
+            "chapter": 126,
+            "verse": 1,
+            "name": "Psalms 126:1",
+            "text": " Grádicsok éneke. Mikor visszahozta az Úr Sionnak foglyait, olyanok voltunk, mint az álmodók. "
+        },
+        {
+            "chapter": 126,
+            "verse": 2,
+            "name": "Psalms 126:2",
+            "text": "Akkor megtelt a szánk nevetéssel, nyelvünk pedig vígadozással. Akkor így szóltak a pogányok: Hatalmasan cselekedett ezekkel az Úr! "
+        },
+        {
+            "chapter": 126,
+            "verse": 3,
+            "name": "Psalms 126:3",
+            "text": "Hatalmasan cselekedett velünk az Úr, azért örvendezünk."
+        },
+        {
+            "chapter": 126,
+            "verse": 4,
+            "name": "Psalms 126:4",
+            "text": "Hozd vissza, Uram, a mi foglyainkat, mint patakokat a déli földön! "
+        },
+        {
+            "chapter": 126,
+            "verse": 5,
+            "name": "Psalms 126:5",
+            "text": "A kik könyhullatással vetnek, vígadozással aratnak majd."
+        },
+        {
+            "chapter": 126,
+            "verse": 6,
+            "name": "Psalms 126:6",
+            "text": "A ki vetőmagját sírva emelve megy tova, vígadozással jő elő, kévéit emelve.  "
+        }
+    ]
+}

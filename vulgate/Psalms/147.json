@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 147,
+    "name": "Psalms 147",
+    "verses": [
+        {
+            "chapter": 147,
+            "verse": 1,
+            "name": "Psalms 147:1",
+            "text": "Alleluja.   Lauda, Jerusalem, Dominum ;  lauda Deum tuum, Sion. "
+        },
+        {
+            "chapter": 147,
+            "verse": 2,
+            "name": "Psalms 147:2",
+            "text": " Quoniam confortavit seras portarum tuarum ;  benedixit filiis tuis in te. "
+        },
+        {
+            "chapter": 147,
+            "verse": 3,
+            "name": "Psalms 147:3",
+            "text": " Qui posuit fines tuos pacem,  et adipe frumenti satiat te. "
+        },
+        {
+            "chapter": 147,
+            "verse": 4,
+            "name": "Psalms 147:4",
+            "text": " Qui emittit eloquium suum terræ :  velociter currit sermo ejus. "
+        },
+        {
+            "chapter": 147,
+            "verse": 5,
+            "name": "Psalms 147:5",
+            "text": " Qui dat nivem sicut lanam ;  nebulam sicut cinerem spargit. "
+        },
+        {
+            "chapter": 147,
+            "verse": 6,
+            "name": "Psalms 147:6",
+            "text": " Mittit crystallum suam sicut buccellas :  ante faciem frigoris ejus quis sustinebit ? "
+        },
+        {
+            "chapter": 147,
+            "verse": 7,
+            "name": "Psalms 147:7",
+            "text": " Emittet verbum suum, et liquefaciet ea ;  flabit spiritus ejus, et fluent aquæ. "
+        },
+        {
+            "chapter": 147,
+            "verse": 8,
+            "name": "Psalms 147:8",
+            "text": " Qui annuntiat verbum suum Jacob,  justitias et judicia sua Israël. "
+        },
+        {
+            "chapter": 147,
+            "verse": 9,
+            "name": "Psalms 147:9",
+            "text": " Non fecit taliter omni nationi,  et judicia sua non manifestavit eis.  Alleluja.  "
+        }
+    ]
+}

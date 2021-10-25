@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "verses": [
+        {
+            "chapter": 3,
+            "verse": 1,
+            "name": "Jonah 3:1",
+            "text": "Et factum est verbum Domini ad Jonam secundo, dicens : "
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "name": "Jonah 3:2",
+            "text": "Surge, et vade in Niniven, civitatem magnam, et prædica in ea prædicationem quam ego loquor ad te. "
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "name": "Jonah 3:3",
+            "text": "Et surrexit Jonas, et abiit in Niniven juxta verbum Domini : et Ninive erat civitas magna, itinere trium dierum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "name": "Jonah 3:4",
+            "text": "Et cœpit Jonas introire in civitatem itinere diei unius : et clamavit, et dixit : Adhuc quadraginta dies, et Ninive subvertetur. "
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "name": "Jonah 3:5",
+            "text": "Et crediderunt viri Ninivitæ in Deum, et prædicaverunt jejunium, et vestiti sunt saccis, a majore usque ad minorem. "
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "name": "Jonah 3:6",
+            "text": "Et pervenit verbum ad regem Ninive : et surrexit de solio suo, et abjecit vestimentum suum a se, et indutus est sacco, et sedit in cinere. "
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "name": "Jonah 3:7",
+            "text": "Et clamavit, et dixit in Ninive ex ore regis et principum ejus, dicens : Homines, et jumenta, et boves, et pecora non gustent quidquam : nec pascantur, et aquam non bibant. "
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "name": "Jonah 3:8",
+            "text": "Et operiantur saccis homines et jumenta, et clament ad Dominum in fortitudine : et convertatur vir a via sua mala, et ab iniquitate quæ est in manibus eorum. "
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "name": "Jonah 3:9",
+            "text": "Quis scit si convertatur et ignoscat Deus, et revertatur a furore iræ suæ, et non peribimus ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "name": "Jonah 3:10",
+            "text": "Et vidit Deus opera eorum, quia conversi sunt de via sua mala : et misertus est Deus super malitiam quam locutus fuerat ut faceret eis, et non fecit.   "
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 53,
+    "name": "Psalms 53",
+    "verses": [
+        {
+            "chapter": 53,
+            "verse": 1,
+            "name": "Psalms 53:1",
+            "text": " Az éneklőmesternek a mahalathra, Dávid tanítása. "
+        },
+        {
+            "chapter": 53,
+            "verse": 2,
+            "name": "Psalms 53:2",
+            "text": "Ezt mondta a balgatag az ő szívében: Nincs Isten. Megromlottak és útálatos hamisságot cselekedtek, nincs a ki jót cselekedjék."
+        },
+        {
+            "chapter": 53,
+            "verse": 3,
+            "name": "Psalms 53:3",
+            "text": "Isten letekint a mennyből az emberek fiaira, hogy meglássa, ha van-é értelmes, Istent kereső?"
+        },
+        {
+            "chapter": 53,
+            "verse": 4,
+            "name": "Psalms 53:4",
+            "text": "Mindnyájan elhajlottak, és valamennyien megromlottak, nincsen a ki jót cselekedjék, nincsen csak egy is. "
+        },
+        {
+            "chapter": 53,
+            "verse": 5,
+            "name": "Psalms 53:5",
+            "text": "Avagy nincs értelem a hamisságnak cselekvőiben, a kik az én népemet megeszik, mintha kenyeret ennének, a kik az Istent segítségül nem hívják? "
+        },
+        {
+            "chapter": 53,
+            "verse": 6,
+            "name": "Psalms 53:6",
+            "text": "Ott félnek nagy félelemmel, a hol nincsen félelem; mert az Isten elszéleszti azoknak tetemeit, a kik tábort járnak ellened; megszégyeníted azokat, mert az Isten megveti őket. "
+        },
+        {
+            "chapter": 53,
+            "verse": 7,
+            "name": "Psalms 53:7",
+            "text": "Oh, vajha eljönne Sionból Izráelnek a szabadítás! Mikor az Úr visszahozza az ő népének foglyait, örül majd Jákób és vigad Izráel!  "
+        }
+    ]
+}

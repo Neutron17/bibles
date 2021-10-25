@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 20,
+    "name": "Isaiah 20",
+    "verses": [
+        {
+            "chapter": 20,
+            "verse": 1,
+            "name": "Isaiah 20:1",
+            "text": "In anno quo ingressus est Thathan in Azotum, cum misisset eum Sargon, rex Assyriorum, et pugnasset contra Azotum, et cepisset eam : "
+        },
+        {
+            "chapter": 20,
+            "verse": 2,
+            "name": "Isaiah 20:2",
+            "text": "in tempore illo locutus est Dominus in manu Isaiæ, filii Amos, dicens : Vade, et solve saccum de lumbis tuis, et calceamenta tua tolle de pedibus tuis. Et fecit sic, vadens nudus et discalceatus. "
+        },
+        {
+            "chapter": 20,
+            "verse": 3,
+            "name": "Isaiah 20:3",
+            "text": "Et dixit Dominus :   Sicut ambulavit servus meus Isaias nudus et discalceatus,  trium annorum signum et portentum erit  super Ægyptum et super Æthiopiam ; "
+        },
+        {
+            "chapter": 20,
+            "verse": 4,
+            "name": "Isaiah 20:4",
+            "text": " sic minabit rex Assyriorum captivitatem Ægypti,  et transmigrationem Æthiopiæ,  juvenum et senum, nudam et discalceatam, discoopertis natibus, ad ignominiam Ægypti. "
+        },
+        {
+            "chapter": 20,
+            "verse": 5,
+            "name": "Isaiah 20:5",
+            "text": " Et timebunt, et confundentur  ab Æthiopia spe sua,  et ab Ægypto gloria sua. "
+        },
+        {
+            "chapter": 20,
+            "verse": 6,
+            "name": "Isaiah 20:6",
+            "text": " Et dicet habitator insulæ hujus in die illa :  Ecce hæc erat spes nostra,  ad quos confugimus in auxilium, ut liberarent nos  a facie regis Assyriorum :  et quomodo effugere poterimus nos ?  "
+        }
+    ]
+}

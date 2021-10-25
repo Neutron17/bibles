@@ -1,0 +1,86 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 22,
+    "book_name": "Song of Songs",
+    "chapter": 6,
+    "name": "Song of Songs 6",
+    "verses": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "name": "Song of Songs 6:1",
+            "text": "Dilectus meus descendit in hortum suum ad areolam aromatum,  ut pascatur in hortis, et lilia colligat. "
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "name": "Song of Songs 6:2",
+            "text": " Ego dilecto meo, et dilectus meus mihi,  qui pascitur inter lilia.   "
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "name": "Song of Songs 6:3",
+            "text": "   Pulchra es, amica mea ;  suavis, et decora sicut Jerusalem ;  terribilis ut castrorum acies ordinata. "
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "name": "Song of Songs 6:4",
+            "text": " Averte oculos tuos a me,  quia ipsi me avolare fecerunt.  Capilli tui sicut grex caprarum  quæ apparuerunt de Galaad. "
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "name": "Song of Songs 6:5",
+            "text": " Dentes tui sicut grex ovium  quæ ascenderunt de lavacro :  omnes gemellis fœtibus,  et sterilis non est in eis. "
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "name": "Song of Songs 6:6",
+            "text": " Sicut cortex mali punici, sic genæ tuæ,  absque occultis tuis. "
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "name": "Song of Songs 6:7",
+            "text": " Sexaginta sunt reginæ, et octoginta concubinæ,  et adolescentularum non est numerus. "
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "name": "Song of Songs 6:8",
+            "text": " Una est columba mea, perfecta mea,  una est matris suæ, electa genetrici suæ.  Viderunt eam filiæ, et beatissimam prædicaverunt ;  reginæ et concubinæ, et laudaverunt eam. "
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "name": "Song of Songs 6:9",
+            "text": " Quæ est ista quæ progreditur quasi aurora consurgens,  pulchra ut luna, electa ut sol,  terribilis ut castrorum acies ordinata ?   "
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "name": "Song of Songs 6:10",
+            "text": "   Descendi in hortum nucum,  ut viderem poma convallium,  et inspicerem si floruisset vinea,  et germinassent mala punica. "
+        },
+        {
+            "chapter": 6,
+            "verse": 11,
+            "name": "Song of Songs 6:11",
+            "text": " Nescivi : anima mea conturbavit me,  propter quadrigas Aminadab.   "
+        },
+        {
+            "chapter": 6,
+            "verse": 12,
+            "name": "Song of Songs 6:12",
+            "text": "   Revertere, revertere, Sulamitis !  revertere, revertere ut intueamur te.  "
+        }
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 1,
+    "name": "Numbers 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Numbers 1:1",
+            "text": "Locutusque est Dominus ad Moysen in deserto Sinai in tabernaculo fœderis, prima die mensis secundi, anno altero egressionis eorum ex Ægypto, dicens : "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Numbers 1:2",
+            "text": "Tollite summam universæ congregationis filiorum Israël per cognationes et domos suas, et nomina singulorum, quidquid sexus est masculini "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Numbers 1:3",
+            "text": "a vigesimo anno et supra, omnium virorum fortium ex Israël, et numerabitis eos per turmas suas, tu et Aaron. "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Numbers 1:4",
+            "text": "Eruntque vobiscum principes tribuum ac domorum in cognationibus suis, "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Numbers 1:5",
+            "text": "quorum ista sunt nomina : de Ruben, Elisur, filius Sedeur ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Numbers 1:6",
+            "text": "de Simeon, Salamiel filius Surisaddai ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Numbers 1:7",
+            "text": "de Juda, Nahasson filius Aminadab ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Numbers 1:8",
+            "text": "de Issachar, Nathanaël filius Suar ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Numbers 1:9",
+            "text": "de Zabulon, Eliab filius Helon ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Numbers 1:10",
+            "text": "filiorum autem Joseph, de Ephraim, Elisama filius Ammiud ; de Manasse, Gamaliel filius Phadassur ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Numbers 1:11",
+            "text": "de Benjamin, Abidan filius Gedeonis ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Numbers 1:12",
+            "text": "de Dan, Ahiezer filius Ammisaddai ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Numbers 1:13",
+            "text": "de Aser, Phegiel filius Ochran ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Numbers 1:14",
+            "text": "de Gad, Eliasaph filius Duel ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Numbers 1:15",
+            "text": "de Nephthali, Ahira filius Enan. "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Numbers 1:16",
+            "text": "Hi nobilissimi principes multitudinis per tribus et cognationes suas, et capita exercitus Israël, "
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "Numbers 1:17",
+            "text": "quos tulerunt Moyses et Aaron cum omni vulgi multitudine : "
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "Numbers 1:18",
+            "text": "et congregaverunt primo die mensis secundi, recensentes eos per cognationes, et domos, ac familias, et capita, et nomina singulorum a vigesimo anno et supra, "
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "Numbers 1:19",
+            "text": "sicut præceperat Dominus Moysi. Numeratique sunt in deserto Sinai.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "Numbers 1:20",
+            "text": " De Ruben primogenito Israëlis per generationes et familias ac domos suas, et nomina capitum singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum, "
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "Numbers 1:21",
+            "text": "quadraginta sex millia quingenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "Numbers 1:22",
+            "text": "De filiis Simeon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina et capita singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum, "
+        },
+        {
+            "chapter": 1,
+            "verse": 23,
+            "name": "Numbers 1:23",
+            "text": "quinquaginta novem millia trecenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 24,
+            "name": "Numbers 1:24",
+            "text": "De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent, "
+        },
+        {
+            "chapter": 1,
+            "verse": 25,
+            "name": "Numbers 1:25",
+            "text": "quadraginta quinque millia sexcenti quinquaginta. "
+        },
+        {
+            "chapter": 1,
+            "verse": 26,
+            "name": "Numbers 1:26",
+            "text": "De filiis Juda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 27,
+            "name": "Numbers 1:27",
+            "text": "recensiti sunt septuaginta quatuor millia sexcenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 28,
+            "name": "Numbers 1:28",
+            "text": "De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent, "
+        },
+        {
+            "chapter": 1,
+            "verse": 29,
+            "name": "Numbers 1:29",
+            "text": "recensiti sunt quinquaginta quatuor millia quadringenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 30,
+            "name": "Numbers 1:30",
+            "text": "De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 31,
+            "name": "Numbers 1:31",
+            "text": "quinquaginta septem millia quadringenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 32,
+            "name": "Numbers 1:32",
+            "text": "De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 33,
+            "name": "Numbers 1:33",
+            "text": "quadraginta millia quingenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 34,
+            "name": "Numbers 1:34",
+            "text": "Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 35,
+            "name": "Numbers 1:35",
+            "text": "triginta duo millia ducenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 36,
+            "name": "Numbers 1:36",
+            "text": "De filiis Benjamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 37,
+            "name": "Numbers 1:37",
+            "text": "triginta quinque millia quadringenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 38,
+            "name": "Numbers 1:38",
+            "text": "De filiis Dan per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 39,
+            "name": "Numbers 1:39",
+            "text": "sexaginta duo millia septingenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 40,
+            "name": "Numbers 1:40",
+            "text": "De filiis Aser per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 41,
+            "name": "Numbers 1:41",
+            "text": "quadraginta millia et mille quingenti. "
+        },
+        {
+            "chapter": 1,
+            "verse": 42,
+            "name": "Numbers 1:42",
+            "text": "De filiis Nephthali per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 43,
+            "name": "Numbers 1:43",
+            "text": "quinquaginta tria millia quadringenti.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 44,
+            "name": "Numbers 1:44",
+            "text": " Hi sunt, quos numeraverunt Moyses et Aaron, et duodecim principes Israël, singulos per domos cognationum suarum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 45,
+            "name": "Numbers 1:45",
+            "text": "Fueruntque omnis numerus filiorum Israël per domos et familias suas a vigesimo anno et supra, qui poterant ad bella procedere, "
+        },
+        {
+            "chapter": 1,
+            "verse": 46,
+            "name": "Numbers 1:46",
+            "text": "sexcenta tria millia virorum quingenti quinquaginta.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 47,
+            "name": "Numbers 1:47",
+            "text": " Levitæ autem in tribu familiarum suarum non sunt numerati cum eis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 48,
+            "name": "Numbers 1:48",
+            "text": "Locutusque est Dominus ad Moysen, dicens : "
+        },
+        {
+            "chapter": 1,
+            "verse": 49,
+            "name": "Numbers 1:49",
+            "text": "Tribum Levi noli numerare, neque pones summam eorum cum filiis Israël : "
+        },
+        {
+            "chapter": 1,
+            "verse": 50,
+            "name": "Numbers 1:50",
+            "text": "sed constitue eos super tabernaculum testimonii et cuncta vasa ejus, et quidquid ad cæremonias pertinet. Ipsi portabunt tabernaculum et omnia utensilia ejus : et erunt in ministerio, ac per gyrum tabernaculi metabuntur. "
+        },
+        {
+            "chapter": 1,
+            "verse": 51,
+            "name": "Numbers 1:51",
+            "text": "Cum proficiscendum fuerit, deponent Levitæ tabernaculum ; cum castrametandum, erigent. Quisquis externorum accesserit, occidetur. "
+        },
+        {
+            "chapter": 1,
+            "verse": 52,
+            "name": "Numbers 1:52",
+            "text": "Metabuntur autem castra filii Israël unusquisque per turmas et cuneos atque exercitum suum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 53,
+            "name": "Numbers 1:53",
+            "text": "Porro Levitæ per gyrum tabernaculi figent tentoria, ne fiat indignatio super multitudinem filiorum Israël, et excubabunt in custodiis tabernaculi testimonii. "
+        },
+        {
+            "chapter": 1,
+            "verse": 54,
+            "name": "Numbers 1:54",
+            "text": "Fecerunt ergo filii Israël juxta omnia quæ præceperat Dominus Moysi.   "
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 43,
+    "book_name": "John",
+    "chapter": 18,
+    "name": "John 18",
+    "verses": [
+        {
+            "chapter": 18,
+            "verse": 1,
+            "name": "John 18:1",
+            "text": "Hæc cum dixisset Jesus, egressus est cum discipulis suis trans torrentem Cedron, ubi erat hortus, in quem introivit ipse, et discipuli ejus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 2,
+            "name": "John 18:2",
+            "text": "Sciebat autem et Judas, qui tradebat eum, locum : quia frequenter Jesus convenerat illuc cum discipulis suis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 3,
+            "name": "John 18:3",
+            "text": "Judas ergo cum accepisset cohortem, et a pontificibus et pharisæis ministros, venit illuc cum laternis, et facibus, et armis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 4,
+            "name": "John 18:4",
+            "text": "Jesus itaque sciens omnia quæ ventura erant super eum, processit, et dixit eis : Quem quæritis ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 5,
+            "name": "John 18:5",
+            "text": "Responderunt ei : Jesum Nazarenum. Dicit eis Jesus : Ego sum. Stabat autem et Judas, qui tradebat eum, cum ipsis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 6,
+            "name": "John 18:6",
+            "text": "Ut ergo dixit eis : Ego sum : abierunt retrorsum, et ceciderunt in terram. "
+        },
+        {
+            "chapter": 18,
+            "verse": 7,
+            "name": "John 18:7",
+            "text": "Iterum ergo interrogavit eos : Quem quæritis ? Illi autem dixerunt : Jesum Nazarenum. "
+        },
+        {
+            "chapter": 18,
+            "verse": 8,
+            "name": "John 18:8",
+            "text": "Respondit Jesus : Dixi vobis, quia ego sum : si ergo me quæritis, sinite hos abire. "
+        },
+        {
+            "chapter": 18,
+            "verse": 9,
+            "name": "John 18:9",
+            "text": "Ut impleretur sermo, quem dixit : Quia quos dedisti mihi, non perdidi ex eis quemquam. "
+        },
+        {
+            "chapter": 18,
+            "verse": 10,
+            "name": "John 18:10",
+            "text": "Simon ergo Petrus habens gladium eduxit eum : et percussit pontificis servum, et abscidit auriculam ejus dexteram. Erat autem nomen servo Malchus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 11,
+            "name": "John 18:11",
+            "text": "Dixit ergo Jesus Petro : Mitte gladium tuum in vaginam. Calicem, quem dedit mihi Pater, non bibam illum ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 12,
+            "name": "John 18:12",
+            "text": "Cohors ergo, et tribunus, et ministri Judæorum comprehenderunt Jesum, et ligaverunt eum.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 13,
+            "name": "John 18:13",
+            "text": " Et adduxerunt eum ad Annam primum : erat enim socer Caiphæ, qui erat pontifex anni illius. "
+        },
+        {
+            "chapter": 18,
+            "verse": 14,
+            "name": "John 18:14",
+            "text": "Erat autem Caiphas, qui consilium dederat Judæis : Quia expedit unum hominem mori pro populo.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 15,
+            "name": "John 18:15",
+            "text": " Sequebatur autem Jesum Simon Petrus, et alius discipulus. Discipulus autem ille erat notus pontifici, et introivit cum Jesu in atrium pontificis. "
+        },
+        {
+            "chapter": 18,
+            "verse": 16,
+            "name": "John 18:16",
+            "text": "Petrus autem stabat ad ostium foris. Exivit ergo discipulus alius, qui erat notus pontifici, et dixit ostiariæ : et introduxit Petrum. "
+        },
+        {
+            "chapter": 18,
+            "verse": 17,
+            "name": "John 18:17",
+            "text": "Dicit ergo Petro ancilla ostiaria : Numquid et tu ex discipulis es hominis istius ? Dicit ille : Non sum. "
+        },
+        {
+            "chapter": 18,
+            "verse": 18,
+            "name": "John 18:18",
+            "text": "Stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se : erat autem cum eis et Petrus stans, et calefaciens se.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 19,
+            "name": "John 18:19",
+            "text": " Pontifex ergo interrogavit Jesum de discipulis suis, et de doctrina ejus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 20,
+            "name": "John 18:20",
+            "text": "Respondit ei Jesus : Ego palam locutus sum mundo : ego semper docui in synagoga, et in templo, quo omnes Judæi conveniunt, et in occulto locutus sum nihil. "
+        },
+        {
+            "chapter": 18,
+            "verse": 21,
+            "name": "John 18:21",
+            "text": "Quid me interrogas ? interroga eos qui audierunt quid locutus sim ipsis : ecce hi sciunt quæ dixerim ego. "
+        },
+        {
+            "chapter": 18,
+            "verse": 22,
+            "name": "John 18:22",
+            "text": "Hæc autem cum dixisset, unus assistens ministrorum dedit alapam Jesu, dicens : Sic respondes pontifici ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 23,
+            "name": "John 18:23",
+            "text": "Respondit ei Jesus : Si male locutus sum, testimonium perhibe de malo : si autem bene, quid me cædis ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 24,
+            "name": "John 18:24",
+            "text": "Et misit eum Annas ligatum ad Caipham pontificem.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 25,
+            "name": "John 18:25",
+            "text": " Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo ei : Numquid et tu ex discipulis ejus es ? Negavit ille, et dixit : Non sum. "
+        },
+        {
+            "chapter": 18,
+            "verse": 26,
+            "name": "John 18:26",
+            "text": "Dicit ei unus ex servis pontificis, cognatus ejus, cujus abscidit Petrus auriculam : Nonne ego te vidi in horto cum illo ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 27,
+            "name": "John 18:27",
+            "text": "Iterum ergo negavit Petrus : et statim gallus cantavit.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 28,
+            "name": "John 18:28",
+            "text": " Adducunt ergo Jesum a Caipha in prætorium. Erat autem mane : et ipsi non introierunt in prætorium, ut non contaminarentur, sed ut manducarent Pascha. "
+        },
+        {
+            "chapter": 18,
+            "verse": 29,
+            "name": "John 18:29",
+            "text": "Exivit ergo Pilatus ad eos foras, et dixit : Quam accusationem affertis adversus hominem hunc ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 30,
+            "name": "John 18:30",
+            "text": "Responderunt, et dixerunt ei : Si non esset hic malefactor, non tibi tradidissemus eum. "
+        },
+        {
+            "chapter": 18,
+            "verse": 31,
+            "name": "John 18:31",
+            "text": "Dixit ergo eis Pilatus : Accipite eum vos, et secundum legem vestram judicate eum. Dixerunt ergo ei Judæi : Nobis non licet interficere quemquam. "
+        },
+        {
+            "chapter": 18,
+            "verse": 32,
+            "name": "John 18:32",
+            "text": "Ut sermo Jesu impleretur, quem dixit, significans qua morte esset moriturus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 33,
+            "name": "John 18:33",
+            "text": "Introivit ergo iterum in prætorium Pilatus : et vocavit Jesum, et dixit ei : Tu es rex Judæorum ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 34,
+            "name": "John 18:34",
+            "text": "Respondit Jesus : A temetipso hoc dicis, an alii dixerunt tibi de me ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 35,
+            "name": "John 18:35",
+            "text": "Respondit Pilatus : Numquid ego Judæus sum ? gens tua et pontifices tradiderunt te mihi : quid fecisti ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 36,
+            "name": "John 18:36",
+            "text": "Respondit Jesus : Regnum meum non est de hoc mundo. Si ex hoc mundo esset regnum meum, ministri mei utique decertarent ut non traderer Judæis : nunc autem regnum meum non est hinc. "
+        },
+        {
+            "chapter": 18,
+            "verse": 37,
+            "name": "John 18:37",
+            "text": "Dixit itaque ei Pilatus : Ergo rex es tu ? Respondit Jesus : Tu dicis quia rex sum ego. Ego in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati : omnis qui est ex veritate, audit vocem meam. "
+        },
+        {
+            "chapter": 18,
+            "verse": 38,
+            "name": "John 18:38",
+            "text": "Dicit ei Pilatus : Quid est veritas ? Et cum hoc dixisset, iterum exivit ad Judæos, et dicit eis : Ego nullam invenio in eo causam. "
+        },
+        {
+            "chapter": 18,
+            "verse": 39,
+            "name": "John 18:39",
+            "text": "Est autem consuetudo vobis ut unum dimittam vobis in Pascha : vultis ergo dimittam vobis regem Judæorum ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 40,
+            "name": "John 18:40",
+            "text": "Clamaverunt ergo rursum omnes, dicentes : Non hunc, sed Barabbam. Erat autem Barabbas latro.   "
+        }
+    ]
+}

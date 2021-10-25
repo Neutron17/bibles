@@ -1,0 +1,44 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 42,
+    "name": "Psalms 42",
+    "verses": [
+        {
+            "chapter": 42,
+            "verse": 1,
+            "name": "Psalms 42:1",
+            "text": "Psalmus David.   Judica me, Deus, et discerne causam meam de gente non sancta :  ab homine iniquo et doloso erue me. "
+        },
+        {
+            "chapter": 42,
+            "verse": 2,
+            "name": "Psalms 42:2",
+            "text": " Quia tu es, Deus, fortitudo mea : quare me repulisti ?  et quare tristis incedo, dum affligit me inimicus ? "
+        },
+        {
+            "chapter": 42,
+            "verse": 3,
+            "name": "Psalms 42:3",
+            "text": " Emitte lucem tuam et veritatem tuam :  ipsa me deduxerunt, et adduxerunt  in montem sanctum tuum, et in tabernacula tua. "
+        },
+        {
+            "chapter": 42,
+            "verse": 4,
+            "name": "Psalms 42:4",
+            "text": " Et introibo ad altare Dei,  ad Deum qui lætificat juventutem meam.  Confitebor tibi in cithara, Deus, Deus meus. "
+        },
+        {
+            "chapter": 42,
+            "verse": 5,
+            "name": "Psalms 42:5",
+            "text": " Quare tristis es, anima mea ?  et quare conturbas me ?  Spera in Deo, quoniam adhuc confitebor illi,  salutare vultus mei, et Deus meus.  "
+        }
+    ]
+}

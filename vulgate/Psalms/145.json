@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 145,
+    "name": "Psalms 145",
+    "verses": [
+        {
+            "chapter": 145,
+            "verse": 1,
+            "name": "Psalms 145:1",
+            "text": "Alleluja, Aggæi et Zachariæ.  "
+        },
+        {
+            "chapter": 145,
+            "verse": 2,
+            "name": "Psalms 145:2",
+            "text": "  Lauda, anima mea, Dominum.  Laudabo Dominum in vita mea ;  psallam Deo meo quamdiu fuero.  Nolite confidere in principibus, "
+        },
+        {
+            "chapter": 145,
+            "verse": 3,
+            "name": "Psalms 145:3",
+            "text": " in filiis hominum, in quibus non est salus. "
+        },
+        {
+            "chapter": 145,
+            "verse": 4,
+            "name": "Psalms 145:4",
+            "text": " Exibit spiritus ejus, et revertetur in terram suam ;  in illa die peribunt omnes cogitationes eorum. "
+        },
+        {
+            "chapter": 145,
+            "verse": 5,
+            "name": "Psalms 145:5",
+            "text": " Beatus cujus Deus Jacob adjutor ejus,  spes ejus in Domino Deo ipsius : "
+        },
+        {
+            "chapter": 145,
+            "verse": 6,
+            "name": "Psalms 145:6",
+            "text": " qui fecit cælum et terram,  mare, et omnia quæ in eis sunt. "
+        },
+        {
+            "chapter": 145,
+            "verse": 7,
+            "name": "Psalms 145:7",
+            "text": " Qui custodit veritatem in sæculum ;  facit judicium injuriam patientibus ;  dat escam esurientibus.  Dominus solvit compeditos ; "
+        },
+        {
+            "chapter": 145,
+            "verse": 8,
+            "name": "Psalms 145:8",
+            "text": " Dominus illuminat cæcos.  Dominus erigit elisos ;  Dominus diligit justos. "
+        },
+        {
+            "chapter": 145,
+            "verse": 9,
+            "name": "Psalms 145:9",
+            "text": " Dominus custodit advenas,  pupillum et viduam suscipiet,  et vias peccatorum disperdet. "
+        },
+        {
+            "chapter": 145,
+            "verse": 10,
+            "name": "Psalms 145:10",
+            "text": " Regnabit Dominus in sæcula ;  Deus tuus, Sion, in generationem et generationem.  "
+        }
+    ]
+}

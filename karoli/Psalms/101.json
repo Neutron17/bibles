@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 101,
+    "name": "Psalms 101",
+    "verses": [
+        {
+            "chapter": 101,
+            "verse": 1,
+            "name": "Psalms 101:1",
+            "text": " Dávid zsoltára. Kegyelmet és igazságot énekelek; te néked zengek éneket, Uram! "
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "name": "Psalms 101:2",
+            "text": "Gondom van a tökéletes útra: mikor jössz el hozzám? Szívemnek tökéletessége szerint járok én az én házamban."
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "name": "Psalms 101:3",
+            "text": "Nem vetem a szemem hiábavaló dologra; a pártoskodók cselekedetét gyűlölöm: nincs köze hozzám. "
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "name": "Psalms 101:4",
+            "text": "A csalárd szív távol van én tőlem, gonoszt nem ismerek. "
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "name": "Psalms 101:5",
+            "text": "A ki titkon rágalmazza az ő felebarátját, elvesztem azt; a nagyralátót és a kevélyszívűt, azt el nem szenvedem. "
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "name": "Psalms 101:6",
+            "text": "Szemmel tartom a föld hűségeseit, hogy mellettem lakozzanak; a tökéletesség útjában járó, az szolgál engem. "
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "name": "Psalms 101:7",
+            "text": "Nem lakozik az én házamban, a ki csalárdságot mível; a ki hazugságot szól, nem állhat meg szemeim előtt. "
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "name": "Psalms 101:8",
+            "text": "Reggelenként elvesztem e földnek latrait, hogy kigyomláljak az Úrnak városából minden gonosztevőt.   "
+        }
+    ]
+}

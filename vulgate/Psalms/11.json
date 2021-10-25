@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 11,
+    "name": "Psalms 11",
+    "verses": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "name": "Psalms 11:1",
+            "text": "In finem, pro octava. Psalmus David.  "
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "name": "Psalms 11:2",
+            "text": "  Salvum me fac, Domine, quoniam defecit sanctus,  quoniam diminutæ sunt veritates a filiis hominum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "name": "Psalms 11:3",
+            "text": " Vana locuti sunt unusquisque ad proximum suum ;  labia dolosa, in corde et corde locuti sunt. "
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "name": "Psalms 11:4",
+            "text": " Disperdat Dominus universa labia dolosa,  et linguam magniloquam. "
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "name": "Psalms 11:5",
+            "text": " Qui dixerunt : Linguam nostram magnificabimus ;  labia nostra a nobis sunt.  Quis noster dominus est ? "
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "name": "Psalms 11:6",
+            "text": " Propter miseriam inopum, et gemitum pauperum,  nunc exsurgam, dicit Dominus.  Ponam in salutari ;  fiducialiter agam in eo. "
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "name": "Psalms 11:7",
+            "text": " Eloquia Domini, eloquia casta ; argentum igne examinatum,  probatum terræ, purgatum septuplum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "name": "Psalms 11:8",
+            "text": " Tu, Domine, servabis nos,  et custodies nos a generatione hac in æternum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "name": "Psalms 11:9",
+            "text": " In circuitu impii ambulant :  secundum altitudinem tuam multiplicasti filios hominum.  "
+        }
+    ]
+}

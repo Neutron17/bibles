@@ -1,0 +1,146 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 2,
+    "book_name": "Exodus",
+    "chapter": 1,
+    "name": "Exodus 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Exodus 1:1",
+            "text": "Hæc sunt nomina filiorum Israël qui ingressi sunt in Ægyptum cum Jacob : singuli cum domibus suis introierunt : "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Exodus 1:2",
+            "text": "Ruben, Simeon, Levi, Judas, "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Exodus 1:3",
+            "text": "Issachar, Zabulon et Benjamin, "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Exodus 1:4",
+            "text": "Dan et Nephthali, Gad et Aser. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Exodus 1:5",
+            "text": "Erant igitur omnes animæ eorum qui egressi sunt de femore Jacob, septuaginta : Joseph autem in Ægypto erat. "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Exodus 1:6",
+            "text": "Quo mortuo, et universis fratribus ejus, omnique cognatione illa, "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Exodus 1:7",
+            "text": "filii Israël creverunt, et quasi germinantes multiplicati sunt : ac roborati nimis, impleverunt terram.  "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Exodus 1:8",
+            "text": " Surrexit interea rex novus super Ægyptum, qui ignorabat Joseph. "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Exodus 1:9",
+            "text": "Et ait ad populum suum : Ecce, populus filiorum Israël multus, et fortior nobis est. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Exodus 1:10",
+            "text": "Venite, sapienter opprimamus eum, ne forte multiplicetur : et si ingruerit contra nos bellum, addatur inimicis nostris, expugnatisque nobis egrediatur de terra. "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Exodus 1:11",
+            "text": "Præposuit itaque eis magistros operum, ut affligerent eos oneribus : ædificaveruntque urbes tabernaculorum Pharaoni, Phithom et Ramesses. "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Exodus 1:12",
+            "text": "Quantoque opprimebant eos, tanto magis multiplicabantur, et crescebant : "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Exodus 1:13",
+            "text": "oderantque filios Israël Ægyptii, et affligebant illudentes eis, "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Exodus 1:14",
+            "text": "atque ad amaritudinem perducebant vitam eorum operibus duris luti et lateris, omnique famulatu, quo in terræ operibus premebantur. "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Exodus 1:15",
+            "text": "Dixit autem rex Ægypti obstetricibus Hebræorum, quarum una vocabatur Sephora, altera Phua, "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Exodus 1:16",
+            "text": "præcipiens eis : Quando obstetricabitis Hebræas, et partus tempus advenerit : si masculus fuerit, interficite eum : si femina, reservate. "
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "Exodus 1:17",
+            "text": "Timuerunt autem obstetrices Deum, et non fecerunt juxta præceptum regis Ægypti, sed conservabant mares. "
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "Exodus 1:18",
+            "text": "Quibus ad se accersitis, rex ait : Quidnam est hoc quod facere voluistis, ut pueros servaretis ? "
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "Exodus 1:19",
+            "text": "Quæ responderunt : Non sunt Hebreæ sicut ægyptiæ mulieres : ipsæ enim obstetricandi habent scientiam, et priusquam veniamus ad eas, pariunt. "
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "Exodus 1:20",
+            "text": "Bene ergo fecit Deus obstetricibus : et crevit populus, confortatusque est nimis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "Exodus 1:21",
+            "text": "Et quia timuerunt obstetrices Deum, ædificavit eis domos. "
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "Exodus 1:22",
+            "text": "Præcepit ergo Pharao omni populo suo, dicens : Quidquid masculini sexus natum fuerit, in flumen projicite : quidquid feminini, reservate.   "
+        }
+    ]
+}

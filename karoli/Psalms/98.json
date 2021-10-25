@@ -1,0 +1,68 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 98,
+    "name": "Psalms 98",
+    "verses": [
+        {
+            "chapter": 98,
+            "verse": 1,
+            "name": "Psalms 98:1",
+            "text": " Zsoltár. Énekeljetek az Úrnak új éneket, mert csodadolgokat cselekedett; megsegítette őt az ő jobbkeze és az ő szentséges karja. "
+        },
+        {
+            "chapter": 98,
+            "verse": 2,
+            "name": "Psalms 98:2",
+            "text": "Tudtul adta az Úr az ő szabadítását; a népek előtt megjelentette az ő igazságát. "
+        },
+        {
+            "chapter": 98,
+            "verse": 3,
+            "name": "Psalms 98:3",
+            "text": "Megemlékezett az ő kegyelméről és Izráel házához való hűségéről; látták a föld határai mind a mi Istenünknek szabadítását."
+        },
+        {
+            "chapter": 98,
+            "verse": 4,
+            "name": "Psalms 98:4",
+            "text": "Vígan énekelj az Úrnak te egész föld; harsanjatok fel, örvendezzetek és zengedezzetek! "
+        },
+        {
+            "chapter": 98,
+            "verse": 5,
+            "name": "Psalms 98:5",
+            "text": "Zengedezzetek az Úrnak hárfával, hárfával és hangos énekléssel; "
+        },
+        {
+            "chapter": 98,
+            "verse": 6,
+            "name": "Psalms 98:6",
+            "text": "Trombitákkal és kürtzengéssel vígadozzatok a király, az Úr előtt!"
+        },
+        {
+            "chapter": 98,
+            "verse": 7,
+            "name": "Psalms 98:7",
+            "text": "Harsogjon a tenger és minden benne való, a világ és a kik lakoznak benne. "
+        },
+        {
+            "chapter": 98,
+            "verse": 8,
+            "name": "Psalms 98:8",
+            "text": "A folyóvizek tapsoljanak, a hegyek együttesen örvendezzenek "
+        },
+        {
+            "chapter": 98,
+            "verse": 9,
+            "name": "Psalms 98:9",
+            "text": "Az Úr előtt, mert eljön megítélni a földet; megítéli a világot igazsággal és a népeket méltányossággal.   "
+        }
+    ]
+}

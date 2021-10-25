@@ -1,0 +1,320 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 2,
+    "book_name": "Exodus",
+    "chapter": 12,
+    "name": "Exodus 12",
+    "verses": [
+        {
+            "chapter": 12,
+            "verse": 1,
+            "name": "Exodus 12:1",
+            "text": "Dixit quoque Dominus ad Moysen et Aaron in terra Ægypti : "
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "name": "Exodus 12:2",
+            "text": "Mensis iste, vobis principium mensium : primus erit in mensibus anni. "
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "name": "Exodus 12:3",
+            "text": "Loquimini ad universum cœtum filiorum Israël, et dicite eis : Decima die mensis hujus tollat unusquisque agnum per familias et domos suas. "
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "name": "Exodus 12:4",
+            "text": "Sin autem minor est numerus ut sufficere possit ad vescendum agnum, assumet vicinum suum qui junctus est domui suæ, juxta numerum animarum quæ sufficere possunt ad esum agni. "
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "name": "Exodus 12:5",
+            "text": "Erit autem agnus absque macula, masculus, anniculus : juxta quem ritum tolletis et hædum. "
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "name": "Exodus 12:6",
+            "text": "Et servabitis eum usque ad quartamdecimam diem mensis hujus : immolabitque eum universa multitudo filiorum Israël ad vesperam. "
+        },
+        {
+            "chapter": 12,
+            "verse": 7,
+            "name": "Exodus 12:7",
+            "text": "Et sument de sanguine ejus, ac ponent super utrumque postem, et in superliminaribus domorum, in quibus comedent illum. "
+        },
+        {
+            "chapter": 12,
+            "verse": 8,
+            "name": "Exodus 12:8",
+            "text": "Et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus. "
+        },
+        {
+            "chapter": 12,
+            "verse": 9,
+            "name": "Exodus 12:9",
+            "text": "Non comedetis ex eo crudum quid, nec coctum aqua, sed tantum assum igni : caput cum pedibus ejus et intestinis vorabitis. "
+        },
+        {
+            "chapter": 12,
+            "verse": 10,
+            "name": "Exodus 12:10",
+            "text": "Nec remanebit quidquam ex eo usque mane ; si quid residuum fuerit, igne comburetis. "
+        },
+        {
+            "chapter": 12,
+            "verse": 11,
+            "name": "Exodus 12:11",
+            "text": "Sic autem comedetis illum : renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phase (id est, transitus) Domini.  "
+        },
+        {
+            "chapter": 12,
+            "verse": 12,
+            "name": "Exodus 12:12",
+            "text": " Et transibo per terram Ægypti nocte illa, percutiamque omne primogenitum in terra Ægypti ab homine usque ad pecus : et in cunctis diis Ægypti faciam judicia. Ego Dominus. "
+        },
+        {
+            "chapter": 12,
+            "verse": 13,
+            "name": "Exodus 12:13",
+            "text": "Erit autem sanguis vobis in signum in ædibus in quibus eritis : et videbo sanguinem, et transibo vos : nec erit in vobis plaga disperdens quando percussero terram Ægypti. "
+        },
+        {
+            "chapter": 12,
+            "verse": 14,
+            "name": "Exodus 12:14",
+            "text": "Habebitis autem hunc diem in monimentum : et celebrabitis eam solemnem Domino in generationibus vestris cultu sempiterno. "
+        },
+        {
+            "chapter": 12,
+            "verse": 15,
+            "name": "Exodus 12:15",
+            "text": "Septem diebus azyma comedetis : in die primo non erit fermentum in domibus vestris : quicumque comederit fermentatum, peribit anima illa de Israël, a primo die usque ad diem septimum. "
+        },
+        {
+            "chapter": 12,
+            "verse": 16,
+            "name": "Exodus 12:16",
+            "text": "Dies prima erit sancta atque solemnis, et dies septima eadem festivitate venerabilis : nihil operis facietis in eis, exceptis his, quæ ad vescendum pertinent. "
+        },
+        {
+            "chapter": 12,
+            "verse": 17,
+            "name": "Exodus 12:17",
+            "text": "Et observabitis azyma : in eadem enim ipsa die educam exercitum vestrum de terra Ægypti, et custodietis diem istum in generationes vestras ritu perpetuo. "
+        },
+        {
+            "chapter": 12,
+            "verse": 18,
+            "name": "Exodus 12:18",
+            "text": "Primo mense, quartadecima die mensis ad vesperam, comedetis azyma usque ad diem vigesimam primam ejusdem mensis ad vesperam. "
+        },
+        {
+            "chapter": 12,
+            "verse": 19,
+            "name": "Exodus 12:19",
+            "text": "Septem diebus fermentum non invenietur in domibus vestris : qui comederit fermentatum, peribit anima ejus de cœtu Israël, tam de advenis quam de indigenis terræ. "
+        },
+        {
+            "chapter": 12,
+            "verse": 20,
+            "name": "Exodus 12:20",
+            "text": "Omne fermentatum non comedetis : in cunctis habitaculis vestris edetis azyma. "
+        },
+        {
+            "chapter": 12,
+            "verse": 21,
+            "name": "Exodus 12:21",
+            "text": "Vocavit autem Moyses omnes seniores filiorum Israël, et dixit ad eos : Ite tollentes animal per familias vestras, et immolate Phase. "
+        },
+        {
+            "chapter": 12,
+            "verse": 22,
+            "name": "Exodus 12:22",
+            "text": "Fasciculumque hyssopi tingite in sanguine qui est in limine, et aspergite ex eo superliminare, et utrumque postem : nullus vestrum egrediatur ostium domus suæ usque mane. "
+        },
+        {
+            "chapter": 12,
+            "verse": 23,
+            "name": "Exodus 12:23",
+            "text": "Transibit enim Dominus percutiens Ægyptios : cumque viderit sanguinem in superliminari, et in utroque poste, transcendet ostium domus, et non sinet percussorem ingredi domos vestras et lædere. "
+        },
+        {
+            "chapter": 12,
+            "verse": 24,
+            "name": "Exodus 12:24",
+            "text": "Custodi verbum istud legitimum tibi et filiis tuis usque in æternum. "
+        },
+        {
+            "chapter": 12,
+            "verse": 25,
+            "name": "Exodus 12:25",
+            "text": "Cumque introieritis terram, quam Dominus daturus est vobis ut pollicitus est, observabitis cæremonias istas. "
+        },
+        {
+            "chapter": 12,
+            "verse": 26,
+            "name": "Exodus 12:26",
+            "text": "Et cum dixerint vobis filii vestri : Quæ est ista religio ? "
+        },
+        {
+            "chapter": 12,
+            "verse": 27,
+            "name": "Exodus 12:27",
+            "text": "Dicetis eis : Victima transitus Domini est, quando transivit super domos filiorum Israël in Ægypto, percutiens Ægyptios, et domos nostras liberans. Incurvatusque populus adoravit. "
+        },
+        {
+            "chapter": 12,
+            "verse": 28,
+            "name": "Exodus 12:28",
+            "text": "Et egressi filii Israël fecerunt sicut præceperat Dominus Moysi et Aaron.  "
+        },
+        {
+            "chapter": 12,
+            "verse": 29,
+            "name": "Exodus 12:29",
+            "text": " Factum est autem in noctis medio, percussit Dominus omne primogenitum in terra Ægypti, a primogenito Pharaonis, qui in solio ejus sedebat, usque ad primogenitum captivæ quæ erat in carcere, et omne primogenitum jumentorum. "
+        },
+        {
+            "chapter": 12,
+            "verse": 30,
+            "name": "Exodus 12:30",
+            "text": "Surrexitque Pharao nocte, et omnes servi ejus, cunctaque Ægyptus : et ortus est clamor magnus in Ægypto : neque enim erat domus in qua non jaceret mortuus.  "
+        },
+        {
+            "chapter": 12,
+            "verse": 31,
+            "name": "Exodus 12:31",
+            "text": " Vocatisque Pharao Moyse et Aaron nocte, ait : Surgite et egredimini a populo meo, vos et filii Israël : ite, immolate Domino sicut dicitis. "
+        },
+        {
+            "chapter": 12,
+            "verse": 32,
+            "name": "Exodus 12:32",
+            "text": "Oves vestras et armenta assumite ut petieratis, et abeuntes benedicite mihi. "
+        },
+        {
+            "chapter": 12,
+            "verse": 33,
+            "name": "Exodus 12:33",
+            "text": "Urgebantque Ægyptii populum de terra exire velociter, dicentes : Omnes moriemur. "
+        },
+        {
+            "chapter": 12,
+            "verse": 34,
+            "name": "Exodus 12:34",
+            "text": "Tulit igitur populus conspersam farinam antequam fermentaretur : et ligans in palliis, posuit super humeros suos. "
+        },
+        {
+            "chapter": 12,
+            "verse": 35,
+            "name": "Exodus 12:35",
+            "text": "Feceruntque filii Israël sicut præceperat Moyses : et petierunt ab Ægyptiis vasa argentea et aurea, vestemque plurimam. "
+        },
+        {
+            "chapter": 12,
+            "verse": 36,
+            "name": "Exodus 12:36",
+            "text": "Dominus autem dedit gratiam populo coram Ægyptiis ut commodarent eis : et spoliaverunt Ægyptios.  "
+        },
+        {
+            "chapter": 12,
+            "verse": 37,
+            "name": "Exodus 12:37",
+            "text": " Profectique sunt filii Israël de Ramesse in Socoth, sexcenta fere millia peditum virorum, absque parvulis. "
+        },
+        {
+            "chapter": 12,
+            "verse": 38,
+            "name": "Exodus 12:38",
+            "text": "Sed et vulgus promiscuum innumerabile ascendit cum eis, oves et armenta et animantia diversi generis multa nimis. "
+        },
+        {
+            "chapter": 12,
+            "verse": 39,
+            "name": "Exodus 12:39",
+            "text": "Coxeruntque farinam, quam dudum de Ægypto conspersam tulerant : et fecerunt subcinericios panes azymos : neque enim poterant fermentari, cogentibus exire Ægyptiis, et nullam facere sinentibus moram : nec pulmenti quidquam occurrerat præparare. "
+        },
+        {
+            "chapter": 12,
+            "verse": 40,
+            "name": "Exodus 12:40",
+            "text": "Habitatio autem filiorum Israël qua manserunt in Ægypto, fuit quadringentorum triginta annorum. "
+        },
+        {
+            "chapter": 12,
+            "verse": 41,
+            "name": "Exodus 12:41",
+            "text": "Quibus expletis, eadem die egressus est omnis exercitus Domini de terra Ægypti. "
+        },
+        {
+            "chapter": 12,
+            "verse": 42,
+            "name": "Exodus 12:42",
+            "text": "Nox ista est observabilis Domini, quando eduxit eos de terra Ægypti : hanc observare debent omnes filii Israël in generationibus suis.  "
+        },
+        {
+            "chapter": 12,
+            "verse": 43,
+            "name": "Exodus 12:43",
+            "text": " Dixitque Dominus ad Moysen et Aaron : Hæc est religio Phase : omnis alienigena non comedet ex eo. "
+        },
+        {
+            "chapter": 12,
+            "verse": 44,
+            "name": "Exodus 12:44",
+            "text": "Omnis autem servus emptitius circumcidetur, et sic comedet. "
+        },
+        {
+            "chapter": 12,
+            "verse": 45,
+            "name": "Exodus 12:45",
+            "text": "Advena et mercenarius non edent ex eo. "
+        },
+        {
+            "chapter": 12,
+            "verse": 46,
+            "name": "Exodus 12:46",
+            "text": "In una domo comedetur, nec efferetis de carnibus ejus foras, nec os illius confringetis. "
+        },
+        {
+            "chapter": 12,
+            "verse": 47,
+            "name": "Exodus 12:47",
+            "text": "Omnis cœtus filiorum Israël faciet illud. "
+        },
+        {
+            "chapter": 12,
+            "verse": 48,
+            "name": "Exodus 12:48",
+            "text": "Quod si quis peregrinorum in vestram voluerit transire coloniam, et facere Phase Domini, circumcidetur prius omne masculinum ejus, et tunc rite celebrabit : eritque sicut indigena terræ : si quis autem circumcisus non fuerit, non vescetur ex eo. "
+        },
+        {
+            "chapter": 12,
+            "verse": 49,
+            "name": "Exodus 12:49",
+            "text": "Eadem lex erit indigenæ et colono qui peregrinatur apud vos. "
+        },
+        {
+            "chapter": 12,
+            "verse": 50,
+            "name": "Exodus 12:50",
+            "text": "Feceruntque omnes filii Israël sicut præceperat Dominus Moysi et Aaron. "
+        },
+        {
+            "chapter": 12,
+            "verse": 51,
+            "name": "Exodus 12:51",
+            "text": "Et eadem die eduxit Dominus filios Israël de terra Ægypti per turmas suas.   "
+        }
+    ]
+}

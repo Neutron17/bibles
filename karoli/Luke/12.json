@@ -1,0 +1,368 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 42,
+    "book_name": "Luke",
+    "chapter": 12,
+    "name": "Luke 12",
+    "verses": [
+        {
+            "chapter": 12,
+            "verse": 1,
+            "name": "Luke 12:1",
+            "text": " Ezenközben mikor sok ezerből álló sokaság gyűlt egybe, annyira, hogy egymást letapossák, kezdé az ő tanítványainak mondani: Mindenekelőtt oltalmazzátok meg magatokat a farizeusok kovászától, mely a képmutatás; "
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "name": "Luke 12:2",
+            "text": "Mert nincs oly rejtett dolog, mely napfényre ne jőne; és oly titok, mely ki ne tudódnék. "
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "name": "Luke 12:3",
+            "text": "Annakokáért a mit a sötétben mondtatok, a világosságban fog meghallatszani; és a mit fülbe sugtatok a rejtekházakban, azt a házak tetején fogják hirdetni. "
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "name": "Luke 12:4",
+            "text": "Mondom pedig néktek én barátaimnak: Ne féljetek azoktól, kik a testet ölik meg, és azután többet nem árthatnak. "
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "name": "Luke 12:5",
+            "text": "De megmondom néktek, kitől féljetek: Féljetek attól, a ki minekutána megöl, van arra is hatalma, hogy a gyehennára vessen. Bizony, mondom néktek, ettől féljetek."
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "name": "Luke 12:6",
+            "text": "Nemde öt verebet meg lehet venni két filléren? és egy sincs azok közül Istennél elfelejtve. "
+        },
+        {
+            "chapter": 12,
+            "verse": 7,
+            "name": "Luke 12:7",
+            "text": "De néktek a fejetek hajszálai is mind számon vannak. Ne féljetek azért, sok verébnél drágábbak vagytok."
+        },
+        {
+            "chapter": 12,
+            "verse": 8,
+            "name": "Luke 12:8",
+            "text": "Mondom pedig néktek: Valaki vallást tesz én rólam az emberek előtt, az embernek Fia is vallást tesz arról az Isten angyalai előtt; "
+        },
+        {
+            "chapter": 12,
+            "verse": 9,
+            "name": "Luke 12:9",
+            "text": "A ki pedig megtagad engem az emberek előtt, megtagadtatik az Isten angyalai előtt. "
+        },
+        {
+            "chapter": 12,
+            "verse": 10,
+            "name": "Luke 12:10",
+            "text": "És ha valaki valamit mond az embernek Fia ellen, megbocsáttatik annak; de annak, a ki a Szent Lélek ellen szól káromlást, meg nem bocsáttatik. "
+        },
+        {
+            "chapter": 12,
+            "verse": 11,
+            "name": "Luke 12:11",
+            "text": "Mikor pedig a zsinagógákba visznek benneteket, és a fejedelmek és hatalmasságok elé, ne aggodalmaskodjatok, mimódon vagy mit szóljatok védelmetekre, vagy mit mondjatok; "
+        },
+        {
+            "chapter": 12,
+            "verse": 12,
+            "name": "Luke 12:12",
+            "text": "Mert a Szent Lélek azon órában megtanít titeket, mit kell mondanotok. "
+        },
+        {
+            "chapter": 12,
+            "verse": 13,
+            "name": "Luke 12:13",
+            "text": " Monda pedig néki egy a sokaság közül: Mester, mondd meg az én testvéremnek, hogy oszsza meg velem az örökséget. "
+        },
+        {
+            "chapter": 12,
+            "verse": 14,
+            "name": "Luke 12:14",
+            "text": "Ő pedig monda néki: Ember, ki tett engem köztetek biróvá vagy osztóvá?"
+        },
+        {
+            "chapter": 12,
+            "verse": 15,
+            "name": "Luke 12:15",
+            "text": "Monda azért nékik: Meglássátok, hogy eltávoztassátok a telhetetlenséget; mert nem a vagyonnal való bővölködésben van az embernek az ő élete. "
+        },
+        {
+            "chapter": 12,
+            "verse": 16,
+            "name": "Luke 12:16",
+            "text": "És monda nékik egy példázatot, szólván: Egy gazdag embernek bőségesen termett a földje. "
+        },
+        {
+            "chapter": 12,
+            "verse": 17,
+            "name": "Luke 12:17",
+            "text": "Azért magában okoskodék, mondván: Mit cselekedjem? mert nincs hová takarnom az én termésemet. "
+        },
+        {
+            "chapter": 12,
+            "verse": 18,
+            "name": "Luke 12:18",
+            "text": "És monda: Ezt cselekszem: Az én csűreimet lerontom, és nagyobbakat építek; és azokba takarom minden gabonámat és az én javaimat. "
+        },
+        {
+            "chapter": 12,
+            "verse": 19,
+            "name": "Luke 12:19",
+            "text": "És ezt mondom az én lelkemnek: Én lelkem, sok javaid vannak sok esztendőre eltéve; tedd magadat kényelembe, egyél, igyál, gyönyörködjél! "
+        },
+        {
+            "chapter": 12,
+            "verse": 20,
+            "name": "Luke 12:20",
+            "text": "Monda pedig néki az Isten: Bolond, ez éjjel elkérik a te lelkedet te tőled; a miket pedig készítettél, kiéi lesznek? "
+        },
+        {
+            "chapter": 12,
+            "verse": 21,
+            "name": "Luke 12:21",
+            "text": "Így van dolga annak, a ki kincset takar magának, és nem az Istenben gazdag. "
+        },
+        {
+            "chapter": 12,
+            "verse": 22,
+            "name": "Luke 12:22",
+            "text": "Monda pedig az ő tanítványainak: Annakokáért mondom néktek, ne aggodalmaskodjatok a a ti éltetek felől, mit egyetek; se a ti testetek felől, mibe öltözködjetek. "
+        },
+        {
+            "chapter": 12,
+            "verse": 23,
+            "name": "Luke 12:23",
+            "text": "Az élet több, hogynem az eledel, és a test, hogynem az öltözet. "
+        },
+        {
+            "chapter": 12,
+            "verse": 24,
+            "name": "Luke 12:24",
+            "text": "Tekintsétek meg a hollókat, hogy nem vetnek, sem nem aratnak; kiknek nincs tárházuk, sem csűrük; és az Isten eltartja őket: mennyivel drágábbak vagytok ti a madaraknál? "
+        },
+        {
+            "chapter": 12,
+            "verse": 25,
+            "name": "Luke 12:25",
+            "text": "Kicsoda pedig az közületek, a ki aggodalmaskodásával megnövelheti termetét egy arasszal? "
+        },
+        {
+            "chapter": 12,
+            "verse": 26,
+            "name": "Luke 12:26",
+            "text": "Annakokáért ha a mi legkisebb dolog, azt sem tehetitek, mit aggodalmaskodtok a többi felől?"
+        },
+        {
+            "chapter": 12,
+            "verse": 27,
+            "name": "Luke 12:27",
+            "text": "Tekintsétek meg a liliomokat, mimódon növekednek: nem fáradoznak és nem fonnak: de mondom néktek: Salamon minden ő dicsőségében sem öltözött úgy, mint ezek közül egy. "
+        },
+        {
+            "chapter": 12,
+            "verse": 28,
+            "name": "Luke 12:28",
+            "text": "Ha pedig a füvet, mely ma a mezőn van, és holnap kemenczébe vettetik, így ruházza az Isten; mennyivel inkább titeket, ti kicsinyhitűek! "
+        },
+        {
+            "chapter": 12,
+            "verse": 29,
+            "name": "Luke 12:29",
+            "text": "Ti se kérdezzétek, mit egyetek vagy mit igyatok; és ne kételkedjetek. "
+        },
+        {
+            "chapter": 12,
+            "verse": 30,
+            "name": "Luke 12:30",
+            "text": "Mert mind ezeket a világi pogányok kérdezik; a ti Atyátok pedig tudja, hogy néktek szükségetek van ezekre. "
+        },
+        {
+            "chapter": 12,
+            "verse": 31,
+            "name": "Luke 12:31",
+            "text": "Csak keressétek az Isten országát, és ezek mind megadatnak néktek. "
+        },
+        {
+            "chapter": 12,
+            "verse": 32,
+            "name": "Luke 12:32",
+            "text": "Ne félj te kicsiny nyáj; mert tetszett a ti Atyátoknak, hogy néktek adja az országot. "
+        },
+        {
+            "chapter": 12,
+            "verse": 33,
+            "name": "Luke 12:33",
+            "text": "Adjátok el a mitek van, és adjatok alamizsnát; szerezzetek magatoknak oly erszényeket, melyek meg nem avúlnak, elfogyhatatlan kincset a mennyországban, a hol a tolvaj hozzá nem fér, sem a moly meg nem emészti. "
+        },
+        {
+            "chapter": 12,
+            "verse": 34,
+            "name": "Luke 12:34",
+            "text": "Mert a hol van a ti kincsetek, ott van a ti szívetek is. "
+        },
+        {
+            "chapter": 12,
+            "verse": 35,
+            "name": "Luke 12:35",
+            "text": "Legyenek a ti derekaitok felövezve, és szövétnekeitek meggyújtva; "
+        },
+        {
+            "chapter": 12,
+            "verse": 36,
+            "name": "Luke 12:36",
+            "text": "Ti meg hasonlók az olyan emberekhez, a kik az ő urokat várják, mikor jő meg a menyegzőről, hogy mihelyt megjő és zörget, azonnal megnyissák néki. "
+        },
+        {
+            "chapter": 12,
+            "verse": 37,
+            "name": "Luke 12:37",
+            "text": "Boldogok azok a szolgák, kiket az úr, mikor haza megy, vigyázva talál: bizony mondom néktek, hogy felövezvén magát, leülteti azokat, és előjövén, szolgál nékik. "
+        },
+        {
+            "chapter": 12,
+            "verse": 38,
+            "name": "Luke 12:38",
+            "text": "És ha megjő a második őrváltáskor, és ha a harmadik őrváltáskor jő meg, és úgy találja őket, boldogok azok a szolgák!"
+        },
+        {
+            "chapter": 12,
+            "verse": 39,
+            "name": "Luke 12:39",
+            "text": "Ezt pedig jegyezzétek meg, hogy ha tudná a ház gazdája, mely órában jő el a tolvaj, vigyázna, és nem engedné, hogy az ő házába törjön. "
+        },
+        {
+            "chapter": 12,
+            "verse": 40,
+            "name": "Luke 12:40",
+            "text": "Ti is azért legyetek készek: mert a mely órában nem gondolnátok, abban jő el az embernek Fia. "
+        },
+        {
+            "chapter": 12,
+            "verse": 41,
+            "name": "Luke 12:41",
+            "text": "Monda pedig néki Péter: Uram, nékünk mondod-é ezt a példázatot, vagy mindenkinek is? "
+        },
+        {
+            "chapter": 12,
+            "verse": 42,
+            "name": "Luke 12:42",
+            "text": "Monda pedig az Úr: Kicsoda hát a hű és bölcs sáfár, kit az úr gondviselővé tőn az ő háza népén, hogy adja ki nékik élelmüket a maga idejében? "
+        },
+        {
+            "chapter": 12,
+            "verse": 43,
+            "name": "Luke 12:43",
+            "text": "Boldog az a szolga, a kit az ő ura, mikor haza jő, ilyen munkában talál!"
+        },
+        {
+            "chapter": 12,
+            "verse": 44,
+            "name": "Luke 12:44",
+            "text": "Bizony mondom néktek, hogy minden jószága felett gondviselővé teszi őt. "
+        },
+        {
+            "chapter": 12,
+            "verse": 45,
+            "name": "Luke 12:45",
+            "text": "Ha pedig az a szolga így szólna az ő szívében: Halogatja még az én uram a hazajövetelt; és kezdené verni a szolgákat és szolgálóleányokat, és enni és inni és részegeskedni: "
+        },
+        {
+            "chapter": 12,
+            "verse": 46,
+            "name": "Luke 12:46",
+            "text": "Megjő annak a szolgának az ura, a mely napon nem várja és a mely órában nem gondolja, és kettévágatja őt, és a hitetlenek sorsára juttatja. "
+        },
+        {
+            "chapter": 12,
+            "verse": 47,
+            "name": "Luke 12:47",
+            "text": "És a mely szolga tudta az ő urának akaratát, és nem végezte el, sem annak akarata szerint nem cselekedett, sokkal büntettetik meg; "
+        },
+        {
+            "chapter": 12,
+            "verse": 48,
+            "name": "Luke 12:48",
+            "text": "A ki pedig nem tudta, és büntetésre méltó dolgokat cselekedett, kevesebbel büntettetik. És valakinek sokat adtak, sokat követelnek tőle; és a kire sokat bíztak, többet kívánnak tőle. "
+        },
+        {
+            "chapter": 12,
+            "verse": 49,
+            "name": "Luke 12:49",
+            "text": "Azért jöttem, hogy e világra tüzet bocsássak: és mit akarok, ha az immár meggerjedett? "
+        },
+        {
+            "chapter": 12,
+            "verse": 50,
+            "name": "Luke 12:50",
+            "text": "De keresztséggel kell nékem megkereszteltetnem; és mely igen szorongattatom, míglen az elvégeztetik. "
+        },
+        {
+            "chapter": 12,
+            "verse": 51,
+            "name": "Luke 12:51",
+            "text": "Gondoljátok-é, hogy azért jöttem, hogy békességet adjak e földön? Nem, mondom néktek; sőt inkább meghasonlást. "
+        },
+        {
+            "chapter": 12,
+            "verse": 52,
+            "name": "Luke 12:52",
+            "text": "Mert mostantól fogva öten lesznek egy házban, a kik meghasonlanak, három kettő ellen, és kettő három ellen. "
+        },
+        {
+            "chapter": 12,
+            "verse": 53,
+            "name": "Luke 12:53",
+            "text": "Meghasonlik az atya a fiú ellen, és a fiú az atya ellen; és az anya a leány ellen, és a leány az anya ellen; napa a menye ellen, és a menye a napa ellen.  "
+        },
+        {
+            "chapter": 12,
+            "verse": 54,
+            "name": "Luke 12:54",
+            "text": " Monda pedig a sokaságnak is: Mikor látjátok, hogy napnyugotról felhő támad, azonnal ezt mondjátok: Záporeső jő; és úgy lesz. "
+        },
+        {
+            "chapter": 12,
+            "verse": 55,
+            "name": "Luke 12:55",
+            "text": "És mikor halljátok fúni a déli szelet, ezt mondjátok: Hőség lesz; és úgy lesz. "
+        },
+        {
+            "chapter": 12,
+            "verse": 56,
+            "name": "Luke 12:56",
+            "text": "Képmutatók, az égnek és a földnek ábrázatáról tudtok ítéletet tenni; erről az időről pedig mi dolog, hogy nem tudtok ítéletet tenni? "
+        },
+        {
+            "chapter": 12,
+            "verse": 57,
+            "name": "Luke 12:57",
+            "text": "És mi dolog, hogy ti magatoktól is meg nem ítélitek, mi az igaz? "
+        },
+        {
+            "chapter": 12,
+            "verse": 58,
+            "name": "Luke 12:58",
+            "text": "Mikor pedig a te ellenségeddel a fejedelem elé mégy, igyekezzél az úton megmenekedni tőle, hogy téged ne vonjon a bíró elé, és a bíró át ne adjon téged a poroszlónak és a poroszló a tömlöczbe ne vessen téged. "
+        },
+        {
+            "chapter": 12,
+            "verse": 59,
+            "name": "Luke 12:59",
+            "text": "Mondom néked, hogy nem jősz ki onnét, mígnem megfizetsz mind az utolsó fillérig.   "
+        }
+    ]
+}

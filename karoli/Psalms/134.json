@@ -1,0 +1,32 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 134,
+    "name": "Psalms 134",
+    "verses": [
+        {
+            "chapter": 134,
+            "verse": 1,
+            "name": "Psalms 134:1",
+            "text": " Grádicsok éneke. Nosza, áldjátok az Urat mind, ti szolgái az Úrnak, a kik az Úr házában álltok éjjelente! "
+        },
+        {
+            "chapter": 134,
+            "verse": 2,
+            "name": "Psalms 134:2",
+            "text": "Emeljétek fel kezeiteket a szenthelyen, és áldjátok az Urat! "
+        },
+        {
+            "chapter": 134,
+            "verse": 3,
+            "name": "Psalms 134:3",
+            "text": "Áldjon meg téged az Úr a Sionról, a ki teremtette az eget és a földet!   "
+        }
+    ]
+}

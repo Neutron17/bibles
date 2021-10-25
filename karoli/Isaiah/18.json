@@ -1,0 +1,56 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 18,
+    "name": "Isaiah 18",
+    "verses": [
+        {
+            "chapter": 18,
+            "verse": 1,
+            "name": "Isaiah 18:1",
+            "text": " Jaj a szárnysuhogás országának, a mely Szerecsenország folyóin túl van; "
+        },
+        {
+            "chapter": 18,
+            "verse": 2,
+            "name": "Isaiah 18:2",
+            "text": "A mely követeket küld a tengeren gyékényből csinált tutajokon, vizek színén. Menjetek el gyors hírnökök, a magas és derék néphez, a néphez, a mely rettenetes mióta van és ezután is; a hatalmas és hódító néphez, a melynek földét folyók hasítják át. "
+        },
+        {
+            "chapter": 18,
+            "verse": 3,
+            "name": "Isaiah 18:3",
+            "text": "Föld kerekségének minden lakói és földnek lakosai meglássátok, mikor a hegyeken zászló emelkedik, és hallgassatok, ha kürt szól!"
+        },
+        {
+            "chapter": 18,
+            "verse": 4,
+            "name": "Isaiah 18:4",
+            "text": "Mert ezt mondá az Úr nékem: Nyugodtan nézem sátoromból verőfényes melegnél, harmatozó felhőnél aratás hévségében. "
+        },
+        {
+            "chapter": 18,
+            "verse": 5,
+            "name": "Isaiah 18:5",
+            "text": "Mert aratás előtt, ha a virágzás véget ér, és a virág érő fürtté lészen, levágja a vesszőket metszőkésekkel, és a kacsokat eltávolítja és lemetszi."
+        },
+        {
+            "chapter": 18,
+            "verse": 6,
+            "name": "Isaiah 18:6",
+            "text": "Mind ott hagyatnak a hegyek madarainak és a föld állatainak, és a madarak rajtok nyaralnak, és a föld minden állatai rajtok telelnek. "
+        },
+        {
+            "chapter": 18,
+            "verse": 7,
+            "name": "Isaiah 18:7",
+            "text": "Abban az időben ajándékot viszen a seregek Urának a magas és derék nép; a nép, a mely rettenetes, mióta van és ezután is, a hatalmas és hódító nép, a melynek földét folyók hasítják át; a seregek Ura nevének helyére, Sion hegyére.  "
+        }
+    ]
+}

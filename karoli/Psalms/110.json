@@ -1,0 +1,56 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 110,
+    "name": "Psalms 110",
+    "verses": [
+        {
+            "chapter": 110,
+            "verse": 1,
+            "name": "Psalms 110:1",
+            "text": " Dávidé; zsoltár. Monda az Úr az én uramnak: Ülj az én jobbomon, a míg ellenségeidet zsámolyul vetem a te lábaid alá. "
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "name": "Psalms 110:2",
+            "text": "A te hatalmad pálczáját kinyújtja az Úr Sionból, mondván: Uralkodjál ellenségeid között!"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "name": "Psalms 110:3",
+            "text": "A te néped készséggel siet a te sereggyűjtésed napján, szentséges öltözetekben; hajnalpir méhéből leszen ifjaidnak harmatja."
+        },
+        {
+            "chapter": 110,
+            "verse": 4,
+            "name": "Psalms 110:4",
+            "text": "Megesküdt az Úr és meg nem másítja: Pap vagy te örökké Melkhisedek rendje szerint. "
+        },
+        {
+            "chapter": 110,
+            "verse": 5,
+            "name": "Psalms 110:5",
+            "text": "Az Úr a te jobbod felől; megrontja az ő haragja napján a királyokat; "
+        },
+        {
+            "chapter": 110,
+            "verse": 6,
+            "name": "Psalms 110:6",
+            "text": "Ítéletet tart a nemzetek között; telve lesz holttestekkel; összezúz messze földön minden főt. "
+        },
+        {
+            "chapter": 110,
+            "verse": 7,
+            "name": "Psalms 110:7",
+            "text": "Az út mellett való patakból iszik; ezért emeli fel az ő fejét.   "
+        }
+    ]
+}

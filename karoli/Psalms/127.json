@@ -1,0 +1,44 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 127,
+    "name": "Psalms 127",
+    "verses": [
+        {
+            "chapter": 127,
+            "verse": 1,
+            "name": "Psalms 127:1",
+            "text": " Grádicsok éneke Salamontól. Ha az Úr nem építi a házat, hiába dolgoznak azon annak építői. Ha az Úr nem őrzi a várost, hiába vigyáz az őriző."
+        },
+        {
+            "chapter": 127,
+            "verse": 2,
+            "name": "Psalms 127:2",
+            "text": "Hiába néktek korán felkelnetek, későn feküdnötök, fáradsággal szerzett kenyeret ennetek! Szerelmesének álmában ád eleget. "
+        },
+        {
+            "chapter": 127,
+            "verse": 3,
+            "name": "Psalms 127:3",
+            "text": "Ímé, az Úrnak öröksége, a fiak; az anyaméh gyümölcse: jutalom. "
+        },
+        {
+            "chapter": 127,
+            "verse": 4,
+            "name": "Psalms 127:4",
+            "text": "Mint a nyilak a hősnek kezében, olyanok a serdülő fiak."
+        },
+        {
+            "chapter": 127,
+            "verse": 5,
+            "name": "Psalms 127:5",
+            "text": "Boldog ember, a ki ilyenekkel tölti meg tegzét; nem szégyenülnek meg, ha ellenséggel szólnak a kapuban.   "
+        }
+    ]
+}

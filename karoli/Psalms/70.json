@@ -1,0 +1,50 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 70,
+    "name": "Psalms 70",
+    "verses": [
+        {
+            "chapter": 70,
+            "verse": 1,
+            "name": "Psalms 70:1",
+            "text": " Az éneklőmesternek, Dávidtól, emlékeztetésre."
+        },
+        {
+            "chapter": 70,
+            "verse": 2,
+            "name": "Psalms 70:2",
+            "text": "Isten, az én szabadításomra, Uram, az én segítségemre siess! "
+        },
+        {
+            "chapter": 70,
+            "verse": 3,
+            "name": "Psalms 70:3",
+            "text": "Szégyenüljenek meg és piruljanak, a kik életemre törnek; riadjanak vissza és gyalázat érje őket, a kik bajomat kivánják. "
+        },
+        {
+            "chapter": 70,
+            "verse": 4,
+            "name": "Psalms 70:4",
+            "text": "Hátráljanak meg gyalázatosságuk miatt, a kik azt mondják nékem: Hehé, hehé! "
+        },
+        {
+            "chapter": 70,
+            "verse": 5,
+            "name": "Psalms 70:5",
+            "text": "Örülnek és örvendeznek majd benned mindazok, a kik keresnek tégedet, és ezt mondják majd szüntelen, a kik szeretik a te szabadításodat: Magasztaltassék fel az Isten! "
+        },
+        {
+            "chapter": 70,
+            "verse": 6,
+            "name": "Psalms 70:6",
+            "text": "Én pedig szegény és nyomorult vagyok: siess hozzám, oh Isten; segedelmem és szabadítóm vagy te Uram: ne késsél!   "
+        }
+    ]
+}

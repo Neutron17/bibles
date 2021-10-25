@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 66,
+    "book_name": "Revelation",
+    "chapter": 8,
+    "name": "Revelation 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "Revelation 8:1",
+            "text": "Et cum aperuisset sigillum septimum, factum est silentium in cælo, quasi media hora. "
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "Revelation 8:2",
+            "text": "Et vidi septem angelos stantes in conspectu Dei : et datæ sunt illis septem tubæ. "
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "Revelation 8:3",
+            "text": "Et alius angelus venit, et stetit ante altare habens thuribulum aureum : et data sunt illi incensa multa, ut daret de orationibus sanctorum omnium super altare aureum, quod est ante thronum Dei. "
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "Revelation 8:4",
+            "text": "Et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo. "
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "Revelation 8:5",
+            "text": "Et accepit angelus thuribulum, et implevit illud de igne altaris, et misit in terram : et facta sunt tonitrua, et voces, et fulgura, et terræmotus magnus. "
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "Revelation 8:6",
+            "text": "Et septem angeli, qui habebant septem tubas, præparaverunt se ut tuba canerent. "
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "Revelation 8:7",
+            "text": "Et primus angelus tuba cecinit, et facta est grando, et ignis, mista in sanguine, et missum est in terram, et tertia pars terræ combusta est, et tertia pars arborum concremata est, et omne fœnum viride combustum est. "
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "Revelation 8:8",
+            "text": "Et secundus angelus tuba cecinit : et tamquam mons magnus igne ardens missus est in mare, et facta est tertia pars maris sanguis, "
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "Revelation 8:9",
+            "text": "et mortua est tertia pars creaturæ eorum, quæ habebant animas in mari, et tertia pars navium interiit. "
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "name": "Revelation 8:10",
+            "text": "Et tertius angelus tuba cecinit : et cecidit de cælo stella magna, ardens tamquam facula, et cecidit in tertiam partem fluminum, et in fontes aquarum : "
+        },
+        {
+            "chapter": 8,
+            "verse": 11,
+            "name": "Revelation 8:11",
+            "text": "et nomen stellæ dicitur Absinthium, et facta est tertia pars aquarum in absinthium ; et multi hominum mortui sunt de aquis, quia amaræ factæ sunt. "
+        },
+        {
+            "chapter": 8,
+            "verse": 12,
+            "name": "Revelation 8:12",
+            "text": "Et quartus angelus tuba cecinit : et percussa est tertia pars solis, et tertia pars lunæ, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter. "
+        },
+        {
+            "chapter": 8,
+            "verse": 13,
+            "name": "Revelation 8:13",
+            "text": "Et vidi, et audivi vocem unius aquilæ volantis per medium cæli dicentis voce magna : Væ, væ, væ habitantibus in terra de ceteris vocibus trium angelorum, qui erant tuba canituri.   "
+        }
+    ]
+}

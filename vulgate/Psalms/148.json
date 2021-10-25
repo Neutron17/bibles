@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 148,
+    "name": "Psalms 148",
+    "verses": [
+        {
+            "chapter": 148,
+            "verse": 1,
+            "name": "Psalms 148:1",
+            "text": "Alleluja.   Laudate Dominum de cælis ;  laudate eum in excelsis. "
+        },
+        {
+            "chapter": 148,
+            "verse": 2,
+            "name": "Psalms 148:2",
+            "text": " Laudate eum, omnes angeli ejus ;  laudate eum, omnes virtutes ejus. "
+        },
+        {
+            "chapter": 148,
+            "verse": 3,
+            "name": "Psalms 148:3",
+            "text": " Laudate eum, sol et luna ;  laudate eum, omnes stellæ et lumen. "
+        },
+        {
+            "chapter": 148,
+            "verse": 4,
+            "name": "Psalms 148:4",
+            "text": " Laudate eum, cæli cælorum ;  et aquæ omnes quæ super cælos sunt, "
+        },
+        {
+            "chapter": 148,
+            "verse": 5,
+            "name": "Psalms 148:5",
+            "text": " laudent nomen Domini.  Quia ipse dixit, et facta sunt ;  ipse mandavit, et creata sunt. "
+        },
+        {
+            "chapter": 148,
+            "verse": 6,
+            "name": "Psalms 148:6",
+            "text": " Statuit ea in æternum, et in sæculum sæculi ;  præceptum posuit, et non præteribit. "
+        },
+        {
+            "chapter": 148,
+            "verse": 7,
+            "name": "Psalms 148:7",
+            "text": " Laudate Dominum de terra,  dracones et omnes abyssi ; "
+        },
+        {
+            "chapter": 148,
+            "verse": 8,
+            "name": "Psalms 148:8",
+            "text": " ignis, grando, nix, glacies, spiritus procellarum,  quæ faciunt verbum ejus ; "
+        },
+        {
+            "chapter": 148,
+            "verse": 9,
+            "name": "Psalms 148:9",
+            "text": " montes, et omnes colles ;  ligna fructifera, et omnes cedri ; "
+        },
+        {
+            "chapter": 148,
+            "verse": 10,
+            "name": "Psalms 148:10",
+            "text": " bestiæ, et universa pecora ;  serpentes, et volucres pennatæ ; "
+        },
+        {
+            "chapter": 148,
+            "verse": 11,
+            "name": "Psalms 148:11",
+            "text": " reges terræ et omnes populi ;  principes et omnes judices terræ ; "
+        },
+        {
+            "chapter": 148,
+            "verse": 12,
+            "name": "Psalms 148:12",
+            "text": " juvenes et virgines ; senes cum junioribus,  laudent nomen Domini : "
+        },
+        {
+            "chapter": 148,
+            "verse": 13,
+            "name": "Psalms 148:13",
+            "text": " quia exaltatum est nomen ejus solius. "
+        },
+        {
+            "chapter": 148,
+            "verse": 14,
+            "name": "Psalms 148:14",
+            "text": " Confessio ejus super cælum et terram ;  et exaltavit cornu populi sui.  Hymnus omnibus sanctis ejus ;  filiis Israël, populo appropinquanti sibi.  Alleluja.  "
+        }
+    ]
+}

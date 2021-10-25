@@ -1,0 +1,86 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 25,
+    "name": "Isaiah 25",
+    "verses": [
+        {
+            "chapter": 25,
+            "verse": 1,
+            "name": "Isaiah 25:1",
+            "text": "Domine, Deus meus es tu ;  exaltabo te, et confitebor nomini tuo :  quoniam fecisti mirabilia,  cogitationes antiquas fideles. Amen. "
+        },
+        {
+            "chapter": 25,
+            "verse": 2,
+            "name": "Isaiah 25:2",
+            "text": " Quia posuisti civitatem in tumulum,  urbem fortem in ruinam, domum alienorum :  ut non sit civitas,  et in sempiternum non ædificetur. "
+        },
+        {
+            "chapter": 25,
+            "verse": 3,
+            "name": "Isaiah 25:3",
+            "text": " Super hoc laudabit te populus fortis ;  civitas gentium robustarum timebit te : "
+        },
+        {
+            "chapter": 25,
+            "verse": 4,
+            "name": "Isaiah 25:4",
+            "text": " quia factus es fortitudo pauperi,  fortitudo egeno in tribulatione sua,  spes a turbine,  umbraculum ab æstu ;  spiritus enim robustorum  quasi turbo impellens parietem. "
+        },
+        {
+            "chapter": 25,
+            "verse": 5,
+            "name": "Isaiah 25:5",
+            "text": " Sicut æstus in siti,  tumultum alienorum humiliabis ;  et quasi calore sub nube torrente,  propaginem fortium marcescere facies. "
+        },
+        {
+            "chapter": 25,
+            "verse": 6,
+            "name": "Isaiah 25:6",
+            "text": " Et faciet Dominus exercituum  omnibus populis in monte hoc  convivium pinguium,  convivium vindemiæ,  pinguium medullatorum,  vindemiæ defæcatæ. "
+        },
+        {
+            "chapter": 25,
+            "verse": 7,
+            "name": "Isaiah 25:7",
+            "text": " Et præcipitabit in monte isto  faciem vinculi colligati super omnes populos,  et telam quam orditus est super omnes nationes. "
+        },
+        {
+            "chapter": 25,
+            "verse": 8,
+            "name": "Isaiah 25:8",
+            "text": " Præcipitabit mortem in sempiternum ;  et auferet Dominus Deus  lacrimam ab omni facie,  et opprobrium populi sui auferet  de universa terra :  quia Dominus locutus est. "
+        },
+        {
+            "chapter": 25,
+            "verse": 9,
+            "name": "Isaiah 25:9",
+            "text": " Et dicet in die illa :  Ecce Deus noster iste ;  exspectavimus eum, et salvabit nos ;  iste Dominus, sustinuimus eum :  exsultabimus, et lætabimur in salutari ejus. "
+        },
+        {
+            "chapter": 25,
+            "verse": 10,
+            "name": "Isaiah 25:10",
+            "text": " Quia requiescet manus Domini  in monte isto ;  et triturabitur Moab sub eo,  sicuti teruntur paleæ in plaustro. "
+        },
+        {
+            "chapter": 25,
+            "verse": 11,
+            "name": "Isaiah 25:11",
+            "text": " Et extendet manus suas sub eo  sicut extendit natans ad natandum ;  et humiliabit gloriam ejus  cum allisione manuum ejus. "
+        },
+        {
+            "chapter": 25,
+            "verse": 12,
+            "name": "Isaiah 25:12",
+            "text": " Et munimenta sublimium murorum tuorum  concident, et humiliabuntur,  et detrahentur in terram usque ad pulverem.  "
+        }
+    ]
+}

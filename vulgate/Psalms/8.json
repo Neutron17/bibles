@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 8,
+    "name": "Psalms 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "Psalms 8:1",
+            "text": "In finem, pro torcularibus. Psalmus David.  "
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "Psalms 8:2",
+            "text": "  Domine, Dominus noster,  quam admirabile est nomen tuum in universa terra !  quoniam elevata est magnificentia tua super cælos. "
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "Psalms 8:3",
+            "text": " Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos,  ut destruas inimicum et ultorem. "
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "Psalms 8:4",
+            "text": " Quoniam videbo cælos tuos, opera digitorum tuorum,  lunam et stellas quæ tu fundasti. "
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "Psalms 8:5",
+            "text": " Quid est homo, quod memor es ejus ?  aut filius hominis, quoniam visitas eum ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "Psalms 8:6",
+            "text": " Minuisti eum paulominus ab angelis ;  gloria et honore coronasti eum ; "
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "Psalms 8:7",
+            "text": " et constituisti eum super opera manuum tuarum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "Psalms 8:8",
+            "text": " Omnia subjecisti sub pedibus ejus,  oves et boves universas,  insuper et pecora campi, "
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "Psalms 8:9",
+            "text": " volucres cæli, et pisces maris  qui perambulant semitas maris. "
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "name": "Psalms 8:10",
+            "text": " Domine, Dominus noster,  quam admirabile est nomen tuum in universa terra !  "
+        }
+    ]
+}

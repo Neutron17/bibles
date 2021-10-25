@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 123,
+    "name": "Psalms 123",
+    "verses": [
+        {
+            "chapter": 123,
+            "verse": 1,
+            "name": "Psalms 123:1",
+            "text": "Canticum graduum.   Nisi quia Dominus erat in nobis,  dicat nunc Israël, "
+        },
+        {
+            "chapter": 123,
+            "verse": 2,
+            "name": "Psalms 123:2",
+            "text": " nisi quia Dominus erat in nobis :  cum exsurgerent homines in nos, "
+        },
+        {
+            "chapter": 123,
+            "verse": 3,
+            "name": "Psalms 123:3",
+            "text": " forte vivos deglutissent nos ;  cum irasceretur furor eorum in nos, "
+        },
+        {
+            "chapter": 123,
+            "verse": 4,
+            "name": "Psalms 123:4",
+            "text": " forsitan aqua absorbuisset nos ; "
+        },
+        {
+            "chapter": 123,
+            "verse": 5,
+            "name": "Psalms 123:5",
+            "text": " torrentem pertransivit anima nostra ;  forsitan pertransisset anima nostra  aquam intolerabilem. "
+        },
+        {
+            "chapter": 123,
+            "verse": 6,
+            "name": "Psalms 123:6",
+            "text": " Benedictus Dominus, qui non dedit nos  in captionem dentibus eorum. "
+        },
+        {
+            "chapter": 123,
+            "verse": 7,
+            "name": "Psalms 123:7",
+            "text": " Anima nostra sicut passer erepta est  de laqueo venantium ;  laqueus contritus est,  et nos liberati sumus. "
+        },
+        {
+            "chapter": 123,
+            "verse": 8,
+            "name": "Psalms 123:8",
+            "text": " Adjutorium nostrum in nomine Domini,  qui fecit cælum et terram.  "
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 111,
+    "name": "Psalms 111",
+    "verses": [
+        {
+            "chapter": 111,
+            "verse": 1,
+            "name": "Psalms 111:1",
+            "text": "Alleluja, reversionis Aggæi et Zachariæ.   Beatus vir qui timet Dominum :  in mandatis ejus volet nimis. "
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "name": "Psalms 111:2",
+            "text": " Potens in terra erit semen ejus ;  generatio rectorum benedicetur. "
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "name": "Psalms 111:3",
+            "text": " Gloria et divitiæ in domo ejus,  et justitia ejus manet in sæculum sæculi. "
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "name": "Psalms 111:4",
+            "text": " Exortum est in tenebris lumen rectis :  misericors, et miserator, et justus. "
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "name": "Psalms 111:5",
+            "text": " Jucundus homo qui miseretur et commodat ;  disponet sermones suos in judicio : "
+        },
+        {
+            "chapter": 111,
+            "verse": 6,
+            "name": "Psalms 111:6",
+            "text": " quia in æternum non commovebitur. "
+        },
+        {
+            "chapter": 111,
+            "verse": 7,
+            "name": "Psalms 111:7",
+            "text": " In memoria æterna erit justus ;  ab auditione mala non timebit.  Paratum cor ejus sperare in Domino, "
+        },
+        {
+            "chapter": 111,
+            "verse": 8,
+            "name": "Psalms 111:8",
+            "text": " confirmatum est cor ejus ;  non commovebitur donec despiciat inimicos suos. "
+        },
+        {
+            "chapter": 111,
+            "verse": 9,
+            "name": "Psalms 111:9",
+            "text": " Dispersit, dedit pauperibus ;  justitia ejus manet in sæculum sæculi :  cornu ejus exaltabitur in gloria. "
+        },
+        {
+            "chapter": 111,
+            "verse": 10,
+            "name": "Psalms 111:10",
+            "text": " Peccator videbit, et irascetur ;  dentibus suis fremet et tabescet :  desiderium peccatorum peribit.  "
+        }
+    ]
+}

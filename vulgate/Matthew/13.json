@@ -1,0 +1,362 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 40,
+    "book_name": "Matthew",
+    "chapter": 13,
+    "name": "Matthew 13",
+    "verses": [
+        {
+            "chapter": 13,
+            "verse": 1,
+            "name": "Matthew 13:1",
+            "text": "In illo die exiens Jesus de domo, sedebat secus mare. "
+        },
+        {
+            "chapter": 13,
+            "verse": 2,
+            "name": "Matthew 13:2",
+            "text": "Et congregatæ sunt ad eum turbæ multæ, ita ut naviculam ascendens sederet : et omnis turba stabat in littore, "
+        },
+        {
+            "chapter": 13,
+            "verse": 3,
+            "name": "Matthew 13:3",
+            "text": "et locutus est eis multa in parabolis, dicens : Ecce exiit qui seminat, seminare. "
+        },
+        {
+            "chapter": 13,
+            "verse": 4,
+            "name": "Matthew 13:4",
+            "text": "Et dum seminat, quædam ceciderunt secus viam, et venerunt volucres cæli, et comederunt ea. "
+        },
+        {
+            "chapter": 13,
+            "verse": 5,
+            "name": "Matthew 13:5",
+            "text": "Alia autem ceciderunt in petrosa, ubi non habebant terram multam : et continuo exorta sunt, quia non habebant altitudinem terræ : "
+        },
+        {
+            "chapter": 13,
+            "verse": 6,
+            "name": "Matthew 13:6",
+            "text": "sole autem orto æstuaverunt ; et quia non habebant radicem, aruerunt. "
+        },
+        {
+            "chapter": 13,
+            "verse": 7,
+            "name": "Matthew 13:7",
+            "text": "Alia autem ceciderunt in spinas : et creverunt spinæ, et suffocaverunt ea. "
+        },
+        {
+            "chapter": 13,
+            "verse": 8,
+            "name": "Matthew 13:8",
+            "text": "Alia autem ceciderunt in terram bonam : et dabant fructum, aliud centesimum, aliud sexagesimum, aliud trigesimum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 9,
+            "name": "Matthew 13:9",
+            "text": "Qui habet aures audiendi, audiat.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 10,
+            "name": "Matthew 13:10",
+            "text": " Et accedentes discipuli dixerunt ei : Quare in parabolis loqueris eis ? "
+        },
+        {
+            "chapter": 13,
+            "verse": 11,
+            "name": "Matthew 13:11",
+            "text": "Qui respondens, ait illis : Quia vobis datum est nosse mysteria regni cælorum : illis autem non est datum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 12,
+            "name": "Matthew 13:12",
+            "text": "Qui enim habet, dabitur ei, et abundabit : qui autem non habet, et quod habet auferetur ab eo. "
+        },
+        {
+            "chapter": 13,
+            "verse": 13,
+            "name": "Matthew 13:13",
+            "text": "Ideo in parabolis loquor eis : quia videntes non vident, et audientes non audiunt, neque intelligunt. "
+        },
+        {
+            "chapter": 13,
+            "verse": 14,
+            "name": "Matthew 13:14",
+            "text": "Et adimpletur in eis prophetia Isaiæ, dicentis :   Auditu audietis, et non intelligetis :  et videntes videbitis, et non videbitis. "
+        },
+        {
+            "chapter": 13,
+            "verse": 15,
+            "name": "Matthew 13:15",
+            "text": " Incrassatum est enim cor populi hujus,  et auribus graviter audierunt,  et oculos suos clauserunt :  nequando videant oculis, et auribus audiant,  et corde intelligant, et convertantur,  et sanem eos. "
+        },
+        {
+            "chapter": 13,
+            "verse": 16,
+            "name": "Matthew 13:16",
+            "text": "Vestri autem beati oculi quia vident, et aures vestræ quia audiunt. "
+        },
+        {
+            "chapter": 13,
+            "verse": 17,
+            "name": "Matthew 13:17",
+            "text": "Amen quippe dico vobis, quia multi prophetæ et justi cupierunt videre quæ videtis, et non viderunt : et audire quæ auditis, et non audierunt.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 18,
+            "name": "Matthew 13:18",
+            "text": " Vos ergo audite parabolam seminantis. "
+        },
+        {
+            "chapter": 13,
+            "verse": 19,
+            "name": "Matthew 13:19",
+            "text": "Omnis qui audit verbum regni, et non intelligit, venit malus, et rapit quod seminatum est in corde ejus : hic est qui secus viam seminatus est. "
+        },
+        {
+            "chapter": 13,
+            "verse": 20,
+            "name": "Matthew 13:20",
+            "text": "Qui autem super petrosa seminatus est, hic est qui verbum audit, et continuo cum gaudio accipit illud : "
+        },
+        {
+            "chapter": 13,
+            "verse": 21,
+            "name": "Matthew 13:21",
+            "text": "non habet autem in se radicem, sed est temporalis : facta autem tribulatione et persecutione propter verbum, continuo scandalizatur. "
+        },
+        {
+            "chapter": 13,
+            "verse": 22,
+            "name": "Matthew 13:22",
+            "text": "Qui autem seminatus est in spinis, hic est qui verbum audit, et sollicitudo sæculi istius, et fallacia divitiarum suffocat verbum, et sine fructu efficitur. "
+        },
+        {
+            "chapter": 13,
+            "verse": 23,
+            "name": "Matthew 13:23",
+            "text": "Qui vero in terram bonam seminatus est, hic est qui audit verbum, et intelligit, et fructum affert, et facit aliud quidem centesimum, aliud autem sexagesimum, aliud vero trigesimum.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 24,
+            "name": "Matthew 13:24",
+            "text": " Aliam parabolam proposuit illis, dicens : Simile factum est regnum cælorum homini, qui seminavit bonum semen in agro suo : "
+        },
+        {
+            "chapter": 13,
+            "verse": 25,
+            "name": "Matthew 13:25",
+            "text": "cum autem dormirent homines, venit inimicus ejus, et superseminavit zizania in medio tritici, et abiit. "
+        },
+        {
+            "chapter": 13,
+            "verse": 26,
+            "name": "Matthew 13:26",
+            "text": "Cum autem crevisset herba, et fructum fecisset, tunc apparuerunt et zizania. "
+        },
+        {
+            "chapter": 13,
+            "verse": 27,
+            "name": "Matthew 13:27",
+            "text": "Accedentes autem servi patrisfamilias, dixerunt ei : Domine, nonne bonum semen seminasti in agro tuo ? unde ergo habet zizania ? "
+        },
+        {
+            "chapter": 13,
+            "verse": 28,
+            "name": "Matthew 13:28",
+            "text": "Et ait illis : Inimicus homo hoc fecit. Servi autem dixerunt ei : Vis, imus, et colligimus ea ? "
+        },
+        {
+            "chapter": 13,
+            "verse": 29,
+            "name": "Matthew 13:29",
+            "text": "Et ait : Non : ne forte colligentes zizania, eradicetis simul cum eis et triticum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 30,
+            "name": "Matthew 13:30",
+            "text": "Sinite utraque crescere usque ad messem, et in tempore messis dicam messoribus : Colligite primum zizania, et alligate ea in fasciculos ad comburendum : triticum autem congregate in horreum meum.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 31,
+            "name": "Matthew 13:31",
+            "text": " Aliam parabolam proposuit eis dicens : Simile est regnum cælorum grano sinapis, quod accipiens homo seminavit in agro suo : "
+        },
+        {
+            "chapter": 13,
+            "verse": 32,
+            "name": "Matthew 13:32",
+            "text": "quod minimum quidem est omnibus seminibus : cum autem creverit, majus est omnibus oleribus, et fit arbor, ita ut volucres cæli veniant, et habitent in ramis ejus. "
+        },
+        {
+            "chapter": 13,
+            "verse": 33,
+            "name": "Matthew 13:33",
+            "text": "Aliam parabolam locutus est eis : Simile est regnum cælorum fermento, quod acceptum mulier abscondit in farinæ satis tribus, donec fermentatum est totum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 34,
+            "name": "Matthew 13:34",
+            "text": "Hæc omnia locutus est Jesus in parabolis ad turbas : et sine parabolis non loquebatur eis : "
+        },
+        {
+            "chapter": 13,
+            "verse": 35,
+            "name": "Matthew 13:35",
+            "text": "ut impleretur quod dictum erat per prophetam dicentem : Aperiam in parabolis os meum ; eructabo abscondita a constitutione mundi.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 36,
+            "name": "Matthew 13:36",
+            "text": " Tunc, dimissis turbis, venit in domum : et accesserunt ad eum discipuli ejus, dicentes : Edissere nobis parabolam zizaniorum agri. "
+        },
+        {
+            "chapter": 13,
+            "verse": 37,
+            "name": "Matthew 13:37",
+            "text": "Qui respondens ait illis : Qui seminat bonum semen, est Filius hominis. "
+        },
+        {
+            "chapter": 13,
+            "verse": 38,
+            "name": "Matthew 13:38",
+            "text": "Ager autem est mundus. Bonum vero semen, hi sunt filii regni. Zizania autem, filii sunt nequam. "
+        },
+        {
+            "chapter": 13,
+            "verse": 39,
+            "name": "Matthew 13:39",
+            "text": "Inimicus autem, qui seminavit ea, est diabolus. Messis vero, consummatio sæculi est. Messores autem, angeli sunt. "
+        },
+        {
+            "chapter": 13,
+            "verse": 40,
+            "name": "Matthew 13:40",
+            "text": "Sicut ergo colliguntur zizania, et igni comburuntur : sic erit in consummatione sæculi. "
+        },
+        {
+            "chapter": 13,
+            "verse": 41,
+            "name": "Matthew 13:41",
+            "text": "Mittet Filius hominis angelos suos, et colligent de regno ejus omnia scandala, et eos qui faciunt iniquitatem : "
+        },
+        {
+            "chapter": 13,
+            "verse": 42,
+            "name": "Matthew 13:42",
+            "text": "et mittent eos in caminum ignis. Ibi erit fletus et stridor dentium. "
+        },
+        {
+            "chapter": 13,
+            "verse": 43,
+            "name": "Matthew 13:43",
+            "text": "Tunc justi fulgebunt sicut sol in regno Patris eorum. Qui habet aures audiendi, audiat.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 44,
+            "name": "Matthew 13:44",
+            "text": " Simile est regnum cælorum thesauro abscondito in agro : quem qui invenit homo, abscondit, et præ gaudio illius vadit, et vendit universa quæ habet, et emit agrum illum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 45,
+            "name": "Matthew 13:45",
+            "text": "Iterum simile est regnum cælorum homini negotiatori, quærenti bonas margaritas. "
+        },
+        {
+            "chapter": 13,
+            "verse": 46,
+            "name": "Matthew 13:46",
+            "text": "Inventa autem una pretiosa margarita, abiit, et vendidit omnia quæ habuit, et emit eam.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 47,
+            "name": "Matthew 13:47",
+            "text": " Iterum simile est regnum cælorum sagenæ missæ in mare, et ex omni genere piscium congreganti. "
+        },
+        {
+            "chapter": 13,
+            "verse": 48,
+            "name": "Matthew 13:48",
+            "text": "Quam, cum impleta esset, educentes, et secus littus sedentes, elegerunt bonos in vasa, malos autem foras miserunt. "
+        },
+        {
+            "chapter": 13,
+            "verse": 49,
+            "name": "Matthew 13:49",
+            "text": "Sic erit in consummatione sæculi : exibunt angeli, et separabunt malos de medio justorum, "
+        },
+        {
+            "chapter": 13,
+            "verse": 50,
+            "name": "Matthew 13:50",
+            "text": "et mittent eos in caminum ignis : ibi erit fletus, et stridor dentium. "
+        },
+        {
+            "chapter": 13,
+            "verse": 51,
+            "name": "Matthew 13:51",
+            "text": "Intellexistis hæc omnia ? Dicunt ei : Etiam. "
+        },
+        {
+            "chapter": 13,
+            "verse": 52,
+            "name": "Matthew 13:52",
+            "text": "Ait illis : Ideo omnis scriba doctus in regno cælorum, similis est homini patrifamilias, qui profert de thesauro suo nova et vetera. "
+        },
+        {
+            "chapter": 13,
+            "verse": 53,
+            "name": "Matthew 13:53",
+            "text": "Et factum est, cum consummasset Jesus parabolas istas, transiit inde.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 54,
+            "name": "Matthew 13:54",
+            "text": " Et veniens in patriam suam, docebat eos in synagogis eorum, ita ut mirarentur, et dicerent : Unde huic sapientia hæc, et virtutes ? "
+        },
+        {
+            "chapter": 13,
+            "verse": 55,
+            "name": "Matthew 13:55",
+            "text": "Nonne hic est fabri filius ? nonne mater ejus dicitur Maria, et fratres ejus, Jacobus, et Joseph, et Simon, et Judas ? "
+        },
+        {
+            "chapter": 13,
+            "verse": 56,
+            "name": "Matthew 13:56",
+            "text": "et sorores ejus, nonne omnes apud nos sunt ? unde ergo huic omnia ista ? "
+        },
+        {
+            "chapter": 13,
+            "verse": 57,
+            "name": "Matthew 13:57",
+            "text": "Et scandalizabantur in eo. Jesus autem dixit eis : Non est propheta sine honore, nisi in patria sua, et in domo sua. "
+        },
+        {
+            "chapter": 13,
+            "verse": 58,
+            "name": "Matthew 13:58",
+            "text": "Et non fecit ibi virtutes multas propter incredulitatem illorum.   "
+        }
+    ]
+}

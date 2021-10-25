@@ -1,0 +1,44 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 100,
+    "name": "Psalms 100",
+    "verses": [
+        {
+            "chapter": 100,
+            "verse": 1,
+            "name": "Psalms 100:1",
+            "text": " Hálaadó zsoltár. Vígan énekelj az Úrnak te egész föld!"
+        },
+        {
+            "chapter": 100,
+            "verse": 2,
+            "name": "Psalms 100:2",
+            "text": "Szolgáljatok az Úrnak örvendezéssel; menjetek eléje vígassággal. "
+        },
+        {
+            "chapter": 100,
+            "verse": 3,
+            "name": "Psalms 100:3",
+            "text": "Tudjátok meg, hogy az Úr az Isten; ő alkotott minket és nem magunk; az ő népe és az ő legelőinek juhai vagyunk. "
+        },
+        {
+            "chapter": 100,
+            "verse": 4,
+            "name": "Psalms 100:4",
+            "text": "Menjetek be az ő kapuin hálaadással, tornáczaiba dicséretekkel; adjatok hálákat néki, áldjátok az ő nevét! "
+        },
+        {
+            "chapter": 100,
+            "verse": 5,
+            "name": "Psalms 100:5",
+            "text": "Mert jó az Úr, örökkévaló az ő kegyelme, és nemzedékről nemzedékre való az ő hűsége!   "
+        }
+    ]
+}

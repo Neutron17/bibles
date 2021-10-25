@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 63,
+    "name": "Psalms 63",
+    "verses": [
+        {
+            "chapter": 63,
+            "verse": 1,
+            "name": "Psalms 63:1",
+            "text": "In finem. Psalmus David.  "
+        },
+        {
+            "chapter": 63,
+            "verse": 2,
+            "name": "Psalms 63:2",
+            "text": "  Exaudi, Deus, orationem meam cum deprecor ;  a timore inimici eripe animam meam. "
+        },
+        {
+            "chapter": 63,
+            "verse": 3,
+            "name": "Psalms 63:3",
+            "text": " Protexisti me a conventu malignantium,  a multitudine operantium iniquitatem. "
+        },
+        {
+            "chapter": 63,
+            "verse": 4,
+            "name": "Psalms 63:4",
+            "text": " Quia exacuerunt ut gladium linguas suas ;  intenderunt arcum rem amaram, "
+        },
+        {
+            "chapter": 63,
+            "verse": 5,
+            "name": "Psalms 63:5",
+            "text": " ut sagittent in occultis immaculatum. "
+        },
+        {
+            "chapter": 63,
+            "verse": 6,
+            "name": "Psalms 63:6",
+            "text": " Subito sagittabunt eum, et non timebunt ;  firmaverunt sibi sermonem nequam.  Narraverunt ut absconderent laqueos ;  dixerunt : Quis videbit eos ? "
+        },
+        {
+            "chapter": 63,
+            "verse": 7,
+            "name": "Psalms 63:7",
+            "text": " Scrutati sunt iniquitates ;  defecerunt scrutantes scrutinio.  Accedet homo ad cor altum, "
+        },
+        {
+            "chapter": 63,
+            "verse": 8,
+            "name": "Psalms 63:8",
+            "text": " et exaltabitur Deus.  Sagittæ parvulorum factæ sunt plagæ eorum, "
+        },
+        {
+            "chapter": 63,
+            "verse": 9,
+            "name": "Psalms 63:9",
+            "text": " et infirmatæ sunt contra eos linguæ eorum.  Conturbati sunt omnes qui videbant eos, "
+        },
+        {
+            "chapter": 63,
+            "verse": 10,
+            "name": "Psalms 63:10",
+            "text": " et timuit omnis homo.  Et annuntiaverunt opera Dei,  et facta ejus intellexerunt. "
+        },
+        {
+            "chapter": 63,
+            "verse": 11,
+            "name": "Psalms 63:11",
+            "text": " Lætabitur justus in Domino, et sperabit in eo,  et laudabuntur omnes recti corde.  "
+        }
+    ]
+}

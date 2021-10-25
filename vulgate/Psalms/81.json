@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 81,
+    "name": "Psalms 81",
+    "verses": [
+        {
+            "chapter": 81,
+            "verse": 1,
+            "name": "Psalms 81:1",
+            "text": "Psalmus Asaph.   Deus stetit in synagoga deorum ;  in medio autem deos dijudicat. "
+        },
+        {
+            "chapter": 81,
+            "verse": 2,
+            "name": "Psalms 81:2",
+            "text": " Usquequo judicatis iniquitatem,  et facies peccatorum sumitis ? "
+        },
+        {
+            "chapter": 81,
+            "verse": 3,
+            "name": "Psalms 81:3",
+            "text": " Judicate egeno et pupillo ;  humilem et pauperem justificate. "
+        },
+        {
+            "chapter": 81,
+            "verse": 4,
+            "name": "Psalms 81:4",
+            "text": " Eripite pauperem,  et egenum de manu peccatoris liberate. "
+        },
+        {
+            "chapter": 81,
+            "verse": 5,
+            "name": "Psalms 81:5",
+            "text": " Nescierunt, neque intellexerunt ;  in tenebris ambulant :  movebuntur omnia fundamenta terræ. "
+        },
+        {
+            "chapter": 81,
+            "verse": 6,
+            "name": "Psalms 81:6",
+            "text": " Ego dixi : Dii estis,  et filii Excelsi omnes. "
+        },
+        {
+            "chapter": 81,
+            "verse": 7,
+            "name": "Psalms 81:7",
+            "text": " Vos autem sicut homines moriemini,  et sicut unus de principibus cadetis. "
+        },
+        {
+            "chapter": 81,
+            "verse": 8,
+            "name": "Psalms 81:8",
+            "text": " Surge, Deus, judica terram,  quoniam tu hæreditabis in omnibus gentibus.  "
+        }
+    ]
+}

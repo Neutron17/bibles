@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 23,
+    "name": "Psalms 23",
+    "verses": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "name": "Psalms 23:1",
+            "text": "Prima sabbati. Psalmus David.   Domini est terra, et plenitudo ejus ;  orbis terrarum, et universi qui habitant in eo. "
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "name": "Psalms 23:2",
+            "text": " Quia ipse super maria fundavit eum,  et super flumina præparavit eum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "name": "Psalms 23:3",
+            "text": " Quis ascendet in montem Domini ?  aut quis stabit in loco sancto ejus ? "
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "name": "Psalms 23:4",
+            "text": " Innocens manibus et mundo corde,  qui non accepit in vano animam suam,  nec juravit in dolo proximo suo : "
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "name": "Psalms 23:5",
+            "text": " hic accipiet benedictionem a Domino,  et misericordiam a Deo salutari suo. "
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "name": "Psalms 23:6",
+            "text": " Hæc est generatio quærentium eum,  quærentium faciem Dei Jacob. "
+        },
+        {
+            "chapter": 23,
+            "verse": 7,
+            "name": "Psalms 23:7",
+            "text": " Attollite portas, principes, vestras,  et elevamini, portæ æternales,  et introibit rex gloriæ. "
+        },
+        {
+            "chapter": 23,
+            "verse": 8,
+            "name": "Psalms 23:8",
+            "text": " Quis est iste rex gloriæ ?  Dominus fortis et potens,  Dominus potens in prælio. "
+        },
+        {
+            "chapter": 23,
+            "verse": 9,
+            "name": "Psalms 23:9",
+            "text": " Attollite portas, principes, vestras,  et elevamini, portæ æternales,  et introibit rex gloriæ. "
+        },
+        {
+            "chapter": 23,
+            "verse": 10,
+            "name": "Psalms 23:10",
+            "text": " Quis est iste rex gloriæ ?  Dominus virtutum ipse est rex gloriæ.  "
+        }
+    ]
+}

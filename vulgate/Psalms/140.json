@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 140,
+    "name": "Psalms 140",
+    "verses": [
+        {
+            "chapter": 140,
+            "verse": 1,
+            "name": "Psalms 140:1",
+            "text": "Psalmus David.   Domine, clamavi ad te : exaudi me ;  intende voci meæ, cum clamavero ad te. "
+        },
+        {
+            "chapter": 140,
+            "verse": 2,
+            "name": "Psalms 140:2",
+            "text": " Dirigatur oratio mea sicut incensum in conspectu tuo ;  elevatio manuum mearum sacrificium vespertinum. "
+        },
+        {
+            "chapter": 140,
+            "verse": 3,
+            "name": "Psalms 140:3",
+            "text": " Pone, Domine, custodiam ori meo,  et ostium circumstantiæ labiis meis. "
+        },
+        {
+            "chapter": 140,
+            "verse": 4,
+            "name": "Psalms 140:4",
+            "text": " Non declines cor meum in verba malitiæ,  ad excusandas excusationes in peccatis ;  cum hominibus operantibus iniquitatem,  et non communicabo cum electis eorum. "
+        },
+        {
+            "chapter": 140,
+            "verse": 5,
+            "name": "Psalms 140:5",
+            "text": " Corripiet me justus in misericordia, et increpabit me :  oleum autem peccatoris non impinguet caput meum.  Quoniam adhuc et oratio mea in beneplacitis eorum : "
+        },
+        {
+            "chapter": 140,
+            "verse": 6,
+            "name": "Psalms 140:6",
+            "text": " absorpti sunt juncti petræ judices eorum.  Audient verba mea, quoniam potuerunt. "
+        },
+        {
+            "chapter": 140,
+            "verse": 7,
+            "name": "Psalms 140:7",
+            "text": " Sicut crassitudo terræ erupta est super terram,  dissipata sunt ossa nostra secus infernum. "
+        },
+        {
+            "chapter": 140,
+            "verse": 8,
+            "name": "Psalms 140:8",
+            "text": " Quia ad te, Domine, Domine, oculi mei ;  in te speravi, non auferas animam meam. "
+        },
+        {
+            "chapter": 140,
+            "verse": 9,
+            "name": "Psalms 140:9",
+            "text": " Custodi me a laqueo quem statuerunt mihi,  et a scandalis operantium iniquitatem. "
+        },
+        {
+            "chapter": 140,
+            "verse": 10,
+            "name": "Psalms 140:10",
+            "text": " Cadent in retiaculo ejus peccatores :  singulariter sum ego, donec transeam.  "
+        }
+    ]
+}

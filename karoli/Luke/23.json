@@ -1,0 +1,350 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 42,
+    "book_name": "Luke",
+    "chapter": 23,
+    "name": "Luke 23",
+    "verses": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "name": "Luke 23:1",
+            "text": " És fölkelvén az ő egész sokaságuk, vivék őt Pilátushoz. "
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "name": "Luke 23:2",
+            "text": "És kezdék őt vádolni, mondván: Úgy találtuk, hogy ez a népet félrevezeti, és tiltja a császár adójának fizetését, mivelhogy ő magát ama király Krisztusnak mondja. "
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "name": "Luke 23:3",
+            "text": "Pilátus pedig megkérdé őt, mondván: Te vagy-é a zsidók királya? És ő felelvén néki, monda: Te mondod! "
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "name": "Luke 23:4",
+            "text": "Monda pedig Pilátus a főpapoknak és a sokaságnak: Semmi bűnt nem találok ez emberben."
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "name": "Luke 23:5",
+            "text": "De azok erősködének, mondván: A népet felzendíti, tanítván az egész Júdeában, elkezdve Galileától mind idáig. "
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "name": "Luke 23:6",
+            "text": "Pilátus pedig Galileát hallván, megkérdé, vajjon galileai ember-é ő? "
+        },
+        {
+            "chapter": 23,
+            "verse": 7,
+            "name": "Luke 23:7",
+            "text": "És mikor megtudta, hogy ő a Héródes hatósága alá tartozik, Héródeshez küldé őt, mivelhogy az is Jeruzsálemben vala azokban a napokban. "
+        },
+        {
+            "chapter": 23,
+            "verse": 8,
+            "name": "Luke 23:8",
+            "text": "Héródes pedig Jézust látván igen megörüle: mert sok időtől fogva kívánta őt látni, mivelhogy sokat hallott ő felőle, és reménylé, hogy majd valami csodát lát, melyet ő tesz. "
+        },
+        {
+            "chapter": 23,
+            "verse": 9,
+            "name": "Luke 23:9",
+            "text": "Kérdezé pedig őt sok beszéddel; de ő semmit nem felele néki."
+        },
+        {
+            "chapter": 23,
+            "verse": 10,
+            "name": "Luke 23:10",
+            "text": "Ott állanak vala pedig a főpapok és az írástudók, teljes igyekezettel vádolván őt."
+        },
+        {
+            "chapter": 23,
+            "verse": 11,
+            "name": "Luke 23:11",
+            "text": "Héródes pedig az ő katonáival egybe semminek állítván és kicsúfolván őt, minekutána felöltöztette fényes ruhába, visszaküldé Pilátushoz. "
+        },
+        {
+            "chapter": 23,
+            "verse": 12,
+            "name": "Luke 23:12",
+            "text": "És az napon lőnek barátok egymással Pilátus és Héródes; mert az előtt ellenségeskedésben valának egymással. "
+        },
+        {
+            "chapter": 23,
+            "verse": 13,
+            "name": "Luke 23:13",
+            "text": " Pilátus pedig a főpapokat, főembereket és a népet egybegyűjtvén, "
+        },
+        {
+            "chapter": 23,
+            "verse": 14,
+            "name": "Luke 23:14",
+            "text": "Monda nékik: Ide hoztátok nékem ez embert, mint a ki a népet félrevezeti: és ímé én ti előttetek kivallatván, semmi olyan bűnt nem találtam ez emberben, a mivel őt vádoljátok: "
+        },
+        {
+            "chapter": 23,
+            "verse": 15,
+            "name": "Luke 23:15",
+            "text": "De még Héródes sem; mert titeket ő hozzá igazítálak; és ímé semmi halálra való dolgot nem cselekedett ő. "
+        },
+        {
+            "chapter": 23,
+            "verse": 16,
+            "name": "Luke 23:16",
+            "text": "Megfenyítvén azért őt, elbocsátom. "
+        },
+        {
+            "chapter": 23,
+            "verse": 17,
+            "name": "Luke 23:17",
+            "text": "Kell vala pedig elbocsátania nékik ünnepenként egy foglyot. "
+        },
+        {
+            "chapter": 23,
+            "verse": 18,
+            "name": "Luke 23:18",
+            "text": "De felkiálta az egész sokaság, mondván: Vidd el ezt, és bocsásd el nékünk Barabbást! "
+        },
+        {
+            "chapter": 23,
+            "verse": 19,
+            "name": "Luke 23:19",
+            "text": "Ki a városban lett valami lázadásért és gyilkosságért vettetett a tömlöczbe."
+        },
+        {
+            "chapter": 23,
+            "verse": 20,
+            "name": "Luke 23:20",
+            "text": "Pilátus azért ismét felszólala, el akarván bocsátani Jézust; "
+        },
+        {
+            "chapter": 23,
+            "verse": 21,
+            "name": "Luke 23:21",
+            "text": "De azok ellene kiáltának, mondván: Feszítsd meg! Feszítsd meg őt! "
+        },
+        {
+            "chapter": 23,
+            "verse": 22,
+            "name": "Luke 23:22",
+            "text": "Ő pedig harmadszor is monda nékik: Mert mi gonoszt tett ez? Semmi halálra való bűnt nem találtam ő benne; megfenyítvén azért őt, elbocsátom!"
+        },
+        {
+            "chapter": 23,
+            "verse": 23,
+            "name": "Luke 23:23",
+            "text": "Azok pedig nagy fenszóval sürgeték, kérvén, hogy megfeszíttessék; és az ő szavok és a főpapoké erőt vesz vala. "
+        },
+        {
+            "chapter": 23,
+            "verse": 24,
+            "name": "Luke 23:24",
+            "text": "És Pilátus megítélé, hogy meglegyen, a mit kérnek vala. "
+        },
+        {
+            "chapter": 23,
+            "verse": 25,
+            "name": "Luke 23:25",
+            "text": "És elbocsátá nékik azt, a ki lázadásért és gyilkosságért vettetett a tömlöczbe, a kit kértek vala; Jézust pedig kiszolgáltatá az ő akaratuknak.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 26,
+            "name": "Luke 23:26",
+            "text": " Mikor azért elvivék őt, egy Czirénebeli Simont megragadván, ki a mezőről jöve, arra tevék a keresztfát, hogy vigye Jézus után. "
+        },
+        {
+            "chapter": 23,
+            "verse": 27,
+            "name": "Luke 23:27",
+            "text": "Követé pedig őt a népnek és az asszonyoknak nagy sokasága, a kik gyászolák és siraták őt. "
+        },
+        {
+            "chapter": 23,
+            "verse": 28,
+            "name": "Luke 23:28",
+            "text": "Jézus pedig hozzájok fordulván, monda: Jeruzsálem leányai, ne sírjatok én rajtam, hanem ti magatokon sírjatok, és a ti magzataitokon. "
+        },
+        {
+            "chapter": 23,
+            "verse": 29,
+            "name": "Luke 23:29",
+            "text": "Mert ímé jőnek napok, melyeken ezt mondják: Boldogok a meddők, és a mely méhek nem szültek, és az emlők, melyek nem szoptattak! "
+        },
+        {
+            "chapter": 23,
+            "verse": 30,
+            "name": "Luke 23:30",
+            "text": "Akkor kezdik mondani a hegyeknek: Essetek mi reánk; és a halmoknak: Borítsatok el minket! "
+        },
+        {
+            "chapter": 23,
+            "verse": 31,
+            "name": "Luke 23:31",
+            "text": "Mert ha a zöldelő fán ezt mívelik, mi esik a száraz fán? "
+        },
+        {
+            "chapter": 23,
+            "verse": 32,
+            "name": "Luke 23:32",
+            "text": "Vivének pedig két másikat is, két gonosztevőt ő vele, hogy megölessenek.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 33,
+            "name": "Luke 23:33",
+            "text": " Mikor pedig elmenének a helyre, mely Koponya helyének mondatik, ott megfeszíték őt és a gonosztevőket, egyiket jobbkéz felől, a másikat balkéz felől. "
+        },
+        {
+            "chapter": 23,
+            "verse": 34,
+            "name": "Luke 23:34",
+            "text": "Jézus pedig monda: Atyám! bocsásd meg nékik; mert nem tudják mit cselekesznek. Elosztván pedig az ő ruháit, vetének reájok sorsot. "
+        },
+        {
+            "chapter": 23,
+            "verse": 35,
+            "name": "Luke 23:35",
+            "text": "És a nép megálla nézni. Csúfolák pedig őt a főemberek is azokkal egybe, mondván: Egyebeket megtartott, tartsa meg magát, ha ő a Krisztus, az Istennek ama választottja. "
+        },
+        {
+            "chapter": 23,
+            "verse": 36,
+            "name": "Luke 23:36",
+            "text": "Csúfolák pedig őt a vitézek is, odajárulván és eczettel kínálván őt. "
+        },
+        {
+            "chapter": 23,
+            "verse": 37,
+            "name": "Luke 23:37",
+            "text": "És ezt mondván néki: Ha te vagy a zsidóknak ama Királya, szabadítsd meg magadat! "
+        },
+        {
+            "chapter": 23,
+            "verse": 38,
+            "name": "Luke 23:38",
+            "text": "Vala pedig egy felirat is fölébe írva görög, római és zsidó betűkkel: Ez a zsidóknak ama Királya. "
+        },
+        {
+            "chapter": 23,
+            "verse": 39,
+            "name": "Luke 23:39",
+            "text": "A felfüggesztett gonosztevők közül pedig az egyik szidalmazá őt, mondván: Ha te vagy a Krisztus, szabadítsd meg magadat, minket is! "
+        },
+        {
+            "chapter": 23,
+            "verse": 40,
+            "name": "Luke 23:40",
+            "text": "Felelvén pedig a másik, megdorgálá őt, mondván: Az Istent sem féled-e te? Hiszen te ugyanazon ítélet alatt vagy! "
+        },
+        {
+            "chapter": 23,
+            "verse": 41,
+            "name": "Luke 23:41",
+            "text": "És mi ugyan méltán; mert a mi cselekedetünknek méltó büntetését vesszük: ez pedig semmi méltatlan dolgot nem cselekedett. "
+        },
+        {
+            "chapter": 23,
+            "verse": 42,
+            "name": "Luke 23:42",
+            "text": "És monda Jézusnak: Uram, emlékezzél meg én rólam, mikor eljősz a te országodban! "
+        },
+        {
+            "chapter": 23,
+            "verse": 43,
+            "name": "Luke 23:43",
+            "text": "És monda néki Jézus: Bizony mondom néked: Ma velem leszel a paradicsomban. "
+        },
+        {
+            "chapter": 23,
+            "verse": 44,
+            "name": "Luke 23:44",
+            "text": "Vala pedig mintegy hat óra, és sötétség lőn az egész tartományban mind kilencz órakorig. "
+        },
+        {
+            "chapter": 23,
+            "verse": 45,
+            "name": "Luke 23:45",
+            "text": "És meghomályosodék a nap, és a templom kárpitja középen ketté hasada. "
+        },
+        {
+            "chapter": 23,
+            "verse": 46,
+            "name": "Luke 23:46",
+            "text": "És kiáltván Jézus nagy szóval, monda: Atyám, a te kezeidbe teszem le az én lelkemet. És ezeket mondván, meghala. "
+        },
+        {
+            "chapter": 23,
+            "verse": 47,
+            "name": "Luke 23:47",
+            "text": "Látván pedig a százados, a mi történt, dicsőíté az Istent, mondván: Bizony ez ember igaz vala. "
+        },
+        {
+            "chapter": 23,
+            "verse": 48,
+            "name": "Luke 23:48",
+            "text": "És az egész sokaság, mely e dolognak látására ment oda, látván azokat, a mik történtek, mellét verve megtére. "
+        },
+        {
+            "chapter": 23,
+            "verse": 49,
+            "name": "Luke 23:49",
+            "text": "Az ő ismerősei pedig mind, és az asszonyok, a kik Galileából követék őt, távol állának, nézvén ezeket.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 50,
+            "name": "Luke 23:50",
+            "text": " És ímé egy ember, kinek József vala neve, tanácsbeli, jó és igaz férfiú, "
+        },
+        {
+            "chapter": 23,
+            "verse": 51,
+            "name": "Luke 23:51",
+            "text": "Ki nem vala részes azoknak tanácsában és cselekedetében, Arimathiából, a zsidók városából való, ki maga is várja vala az Istennek országát; "
+        },
+        {
+            "chapter": 23,
+            "verse": 52,
+            "name": "Luke 23:52",
+            "text": "Ez oda menvén Pilátushoz, elkéré a Jézus testét. "
+        },
+        {
+            "chapter": 23,
+            "verse": 53,
+            "name": "Luke 23:53",
+            "text": "És levévén azt, begöngyölé azt gyolcsba, és helyhezteté azt egy sziklába vágott sírboltba, melyben még senki sem feküdt. "
+        },
+        {
+            "chapter": 23,
+            "verse": 54,
+            "name": "Luke 23:54",
+            "text": "És az a nap péntek vala, és szombat virrada rá. "
+        },
+        {
+            "chapter": 23,
+            "verse": 55,
+            "name": "Luke 23:55",
+            "text": "Az őt követő asszonyok is pedig, kik vele Galileából jöttek, megnézék a sírt, és hogy miképen helyeztetett el az ő teste."
+        },
+        {
+            "chapter": 23,
+            "verse": 56,
+            "name": "Luke 23:56",
+            "text": "Visszatérvén pedig, készítének fűszerszámokat és keneteket.  És szombaton nyugovának a parancsolat szerint.   "
+        }
+    ]
+}

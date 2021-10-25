@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 35,
+    "name": "Isaiah 35",
+    "verses": [
+        {
+            "chapter": 35,
+            "verse": 1,
+            "name": "Isaiah 35:1",
+            "text": "Lætabitur deserta et invia,  et exsultabit solitudo,  et florebit quasi lilium. "
+        },
+        {
+            "chapter": 35,
+            "verse": 2,
+            "name": "Isaiah 35:2",
+            "text": " Germinans germinabit, et exsultabit  lætabunda et laudans :  gloria Libani data est ei,  decor Carmeli et Saron ;  ipsi videbunt gloriam Domini,  et decorem Dei nostri. "
+        },
+        {
+            "chapter": 35,
+            "verse": 3,
+            "name": "Isaiah 35:3",
+            "text": " Confortate manus dissolutas,  et genua debilia roborate. "
+        },
+        {
+            "chapter": 35,
+            "verse": 4,
+            "name": "Isaiah 35:4",
+            "text": " Dicite pusillanimis :  Confortamini, et nolite timere :  ecce Deus vester ultionem adducet retributionis ;  Deus ipse veniet, et salvabit vos. "
+        },
+        {
+            "chapter": 35,
+            "verse": 5,
+            "name": "Isaiah 35:5",
+            "text": " Tunc aperientur oculi cæcorum,  et aures surdorum patebunt ; "
+        },
+        {
+            "chapter": 35,
+            "verse": 6,
+            "name": "Isaiah 35:6",
+            "text": " tunc saliet sicut cervus claudus,  et aperta erit lingua mutorum :  quia scissæ sunt in deserto aquæ,  et torrentes in solitudine ; "
+        },
+        {
+            "chapter": 35,
+            "verse": 7,
+            "name": "Isaiah 35:7",
+            "text": " et quæ erat arida, erit in stagnum,  et sitiens in fontes aquarum.  In cubilibus, in quibus prius dracones habitabant,  orietur viror calami et junci. "
+        },
+        {
+            "chapter": 35,
+            "verse": 8,
+            "name": "Isaiah 35:8",
+            "text": " Et erit ibi semita et via,  et via sancta vocabitur :  non transibit per eam pollutus,  et hæc erit vobis directa via,  ita ut stulti non errent per eam. "
+        },
+        {
+            "chapter": 35,
+            "verse": 9,
+            "name": "Isaiah 35:9",
+            "text": " Non erit ibi leo,  et mala bestia non ascendet per eam,  nec invenietur ibi ;  et ambulabunt qui liberati fuerint. "
+        },
+        {
+            "chapter": 35,
+            "verse": 10,
+            "name": "Isaiah 35:10",
+            "text": " Et redempti a Domino convertentur,  et venient in Sion cum laude,  et lætitia sempiterna super caput eorum :  gaudium et lætitiam obtinebunt,  et fugiet dolor et gemitus.  "
+        }
+    ]
+}

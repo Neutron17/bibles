@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 69,
+    "name": "Psalms 69",
+    "verses": [
+        {
+            "chapter": 69,
+            "verse": 1,
+            "name": "Psalms 69:1",
+            "text": "In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus.  "
+        },
+        {
+            "chapter": 69,
+            "verse": 2,
+            "name": "Psalms 69:2",
+            "text": "  Deus, in adjutorium meum intende ;  Domine, ad adjuvandum me festina. "
+        },
+        {
+            "chapter": 69,
+            "verse": 3,
+            "name": "Psalms 69:3",
+            "text": " Confundantur, et revereantur, qui quærunt animam meam. "
+        },
+        {
+            "chapter": 69,
+            "verse": 4,
+            "name": "Psalms 69:4",
+            "text": " Avertantur retrorsum, et erubescant, qui volunt mihi mala ;  avertantur statim erubescentes qui dicunt mihi : Euge, euge ! "
+        },
+        {
+            "chapter": 69,
+            "verse": 5,
+            "name": "Psalms 69:5",
+            "text": " Exsultent et lætentur in te omnes qui quærunt te ;  et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum. "
+        },
+        {
+            "chapter": 69,
+            "verse": 6,
+            "name": "Psalms 69:6",
+            "text": " Ego vero egenus et pauper sum ;  Deus, adjuva me.  Adjutor meus et liberator meus es tu ;  Domine, ne moreris.  "
+        }
+    ]
+}

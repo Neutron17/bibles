@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 31,
+    "name": "Psalms 31",
+    "verses": [
+        {
+            "chapter": 31,
+            "verse": 1,
+            "name": "Psalms 31:1",
+            "text": "Ipsi David intellectus.   Beati quorum remissæ sunt iniquitates,  et quorum tecta sunt peccata. "
+        },
+        {
+            "chapter": 31,
+            "verse": 2,
+            "name": "Psalms 31:2",
+            "text": " Beatus vir cui non imputavit Dominus peccatum,  nec est in spiritu ejus dolus. "
+        },
+        {
+            "chapter": 31,
+            "verse": 3,
+            "name": "Psalms 31:3",
+            "text": " Quoniam tacui, inveteraverunt ossa mea,  dum clamarem tota die. "
+        },
+        {
+            "chapter": 31,
+            "verse": 4,
+            "name": "Psalms 31:4",
+            "text": " Quoniam die ac nocte gravata est super me manus tua,  conversus sum in ærumna mea, dum configitur spina. "
+        },
+        {
+            "chapter": 31,
+            "verse": 5,
+            "name": "Psalms 31:5",
+            "text": " Delictum meum cognitum tibi feci,  et injustitiam meam non abscondi.  Dixi : Confitebor adversum me injustitiam meam Domino ;  et tu remisisti impietatem peccati mei. "
+        },
+        {
+            "chapter": 31,
+            "verse": 6,
+            "name": "Psalms 31:6",
+            "text": " Pro hac orabit ad te omnis sanctus  in tempore opportuno.  Verumtamen in diluvio aquarum multarum,  ad eum non approximabunt. "
+        },
+        {
+            "chapter": 31,
+            "verse": 7,
+            "name": "Psalms 31:7",
+            "text": " Tu es refugium meum a tribulatione quæ circumdedit me ;  exsultatio mea, erue me a circumdantibus me. "
+        },
+        {
+            "chapter": 31,
+            "verse": 8,
+            "name": "Psalms 31:8",
+            "text": " Intellectum tibi dabo, et instruam te in via hac qua gradieris ;  firmabo super te oculos meos. "
+        },
+        {
+            "chapter": 31,
+            "verse": 9,
+            "name": "Psalms 31:9",
+            "text": " Nolite fieri sicut equus et mulus,  quibus non est intellectus.  In camo et freno maxillas eorum constringe,  qui non approximant ad te. "
+        },
+        {
+            "chapter": 31,
+            "verse": 10,
+            "name": "Psalms 31:10",
+            "text": " Multa flagella peccatoris ;  sperantem autem in Domino misericordia circumdabit. "
+        },
+        {
+            "chapter": 31,
+            "verse": 11,
+            "name": "Psalms 31:11",
+            "text": " Lætamini in Domino, et exsultate, justi ;  et gloriamini, omnes recti corde.  "
+        }
+    ]
+}

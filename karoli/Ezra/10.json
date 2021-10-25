@@ -1,0 +1,278 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 15,
+    "book_name": "Ezra",
+    "chapter": 10,
+    "name": "Ezra 10",
+    "verses": [
+        {
+            "chapter": 10,
+            "verse": 1,
+            "name": "Ezra 10:1",
+            "text": " És mikor imádkozék Ezsdrás és vallást tőn, sírva és földre borulva az Isten háza előtt, sereglének ő hozzá Izráelből igen nagy gyülekezetben férfiak és asszonyok és gyermekek, mert síra a nép is sokat és keservesen. "
+        },
+        {
+            "chapter": 10,
+            "verse": 2,
+            "name": "Ezra 10:2",
+            "text": "És szóla Sekhánia, Jéhielnek fia, az Élám fiai közül, és monda Ezsdrásnak: Mi vétkeztünk a mi Istenünk ellen, hogy idegen feleségeket vettünk magunknak e föld népei közül: mindazáltal van reménysége Izráelnek, mind e mellett is!"
+        },
+        {
+            "chapter": 10,
+            "verse": 3,
+            "name": "Ezra 10:3",
+            "text": "Vessünk ugyanis frigyet a mi Istenünkkel, hogy elbocsátjuk mindazon asszonyokat és a tőlük szülötteket az én Uramnak és azoknak akaratja szerint, a kik reszketve gondolnak a mi Istenünk parancsolatára, és a törvény szerint cselekedjünk! "
+        },
+        {
+            "chapter": 10,
+            "verse": 4,
+            "name": "Ezra 10:4",
+            "text": "Kelj fel! mert reád néz e dolog, s mi veled leszünk: légy erős és láss hozzá!"
+        },
+        {
+            "chapter": 10,
+            "verse": 5,
+            "name": "Ezra 10:5",
+            "text": "Fölkele annakokáért Ezsdrás, és megesketé a papoknak, a Lévitáknak és az egész Izráelnek fejedelmeit, hogy e beszéd szerint fognak cselekedni; és megesküvének. "
+        },
+        {
+            "chapter": 10,
+            "verse": 6,
+            "name": "Ezra 10:6",
+            "text": "És fölkele Ezsdrás az Isten háza elől, és elméne Jóhanánnak, Eliásib fiának szobájához s bemenvén abba, kenyeret nem evék, sem vizet nem ivék, mert gyászol vala a rabságból hazajöttek vétke miatt."
+        },
+        {
+            "chapter": 10,
+            "verse": 7,
+            "name": "Ezra 10:7",
+            "text": "És meghirdeték Júdában és Jeruzsálemben mindazoknak, a kik a rabságból hazajöttek, hogy Jeruzsálembe gyűljenek;"
+        },
+        {
+            "chapter": 10,
+            "verse": 8,
+            "name": "Ezra 10:8",
+            "text": "Valaki pedig el nem jön harmadnapra, a fejedelmek és vének tanácsa szerint, adassék minden vagyona a templomnak, és ő maga vettessék ki a rabságból hazajötteknek gyülekezetéből. "
+        },
+        {
+            "chapter": 10,
+            "verse": 9,
+            "name": "Ezra 10:9",
+            "text": "Összegyűlének azért Júdának és Benjáminnak minden férfiai harmadnapra Jeruzsálembe a kilenczedik hóban, e hó huszadik napján, és leüle az egész nép az Isten házának piaczán, aggódván e dolog és az esőzések miatt. "
+        },
+        {
+            "chapter": 10,
+            "verse": 10,
+            "name": "Ezra 10:10",
+            "text": "Ekkor fölkele Ezsdrás, a pap, és monda nékik: Ti vétkeztetek, hogy idegen feleségeket vettetek magatoknak, hogy ezzel is többítenétek Izráel vétkét; "
+        },
+        {
+            "chapter": 10,
+            "verse": 11,
+            "name": "Ezra 10:11",
+            "text": "Annakokáért tegyetek vallást az Úr előtt, atyáitoknak Istene előtt, és cselekedjetek az ő akaratja szerint, elkülönítvén magatokat e föld népeitől és az idegen feleségektől."
+        },
+        {
+            "chapter": 10,
+            "verse": 12,
+            "name": "Ezra 10:12",
+            "text": "És felele az egész gyülekezet, és monda felszóval: Ekképen, a te beszéded szerint kell minékünk cselekednünk!"
+        },
+        {
+            "chapter": 10,
+            "verse": 13,
+            "name": "Ezra 10:13",
+            "text": "De e nép igen sok és az esős idő miatt kivül nem állhatunk; annak felette ez nem egy, sem nem két napi munka, mert sokan vagyunk, a kik vétkeztünk e dologban;"
+        },
+        {
+            "chapter": 10,
+            "verse": 14,
+            "name": "Ezra 10:14",
+            "text": "Hadd álljanak hát elő fejedelmeink, az egész gyülekezeté, és mindenki, a ki idegen feleséget vett magának, városonként jőjjön elő bizonyos időben s velök a városoknak vénei és birái, hogy elfordítsuk magunkról a mi Istenünknek e dolog miatt való búsulásának haragját!"
+        },
+        {
+            "chapter": 10,
+            "verse": 15,
+            "name": "Ezra 10:15",
+            "text": "Csak Jónathán, az Asáhel fia és Jahzéja, a Tikva fia állának fel ez ellen és Mésullám és Sabbethai, a Léviták támogaták őket."
+        },
+        {
+            "chapter": 10,
+            "verse": 16,
+            "name": "Ezra 10:16",
+            "text": "És cselekedének ekképen azok, a kik a rabságból hazajöttek; és választa magának Ezsdrás, a pap férfiakat, a családfőket, családjuk szerint, s mindnyájok nevei feljegyeztettek. És összeülének a tizedik hó első napján, hogy nyomozzák e dolgot;"
+        },
+        {
+            "chapter": 10,
+            "verse": 17,
+            "name": "Ezra 10:17",
+            "text": "És bevégezék azt mindazon férfiakra nézve, a kik idegen feleséget vettek vala magoknak, az első hónak első napjáig."
+        },
+        {
+            "chapter": 10,
+            "verse": 18,
+            "name": "Ezra 10:18",
+            "text": "Találtatának pedig a papok fiai közül, a kik idegen feleségeket vettek vala magoknak, Jésuának, a Jósádák fiának és az ő testvéreinek fiai közül: Maaséja, Eliézer, Járib és Gedálja; "
+        },
+        {
+            "chapter": 10,
+            "verse": 19,
+            "name": "Ezra 10:19",
+            "text": "És kezöket adák, hogy elbocsátják feleségeiket és egy kos áldozására ítéltetének vétkükért; "
+        },
+        {
+            "chapter": 10,
+            "verse": 20,
+            "name": "Ezra 10:20",
+            "text": "Immér fiai közül pedig: Hanáni és Zebádja."
+        },
+        {
+            "chapter": 10,
+            "verse": 21,
+            "name": "Ezra 10:21",
+            "text": "Hárim fiai közül: Maaszéja, Elija, Semája, Jéhiel és Uzzia,"
+        },
+        {
+            "chapter": 10,
+            "verse": 22,
+            "name": "Ezra 10:22",
+            "text": "Pashur fiai közül: Eljoénaj, Maaszéja, Ismáel, Nethanéel, Józabád és Elásza; "
+        },
+        {
+            "chapter": 10,
+            "verse": 23,
+            "name": "Ezra 10:23",
+            "text": "Továbbá a Léviták közül: Józabád, Simei és Kélája. (az a Kelita), Pethahja, Júda és Eliézer; "
+        },
+        {
+            "chapter": 10,
+            "verse": 24,
+            "name": "Ezra 10:24",
+            "text": "Az énekesek közül pedig: Eliásib, s a kapunállók közül: Sallum, Telem és Uri; "
+        },
+        {
+            "chapter": 10,
+            "verse": 25,
+            "name": "Ezra 10:25",
+            "text": "Továbbá Izráel népéből: Parós fiai közül: Ramia, Jezija, Malkija, Mijámin, Eleázár, Malkija és Benája;"
+        },
+        {
+            "chapter": 10,
+            "verse": 26,
+            "name": "Ezra 10:26",
+            "text": "Elám fiai közül: Mattánia, Zakariás, Jéhiel, Abdi, Jerémóth és Élija;"
+        },
+        {
+            "chapter": 10,
+            "verse": 27,
+            "name": "Ezra 10:27",
+            "text": "Zattu fiai közül: Eljóénai, Eljásib, Mattánia, Jerémóth, Zabád és Aziza;"
+        },
+        {
+            "chapter": 10,
+            "verse": 28,
+            "name": "Ezra 10:28",
+            "text": "Bébai fiai közül: Jóhanán, Hanánia, Zabbai és Athlai;"
+        },
+        {
+            "chapter": 10,
+            "verse": 29,
+            "name": "Ezra 10:29",
+            "text": "Báni fiai közül: Mesullám, Mallukh, Adája, Jásub, Seál és Rámóth;"
+        },
+        {
+            "chapter": 10,
+            "verse": 30,
+            "name": "Ezra 10:30",
+            "text": "Pahath-Moáb fiai közül: Adna, Kelál, Benája, Maaszéja, Mattánia, Besaléel, Binnui és Manasse;"
+        },
+        {
+            "chapter": 10,
+            "verse": 31,
+            "name": "Ezra 10:31",
+            "text": "A Hárim fiai pedig: Eliézer, Jissija, Malkija, Semája, Simeon;"
+        },
+        {
+            "chapter": 10,
+            "verse": 32,
+            "name": "Ezra 10:32",
+            "text": "Benjámin, Mallukh, Semarja;"
+        },
+        {
+            "chapter": 10,
+            "verse": 33,
+            "name": "Ezra 10:33",
+            "text": "Hásum fiai közül: Mattenai, Mattattá, Zabád, Elifélet, Jerémai, Manasse, Simei,"
+        },
+        {
+            "chapter": 10,
+            "verse": 34,
+            "name": "Ezra 10:34",
+            "text": "Báni fiai közül: Maádai, Amrám és Uél;"
+        },
+        {
+            "chapter": 10,
+            "verse": 35,
+            "name": "Ezra 10:35",
+            "text": "Benája, Bédéja, Keluhu;"
+        },
+        {
+            "chapter": 10,
+            "verse": 36,
+            "name": "Ezra 10:36",
+            "text": "Vanja, Merémóth, Eliásib;"
+        },
+        {
+            "chapter": 10,
+            "verse": 37,
+            "name": "Ezra 10:37",
+            "text": "Mattánia, Mattenai és Jaaszái;"
+        },
+        {
+            "chapter": 10,
+            "verse": 38,
+            "name": "Ezra 10:38",
+            "text": "Báni, Binnui, Simei;"
+        },
+        {
+            "chapter": 10,
+            "verse": 39,
+            "name": "Ezra 10:39",
+            "text": "Selemia, Náthán és Adája;"
+        },
+        {
+            "chapter": 10,
+            "verse": 40,
+            "name": "Ezra 10:40",
+            "text": "Makhnadbai, Sásai, Sárai;"
+        },
+        {
+            "chapter": 10,
+            "verse": 41,
+            "name": "Ezra 10:41",
+            "text": "Azareél, Selemia és Semária;"
+        },
+        {
+            "chapter": 10,
+            "verse": 42,
+            "name": "Ezra 10:42",
+            "text": "Sallum, Amaria, József: "
+        },
+        {
+            "chapter": 10,
+            "verse": 43,
+            "name": "Ezra 10:43",
+            "text": "A Nebó fiai közül: Jéiel, Mattithja, Zabád, Zebina, Jaddai, Jóel, Benája."
+        },
+        {
+            "chapter": 10,
+            "verse": 44,
+            "name": "Ezra 10:44",
+            "text": "Mindezek idegen feleségeket vettek vala magoknak. És valának e feleségek között olyanok is, a kik már fiakat szültek.     "
+        }
+    ]
+}

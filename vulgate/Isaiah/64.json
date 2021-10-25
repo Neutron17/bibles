@@ -1,0 +1,86 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 64,
+    "name": "Isaiah 64",
+    "verses": [
+        {
+            "chapter": 64,
+            "verse": 1,
+            "name": "Isaiah 64:1",
+            "text": "Utinam dirumperes cælos, et descenderes ;  a facie tua montes defluerent ; "
+        },
+        {
+            "chapter": 64,
+            "verse": 2,
+            "name": "Isaiah 64:2",
+            "text": " sicut exustio ignis tabescerent,  aquæ arderent igni :  ut notum fieret nomen tuum inimicis tuis ;  a facie tua gentes turbarentur. "
+        },
+        {
+            "chapter": 64,
+            "verse": 3,
+            "name": "Isaiah 64:3",
+            "text": " Cum feceris mirabilia, non sustinebimus ;  descendisti, et a facie tua montes defluxerunt. "
+        },
+        {
+            "chapter": 64,
+            "verse": 4,
+            "name": "Isaiah 64:4",
+            "text": " A sæculo non audierunt, neque auribus perceperunt ;  oculus non vidit, Deus, absque te,  quæ præparasti exspectantibus te. "
+        },
+        {
+            "chapter": 64,
+            "verse": 5,
+            "name": "Isaiah 64:5",
+            "text": " Occurristi lætanti, et facienti justitiam ;  in viis tuis recordabuntur tui.  Ecce tu iratus es, et peccavimus ;  in ipsis fuimus semper, et salvabimur. "
+        },
+        {
+            "chapter": 64,
+            "verse": 6,
+            "name": "Isaiah 64:6",
+            "text": " Et facti sumus ut immundus omnes nos,  et quasi pannus menstruatæ universæ justitiæ nostræ ;  et cecidimus quasi folium universi,  et iniquitates nostræ quasi ventus abstulerunt nos. "
+        },
+        {
+            "chapter": 64,
+            "verse": 7,
+            "name": "Isaiah 64:7",
+            "text": " Non est qui invocet nomen tuum ;  qui consurgat, et teneat te.  Abscondisti faciem tuam a nobis,  et allisisti nos in manu iniquitatis nostræ. "
+        },
+        {
+            "chapter": 64,
+            "verse": 8,
+            "name": "Isaiah 64:8",
+            "text": " Et nunc, Domine, pater noster es tu,  nos vero lutum ;  et fictor noster tu,  et opera manuum tuarum omnes nos. "
+        },
+        {
+            "chapter": 64,
+            "verse": 9,
+            "name": "Isaiah 64:9",
+            "text": " Ne irascaris, Domine, satis,  et ne ultra memineris iniquitatis nostræ ;  ecce, respice, populus tuus omnes nos. "
+        },
+        {
+            "chapter": 64,
+            "verse": 10,
+            "name": "Isaiah 64:10",
+            "text": " Civitas Sancti tui facta est deserta,  Sion deserta facta est,  Jerusalem desolata est. "
+        },
+        {
+            "chapter": 64,
+            "verse": 11,
+            "name": "Isaiah 64:11",
+            "text": " Domus sanctificationis nostræ et gloriæ nostræ,  ubi laudaverunt te patres nostri,  facta est in exustionem ignis,  et omnia desiderabilia nostra versa sunt in ruinas. "
+        },
+        {
+            "chapter": 64,
+            "verse": 12,
+            "name": "Isaiah 64:12",
+            "text": " Numquid super his continebis te, Domine ;  tacebis, et affliges nos vehementer ?  "
+        }
+    ]
+}

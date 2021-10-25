@@ -1,0 +1,68 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 15,
+    "name": "Isaiah 15",
+    "verses": [
+        {
+            "chapter": 15,
+            "verse": 1,
+            "name": "Isaiah 15:1",
+            "text": " Jövendölés Moáb ellen. Igen, a pusztulás éjjelén megsemmisült Ar-Moáb; igen, a pusztulás éjjelén megsemmisült Kir-Moáb! "
+        },
+        {
+            "chapter": 15,
+            "verse": 2,
+            "name": "Isaiah 15:2",
+            "text": "Felmennek a templomba, és Dibon a magaslatokra megy sírni, Nebón és Médebán jajgat Moáb, minden fejen kopaszság, minden szakál lenyírva! "
+        },
+        {
+            "chapter": 15,
+            "verse": 3,
+            "name": "Isaiah 15:3",
+            "text": "Utczáin gyászruhába öltöznek, házfedelein és piaczain jajgat minden, és könyekben olvad el! "
+        },
+        {
+            "chapter": 15,
+            "verse": 4,
+            "name": "Isaiah 15:4",
+            "text": "És kiált Hesbon és Eleálé, szavok Jáháczig hallatik; ezért ordítanak Moáb vitézei, és lelke reszket. "
+        },
+        {
+            "chapter": 15,
+            "verse": 5,
+            "name": "Isaiah 15:5",
+            "text": "Szívem kiált Moábért, a melynek végvárai Zoárig, a három éves üszőig nyúltanak; mert Luhith hágóján sírással mennek fel, és mert Horonaim útján romlásuknak kiáltását hallatják. "
+        },
+        {
+            "chapter": 15,
+            "verse": 6,
+            "name": "Isaiah 15:6",
+            "text": "Mert Nimrim vizei pusztasággá lesznek, mert elszáradt a pázsit, elfogyott a fű, és semmi zöld nem lészen. "
+        },
+        {
+            "chapter": 15,
+            "verse": 7,
+            "name": "Isaiah 15:7",
+            "text": "Ezért a mit megmenthettek és jószágukat a fűzfáknak patakja mellé hordják. "
+        },
+        {
+            "chapter": 15,
+            "verse": 8,
+            "name": "Isaiah 15:8",
+            "text": "Mert kiáltás zengé körül Moáb határát, jajgatása Eglaimig, és Beér-Élimig hallatik jajgatása! "
+        },
+        {
+            "chapter": 15,
+            "verse": 9,
+            "name": "Isaiah 15:9",
+            "text": "Mert Dimon vizei megteltek vérrel, mert új romlást hozok Dimonra: Moáb menekültjeire oroszlánt, és a földnek maradékira.  "
+        }
+    ]
+}

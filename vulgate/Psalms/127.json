@@ -1,0 +1,50 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 127,
+    "name": "Psalms 127",
+    "verses": [
+        {
+            "chapter": 127,
+            "verse": 1,
+            "name": "Psalms 127:1",
+            "text": "Canticum graduum.   Beati omnes qui timent Dominum,  qui ambulant in viis ejus. "
+        },
+        {
+            "chapter": 127,
+            "verse": 2,
+            "name": "Psalms 127:2",
+            "text": " Labores manuum tuarum quia manducabis :  beatus es, et bene tibi erit. "
+        },
+        {
+            "chapter": 127,
+            "verse": 3,
+            "name": "Psalms 127:3",
+            "text": " Uxor tua sicut vitis abundans  in lateribus domus tuæ ;  filii tui sicut novellæ olivarum  in circuitu mensæ tuæ. "
+        },
+        {
+            "chapter": 127,
+            "verse": 4,
+            "name": "Psalms 127:4",
+            "text": " Ecce sic benedicetur homo  qui timet Dominum. "
+        },
+        {
+            "chapter": 127,
+            "verse": 5,
+            "name": "Psalms 127:5",
+            "text": " Benedicat tibi Dominus ex Sion,  et videas bona Jerusalem omnibus diebus vitæ tuæ. "
+        },
+        {
+            "chapter": 127,
+            "verse": 6,
+            "name": "Psalms 127:6",
+            "text": " Et videas filios filiorum tuorum :  pacem super Israël.  "
+        }
+    ]
+}

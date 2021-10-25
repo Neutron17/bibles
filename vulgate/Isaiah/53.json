@@ -1,0 +1,86 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 23,
+    "book_name": "Isaiah",
+    "chapter": 53,
+    "name": "Isaiah 53",
+    "verses": [
+        {
+            "chapter": 53,
+            "verse": 1,
+            "name": "Isaiah 53:1",
+            "text": "Quis credidit auditui nostro ?  et brachium Domini cui revelatum est ? "
+        },
+        {
+            "chapter": 53,
+            "verse": 2,
+            "name": "Isaiah 53:2",
+            "text": " Et ascendet sicut virgultum coram eo,  et sicut radix de terra sitienti.  Non est species ei, neque decor,  et vidimus eum,  et non erat aspectus, et desideravimus eum : "
+        },
+        {
+            "chapter": 53,
+            "verse": 3,
+            "name": "Isaiah 53:3",
+            "text": " despectum, et novissimum virorum,  virum dolorum, et scientem infirmitatem,  et quasi absconditus vultus ejus et despectus,  unde nec reputavimus eum. "
+        },
+        {
+            "chapter": 53,
+            "verse": 4,
+            "name": "Isaiah 53:4",
+            "text": " Vere languores nostros ipse tulit,  et dolores nostros ipse portavit ;  et nos putavimus eum quasi leprosum,  et percussum a Deo, et humiliatum. "
+        },
+        {
+            "chapter": 53,
+            "verse": 5,
+            "name": "Isaiah 53:5",
+            "text": " Ipse autem vulneratus est propter iniquitates nostras ;  attritus est propter scelera nostra :  disciplina pacis nostræ super eum,  et livore ejus sanati sumus. "
+        },
+        {
+            "chapter": 53,
+            "verse": 6,
+            "name": "Isaiah 53:6",
+            "text": " Omnes nos quasi oves erravimus,  unusquisque in viam suam declinavit :  et posuit Dominus in eo  iniquitatem omnium nostrum. "
+        },
+        {
+            "chapter": 53,
+            "verse": 7,
+            "name": "Isaiah 53:7",
+            "text": " Oblatus est quia ipse voluit,  et non aperuit os suum ;  sicut ovis ad occisionem ducetur,  et quasi agnus coram tondente se obmutescet,  et non aperiet os suum. "
+        },
+        {
+            "chapter": 53,
+            "verse": 8,
+            "name": "Isaiah 53:8",
+            "text": " De angustia, et de judicio sublatus est.  Generationem ejus quis enarrabit ?  quia abscissus est de terra viventium :  propter scelus populi mei percussi eum. "
+        },
+        {
+            "chapter": 53,
+            "verse": 9,
+            "name": "Isaiah 53:9",
+            "text": " Et dabit impios pro sepultura,  et divitem pro morte sua,  eo quod iniquitatem non fecerit,  neque dolus fuerit in ore ejus. "
+        },
+        {
+            "chapter": 53,
+            "verse": 10,
+            "name": "Isaiah 53:10",
+            "text": " Et Dominus voluit conterere eum in infirmitate.  Si posuerit pro peccato animam suam,  videbit semen longævum,  et voluntas Domini in manu ejus dirigetur. "
+        },
+        {
+            "chapter": 53,
+            "verse": 11,
+            "name": "Isaiah 53:11",
+            "text": " Pro eo quod laboravit anima ejus,  videbit et saturabitur.  In scientia sua justificabit  ipse justus servus meus multos,  et iniquitates eorum ipse portabit. "
+        },
+        {
+            "chapter": 53,
+            "verse": 12,
+            "name": "Isaiah 53:12",
+            "text": " Ideo dispertiam ei plurimos,  et fortium dividet spolia,  pro eo quod tradidit in mortem animam suam,  et cum sceleratis reputatus est,  et ipse peccata multorum tulit,  et pro transgressoribus rogavit.  "
+        }
+    ]
+}

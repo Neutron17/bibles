@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 22,
+    "book_name": "Song of Songs",
+    "chapter": 7,
+    "name": "Song of Songs 7",
+    "verses": [
+        {
+            "chapter": 7,
+            "verse": 1,
+            "name": "Song of Songs 7:1",
+            "text": "Quid videbis in Sulamite, nisi choros castrorum ?     Quam pulchri sunt gressus tui in calceamentis, filia principis !  Juncturæ femorum tuorum sicut monilia  quæ fabricata sunt manu artificis. "
+        },
+        {
+            "chapter": 7,
+            "verse": 2,
+            "name": "Song of Songs 7:2",
+            "text": " Umbilicus tuus crater tornatilis,  numquam indigens poculis.  Venter tuus sicut acervus tritici vallatus liliis. "
+        },
+        {
+            "chapter": 7,
+            "verse": 3,
+            "name": "Song of Songs 7:3",
+            "text": " Duo ubera tua sicut duo hinnuli,  gemelli capreæ. "
+        },
+        {
+            "chapter": 7,
+            "verse": 4,
+            "name": "Song of Songs 7:4",
+            "text": " Collum tuum sicut turris eburnea ;  oculi tui sicut piscinæ in Hesebon  quæ sunt in porta filiæ multitudinis.  Nasus tuus sicut turris Libani,  quæ respicit contra Damascum. "
+        },
+        {
+            "chapter": 7,
+            "verse": 5,
+            "name": "Song of Songs 7:5",
+            "text": " Caput tuum ut Carmelus ;  et comæ capitis tui sicut purpura regis  vincta canalibus.   "
+        },
+        {
+            "chapter": 7,
+            "verse": 6,
+            "name": "Song of Songs 7:6",
+            "text": "   Quam pulchra es, et quam decora,  carissima, in deliciis ! "
+        },
+        {
+            "chapter": 7,
+            "verse": 7,
+            "name": "Song of Songs 7:7",
+            "text": " Statura tua assimilata est palmæ,  et ubera tua botris. "
+        },
+        {
+            "chapter": 7,
+            "verse": 8,
+            "name": "Song of Songs 7:8",
+            "text": " Dixi : Ascendam in palmam,  et apprehendam fructus ejus ;  et erunt ubera tua sicut botri vineæ,  et odor oris tui sicut malorum. "
+        },
+        {
+            "chapter": 7,
+            "verse": 9,
+            "name": "Song of Songs 7:9",
+            "text": " Guttur tuum sicut vinum optimum,  dignum dilecto meo ad potandum,  labiisque et dentibus illius ad ruminandum.   "
+        },
+        {
+            "chapter": 7,
+            "verse": 10,
+            "name": "Song of Songs 7:10",
+            "text": "   Ego dilecto meo,  et ad me conversio ejus. "
+        },
+        {
+            "chapter": 7,
+            "verse": 11,
+            "name": "Song of Songs 7:11",
+            "text": " Veni, dilecte mi, egrediamur in agrum,  commoremur in villis. "
+        },
+        {
+            "chapter": 7,
+            "verse": 12,
+            "name": "Song of Songs 7:12",
+            "text": " Mane surgamus ad vineas :  videamus si floruit vinea,  si flores fructus parturiunt,  si floruerunt mala punica ;  ibi dabo tibi ubera mea. "
+        },
+        {
+            "chapter": 7,
+            "verse": 13,
+            "name": "Song of Songs 7:13",
+            "text": " Mandragoræ dederunt odorem  in portis nostris omnia poma :  nova et vetera, dilecte mi, servavi tibi.  "
+        }
+    ]
+}

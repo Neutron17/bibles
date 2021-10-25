@@ -1,0 +1,350 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 33,
+    "name": "Numbers 33",
+    "verses": [
+        {
+            "chapter": 33,
+            "verse": 1,
+            "name": "Numbers 33:1",
+            "text": "Hæ sunt mansiones filiorum Israël, qui egressi sunt de Ægypto per turmas suas in manu Moysi et Aaron, "
+        },
+        {
+            "chapter": 33,
+            "verse": 2,
+            "name": "Numbers 33:2",
+            "text": "quas descripsit Moyses juxta castrorum loca, quæ Domini jussione mutabant. "
+        },
+        {
+            "chapter": 33,
+            "verse": 3,
+            "name": "Numbers 33:3",
+            "text": "Profecti igitur de Ramesse mense primo, quintadecima die mensis primi, altera die Phase, filii Israël in manu excelsa, videntibus cunctis Ægyptiis, "
+        },
+        {
+            "chapter": 33,
+            "verse": 4,
+            "name": "Numbers 33:4",
+            "text": "et sepelientibus primogenitos, quos percusserat Dominus (nam et in diis eorum exercuerat ultionem), "
+        },
+        {
+            "chapter": 33,
+            "verse": 5,
+            "name": "Numbers 33:5",
+            "text": "castrametati sunt in Soccoth. "
+        },
+        {
+            "chapter": 33,
+            "verse": 6,
+            "name": "Numbers 33:6",
+            "text": "Et de Soccoth venerunt in Etham, quæ est in extremis finibus solitudinis. "
+        },
+        {
+            "chapter": 33,
+            "verse": 7,
+            "name": "Numbers 33:7",
+            "text": "Inde egressi venerunt contra Phihahiroth, quæ respicit Beelsephon, et castrametati sunt ante Magdalum. "
+        },
+        {
+            "chapter": 33,
+            "verse": 8,
+            "name": "Numbers 33:8",
+            "text": "Profectique de Phihahiroth, transierunt per medium mare in solitudinem : et ambulantes tribus diebus per desertum Etham, castrametati sunt in Mara. "
+        },
+        {
+            "chapter": 33,
+            "verse": 9,
+            "name": "Numbers 33:9",
+            "text": "Profectique de Mara, venerunt in Elim, ubi erant duodecim fontes aquarum, et palmæ septuaginta : ibique castrametati sunt. "
+        },
+        {
+            "chapter": 33,
+            "verse": 10,
+            "name": "Numbers 33:10",
+            "text": "Sed et inde egressi, fixerunt tentoria super mare Rubrum. Profectique de mari Rubro, "
+        },
+        {
+            "chapter": 33,
+            "verse": 11,
+            "name": "Numbers 33:11",
+            "text": "castrametati sunt in deserto Sin. "
+        },
+        {
+            "chapter": 33,
+            "verse": 12,
+            "name": "Numbers 33:12",
+            "text": "Unde egressi, venerunt in Daphca. "
+        },
+        {
+            "chapter": 33,
+            "verse": 13,
+            "name": "Numbers 33:13",
+            "text": "Profectique de Daphca, castrametati sunt in Alus. "
+        },
+        {
+            "chapter": 33,
+            "verse": 14,
+            "name": "Numbers 33:14",
+            "text": "Egressique de Alus, in Raphidim fixere tentoria, ubi populo defuit aqua ad bibendum. "
+        },
+        {
+            "chapter": 33,
+            "verse": 15,
+            "name": "Numbers 33:15",
+            "text": "Profectique de Raphidim, castrametati sunt in deserto Sinai. "
+        },
+        {
+            "chapter": 33,
+            "verse": 16,
+            "name": "Numbers 33:16",
+            "text": "Sed et de solitudine Sinai egressi, venerunt ad sepulchra concupiscentiæ. "
+        },
+        {
+            "chapter": 33,
+            "verse": 17,
+            "name": "Numbers 33:17",
+            "text": "Profectique de sepulchris concupiscentiæ, castrametati sunt in Haseroth. "
+        },
+        {
+            "chapter": 33,
+            "verse": 18,
+            "name": "Numbers 33:18",
+            "text": "Et de Haseroth venerunt in Rethma. "
+        },
+        {
+            "chapter": 33,
+            "verse": 19,
+            "name": "Numbers 33:19",
+            "text": "Profectique de Rethma, castrametati sunt in Remmomphares. "
+        },
+        {
+            "chapter": 33,
+            "verse": 20,
+            "name": "Numbers 33:20",
+            "text": "Unde egressi venerunt in Lebna. "
+        },
+        {
+            "chapter": 33,
+            "verse": 21,
+            "name": "Numbers 33:21",
+            "text": "De Lebna castrametati sunt in Ressa. "
+        },
+        {
+            "chapter": 33,
+            "verse": 22,
+            "name": "Numbers 33:22",
+            "text": "Egressique de Ressa, venerunt in Ceelatha. "
+        },
+        {
+            "chapter": 33,
+            "verse": 23,
+            "name": "Numbers 33:23",
+            "text": "Unde profecti, castrametati sunt in monte Sepher. "
+        },
+        {
+            "chapter": 33,
+            "verse": 24,
+            "name": "Numbers 33:24",
+            "text": "Egressi de monte Sepher, venerunt in Arada. "
+        },
+        {
+            "chapter": 33,
+            "verse": 25,
+            "name": "Numbers 33:25",
+            "text": "Inde proficiscentes, castrametati sunt in Maceloth. "
+        },
+        {
+            "chapter": 33,
+            "verse": 26,
+            "name": "Numbers 33:26",
+            "text": "Profectique de Maceloth, venerunt in Thahath. "
+        },
+        {
+            "chapter": 33,
+            "verse": 27,
+            "name": "Numbers 33:27",
+            "text": "De Thahath, castrametati sunt in Thare. "
+        },
+        {
+            "chapter": 33,
+            "verse": 28,
+            "name": "Numbers 33:28",
+            "text": "Unde egressi, fixere tentoria in Methca. "
+        },
+        {
+            "chapter": 33,
+            "verse": 29,
+            "name": "Numbers 33:29",
+            "text": "Et de Methca, castrametati sunt in Hesmona. "
+        },
+        {
+            "chapter": 33,
+            "verse": 30,
+            "name": "Numbers 33:30",
+            "text": "Profectique de Hesmona, venerunt in Moseroth. "
+        },
+        {
+            "chapter": 33,
+            "verse": 31,
+            "name": "Numbers 33:31",
+            "text": "Et de Moseroth, castrametati sunt in Benejaacan. "
+        },
+        {
+            "chapter": 33,
+            "verse": 32,
+            "name": "Numbers 33:32",
+            "text": "Profectique de Benejaacan, venerunt in montem Gadgad. "
+        },
+        {
+            "chapter": 33,
+            "verse": 33,
+            "name": "Numbers 33:33",
+            "text": "Unde profecti, castrametati sunt in Jetebatha. "
+        },
+        {
+            "chapter": 33,
+            "verse": 34,
+            "name": "Numbers 33:34",
+            "text": "Et de Jetebatha venerunt in Hebrona. "
+        },
+        {
+            "chapter": 33,
+            "verse": 35,
+            "name": "Numbers 33:35",
+            "text": "Egressique de Hebrona, castrametati sunt in Asiongaber. "
+        },
+        {
+            "chapter": 33,
+            "verse": 36,
+            "name": "Numbers 33:36",
+            "text": "Inde profecti, venerunt in desertum Sin, hæc est Cades. "
+        },
+        {
+            "chapter": 33,
+            "verse": 37,
+            "name": "Numbers 33:37",
+            "text": "Egressique de Cades, castrametati sunt in monte Hor, in extremis finibus terræ Edom. "
+        },
+        {
+            "chapter": 33,
+            "verse": 38,
+            "name": "Numbers 33:38",
+            "text": "Ascenditque Aaron sacerdos in montem Hor jubente Domino : et ibi mortuus est anno quadragesimo egressionis filiorum Israël ex Ægypto, mense quinto, prima die mensis, "
+        },
+        {
+            "chapter": 33,
+            "verse": 39,
+            "name": "Numbers 33:39",
+            "text": "cum esset annorum centum viginti trium. "
+        },
+        {
+            "chapter": 33,
+            "verse": 40,
+            "name": "Numbers 33:40",
+            "text": "Audivitque Chananæus rex Arad, qui habitabat ad meridiem, in terram Chanaan venisse filios Israël. "
+        },
+        {
+            "chapter": 33,
+            "verse": 41,
+            "name": "Numbers 33:41",
+            "text": "Et profecti de monte Hor, castrametati sunt in Salmona. "
+        },
+        {
+            "chapter": 33,
+            "verse": 42,
+            "name": "Numbers 33:42",
+            "text": "Unde egressi, venerunt in Phunon. "
+        },
+        {
+            "chapter": 33,
+            "verse": 43,
+            "name": "Numbers 33:43",
+            "text": "Profectique de Phunon, castrametati sunt in Oboth. "
+        },
+        {
+            "chapter": 33,
+            "verse": 44,
+            "name": "Numbers 33:44",
+            "text": "Et de Oboth venerunt in Ijeabarim, quæ est in finibus Moabitarum. "
+        },
+        {
+            "chapter": 33,
+            "verse": 45,
+            "name": "Numbers 33:45",
+            "text": "Profectique de Ijeabarim, fixere tentoria in Dibongad. "
+        },
+        {
+            "chapter": 33,
+            "verse": 46,
+            "name": "Numbers 33:46",
+            "text": "Unde egressi, castrametati sunt in Helmondeblathaim. "
+        },
+        {
+            "chapter": 33,
+            "verse": 47,
+            "name": "Numbers 33:47",
+            "text": "Egressique de Helmondeblathaim, venerunt ad montes Abarim contra Nabo. "
+        },
+        {
+            "chapter": 33,
+            "verse": 48,
+            "name": "Numbers 33:48",
+            "text": "Profectique de montibus Abarim, transierunt ad campestria Moab, supra Jordanem, contra Jericho. "
+        },
+        {
+            "chapter": 33,
+            "verse": 49,
+            "name": "Numbers 33:49",
+            "text": "Ibique castrametati sunt de Bethsimoth usque ad Abelsatim in planioribus locis Moabitarum.  "
+        },
+        {
+            "chapter": 33,
+            "verse": 50,
+            "name": "Numbers 33:50",
+            "text": " Ubi locutus est Dominus ad Moysen : "
+        },
+        {
+            "chapter": 33,
+            "verse": 51,
+            "name": "Numbers 33:51",
+            "text": "Præcipe filiis Israël, et dic ad eos : Quando transieritis Jordanem, intrantes terram Chanaan, "
+        },
+        {
+            "chapter": 33,
+            "verse": 52,
+            "name": "Numbers 33:52",
+            "text": "disperdite cunctos habitatores terræ illius : confringite titulos, et statuas comminuite, atque omnia excelsa vastate, "
+        },
+        {
+            "chapter": 33,
+            "verse": 53,
+            "name": "Numbers 33:53",
+            "text": "mundantes terram, et habitantes in ea. Ego enim dedi vobis illam in possessionem, "
+        },
+        {
+            "chapter": 33,
+            "verse": 54,
+            "name": "Numbers 33:54",
+            "text": "quam dividetis vobis sorte. Pluribus dabitis latiorem, et paucis angustiorem. Singulis ut sors ceciderit, ita tribuetur hæreditas. Per tribus et familias possessio dividetur. "
+        },
+        {
+            "chapter": 33,
+            "verse": 55,
+            "name": "Numbers 33:55",
+            "text": "Sin autem nolueritis interficere habitatores terræ : qui remanserint, erunt vobis quasi clavi in oculis, et lanceæ in lateribus, et adversabuntur vobis in terra habitationis vestræ : "
+        },
+        {
+            "chapter": 33,
+            "verse": 56,
+            "name": "Numbers 33:56",
+            "text": "et quidquid illis cogitaveram facere, vobis faciam.   "
+        }
+    ]
+}

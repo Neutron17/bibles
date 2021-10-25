@@ -1,0 +1,278 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 3,
+    "book_name": "Leviticus",
+    "chapter": 23,
+    "name": "Leviticus 23",
+    "verses": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "name": "Leviticus 23:1",
+            "text": " Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "name": "Leviticus 23:2",
+            "text": "Szólj Izráel fiainak, és mondd meg nékik az Úrnak ünnepeit, a melyeken szent gyülekezésekre kell összegyülekeznetek. Ezek azok az én ünnepeim:"
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "name": "Leviticus 23:3",
+            "text": "Hat napon át munkálkodjatok, a hetedik napon nyugodalomnak, szent gyülekezésnek szombatja van, semmi dolgot ne végezzetek: az Úrnak szombatja legyen az minden lakhelyeteken. "
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "name": "Leviticus 23:4",
+            "text": "Ezek az Úrnak ünnepei, szent gyülekezések napjai, a melyekre szabott idejökben kell összegyülekeznetek."
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "name": "Leviticus 23:5",
+            "text": "Az első hónapban, a hónapnak tizennegyedikén, estennen az Úrnak páskhája."
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "name": "Leviticus 23:6",
+            "text": "E hónapnak tizenötödik napján pedig az Úr kovásztalan kenyerének ünnepe. Hét napig egyetek kovásztalan kenyeret."
+        },
+        {
+            "chapter": 23,
+            "verse": 7,
+            "name": "Leviticus 23:7",
+            "text": "Az első napon szent gyülekezéstek legyen, semmi robota munkát ne végezzetek."
+        },
+        {
+            "chapter": 23,
+            "verse": 8,
+            "name": "Leviticus 23:8",
+            "text": "Hét napon át pedig tűzáldozatot áldozzatok az Úrnak, és a hetedik napon szent gyülekezéstek is legyen: semmi robota munkát ne végezzetek."
+        },
+        {
+            "chapter": 23,
+            "verse": 9,
+            "name": "Leviticus 23:9",
+            "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 23,
+            "verse": 10,
+            "name": "Leviticus 23:10",
+            "text": "Szólj Izráel fiainak és mondd meg nékik: Mikor bementek a földre, a melyet én adok néktek, és megaratjátok annak vetését: a ti aratástok zsengéjének első kévéjét vigyétek a papnak."
+        },
+        {
+            "chapter": 23,
+            "verse": 11,
+            "name": "Leviticus 23:11",
+            "text": "Az pedig lóbálja meg a kévét az Úr előtt, hogy kedvesen fogadtassék érettetek; a szombat után való napon lóbálja azt meg a pap."
+        },
+        {
+            "chapter": 23,
+            "verse": 12,
+            "name": "Leviticus 23:12",
+            "text": "A mely napon pedig meglóbáltatjátok a kévét, áldozzatok az Úrnak egy ép, esztendős bárányt egészen égőáldozatul."
+        },
+        {
+            "chapter": 23,
+            "verse": 13,
+            "name": "Leviticus 23:13",
+            "text": "Ahhoz pedig ételáldozatul két tized efa lánglisztet, olajjal elegyítve; tűzáldozatul az Úrnak, kedves illatul; italáldozatul pedig egy hin bornak negyedrészét."
+        },
+        {
+            "chapter": 23,
+            "verse": 14,
+            "name": "Leviticus 23:14",
+            "text": "Új kenyeret pedig és pergelt búzaszemeket és zsenge kalászokat ne egyetek mind a napig, a míg be nem viszitek a ti Isteneteknek áldozatját. Örök rendtartás ez nemzetségről nemzetségre minden lakóhelyeteken. "
+        },
+        {
+            "chapter": 23,
+            "verse": 15,
+            "name": "Leviticus 23:15",
+            "text": " Számláljatok azután a szombatra következő naptól, attól a naptól, a melyen beviszitek a meglóbálni való kévét, hét hetet, egészek legyenek azok."
+        },
+        {
+            "chapter": 23,
+            "verse": 16,
+            "name": "Leviticus 23:16",
+            "text": "A hetedik hétre következő napig számláljatok ötven napot, és akkor járuljatok új ételáldozattal az Úrhoz."
+        },
+        {
+            "chapter": 23,
+            "verse": 17,
+            "name": "Leviticus 23:17",
+            "text": "A ti lakóhelyeitekből hozzatok fel két meglóbálni való kenyeret; két tized efa lisztlángból legyenek azok, kovászszal sütve, zsengékül az Úrnak. "
+        },
+        {
+            "chapter": 23,
+            "verse": 18,
+            "name": "Leviticus 23:18",
+            "text": "A kenyérrel együtt pedig áldozzatok meg hét bárányt, épeket, esztendősöket, és egy tulkot, fiatal bikát, és két kost; egészen égőáldozatul legyenek ezek az Úrnak, étel- és italáldozatjokkal egybe; kedves illatú tűzáldozat ez az Úrnak."
+        },
+        {
+            "chapter": 23,
+            "verse": 19,
+            "name": "Leviticus 23:19",
+            "text": "Készítsetek el egy kecskebakot is bűnért való áldozatul, és két bárányt, esztendősöket, hálaadó áldozatul."
+        },
+        {
+            "chapter": 23,
+            "verse": 20,
+            "name": "Leviticus 23:20",
+            "text": "És lóbálja meg azokat a pap a zsengékből való kenyérrel az Úr előtt való lóbálással a két báránynyal egybe. Szentek legyenek ezek az Úrnak a pap számára."
+        },
+        {
+            "chapter": 23,
+            "verse": 21,
+            "name": "Leviticus 23:21",
+            "text": "És gyülekezzetek egybe ugyanazon a napon; szent gyülekezéstek legyen néktek, semmi robota munkát ne végezzetek. Örök rendtartás ez minden lakóhelyeteken a ti nemzetségeitek szerint."
+        },
+        {
+            "chapter": 23,
+            "verse": 22,
+            "name": "Leviticus 23:22",
+            "text": "Mikor pedig földetek termését learatjátok: ne arasd le egészen a meződnek széleit, és az elhullott gabonafejeket fel ne szedd; a szegénynek és jövevénynek hagyd azokat. Én vagyok az Úr, a ti Istenetek.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 23,
+            "name": "Leviticus 23:23",
+            "text": " Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 23,
+            "verse": 24,
+            "name": "Leviticus 23:24",
+            "text": "Szólj Izráel fiaihoz, mondván: A hetedik hónapban, a hónap első napján ünnepetek legyen néktek, emlékeztető kürtzengéssel, szent gyülekezéssel. "
+        },
+        {
+            "chapter": 23,
+            "verse": 25,
+            "name": "Leviticus 23:25",
+            "text": "Semmi robota munkát ne végezzetek, és tűzáldozattal áldozzatok az Úrnak. "
+        },
+        {
+            "chapter": 23,
+            "verse": 26,
+            "name": "Leviticus 23:26",
+            "text": " Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 23,
+            "verse": 27,
+            "name": "Leviticus 23:27",
+            "text": "Ugyanennek a hetedik hónapnak tizedikén az engesztelés napja van: szent gyülekezéstek legyen néktek, és sanyargassátok meg magatokat, és tűzáldozattal áldozzatok az Úrnak. "
+        },
+        {
+            "chapter": 23,
+            "verse": 28,
+            "name": "Leviticus 23:28",
+            "text": "Semmi dolgot ne végezzetek azon a napon, mert engesztelésnek napja az, hogy engesztelés legyen érettetek az Úr előtt, a ti Istenetek előtt."
+        },
+        {
+            "chapter": 23,
+            "verse": 29,
+            "name": "Leviticus 23:29",
+            "text": "Mert ha valaki nem sanyargatja meg magát ezen a napon, irtassék ki az ő népe közül."
+        },
+        {
+            "chapter": 23,
+            "verse": 30,
+            "name": "Leviticus 23:30",
+            "text": "És ha valaki valami dolgot végez ezen a napon, elvesztem az ilyent az ő népe közül."
+        },
+        {
+            "chapter": 23,
+            "verse": 31,
+            "name": "Leviticus 23:31",
+            "text": "Semmi dolgot ne végezzetek; örök rendtartás legyen ez nemzetségről nemzetségre minden lakhelyeteken."
+        },
+        {
+            "chapter": 23,
+            "verse": 32,
+            "name": "Leviticus 23:32",
+            "text": "Ünnepek ünnepe ez néktek, sanyargassátok meg azért magatokat. A hónap kilenczedikének estvéjén, egyik estvétől a másik estvéig ünnepeljétek a ti ünnepeteket. "
+        },
+        {
+            "chapter": 23,
+            "verse": 33,
+            "name": "Leviticus 23:33",
+            "text": " Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 23,
+            "verse": 34,
+            "name": "Leviticus 23:34",
+            "text": "Szólj Izráel fiainak, mondván: Ugyanennek a hetedik hónapnak tizenötödikén a sátorok ünnepe legyen az Úrnak hét napig. "
+        },
+        {
+            "chapter": 23,
+            "verse": 35,
+            "name": "Leviticus 23:35",
+            "text": "Az első napon szent gyülekezés legyen, semmi robota munkát ne végezzetek."
+        },
+        {
+            "chapter": 23,
+            "verse": 36,
+            "name": "Leviticus 23:36",
+            "text": "Hét napon áldozzatok az Úrnak tűzáldozatot, a nyolczadik napon pedig szent gyülekezéstek legyen és újra tűzáldozattal áldozzatok az Úrnak; berekesztő ünnep ez, semmi robota munkát ne végezzetek azon. "
+        },
+        {
+            "chapter": 23,
+            "verse": 37,
+            "name": "Leviticus 23:37",
+            "text": "Ezek az Úrnak ünnepei, a melyeken szent gyülekezésekre kell gyülekeznetek, hogy áldozzatok az Úrnak tűzáldozattal, egészen égőáldozattal, ételáldozattal, véres- és italáldozattal: minden napét a maga napján."
+        },
+        {
+            "chapter": 23,
+            "verse": 38,
+            "name": "Leviticus 23:38",
+            "text": "Az Úrnak szombatjain kivül, adományaitokon kivül, fogadásból és szabad akaratból való minden ajándékaitokon kivül a melyeket adni szoktatok az Úrnak,"
+        },
+        {
+            "chapter": 23,
+            "verse": 39,
+            "name": "Leviticus 23:39",
+            "text": "Ugyancsak a hetedik hónapnak tizenötödik napján, a mikor a földnek termését betakarjátok, az Úrnak ünnepét ünnepeljétek hét napig: az első napon nyugodalom napja, és a nyolczadik napon is nyugodalom napja legyen."
+        },
+        {
+            "chapter": 23,
+            "verse": 40,
+            "name": "Leviticus 23:40",
+            "text": "És vegyetek magatoknak az első napon szép fának gyümölcsét, pálmafa ágait, sűrű levelű fa lombját, és patak mellett való fűzgalyakat, és örvendezzetek az Úr előtt, a ti Istenetek előtt hét napig."
+        },
+        {
+            "chapter": 23,
+            "verse": 41,
+            "name": "Leviticus 23:41",
+            "text": "Így ünnepeljétek meg azt az Úrnak ünnepét minden esztendőben hét napig. Örökkévaló rendtartás legyen ez a ti nemzetségeiteknél; a hetedik hónapban ünnepeljétek azt."
+        },
+        {
+            "chapter": 23,
+            "verse": 42,
+            "name": "Leviticus 23:42",
+            "text": "Sátorokban lakjatok hét napig, minden benszülött sátorokban lakjék Izráelben."
+        },
+        {
+            "chapter": 23,
+            "verse": 43,
+            "name": "Leviticus 23:43",
+            "text": "Hogy megtudják a ti nemzetségeitek, hogy sátorokban lakattam Izráel fiait, a mikor kihoztam őket Égyiptom földéről. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+            "chapter": 23,
+            "verse": 44,
+            "name": "Leviticus 23:44",
+            "text": "És szóla Mózes Izráel fiainak az Úrnak ünnepei felől.  "
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 46,
+    "book_name": "1 Corinthians",
+    "chapter": 8,
+    "name": "1 Corinthians 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "1 Corinthians 8:1",
+            "text": "De iis autem quæ idolis sacrificantur, scimus quia omnes scientiam habemus. Scientia inflat, caritas vero ædificat. "
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "1 Corinthians 8:2",
+            "text": "Si quis autem se existimat scire aliquid, nondum cognovit quemadmodum oporteat eum scire. "
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "1 Corinthians 8:3",
+            "text": "Si quis autem diligit Deum, hic cognitus est ab eo. "
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "1 Corinthians 8:4",
+            "text": "De escis autem quæ idolis immolantur, scimus quia nihil est idolum in mundo, et quod nullus est Deus, nisi unus. "
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "1 Corinthians 8:5",
+            "text": "Nam etsi sunt qui dicantur dii sive in cælo, sive in terra (siquidem sunt dii multi, et domini multi) : "
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "1 Corinthians 8:6",
+            "text": "nobis tamen unus est Deus, Pater, ex quo omnia, et nos in illum : et unus Dominus Jesus Christus, per quem omnia, et nos per ipsum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "1 Corinthians 8:7",
+            "text": "Sed non in omnibus est scientia. Quidam autem cum conscientia usque nunc idoli, quasi idolothytum manducant : et conscientia ipsorum cum sit infirma, polluitur. "
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "1 Corinthians 8:8",
+            "text": "Esca autem nos non commendat Deo. Neque enim si manducaverimus, abundabimus : neque si non manducaverimus, deficiemus. "
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "1 Corinthians 8:9",
+            "text": "Videte autem ne forte hæc licentia vestra offendiculum fiat infirmis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "name": "1 Corinthians 8:10",
+            "text": "Si enim quis viderit eum, qui habet scientiam, in idolio recumbentem : nonne conscientia ejus, cum sit infirma, ædificabitur ad manducandum idolothyta ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 11,
+            "name": "1 Corinthians 8:11",
+            "text": "Et peribit infirmus in tua scientia, frater, propter quem Christus mortuus est ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 12,
+            "name": "1 Corinthians 8:12",
+            "text": "Sic autem peccantes in fratres, et percutientes conscientiam eorum infirmam, in Christum peccatis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 13,
+            "name": "1 Corinthians 8:13",
+            "text": "Quapropter si esca scandalizat fratrem meum, non manducabo carnem in æternum, ne fratrem meum scandalizem.   "
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 142,
+    "name": "Psalms 142",
+    "verses": [
+        {
+            "chapter": 142,
+            "verse": 1,
+            "name": "Psalms 142:1",
+            "text": " Dávid tanítása; imádság a barlangban létekor. "
+        },
+        {
+            "chapter": 142,
+            "verse": 2,
+            "name": "Psalms 142:2",
+            "text": "Fenszóval hívom az Urat, fenszóval könyörgök az Úrhoz."
+        },
+        {
+            "chapter": 142,
+            "verse": 3,
+            "name": "Psalms 142:3",
+            "text": "Kiöntöm előtte panaszomat, kitárom előtte nyomorúságomat,"
+        },
+        {
+            "chapter": 142,
+            "verse": 4,
+            "name": "Psalms 142:4",
+            "text": "Mikor elcsügged bennem a lelkem. Te pedig tudod az én ösvényemet, hogy az úton, a melyen járok, tőrt hánytak elém. "
+        },
+        {
+            "chapter": 142,
+            "verse": 5,
+            "name": "Psalms 142:5",
+            "text": "Tekints jobbra és lásd meg, hogy senki sincsen, a ki ismerne; nincsen számomra menedék; senki sem tudakozódik felőlem."
+        },
+        {
+            "chapter": 142,
+            "verse": 6,
+            "name": "Psalms 142:6",
+            "text": "Hívlak téged, oh Uram; s ezt mondom: Te vagy oltalmam és örökségem az élőknek földén; "
+        },
+        {
+            "chapter": 142,
+            "verse": 7,
+            "name": "Psalms 142:7",
+            "text": "Figyelmezz esedezésemre, mert igen nyomorult vagyok! Szabadíts meg engem üldözőimtől, mert hatalmasabbak nálamnál! "
+        },
+        {
+            "chapter": 142,
+            "verse": 8,
+            "name": "Psalms 142:8",
+            "text": "Vezesd ki lelkemet a börtönből, hogy magasztaljam a te nevedet! Az igazak vegyenek engem körül, mikor jól teszel majd velem.  "
+        }
+    ]
+}

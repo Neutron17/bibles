@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 46,
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "name": "1 Corinthians 13",
+    "verses": [
+        {
+            "chapter": 13,
+            "verse": 1,
+            "name": "1 Corinthians 13:1",
+            "text": "Si linguis hominum loquar, et angelorum, caritatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens. "
+        },
+        {
+            "chapter": 13,
+            "verse": 2,
+            "name": "1 Corinthians 13:2",
+            "text": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam : et si habuero omnem fidem ita ut montes transferam, caritatem autem non habuero, nihil sum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 3,
+            "name": "1 Corinthians 13:3",
+            "text": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 4,
+            "name": "1 Corinthians 13:4",
+            "text": " Caritas patiens est, benigna est. Caritas non æmulatur, non agit perperam, non inflatur, "
+        },
+        {
+            "chapter": 13,
+            "verse": 5,
+            "name": "1 Corinthians 13:5",
+            "text": "non est ambitiosa, non quærit quæ sua sunt, non irritatur, non cogitat malum, "
+        },
+        {
+            "chapter": 13,
+            "verse": 6,
+            "name": "1 Corinthians 13:6",
+            "text": "non gaudet super iniquitate, congaudet autem veritati : "
+        },
+        {
+            "chapter": 13,
+            "verse": 7,
+            "name": "1 Corinthians 13:7",
+            "text": "omnia suffert, omnia credit, omnia sperat, omnia sustinet.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 8,
+            "name": "1 Corinthians 13:8",
+            "text": " Caritas numquam excidit : sive prophetiæ evacuabuntur, sive linguæ cessabunt, sive scientia destruetur. "
+        },
+        {
+            "chapter": 13,
+            "verse": 9,
+            "name": "1 Corinthians 13:9",
+            "text": "Ex parte enim cognoscimus, et ex parte prophetamus. "
+        },
+        {
+            "chapter": 13,
+            "verse": 10,
+            "name": "1 Corinthians 13:10",
+            "text": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est. "
+        },
+        {
+            "chapter": 13,
+            "verse": 11,
+            "name": "1 Corinthians 13:11",
+            "text": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli. "
+        },
+        {
+            "chapter": 13,
+            "verse": 12,
+            "name": "1 Corinthians 13:12",
+            "text": "Videmus nunc per speculum in ænigmate : tunc autem facie ad faciem. Nunc cognosco ex parte : tunc autem cognoscam sicut et cognitus sum. "
+        },
+        {
+            "chapter": 13,
+            "verse": 13,
+            "name": "1 Corinthians 13:13",
+            "text": "Nunc autem manent fides, spes, caritas, tria hæc : major autem horum est caritas.   "
+        }
+    ]
+}

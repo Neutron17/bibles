@@ -1,0 +1,56 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 119,
+    "name": "Psalms 119",
+    "verses": [
+        {
+            "chapter": 119,
+            "verse": 1,
+            "name": "Psalms 119:1",
+            "text": "Canticum graduum.   Ad Dominum cum tribularer clamavi,  et exaudivit me. "
+        },
+        {
+            "chapter": 119,
+            "verse": 2,
+            "name": "Psalms 119:2",
+            "text": " Domine, libera animam meam a labiis iniquis  et a lingua dolosa. "
+        },
+        {
+            "chapter": 119,
+            "verse": 3,
+            "name": "Psalms 119:3",
+            "text": " Quid detur tibi, aut quid apponatur tibi  ad linguam dolosam ? "
+        },
+        {
+            "chapter": 119,
+            "verse": 4,
+            "name": "Psalms 119:4",
+            "text": " Sagittæ potentis acutæ,  cum carbonibus desolatoriis. "
+        },
+        {
+            "chapter": 119,
+            "verse": 5,
+            "name": "Psalms 119:5",
+            "text": " Heu mihi, quia incolatus meus prolongatus est !  habitavi cum habitantibus Cedar ; "
+        },
+        {
+            "chapter": 119,
+            "verse": 6,
+            "name": "Psalms 119:6",
+            "text": " multum incola fuit anima mea. "
+        },
+        {
+            "chapter": 119,
+            "verse": 7,
+            "name": "Psalms 119:7",
+            "text": " Cum his qui oderunt pacem eram pacificus ;  cum loquebar illis, impugnabant me gratis.  "
+        }
+    ]
+}

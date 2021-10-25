@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 29,
+    "name": "Psalms 29",
+    "verses": [
+        {
+            "chapter": 29,
+            "verse": 1,
+            "name": "Psalms 29:1",
+            "text": "Psalmus cantici, in dedicatione domus David.  "
+        },
+        {
+            "chapter": 29,
+            "verse": 2,
+            "name": "Psalms 29:2",
+            "text": "  Exaltabo te, Domine, quoniam suscepisti me,  nec delectasti inimicos meos super me. "
+        },
+        {
+            "chapter": 29,
+            "verse": 3,
+            "name": "Psalms 29:3",
+            "text": " Domine Deus meus, clamavi ad te, et sanasti me. "
+        },
+        {
+            "chapter": 29,
+            "verse": 4,
+            "name": "Psalms 29:4",
+            "text": " Domine, eduxisti ab inferno animam meam ;  salvasti me a descendentibus in lacum. "
+        },
+        {
+            "chapter": 29,
+            "verse": 5,
+            "name": "Psalms 29:5",
+            "text": " Psallite Domino, sancti ejus ;  et confitemini memoriæ sanctitatis ejus. "
+        },
+        {
+            "chapter": 29,
+            "verse": 6,
+            "name": "Psalms 29:6",
+            "text": " Quoniam ira in indignatione ejus,  et vita in voluntate ejus :  ad vesperum demorabitur fletus,  et ad matutinum lætitia. "
+        },
+        {
+            "chapter": 29,
+            "verse": 7,
+            "name": "Psalms 29:7",
+            "text": " Ego autem dixi in abundantia mea :  Non movebor in æternum. "
+        },
+        {
+            "chapter": 29,
+            "verse": 8,
+            "name": "Psalms 29:8",
+            "text": " Domine, in voluntate tua præstitisti decori meo virtutem ;  avertisti faciem tuam a me, et factus sum conturbatus. "
+        },
+        {
+            "chapter": 29,
+            "verse": 9,
+            "name": "Psalms 29:9",
+            "text": " Ad te, Domine, clamabo,  et ad Deum meum deprecabor. "
+        },
+        {
+            "chapter": 29,
+            "verse": 10,
+            "name": "Psalms 29:10",
+            "text": " Quæ utilitas in sanguine meo,  dum descendo in corruptionem ?  numquid confitebitur tibi pulvis,  aut annuntiabit veritatem tuam ? "
+        },
+        {
+            "chapter": 29,
+            "verse": 11,
+            "name": "Psalms 29:11",
+            "text": " Audivit Dominus, et misertus est mei ;  Dominus factus est adjutor meus. "
+        },
+        {
+            "chapter": 29,
+            "verse": 12,
+            "name": "Psalms 29:12",
+            "text": " Convertisti planctum meum in gaudium mihi ;  conscidisti saccum meum, et circumdedisti me lætitia : "
+        },
+        {
+            "chapter": 29,
+            "verse": 13,
+            "name": "Psalms 29:13",
+            "text": " ut cantet tibi gloria mea, et non compungar.  Domine Deus meus, in æternum confitebor tibi.  "
+        }
+    ]
+}

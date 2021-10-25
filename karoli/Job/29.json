@@ -1,0 +1,164 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 18,
+    "book_name": "Job",
+    "chapter": 29,
+    "name": "Job 29",
+    "verses": [
+        {
+            "chapter": 29,
+            "verse": 1,
+            "name": "Job 29:1",
+            "text": " Jób pedig folytatá az ő beszédét, és monda:"
+        },
+        {
+            "chapter": 29,
+            "verse": 2,
+            "name": "Job 29:2",
+            "text": "Oh, vajha olyan volnék, mint a hajdani hónapokban, a mikor Isten őrzött engem! "
+        },
+        {
+            "chapter": 29,
+            "verse": 3,
+            "name": "Job 29:3",
+            "text": "Mikor az ő szövétneke fénylett fejem fölött, s világánál jártam a setétet; "
+        },
+        {
+            "chapter": 29,
+            "verse": 4,
+            "name": "Job 29:4",
+            "text": "A mint java-korom napjaiban valék, a mikor Isten gondossága borult sátoromra! "
+        },
+        {
+            "chapter": 29,
+            "verse": 5,
+            "name": "Job 29:5",
+            "text": "Mikor még a Mindenható velem volt, és körültem voltak gyermekeim; "
+        },
+        {
+            "chapter": 29,
+            "verse": 6,
+            "name": "Job 29:6",
+            "text": "Mikor lábaimat édes tejben mostam, és mellettem a szikla olajpatakokat ontott; "
+        },
+        {
+            "chapter": 29,
+            "verse": 7,
+            "name": "Job 29:7",
+            "text": "Mikor a kapuhoz mentem, fel a városon; a köztéren székemet fölállítám: "
+        },
+        {
+            "chapter": 29,
+            "verse": 8,
+            "name": "Job 29:8",
+            "text": "Ha megláttak az ifjak, félrevonultak, az öregek is fölkeltek és állottak. "
+        },
+        {
+            "chapter": 29,
+            "verse": 9,
+            "name": "Job 29:9",
+            "text": "A fejedelmek abbahagyták a beszédet, és tenyeröket szájukra tették. "
+        },
+        {
+            "chapter": 29,
+            "verse": 10,
+            "name": "Job 29:10",
+            "text": "A főemberek szava elnémult, és nyelvök az ínyökhöz ragadt. "
+        },
+        {
+            "chapter": 29,
+            "verse": 11,
+            "name": "Job 29:11",
+            "text": "Mert a mely fül hallott, boldognak mondott engem, és a mely szem látott, bizonyságot tett én felőlem. "
+        },
+        {
+            "chapter": 29,
+            "verse": 12,
+            "name": "Job 29:12",
+            "text": "Mert megmentém a kiáltozó szegényt, és az árvát, a kinek nem volt segítsége. "
+        },
+        {
+            "chapter": 29,
+            "verse": 13,
+            "name": "Job 29:13",
+            "text": "A veszni indultnak áldása szállt reám, az özvegynek szívét megörvendeztetém. "
+        },
+        {
+            "chapter": 29,
+            "verse": 14,
+            "name": "Job 29:14",
+            "text": "Az igazságot magamra öltém és az is magára ölte engem; palást és süveg gyanánt volt az én ítéletem. "
+        },
+        {
+            "chapter": 29,
+            "verse": 15,
+            "name": "Job 29:15",
+            "text": "A vaknak én szeme valék, és a sántának lába. "
+        },
+        {
+            "chapter": 29,
+            "verse": 16,
+            "name": "Job 29:16",
+            "text": "A szűkölködőknek én atyjok valék, az ismeretlennek ügyét is jól meghányám-vetém. "
+        },
+        {
+            "chapter": 29,
+            "verse": 17,
+            "name": "Job 29:17",
+            "text": "Az álnoknak zápfogait kitördösém, és fogai közül a prédát kiütém vala."
+        },
+        {
+            "chapter": 29,
+            "verse": 18,
+            "name": "Job 29:18",
+            "text": "Azt gondoltam azért: fészkemmel veszek el, és mint a homok, megsokasodnak napjaim. "
+        },
+        {
+            "chapter": 29,
+            "verse": 19,
+            "name": "Job 29:19",
+            "text": "Gyökerem a víznek nyitva lesz, és ágamon hál meg a harmat. "
+        },
+        {
+            "chapter": 29,
+            "verse": 20,
+            "name": "Job 29:20",
+            "text": "Dicsőségem megújul velem, és kézívem erősebbé lesz kezemben. "
+        },
+        {
+            "chapter": 29,
+            "verse": 21,
+            "name": "Job 29:21",
+            "text": "Hallgattak és figyeltek reám, és elnémultak az én tanácsomra. "
+        },
+        {
+            "chapter": 29,
+            "verse": 22,
+            "name": "Job 29:22",
+            "text": "Az én szavaim után nem szóltak többet, s harmatként hullt rájok beszédem. "
+        },
+        {
+            "chapter": 29,
+            "verse": 23,
+            "name": "Job 29:23",
+            "text": "Mint az esőre, úgy vártak rám, és szájukat tátották, mint tavaszi záporra. "
+        },
+        {
+            "chapter": 29,
+            "verse": 24,
+            "name": "Job 29:24",
+            "text": "Ha rájok mosolyogtam, nem bizakodtak el, és arczom derüjét nem sötétíték be."
+        },
+        {
+            "chapter": 29,
+            "verse": 25,
+            "name": "Job 29:25",
+            "text": "Örömest választottam útjokat, mint főember ültem ott; úgy laktam ott, mint király a hadseregben, mint a ki bánkódókat vigasztal.   "
+        }
+    ]
+}

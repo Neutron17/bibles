@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 107,
+    "name": "Psalms 107",
+    "verses": [
+        {
+            "chapter": 107,
+            "verse": 1,
+            "name": "Psalms 107:1",
+            "text": "Canticum Psalmi, ipsi David.  "
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "name": "Psalms 107:2",
+            "text": "  Paratum cor meum, Deus, paratum cor meum ;  cantabo, et psallam in gloria mea. "
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "name": "Psalms 107:3",
+            "text": " Exsurge, gloria mea ; exsurge, psalterium et cithara ;  exsurgam diluculo. "
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "name": "Psalms 107:4",
+            "text": " Confitebor tibi in populis, Domine,  et psallam tibi in nationibus : "
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "name": "Psalms 107:5",
+            "text": " quia magna est super cælos misericordia tua,  et usque ad nubes veritas tua. "
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "name": "Psalms 107:6",
+            "text": " Exaltare super cælos, Deus,  et super omnem terram gloria tua : "
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "name": "Psalms 107:7",
+            "text": " ut liberentur dilecti tui.  Salvum fac dextera tua, et exaudi me. "
+        },
+        {
+            "chapter": 107,
+            "verse": 8,
+            "name": "Psalms 107:8",
+            "text": " Deus locutus est in sancto suo :  Exsultabo, et dividam Sichimam ;  et convallem tabernaculorum dimetiar. "
+        },
+        {
+            "chapter": 107,
+            "verse": 9,
+            "name": "Psalms 107:9",
+            "text": " Meus est Galaad, et meus est Manasses,  et Ephraim susceptio capitis mei.  Juda rex meus ; "
+        },
+        {
+            "chapter": 107,
+            "verse": 10,
+            "name": "Psalms 107:10",
+            "text": "Moab lebes spei meæ :  in Idumæam extendam calceamentum meum ;  mihi alienigenæ amici facti sunt. "
+        },
+        {
+            "chapter": 107,
+            "verse": 11,
+            "name": "Psalms 107:11",
+            "text": " Quis deducet me in civitatem munitam ?  quis deducet me usque in Idumæam ? "
+        },
+        {
+            "chapter": 107,
+            "verse": 12,
+            "name": "Psalms 107:12",
+            "text": " nonne tu, Deus, qui repulisti nos ?  et non exibis, Deus, in virtutibus nostris ? "
+        },
+        {
+            "chapter": 107,
+            "verse": 13,
+            "name": "Psalms 107:13",
+            "text": " Da nobis auxilium de tribulatione,  quia vana salus hominis. "
+        },
+        {
+            "chapter": 107,
+            "verse": 14,
+            "name": "Psalms 107:14",
+            "text": " In Deo faciemus virtutem ;  et ipse ad nihilum deducet inimicos nostros.  "
+        }
+    ]
+}

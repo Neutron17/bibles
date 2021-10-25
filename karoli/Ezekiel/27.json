@@ -1,0 +1,230 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 26,
+    "book_name": "Ezekiel",
+    "chapter": 27,
+    "name": "Ezekiel 27",
+    "verses": [
+        {
+            "chapter": 27,
+            "verse": 1,
+            "name": "Ezekiel 27:1",
+            "text": " És lőn az Úr beszéde hozzám, mondván:"
+        },
+        {
+            "chapter": 27,
+            "verse": 2,
+            "name": "Ezekiel 27:2",
+            "text": "Te pedig, embernek fia, kezdj gyászéneket Tírusról. "
+        },
+        {
+            "chapter": 27,
+            "verse": 3,
+            "name": "Ezekiel 27:3",
+            "text": "És mondjad Tírusnak: Ki lakol a tenger révhelyein, ki a népek között kereskedik sok sziget felé, így szól az Úr Isten: Oh Tírus, te ezt mondtad: Én tökéletes szépségben vagyok. "
+        },
+        {
+            "chapter": 27,
+            "verse": 4,
+            "name": "Ezekiel 27:4",
+            "text": "A tengerek szívében vannak határaid, építőid tökéletessé tették szépségedet. "
+        },
+        {
+            "chapter": 27,
+            "verse": 5,
+            "name": "Ezekiel 27:5",
+            "text": "Senir cziprusaiból építették mindkét oldaladat, czédrust hoztak a Libánonról, hogy árbóczfát csináljanak néked."
+        },
+        {
+            "chapter": 27,
+            "verse": 6,
+            "name": "Ezekiel 27:6",
+            "text": "Básán cserfáiból csinálták evezőidet; evezőpadjaidat a cziprusiak szigeteiről való sudar czédrusba foglalt elefántcsontból csinálták. "
+        },
+        {
+            "chapter": 27,
+            "verse": 7,
+            "name": "Ezekiel 27:7",
+            "text": "Égyiptomi hímes fehér gyolcs vala vitorlád, hogy legyen zászlód; Elisának szigeteiről való kék és piros bíbor volt sátrad borítékja."
+        },
+        {
+            "chapter": 27,
+            "verse": 8,
+            "name": "Ezekiel 27:8",
+            "text": "Sidon és Arvad lakói voltak evezőid; a te bölcseid, oh Tírus, kik benned valának, azok voltak kormányosaid. "
+        },
+        {
+            "chapter": 27,
+            "verse": 9,
+            "name": "Ezekiel 27:9",
+            "text": "Gebal vénei és bölcsei voltak benned, kik hasadékaidat javítgaták; a tenger minden hajója és hajósa volt benned, hogy kicseréljék árúidat. "
+        },
+        {
+            "chapter": 27,
+            "verse": 10,
+            "name": "Ezekiel 27:10",
+            "text": "Perzsák és lidiaiak és libiaiak voltak seregedben hadakozó férfiaid, paizst és sisakot függesztettek fel benned, a mik ékessé tevének. "
+        },
+        {
+            "chapter": 27,
+            "verse": 11,
+            "name": "Ezekiel 27:11",
+            "text": "Arvad fiai és sereged voltak kőfalaidon köröskörül, és kemény vitézek voltak tornyaidban; paizsaikat felfüggesztették kőfalaidon köröskörül, mik tökéletessé tették szépségedet. "
+        },
+        {
+            "chapter": 27,
+            "verse": 12,
+            "name": "Ezekiel 27:12",
+            "text": "Tarsis volt a te kereskedőtársad, sok különféle gazdagsága miatt: ezüstöt, vasat, ónt és ólmot adtak ők árúidért. "
+        },
+        {
+            "chapter": 27,
+            "verse": 13,
+            "name": "Ezekiel 27:13",
+            "text": "Jáván, Tubál és Mések, ezek a te kalmáraid; rabszolgákat és rézedényeket adtak cserébe árúidért."
+        },
+        {
+            "chapter": 27,
+            "verse": 14,
+            "name": "Ezekiel 27:14",
+            "text": "Tógarma házából lovakat és lovagokat és öszvéreket adtak néked árúkul."
+        },
+        {
+            "chapter": 27,
+            "verse": 15,
+            "name": "Ezekiel 27:15",
+            "text": "Dedán fiai a te kalmáraid, sok sziget kereskedése van hatalmad alatt, elefántcsont-szarukat és ébenfát hoztak néked adóba. "
+        },
+        {
+            "chapter": 27,
+            "verse": 16,
+            "name": "Ezekiel 27:16",
+            "text": "Arám a te kereskedőtársad mesterműveid sokasága miatt; gránátot, bíbort, hímes ruhákat, fehér gyolcsot, korálokat és rubint adtak ők árúidért. "
+        },
+        {
+            "chapter": 27,
+            "verse": 17,
+            "name": "Ezekiel 27:17",
+            "text": "Júda és Izráel földe, ezek a te kalmáraid; búzát Minnithből és édes süteményt és mézet és olajat és balzsamot adtak csereárúidért. "
+        },
+        {
+            "chapter": 27,
+            "verse": 18,
+            "name": "Ezekiel 27:18",
+            "text": "Damaskus a te kereskedőtársad mesterműveid sokaságában, sok különféle gazdagságod miatt, – Helbon borával és hófehér gyapjúval."
+        },
+        {
+            "chapter": 27,
+            "verse": 19,
+            "name": "Ezekiel 27:19",
+            "text": "Vedán és Jáván Uzálból adtak árúidért: kovácsolt vasat, kásiát és jó illatú nádat, ezeket csereárúidért."
+        },
+        {
+            "chapter": 27,
+            "verse": 20,
+            "name": "Ezekiel 27:20",
+            "text": "Dedán a te kalmárod, lovagláshoz való nyeregtakarókkal."
+        },
+        {
+            "chapter": 27,
+            "verse": 21,
+            "name": "Ezekiel 27:21",
+            "text": "Arábia és Kédár fejedelmei, ők mindnyájan hatalmad alatt kereskedének; bárányokkal, kosokkal és bakokkal kereskedének veled. "
+        },
+        {
+            "chapter": 27,
+            "verse": 22,
+            "name": "Ezekiel 27:22",
+            "text": "Séba és Raema kalmárai a te kalmáraid; mindenféle drága fűszerszámokat és mindenféle drágaköveket és aranyat adtak ők árúidért. "
+        },
+        {
+            "chapter": 27,
+            "verse": 23,
+            "name": "Ezekiel 27:23",
+            "text": "Hárán és Kanne és Eden, Seba kalmárai, Assiria és Kilmad mind a te kereskedőtársad. "
+        },
+        {
+            "chapter": 27,
+            "verse": 24,
+            "name": "Ezekiel 27:24",
+            "text": "Ezek a te kalmáraid tökéletes árúkkal, bíbor és hímes köntösökkel és drága ruháknak kötelekkel egybekötött és czédrusfából csinált szekrényeivel, a te sokadalmadban. "
+        },
+        {
+            "chapter": 27,
+            "verse": 25,
+            "name": "Ezekiel 27:25",
+            "text": "Tarsis hajói hordozták árúidat, és megtelél, és felette igen híressé levél a tengerek szívében. "
+        },
+        {
+            "chapter": 27,
+            "verse": 26,
+            "name": "Ezekiel 27:26",
+            "text": "Nagy vizekre vivének téged a te evezőid, a keleti szél összetört téged a tengerek szívében. "
+        },
+        {
+            "chapter": 27,
+            "verse": 27,
+            "name": "Ezekiel 27:27",
+            "text": "Gazdagságod és árúid, csereárúid, hajósaid és kormányosaid, hasadékaid javítgatói és csereárúid árúsai és minden hadakozó férfiaid, a kik benned vannak, és minden benned való sokaság, beleesnek a tengerek szívébe zuhanásod napján. "
+        },
+        {
+            "chapter": 27,
+            "verse": 28,
+            "name": "Ezekiel 27:28",
+            "text": "Kormányosaid kiáltásának hangjára megrendülnek a mezőségek. "
+        },
+        {
+            "chapter": 27,
+            "verse": 29,
+            "name": "Ezekiel 27:29",
+            "text": "És kiszállnak hajóikból mindnyájan, kik az evezőt fogják, hajósok és a tengernek minden kormányosi a szárazföldre lépnek. "
+        },
+        {
+            "chapter": 27,
+            "verse": 30,
+            "name": "Ezekiel 27:30",
+            "text": "És hallatják fölötted hangjokat, s keservesen kiáltanak, s port hintenek fejökre, hamuban fetrengenek. "
+        },
+        {
+            "chapter": 27,
+            "verse": 31,
+            "name": "Ezekiel 27:31",
+            "text": "És kopaszra nyiratkoznak miattad, és zsákba övezkednek, és sírnak feletted lelki keserűségben keserves sírással. "
+        },
+        {
+            "chapter": 27,
+            "verse": 32,
+            "name": "Ezekiel 27:32",
+            "text": "És kezdenek fölötted fájdalmukban gyászéneket, és így énekelnek rólad: Ki volt olyan, mint Tírus? mely most mint temető a tenger közepette! "
+        },
+        {
+            "chapter": 27,
+            "verse": 33,
+            "name": "Ezekiel 27:33",
+            "text": "Mikor kimennek vala árúid a tengerekből, sok népet megelégítél; gazdagságod és csereárúid sokaságával meggazdagítád a földnek királyait."
+        },
+        {
+            "chapter": 27,
+            "verse": 34,
+            "name": "Ezekiel 27:34",
+            "text": "Most összeomlottál a tengerekről le a vizek mélységébe, csereárúid és egész sokaságod benned elsülyedt."
+        },
+        {
+            "chapter": 27,
+            "verse": 35,
+            "name": "Ezekiel 27:35",
+            "text": "A szigetek minden lakosai elborzadnak miattad, s királyaik iszonyodva megiszonyodnak, arczaik rángatóznak. "
+        },
+        {
+            "chapter": 27,
+            "verse": 36,
+            "name": "Ezekiel 27:36",
+            "text": "A népek közt való kereskedők fütyölnek feletted. Rémségessé lettél, s többé örökké nem leszel!   "
+        }
+    ]
+}

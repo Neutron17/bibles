@@ -1,0 +1,74 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 8,
+    "name": "Psalms 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "Psalms 8:1",
+            "text": " Az éneklőmesternek a gittithre; Dávid zsoltára. "
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "Psalms 8:2",
+            "text": "Mi Urunk Istenünk, mily felséges a te neved az egész földön, a ki az egekre helyezted dicsőségedet. "
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "Psalms 8:3",
+            "text": "A csecsemők és csecsszopók szájával erősítetted meg hatalmadat a te ellenségeid miatt, hogy a gyűlölködőt és bosszúállót elnémítsd. "
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "Psalms 8:4",
+            "text": "Mikor látom egeidet, a te újjaidnak munkáját; a holdat és a csillagokat, a melyeket teremtettél: "
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "Psalms 8:5",
+            "text": "Micsoda az ember – mondom – hogy megemlékezel róla? és az embernek fia, hogy gondod van reá? "
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "Psalms 8:6",
+            "text": "Hiszen kevéssel tetted őt kisebbé az Istennél, és dicsőséggel és tisztességgel megkoronáztad őt!"
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "Psalms 8:7",
+            "text": "Úrrá tetted őt kezeid munkáin, mindent lábai alá vetettél; "
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "Psalms 8:8",
+            "text": "Juhokat és mindenféle barmot, és még a mezőnek vadait is; "
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "Psalms 8:9",
+            "text": "Az ég madarait és a tenger halait, mindent, a mi a tenger ösvényein jár. "
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "name": "Psalms 8:10",
+            "text": "Mi Urunk Istenünk, mily felséges a te neved az egész földön!  "
+        }
+    ]
+}

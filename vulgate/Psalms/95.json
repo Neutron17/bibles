@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 95,
+    "name": "Psalms 95",
+    "verses": [
+        {
+            "chapter": 95,
+            "verse": 1,
+            "name": "Psalms 95:1",
+            "text": "Canticum ipsi David, quando domus ædificabatur post captivitatem.   Cantate Domino canticum novum ;  cantate Domino omnis terra. "
+        },
+        {
+            "chapter": 95,
+            "verse": 2,
+            "name": "Psalms 95:2",
+            "text": " Cantate Domino, et benedicite nomini ejus ;  annuntiate de die in diem salutare ejus. "
+        },
+        {
+            "chapter": 95,
+            "verse": 3,
+            "name": "Psalms 95:3",
+            "text": " Annuntiate inter gentes gloriam ejus ;  in omnibus populis mirabilia ejus. "
+        },
+        {
+            "chapter": 95,
+            "verse": 4,
+            "name": "Psalms 95:4",
+            "text": " Quoniam magnus Dominus, et laudabilis nimis :  terribilis est super omnes deos. "
+        },
+        {
+            "chapter": 95,
+            "verse": 5,
+            "name": "Psalms 95:5",
+            "text": " Quoniam omnes dii gentium dæmonia ;  Dominus autem cælos fecit. "
+        },
+        {
+            "chapter": 95,
+            "verse": 6,
+            "name": "Psalms 95:6",
+            "text": " Confessio et pulchritudo in conspectu ejus ;  sanctimonia et magnificentia in sanctificatione ejus. "
+        },
+        {
+            "chapter": 95,
+            "verse": 7,
+            "name": "Psalms 95:7",
+            "text": " Afferte Domino, patriæ gentium,  afferte Domino gloriam et honorem ; "
+        },
+        {
+            "chapter": 95,
+            "verse": 8,
+            "name": "Psalms 95:8",
+            "text": " afferte Domino gloriam nomini ejus.  Tollite hostias, et introite in atria ejus ; "
+        },
+        {
+            "chapter": 95,
+            "verse": 9,
+            "name": "Psalms 95:9",
+            "text": " adorate Dominum in atrio sancto ejus.  Commoveatur a facie ejus universa terra ; "
+        },
+        {
+            "chapter": 95,
+            "verse": 10,
+            "name": "Psalms 95:10",
+            "text": " dicite in gentibus, quia Dominus regnavit.  Etenim correxit orbem terræ, qui non commovebitur ;  judicabit populos in æquitate. "
+        },
+        {
+            "chapter": 95,
+            "verse": 11,
+            "name": "Psalms 95:11",
+            "text": " Lætentur cæli, et exsultet terra ;  commoveatur mare et plenitudo ejus ; "
+        },
+        {
+            "chapter": 95,
+            "verse": 12,
+            "name": "Psalms 95:12",
+            "text": " gaudebunt campi, et omnia quæ in eis sunt.  Tunc exsultabunt omnia ligna silvarum "
+        },
+        {
+            "chapter": 95,
+            "verse": 13,
+            "name": "Psalms 95:13",
+            "text": " a facie Domini, quia venit,  quoniam venit judicare terram.  Judicabit orbem terræ in æquitate,  et populos in veritate sua.  "
+        }
+    ]
+}

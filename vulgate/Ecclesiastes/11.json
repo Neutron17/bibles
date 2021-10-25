@@ -1,0 +1,74 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 21,
+    "book_name": "Ecclesiastes",
+    "chapter": 11,
+    "name": "Ecclesiastes 11",
+    "verses": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "name": "Ecclesiastes 11:1",
+            "text": "Mitte panem tuum super transeuntes aquas,  quia post tempora multa invenies illum. "
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "name": "Ecclesiastes 11:2",
+            "text": " Da partem septem necnon et octo,  quia ignoras quid futurum sit mali super terram. "
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "name": "Ecclesiastes 11:3",
+            "text": " Si repletæ fuerint nubes,  imbrem super terram effundent.  Si ceciderit lignum ad austrum aut ad aquilonem,  in quocumque loco ceciderit, ibi erit. "
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "name": "Ecclesiastes 11:4",
+            "text": " Qui observat ventum non seminat ;  et qui considerat nubes numquam metet. "
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "name": "Ecclesiastes 11:5",
+            "text": " Quomodo ignoras quæ sit via spiritus,  et qua ratione compingantur ossa in ventre prægnantis,  sic nescis opera Dei,  qui fabricator est omnium. "
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "name": "Ecclesiastes 11:6",
+            "text": " Mane semina semen tuum,  et vespere ne cesset manus tua :  quia nescis quid magis oriatur, hoc aut illud ;  et si utrumque simul, melius erit. "
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "name": "Ecclesiastes 11:7",
+            "text": " Dulce lumen,  et delectabile est oculis videre solem. "
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "name": "Ecclesiastes 11:8",
+            "text": " Si annis multis vixerit homo,  et in his omnibus lætatus fuerit,  meminisse debet tenebrosi temporis, et dierum multorum,  qui cum venerint, vanitatis arguentur præterita. "
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "name": "Ecclesiastes 11:9",
+            "text": " Lætare ergo, juvenis, in adolescentia tua,  et in bono sit cor tuum in diebus juventutis tuæ :  et ambula in viis cordis tui,  et in intuitu oculorum tuorum,  et scito quod pro omnibus his adducet te Deus in judicium. "
+        },
+        {
+            "chapter": 11,
+            "verse": 10,
+            "name": "Ecclesiastes 11:10",
+            "text": " Aufer iram a corde tuo,  et amove malitiam a carne tua :  adolescentia enim et voluptas vana sunt.  "
+        }
+    ]
+}

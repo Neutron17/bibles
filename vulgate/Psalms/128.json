@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 128,
+    "name": "Psalms 128",
+    "verses": [
+        {
+            "chapter": 128,
+            "verse": 1,
+            "name": "Psalms 128:1",
+            "text": "Canticum graduum.   Sæpe expugnaverunt me a juventute mea,  dicat nunc Israël ; "
+        },
+        {
+            "chapter": 128,
+            "verse": 2,
+            "name": "Psalms 128:2",
+            "text": " sæpe expugnaverunt me a juventute mea :  etenim non potuerunt mihi. "
+        },
+        {
+            "chapter": 128,
+            "verse": 3,
+            "name": "Psalms 128:3",
+            "text": " Supra dorsum meum fabricaverunt peccatores ;  prolongaverunt iniquitatem suam. "
+        },
+        {
+            "chapter": 128,
+            "verse": 4,
+            "name": "Psalms 128:4",
+            "text": " Dominus justus  concidit cervices peccatorum. "
+        },
+        {
+            "chapter": 128,
+            "verse": 5,
+            "name": "Psalms 128:5",
+            "text": " Confundantur, et convertantur retrorsum  omnes qui oderunt Sion. "
+        },
+        {
+            "chapter": 128,
+            "verse": 6,
+            "name": "Psalms 128:6",
+            "text": " Fiant sicut fœnum tectorum,  quod priusquam evellatur exaruit : "
+        },
+        {
+            "chapter": 128,
+            "verse": 7,
+            "name": "Psalms 128:7",
+            "text": " de quo non implevit manum suam qui metit,  et sinum suum qui manipulos colligit. "
+        },
+        {
+            "chapter": 128,
+            "verse": 8,
+            "name": "Psalms 128:8",
+            "text": " Et non dixerunt qui præteribant :  Benedictio Domini super vos.  Benediximus vobis in nomine Domini.  "
+        }
+    ]
+}

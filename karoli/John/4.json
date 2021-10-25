@@ -1,0 +1,338 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 43,
+    "book_name": "John",
+    "chapter": 4,
+    "name": "John 4",
+    "verses": [
+        {
+            "chapter": 4,
+            "verse": 1,
+            "name": "John 4:1",
+            "text": " Amint azért megtudta az Úr, hogy a farizeusok meghallották, hogy Jézus több tanítványt szerez és keresztel, mint János, "
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "name": "John 4:2",
+            "text": "(Jóllehet Jézus maga nem keresztelt, hanem a tanítványai,) "
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "name": "John 4:3",
+            "text": "Elhagyá Júdeát és elméne ismét Galileába. "
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "name": "John 4:4",
+            "text": "Samárián kell vala pedig általmennie. "
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "name": "John 4:5",
+            "text": "Megy vala azért Samáriának Sikár nevű városába, annak a teleknek szomszédjába, a melyet Jákób adott vala az ő fiának, Józsefnek. "
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "name": "John 4:6",
+            "text": "Ott vala pedig a Jákób forrása. Jézus azért, az utazástól elfáradva, azonmód leüle a forráshoz. Mintegy hat óra vala. "
+        },
+        {
+            "chapter": 4,
+            "verse": 7,
+            "name": "John 4:7",
+            "text": "Jöve egy samáriabeli asszony vizet meríteni; monda néki Jézus: Adj innom! "
+        },
+        {
+            "chapter": 4,
+            "verse": 8,
+            "name": "John 4:8",
+            "text": "Az ő tanítványai ugyanis elmentek a városba, hogy ennivalót vegyenek. "
+        },
+        {
+            "chapter": 4,
+            "verse": 9,
+            "name": "John 4:9",
+            "text": "Monda azért néki a samáriai asszony: Hogy kérhetsz inni zsidó létedre én tőlem, a ki samáriai asszony vagyok?! Mert a zsidók nem barátkoznak a samáriaiakkal. "
+        },
+        {
+            "chapter": 4,
+            "verse": 10,
+            "name": "John 4:10",
+            "text": "Felele Jézus és monda néki: Ha ismernéd az Isten ajándékát, és hogy ki az, a ki ezt mondja néked: Adj innom!; te kérted volna őt, és adott volna néked élő vizet. "
+        },
+        {
+            "chapter": 4,
+            "verse": 11,
+            "name": "John 4:11",
+            "text": "Monda néki az asszony: Uram, nincs mivel merítened, és a kút mély: hol vennéd tehát az élő vizet? "
+        },
+        {
+            "chapter": 4,
+            "verse": 12,
+            "name": "John 4:12",
+            "text": "Avagy nagyobb vagy-é te a mi atyánknál, Jákóbnál, a ki nékünk adta ezt a kutat, és ebből ivott ő is, a fiai is és jószága is? "
+        },
+        {
+            "chapter": 4,
+            "verse": 13,
+            "name": "John 4:13",
+            "text": "Felele Jézus és monda néki: Mindaz, a ki ebből a vízből iszik, ismét megszomjúhozik: "
+        },
+        {
+            "chapter": 4,
+            "verse": 14,
+            "name": "John 4:14",
+            "text": "Valaki pedig abból a vízből iszik, a melyet én adok néki, soha örökké meg nem szomjúhozik; hanem az a víz, a melyet én adok néki, örök életre buzgó víznek kútfeje lesz ő benne. "
+        },
+        {
+            "chapter": 4,
+            "verse": 15,
+            "name": "John 4:15",
+            "text": "Monda néki az asszony: Uram, add nékem azt a vizet, hogy meg ne szomjúhozzam, és ne jőjjek ide meríteni! "
+        },
+        {
+            "chapter": 4,
+            "verse": 16,
+            "name": "John 4:16",
+            "text": "Monda néki Jézus: Menj el, hívd a férjedet, és jőjj ide! "
+        },
+        {
+            "chapter": 4,
+            "verse": 17,
+            "name": "John 4:17",
+            "text": "Felele az asszony és monda: Nincs férjem. Monda néki Jézus: Jól mondád, hogy: Nincs férjem; "
+        },
+        {
+            "chapter": 4,
+            "verse": 18,
+            "name": "John 4:18",
+            "text": "Mert öt férjed volt, és a mostani nem férjed: ezt igazán mondtad. "
+        },
+        {
+            "chapter": 4,
+            "verse": 19,
+            "name": "John 4:19",
+            "text": "Monda néki az asszony: Uram, látom, hogy te próféta vagy. "
+        },
+        {
+            "chapter": 4,
+            "verse": 20,
+            "name": "John 4:20",
+            "text": "A mi atyáink ezen a hegyen imádkoztak; és ti azt mondjátok, hogy Jeruzsálemben van az a hely, a hol imádkozni kell. "
+        },
+        {
+            "chapter": 4,
+            "verse": 21,
+            "name": "John 4:21",
+            "text": "Monda néki Jézus: Asszony, hidd el nékem, hogy eljő az óra, a mikor sem nem ezen a hegyen, sem nem Jeruzsálemben imádjátok az Atyát."
+        },
+        {
+            "chapter": 4,
+            "verse": 22,
+            "name": "John 4:22",
+            "text": "Ti azt imádjátok, a mit nem ismertek; mi azt imádjuk, a mit ismerünk: mert az idvesség a zsidók közül támadt. "
+        },
+        {
+            "chapter": 4,
+            "verse": 23,
+            "name": "John 4:23",
+            "text": "De eljő az óra, és az most vagyon, amikor az igazi imádók lélekben, és igazságban imádják az Atyát: mert az Atya is ilyeneket keres, az ő imádóiul. "
+        },
+        {
+            "chapter": 4,
+            "verse": 24,
+            "name": "John 4:24",
+            "text": "Az Isten lélek: és a kik őt imádják, szükség, hogy lélekben és igazságban imádják."
+        },
+        {
+            "chapter": 4,
+            "verse": 25,
+            "name": "John 4:25",
+            "text": "Monda néki az asszony: Tudom, hogy Messiás jő (a ki Krisztusnak mondatik); mikor az eljő, megjelent nékünk mindent. "
+        },
+        {
+            "chapter": 4,
+            "verse": 26,
+            "name": "John 4:26",
+            "text": "Monda néki Jézus: Én vagyok az, a ki veled beszélek. "
+        },
+        {
+            "chapter": 4,
+            "verse": 27,
+            "name": "John 4:27",
+            "text": "Eközben megjövének az ő tanítványai; és csodálkozának, hogy asszonnyal beszélt; mindazáltal egyik sem mondá: Mit keresel? vagy: Mit beszélsz vele?"
+        },
+        {
+            "chapter": 4,
+            "verse": 28,
+            "name": "John 4:28",
+            "text": "Ott hagyá azért az asszony a vedrét, és elméne a városba, és monda az embereknek:"
+        },
+        {
+            "chapter": 4,
+            "verse": 29,
+            "name": "John 4:29",
+            "text": "Jertek, lássatok egy embert, a ki megmonda nékem mindent, a mit cselekedtem. Nem ez-é a Krisztus? "
+        },
+        {
+            "chapter": 4,
+            "verse": 30,
+            "name": "John 4:30",
+            "text": "Kimenének azért a városból, és hozzá menének. "
+        },
+        {
+            "chapter": 4,
+            "verse": 31,
+            "name": "John 4:31",
+            "text": "Aközben pedig kérék őt a tanítványok, mondván: Mester, egyél! "
+        },
+        {
+            "chapter": 4,
+            "verse": 32,
+            "name": "John 4:32",
+            "text": "Ő pedig monda nékik: Van nékem eledelem, a mit egyem, a mit ti nem tudtok."
+        },
+        {
+            "chapter": 4,
+            "verse": 33,
+            "name": "John 4:33",
+            "text": "Mondának azért a tanítványok egymásnak: Hozott-é néki valaki enni?"
+        },
+        {
+            "chapter": 4,
+            "verse": 34,
+            "name": "John 4:34",
+            "text": "Monda nékik Jézus: Az én eledelem az, hogy annak akaratját cselekedjem, a ki elküldött engem, és az ő dolgát elvégezzem. "
+        },
+        {
+            "chapter": 4,
+            "verse": 35,
+            "name": "John 4:35",
+            "text": "Ti nem azt mondjátok-é, hogy még négy hónap és eljő az aratás? Ímé, mondom néktek: Emeljétek fel szemeiteket, és lássátok meg a tájékokat, hogy már fehérek az aratásra. "
+        },
+        {
+            "chapter": 4,
+            "verse": 36,
+            "name": "John 4:36",
+            "text": "És a ki arat, jutalmat nyer, és az örök életre gyümölcsöt gyűjt; hogy mind a vető, mind az arató együtt örvendezzen."
+        },
+        {
+            "chapter": 4,
+            "verse": 37,
+            "name": "John 4:37",
+            "text": "Mert ebben az a mondás igaz, hogy más a vető, más az arató. "
+        },
+        {
+            "chapter": 4,
+            "verse": 38,
+            "name": "John 4:38",
+            "text": "Én annak az aratására küldtelek titeket, a mit nem ti munkáltatok; mások munkálták, és ti a mások munkájába állottatok. "
+        },
+        {
+            "chapter": 4,
+            "verse": 39,
+            "name": "John 4:39",
+            "text": "Abból a városból pedig sokan hivének benne a Samaritánusok közül annak az asszonynak beszédéért, a ki bizonyságot tett vala, hogy: Mindent megmondott nékem, a mit cselekedtem. "
+        },
+        {
+            "chapter": 4,
+            "verse": 40,
+            "name": "John 4:40",
+            "text": "A mint azért oda mentek hozzá a Samaritánusok, kérék őt, hogy maradjon náluk; és ott marada két napig. "
+        },
+        {
+            "chapter": 4,
+            "verse": 41,
+            "name": "John 4:41",
+            "text": "És sokkal többen hivének a maga beszédéért,"
+        },
+        {
+            "chapter": 4,
+            "verse": 42,
+            "name": "John 4:42",
+            "text": "És azt mondják vala az asszonynak, hogy: Nem a te beszédedért hiszünk immár: mert magunk hallottuk, és tudjuk, hogy bizonnyal ez a világ idvezítője, a Krisztus. "
+        },
+        {
+            "chapter": 4,
+            "verse": 43,
+            "name": "John 4:43",
+            "text": "Két nap mulva pedig kiméne onnét, és elméne Galileába."
+        },
+        {
+            "chapter": 4,
+            "verse": 44,
+            "name": "John 4:44",
+            "text": "Mert Jézus maga tett bizonyságot arról, hogy a prófétának nincs tisztessége a maga hazájában. "
+        },
+        {
+            "chapter": 4,
+            "verse": 45,
+            "name": "John 4:45",
+            "text": "Mikor azért beméne Galileába, befogadták őt a Galileabeliek, mivelhogy látták vala mindazt, a mit Jeruzsálemben cselekedett az ünnepen; mert ők is elmentek vala az ünnepre.  "
+        },
+        {
+            "chapter": 4,
+            "verse": 46,
+            "name": "John 4:46",
+            "text": " Ismét a galileai Kánába méne azért Jézus, a hol a vizet borrá változtatta. És volt Kapernaumban egy királyi ember, a kinek a fia beteg vala. "
+        },
+        {
+            "chapter": 4,
+            "verse": 47,
+            "name": "John 4:47",
+            "text": "Mikor ez meghallá, hogy Jézus Júdeából Galileába érkezett, hozzá méne és kéré őt, hogy menjen el és gyógyítsa meg az ő fiát; mert halálán vala. "
+        },
+        {
+            "chapter": 4,
+            "verse": 48,
+            "name": "John 4:48",
+            "text": "Monda azért néki Jézus: Ha jeleket és csodákat nem láttok, nem hisztek. "
+        },
+        {
+            "chapter": 4,
+            "verse": 49,
+            "name": "John 4:49",
+            "text": "Monda néki a királyi ember: Uram, jőjj, mielőtt a gyermekem meghal."
+        },
+        {
+            "chapter": 4,
+            "verse": 50,
+            "name": "John 4:50",
+            "text": "Monda néki Jézus: Menj el, a te fiad él. És hitt az ember a szónak, a mit Jézus mondott néki, és elment. "
+        },
+        {
+            "chapter": 4,
+            "verse": 51,
+            "name": "John 4:51",
+            "text": "A mint pedig már megy vala, elébe jövének az ő szolgái, és hírt hozának néki, mondván, hogy: A te fiad él. "
+        },
+        {
+            "chapter": 4,
+            "verse": 52,
+            "name": "John 4:52",
+            "text": "Megtudakozá azért tőlük az órát, a melyben megkönnyebbedett vala; és mondának néki: Tegnap hét órakor hagyta el őt a láz; "
+        },
+        {
+            "chapter": 4,
+            "verse": 53,
+            "name": "John 4:53",
+            "text": "Megérté azért az atya, hogy abban az órában, a melyben azt mondá néki a Jézus, hogy: a te fiad él. És hitt ő, és az ő egész háza népe. "
+        },
+        {
+            "chapter": 4,
+            "verse": 54,
+            "name": "John 4:54",
+            "text": "Ezt ismét második jel gyanánt tevé Jézus, mikor Júdeából Galileába ment.   "
+        }
+    ]
+}

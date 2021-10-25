@@ -1,0 +1,86 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 21,
+    "book_name": "Ecclesiastes",
+    "chapter": 6,
+    "name": "Ecclesiastes 6",
+    "verses": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "name": "Ecclesiastes 6:1",
+            "text": " Van egy gonosz, a melyet láttam a nap alatt, és nagy baj az az emberen; "
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "name": "Ecclesiastes 6:2",
+            "text": "Mikor valakinek az Isten ád gazdagságot és kincseket és tisztességet, és semmi nélkül nem szűkölködik, valamit kivánhat lelkének, és az Isten nem engedi néki, hogy éljen azzal, hanem más ember él azzal: ez hiábavalóság és gonosz nyavalya!"
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "name": "Ecclesiastes 6:3",
+            "text": "Ha száz gyermeket szül is valaki, és sok esztendeig él, úgy hogy az ő esztendeinek napja sok, de az ő lelke a jóval meg nem elégszik, és nem lesz temetése néki: azt mondom, hogy jobb annál az idétlen gyermek, "
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "name": "Ecclesiastes 6:4",
+            "text": "Mert hiábavalóságra jött, setétségben megy el, és setétséggel fedeztetik be neve, "
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "name": "Ecclesiastes 6:5",
+            "text": "A napot sem látta és nem ismerte; tűrhetőbb ennek állapotja, hogynem amannak. "
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "name": "Ecclesiastes 6:6",
+            "text": "Hogyha kétezer esztendőt élt volna is, és a jóval nem élt: avagy nem ugyanazon egy helyre megy-é minden? "
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "name": "Ecclesiastes 6:7",
+            "text": "Az embernek minden munkája szájáért van; mindazáltal az ő kívánsága be nem telik."
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "name": "Ecclesiastes 6:8",
+            "text": "Mert miben különbözik a bölcs a bolondtól, és miben a szegény, a ki az élők előtt járni tud? "
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "name": "Ecclesiastes 6:9",
+            "text": "Jobb, a mit ember szemmel lát, hogynem a lélek kivánsága; ez is hiábavalóság és a léleknek gyötrelme!"
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "name": "Ecclesiastes 6:10",
+            "text": "Valami van, régen ráadatott nevezete, és bizonyos dolog, hogy mi lesz az ember, és nem perlekedhetik azzal, a ki hatalmasb nálánál. "
+        },
+        {
+            "chapter": 6,
+            "verse": 11,
+            "name": "Ecclesiastes 6:11",
+            "text": "Mert van sok beszéd, a mely a hiábavalóságot szaporítja; és mi haszna van az embernek abban?"
+        },
+        {
+            "chapter": 6,
+            "verse": 12,
+            "name": "Ecclesiastes 6:12",
+            "text": "Mert kicsoda tudhatja, mi legyen az embernek jó e világon, az ő hiábavaló élete napjainak száma szerint, a melyeket mintegy árnyékot tölt el? Kicsoda az, a ki megmondhatná az embernek, mi következik ő utána a nap alatt?   "
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 1,
+    "name": "Psalms 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Psalms 1:1",
+            "text": " Boldog ember az, a ki nem jár gonoszok tanácsán, bűnösök útján meg nem áll, és csúfolódók székében nem ül; "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Psalms 1:2",
+            "text": "Hanem az Úr törvényében van gyönyörűsége, és az ő törvényéről gondolkodik éjjel és nappal. "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Psalms 1:3",
+            "text": "És olyan lesz, mint a folyóvizek mellé ültetett fa, a mely idejekorán megadja gyümölcsét, és levele nem hervad el; és minden munkájában jó szerencsés lészen. "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Psalms 1:4",
+            "text": "Nem úgy a gonoszok, hanem, mint a polyva, a mit szétszór a szél. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Psalms 1:5",
+            "text": "Azért nem állhatnak meg a gonoszok az ítéletben; sem a bűnösök az igazak gyülekezetében. "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Psalms 1:6",
+            "text": "Mert tudja az Úr az igazak útját; a gonoszok útja pedig elvész.   "
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 14,
+    "name": "Psalms 14",
+    "verses": [
+        {
+            "chapter": 14,
+            "verse": 1,
+            "name": "Psalms 14:1",
+            "text": "Psalmus David.   Domine, quis habitabit in tabernaculo tuo ?  aut quis requiescet in monte sancto tuo ? "
+        },
+        {
+            "chapter": 14,
+            "verse": 2,
+            "name": "Psalms 14:2",
+            "text": " Qui ingreditur sine macula,  et operatur justitiam ; "
+        },
+        {
+            "chapter": 14,
+            "verse": 3,
+            "name": "Psalms 14:3",
+            "text": " qui loquitur veritatem in corde suo :  qui non egit dolum in lingua sua,  nec fecit proximo suo malum,  et opprobrium non accepit adversus proximos suos. "
+        },
+        {
+            "chapter": 14,
+            "verse": 4,
+            "name": "Psalms 14:4",
+            "text": " Ad nihilum deductus est in conspectu ejus malignus ;  timentes autem Dominum glorificat.  Qui jurat proximo suo, et non decipit ; "
+        },
+        {
+            "chapter": 14,
+            "verse": 5,
+            "name": "Psalms 14:5",
+            "text": " qui pecuniam suam non dedit ad usuram,  et munera super innocentem non accepit :  qui facit hæc non movebitur in æternum.  "
+        }
+    ]
+}

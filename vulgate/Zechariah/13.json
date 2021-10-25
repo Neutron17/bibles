@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 38,
+    "book_name": "Zechariah",
+    "chapter": 13,
+    "name": "Zechariah 13",
+    "verses": [
+        {
+            "chapter": 13,
+            "verse": 1,
+            "name": "Zechariah 13:1",
+            "text": "In die illa erit fons patens domui David et habitantibus Jerusalem,  in ablutionem peccatoris et menstruatæ. "
+        },
+        {
+            "chapter": 13,
+            "verse": 2,
+            "name": "Zechariah 13:2",
+            "text": " Et erit in die illa, dicit Dominus exercituum :  disperdam nomina idolorum de terra,  et non memorabuntur ultra :  et pseudoprophetas, et spiritum immundum auferam de terra. "
+        },
+        {
+            "chapter": 13,
+            "verse": 3,
+            "name": "Zechariah 13:3",
+            "text": " Et erit : cum prophetaverit quispiam ultra,  dicent ei pater ejus et mater ejus, qui genuerunt eum :  Non vives, quia mendacium locutus es in nomine Domini :  et configent eum pater ejus et mater ejus, genitores ejus,  cum prophetaverit. "
+        },
+        {
+            "chapter": 13,
+            "verse": 4,
+            "name": "Zechariah 13:4",
+            "text": " Et erit : in die illa confundentur prophetæ,  unusquisque ex visione sua cum prophetaverit :  nec operientur pallio saccino, ut mentiantur : "
+        },
+        {
+            "chapter": 13,
+            "verse": 5,
+            "name": "Zechariah 13:5",
+            "text": " sed dicet : Non sum propheta :  homo agricola ego sum,  quoniam Adam exemplum meum ab adolescentia mea. "
+        },
+        {
+            "chapter": 13,
+            "verse": 6,
+            "name": "Zechariah 13:6",
+            "text": " Et dicetur ei : Quid sunt plagæ istæ in medio manuum tuarum ?  Et dicet : His plagatus sum in domo eorum qui diligebant me.  "
+        },
+        {
+            "chapter": 13,
+            "verse": 7,
+            "name": "Zechariah 13:7",
+            "text": " Framea, suscitare super pastorem meum, et super virum cohærentem mihi, dicit Dominus exercituum : percute pastorem, et dispergentur oves : et convertam manum meam ad parvulos. "
+        },
+        {
+            "chapter": 13,
+            "verse": 8,
+            "name": "Zechariah 13:8",
+            "text": "Et erunt in omni terra, dicit Dominus : partes duæ in ea dispergentur, et deficient : et tertia pars relinquetur in ea. "
+        },
+        {
+            "chapter": 13,
+            "verse": 9,
+            "name": "Zechariah 13:9",
+            "text": "Et ducam tertiam partem per ignem, et uram eos sicut uritur argentum, et probabo eos sicut probatur aurum. Ipse vocabit nomen meum, et ego exaudiam eum. Dicam : Populus meus es : et ipse dicet : Dominus Deus meus.   "
+        }
+    ]
+}

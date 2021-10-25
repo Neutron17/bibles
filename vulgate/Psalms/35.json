@@ -1,0 +1,92 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 35,
+    "name": "Psalms 35",
+    "verses": [
+        {
+            "chapter": 35,
+            "verse": 1,
+            "name": "Psalms 35:1",
+            "text": "In finem. Servo Domini ipsi David.  "
+        },
+        {
+            "chapter": 35,
+            "verse": 2,
+            "name": "Psalms 35:2",
+            "text": "  Dixit injustus ut delinquat in semetipso :  non est timor Dei ante oculos ejus. "
+        },
+        {
+            "chapter": 35,
+            "verse": 3,
+            "name": "Psalms 35:3",
+            "text": " Quoniam dolose egit in conspectu ejus,  ut inveniatur iniquitas ejus ad odium. "
+        },
+        {
+            "chapter": 35,
+            "verse": 4,
+            "name": "Psalms 35:4",
+            "text": " Verba oris ejus iniquitas, et dolus ;  noluit intelligere ut bene ageret. "
+        },
+        {
+            "chapter": 35,
+            "verse": 5,
+            "name": "Psalms 35:5",
+            "text": " Iniquitatem meditatus est in cubili suo ;  astitit omni viæ non bonæ :  malitiam autem non odivit. "
+        },
+        {
+            "chapter": 35,
+            "verse": 6,
+            "name": "Psalms 35:6",
+            "text": " Domine, in cælo misericordia tua,  et veritas tua usque ad nubes. "
+        },
+        {
+            "chapter": 35,
+            "verse": 7,
+            "name": "Psalms 35:7",
+            "text": " Justitia tua sicut montes Dei ;  judicia tua abyssus multa.  Homines et jumenta salvabis, Domine, "
+        },
+        {
+            "chapter": 35,
+            "verse": 8,
+            "name": "Psalms 35:8",
+            "text": " quemadmodum multiplicasti misericordiam tuam, Deus.  Filii autem hominum in tegmine alarum tuarum sperabunt. "
+        },
+        {
+            "chapter": 35,
+            "verse": 9,
+            "name": "Psalms 35:9",
+            "text": " Inebriabuntur ab ubertate domus tuæ,  et torrente voluptatis tuæ potabis eos : "
+        },
+        {
+            "chapter": 35,
+            "verse": 10,
+            "name": "Psalms 35:10",
+            "text": " quoniam apud te est fons vitæ,  et in lumine tuo videbimus lumen. "
+        },
+        {
+            "chapter": 35,
+            "verse": 11,
+            "name": "Psalms 35:11",
+            "text": " Prætende misericordiam tuam scientibus te,  et justitiam tuam his qui recto sunt corde. "
+        },
+        {
+            "chapter": 35,
+            "verse": 12,
+            "name": "Psalms 35:12",
+            "text": " Non veniat mihi pes superbiæ,  et manus peccatoris non moveat me. "
+        },
+        {
+            "chapter": 35,
+            "verse": 13,
+            "name": "Psalms 35:13",
+            "text": " Ibi ceciderunt qui operantur iniquitatem ;  expulsi sunt, nec potuerunt stare.  "
+        }
+    ]
+}

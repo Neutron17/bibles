@@ -1,0 +1,68 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 98,
+    "name": "Psalms 98",
+    "verses": [
+        {
+            "chapter": 98,
+            "verse": 1,
+            "name": "Psalms 98:1",
+            "text": "Psalmus ipsi David.   Dominus regnavit : irascantur populi ;  qui sedet super cherubim : moveatur terra. "
+        },
+        {
+            "chapter": 98,
+            "verse": 2,
+            "name": "Psalms 98:2",
+            "text": " Dominus in Sion magnus,  et excelsus super omnes populos. "
+        },
+        {
+            "chapter": 98,
+            "verse": 3,
+            "name": "Psalms 98:3",
+            "text": " Confiteantur nomini tuo magno,  quoniam terribile et sanctum est, "
+        },
+        {
+            "chapter": 98,
+            "verse": 4,
+            "name": "Psalms 98:4",
+            "text": " et honor regis judicium diligit.  Tu parasti directiones ;  judicium et justitiam in Jacob tu fecisti. "
+        },
+        {
+            "chapter": 98,
+            "verse": 5,
+            "name": "Psalms 98:5",
+            "text": " Exaltate Dominum Deum nostrum,  et adorate scabellum pedum ejus,  quoniam sanctum est. "
+        },
+        {
+            "chapter": 98,
+            "verse": 6,
+            "name": "Psalms 98:6",
+            "text": " Moyses et Aaron in sacerdotibus ejus,  et Samuel inter eos qui invocant nomen ejus :  invocabant Dominum, et ipse exaudiebat eos ; "
+        },
+        {
+            "chapter": 98,
+            "verse": 7,
+            "name": "Psalms 98:7",
+            "text": " in columna nubis loquebatur ad eos.  Custodiebant testimonia ejus,  et præceptum quod dedit illis. "
+        },
+        {
+            "chapter": 98,
+            "verse": 8,
+            "name": "Psalms 98:8",
+            "text": " Domine Deus noster, tu exaudiebas eos ;  Deus, tu propitius fuisti eis,  et ulciscens in omnes adinventiones eorum. "
+        },
+        {
+            "chapter": 98,
+            "verse": 9,
+            "name": "Psalms 98:9",
+            "text": " Exaltate Dominum Deum nostrum,  et adorate in monte sancto ejus,  quoniam sanctus Dominus Deus noster.  "
+        }
+    ]
+}

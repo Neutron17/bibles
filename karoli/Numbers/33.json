@@ -1,0 +1,350 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 33,
+    "name": "Numbers 33",
+    "verses": [
+        {
+            "chapter": 33,
+            "verse": 1,
+            "name": "Numbers 33:1",
+            "text": " Ezek Izráel fiainak szállásai, a kik kijövének Égyiptom földéből az ő seregeik szerint Mózes és Áron vezetése alatt."
+        },
+        {
+            "chapter": 33,
+            "verse": 2,
+            "name": "Numbers 33:2",
+            "text": "(Megírá pedig Mózes az ő kijövetelöket az ő szállásaik szerint, az Úrnak rendeletére.) Ezek az ő szállásaik, az ő kijövetelök szerint."
+        },
+        {
+            "chapter": 33,
+            "verse": 3,
+            "name": "Numbers 33:3",
+            "text": "Elindulának Rameszeszből az első hónapban, az első hónap tizenötödik napján. A páskha után való napon jövének ki Izráel fiai felemelt kézzel, az egész Égyiptom láttára. "
+        },
+        {
+            "chapter": 33,
+            "verse": 4,
+            "name": "Numbers 33:4",
+            "text": "(Az égyiptombeliek pedig temetik vala azokat a kiket megölt vala az Úr ő közöttök, minden elsőszülöttjöket; az isteneiken is ítéletet tartott vala az Úr.) "
+        },
+        {
+            "chapter": 33,
+            "verse": 5,
+            "name": "Numbers 33:5",
+            "text": "És elindulának Izráel fiai Rameszeszből, és tábort ütének Szukkótban."
+        },
+        {
+            "chapter": 33,
+            "verse": 6,
+            "name": "Numbers 33:6",
+            "text": "És elindulának Szukkótból, és tábort ütének Ethámban, a mely van a pusztának szélén. "
+        },
+        {
+            "chapter": 33,
+            "verse": 7,
+            "name": "Numbers 33:7",
+            "text": "És elindulának Ethámból, és fordulának Pihahiróth felé, a mely van Baál-Czefon előtt, és tábort ütének Migdol előtt, "
+        },
+        {
+            "chapter": 33,
+            "verse": 8,
+            "name": "Numbers 33:8",
+            "text": "És elindulának Pihahiróthból, és átmenének a tenger közepén a pusztába; és menének három napi járásnyira az Ethám pusztáján; és tábort ütének Márában. "
+        },
+        {
+            "chapter": 33,
+            "verse": 9,
+            "name": "Numbers 33:9",
+            "text": "És elindulának Márából, és jutának Élimbe; Élimben pedig vala tizenkét kútfő és hetven pálmafa; és tábort ütének ott. "
+        },
+        {
+            "chapter": 33,
+            "verse": 10,
+            "name": "Numbers 33:10",
+            "text": "És elindulának Élimből, és tábort ütének a Veres tenger mellett."
+        },
+        {
+            "chapter": 33,
+            "verse": 11,
+            "name": "Numbers 33:11",
+            "text": "És elindulának a Veres tengertől, és tábort ütének a Szin pusztájában. "
+        },
+        {
+            "chapter": 33,
+            "verse": 12,
+            "name": "Numbers 33:12",
+            "text": "És elindulának a Szin pusztájából, és tábort ütének Dofkában."
+        },
+        {
+            "chapter": 33,
+            "verse": 13,
+            "name": "Numbers 33:13",
+            "text": "És elindulának Dofkából, és tábort ütének Álúsban."
+        },
+        {
+            "chapter": 33,
+            "verse": 14,
+            "name": "Numbers 33:14",
+            "text": "És elindulának Álúsból, és tábort ütének Refidimben, de nem vala ott a népnek inni való vize. "
+        },
+        {
+            "chapter": 33,
+            "verse": 15,
+            "name": "Numbers 33:15",
+            "text": "És elindulának Refidimből, és tábort ütének a Sinai pusztájában. "
+        },
+        {
+            "chapter": 33,
+            "verse": 16,
+            "name": "Numbers 33:16",
+            "text": "És elindulának a Sinai pusztájából, és tábort ütének Kibrót-Thaavában. "
+        },
+        {
+            "chapter": 33,
+            "verse": 17,
+            "name": "Numbers 33:17",
+            "text": "És elindulának Kibrót-Thaavából, és tábort ütének Haserótban. "
+        },
+        {
+            "chapter": 33,
+            "verse": 18,
+            "name": "Numbers 33:18",
+            "text": "És elindulának Haserótból, és tábort ütének Rithmában."
+        },
+        {
+            "chapter": 33,
+            "verse": 19,
+            "name": "Numbers 33:19",
+            "text": "És elindulának Rithmából, és tábort ütének Rimmon-Péreczben."
+        },
+        {
+            "chapter": 33,
+            "verse": 20,
+            "name": "Numbers 33:20",
+            "text": "És elindulának Rimmon-Péreczből, és tábort ütének Libnában."
+        },
+        {
+            "chapter": 33,
+            "verse": 21,
+            "name": "Numbers 33:21",
+            "text": "És elindulának Libnából, és tábort ütének Risszában."
+        },
+        {
+            "chapter": 33,
+            "verse": 22,
+            "name": "Numbers 33:22",
+            "text": "És elindulának Risszából, és tábort ütének Kehélátban."
+        },
+        {
+            "chapter": 33,
+            "verse": 23,
+            "name": "Numbers 33:23",
+            "text": "És elindulának Kehélátból, és tábort ütének a Séfer hegyénél."
+        },
+        {
+            "chapter": 33,
+            "verse": 24,
+            "name": "Numbers 33:24",
+            "text": "És elindulának a Séfer hegyétől és tábort ütének Haradában."
+        },
+        {
+            "chapter": 33,
+            "verse": 25,
+            "name": "Numbers 33:25",
+            "text": "És elindulának Haradából, és tábort ütének Makhélótban."
+        },
+        {
+            "chapter": 33,
+            "verse": 26,
+            "name": "Numbers 33:26",
+            "text": "És elindulának Makhélótból, és tábort ütének Tháhátban."
+        },
+        {
+            "chapter": 33,
+            "verse": 27,
+            "name": "Numbers 33:27",
+            "text": "És elindulának Tháhátból, és tábort ütének Thárakhban."
+        },
+        {
+            "chapter": 33,
+            "verse": 28,
+            "name": "Numbers 33:28",
+            "text": "És elindulának Thárakhból, és tábort ütének Mitkában."
+        },
+        {
+            "chapter": 33,
+            "verse": 29,
+            "name": "Numbers 33:29",
+            "text": "És elindulának Mitkából, és tábort ütének Hasmonában."
+        },
+        {
+            "chapter": 33,
+            "verse": 30,
+            "name": "Numbers 33:30",
+            "text": "És elindulának Hasmonából, és tábort ütének Moszérótban."
+        },
+        {
+            "chapter": 33,
+            "verse": 31,
+            "name": "Numbers 33:31",
+            "text": "És elindulának Moszérótból, és tábort ütének Bené-Jaakánban."
+        },
+        {
+            "chapter": 33,
+            "verse": 32,
+            "name": "Numbers 33:32",
+            "text": "És elindulának Bené-Jaakánból, és tábort ütének Hór-Hagidgádban."
+        },
+        {
+            "chapter": 33,
+            "verse": 33,
+            "name": "Numbers 33:33",
+            "text": "És elindulának Hór-Hagidgádból, és tábort ütének Jotbathában."
+        },
+        {
+            "chapter": 33,
+            "verse": 34,
+            "name": "Numbers 33:34",
+            "text": "És elindulának Jotbathából, és tábort ütének Abronában."
+        },
+        {
+            "chapter": 33,
+            "verse": 35,
+            "name": "Numbers 33:35",
+            "text": "És elindulának Abronából, és tábort ütének Eczjon-Geberben."
+        },
+        {
+            "chapter": 33,
+            "verse": 36,
+            "name": "Numbers 33:36",
+            "text": "És elindulának Eczjon-Geberből, és tábort ütének Czin pusztájában; ez Kádes. "
+        },
+        {
+            "chapter": 33,
+            "verse": 37,
+            "name": "Numbers 33:37",
+            "text": "És elindulának Kádesből, és tábort ütének a Hór hegyénél, az Edom földének szélén. "
+        },
+        {
+            "chapter": 33,
+            "verse": 38,
+            "name": "Numbers 33:38",
+            "text": "Felméne pedig Áron, a pap, a Hór hegyére az Úr rendelése szerint, és meghala ott a negyvenedik esztendőben, Izráel fiainak Égyiptom földéből való kijövetelök után, az ötödik hónapban, a hónap elsején."
+        },
+        {
+            "chapter": 33,
+            "verse": 39,
+            "name": "Numbers 33:39",
+            "text": "Áron pedig száz és huszonhárom esztendős vala, mikor meghala a Hór hegyén."
+        },
+        {
+            "chapter": 33,
+            "verse": 40,
+            "name": "Numbers 33:40",
+            "text": "Hallott pedig a Kananeus, Arad királya (ez pedig dél felől lakozik vala a Kanaán földén) Izráel fiainak jövetele felől. "
+        },
+        {
+            "chapter": 33,
+            "verse": 41,
+            "name": "Numbers 33:41",
+            "text": "És elindulának a Hór hegyétől, és tábort ütének Czalmonában."
+        },
+        {
+            "chapter": 33,
+            "verse": 42,
+            "name": "Numbers 33:42",
+            "text": "És elindulának Czalmonából, és tábort ütének Púnonban."
+        },
+        {
+            "chapter": 33,
+            "verse": 43,
+            "name": "Numbers 33:43",
+            "text": "És elindulának Púnonból, és tábort ütének Obothban."
+        },
+        {
+            "chapter": 33,
+            "verse": 44,
+            "name": "Numbers 33:44",
+            "text": "És elindulának Obothból, és tábort ütének Ijé-Abárimban, a Moáb határán. "
+        },
+        {
+            "chapter": 33,
+            "verse": 45,
+            "name": "Numbers 33:45",
+            "text": "És elindulának Ijé-Abárimból, és tábort ütének Dibon-Gádban."
+        },
+        {
+            "chapter": 33,
+            "verse": 46,
+            "name": "Numbers 33:46",
+            "text": "És elindulának Dibon-Gádból, és tábort ütének Almon-Diblathaimban."
+        },
+        {
+            "chapter": 33,
+            "verse": 47,
+            "name": "Numbers 33:47",
+            "text": "És elindulának Almon-Diblathaimból, és tábort ütének az Abarim hegységnél, Nébó ellenében. "
+        },
+        {
+            "chapter": 33,
+            "verse": 48,
+            "name": "Numbers 33:48",
+            "text": "És elindulának az Abarim hegységétől, és tábort ütének a Moáb mezőségén, a Jordán mellett, Jérikhó ellenében."
+        },
+        {
+            "chapter": 33,
+            "verse": 49,
+            "name": "Numbers 33:49",
+            "text": "Tábort ütének pedig a Jordán mellett, Beth-Hajjesimóthtól Abel-Hassittimig, a Moáb mezőségén.  "
+        },
+        {
+            "chapter": 33,
+            "verse": 50,
+            "name": "Numbers 33:50",
+            "text": " És szóla az Úr Mózesnek a Moáb mezőségén, a Jordán mellett, Jerikhó ellenében, mondván:"
+        },
+        {
+            "chapter": 33,
+            "verse": 51,
+            "name": "Numbers 33:51",
+            "text": "Szólj Izráel fiainak, és mondd meg nékik: Mikor átmentek ti a Jordánon a Kanaán földére:"
+        },
+        {
+            "chapter": 33,
+            "verse": 52,
+            "name": "Numbers 33:52",
+            "text": "Űzzétek ki akkor a földnek minden lakosát a ti színetek elől, és veszessétek el minden írott képeiket, és minden ő öntött bálványképeiket is elveszessétek, és minden magaslataikat rontsátok el! "
+        },
+        {
+            "chapter": 33,
+            "verse": 53,
+            "name": "Numbers 33:53",
+            "text": "Űzzétek ki a földnek lakóit, és lakozzatok abban; mert néktek adtam azt a földet, hogy bírjátok azt."
+        },
+        {
+            "chapter": 33,
+            "verse": 54,
+            "name": "Numbers 33:54",
+            "text": "Azt a földet pedig sorsvetés által vegyétek birtokotokba a ti nemzetségeitek szerint. A nagyobb számúnak nagyobbítsátok az ő örökségét, a kisebb számúnak kisebbítsd az ő örökségét. A hová a sors esik valaki számára, az legyen az övé. A ti atyáitoknak törzsei szerint vegyétek át birtokotokat. "
+        },
+        {
+            "chapter": 33,
+            "verse": 55,
+            "name": "Numbers 33:55",
+            "text": "Ha pedig nem űzitek ki annak a földnek lakosait a ti színetek elől, akkor, a kiket meghagytok közülök, szálkákká lesznek a ti szemeitekben, és tövisekké a ti oldalaitokban, és ellenségeitek lesznek néktek a földön, a melyen lakoztok. "
+        },
+        {
+            "chapter": 33,
+            "verse": 56,
+            "name": "Numbers 33:56",
+            "text": "És akkor a miképen gondoltam, hogy cselekszem azokkal, úgy cselekszem majd veletek.  "
+        }
+    ]
+}

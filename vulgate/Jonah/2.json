@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "verses": [
+        {
+            "chapter": 2,
+            "verse": 1,
+            "name": "Jonah 2:1",
+            "text": "Et præparavit Dominus piscem grandem ut deglutiret Jonam : et erat Jonas in ventre piscis tribus diebus et tribus noctibus. "
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "name": "Jonah 2:2",
+            "text": "Et oravit Jonas ad Dominum Deum suum de ventre piscis, "
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "name": "Jonah 2:3",
+            "text": "et dixit :   Clamavi de tribulatione mea ad Dominum,  et exaudivit me ;  de ventre inferi clamavi,  et exaudisti vocem meam. "
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "name": "Jonah 2:4",
+            "text": " Et projecisti me in profundum in corde maris,  et flumen circumdedit me :  omnes gurgites tui, et fluctus tui super me transierunt. "
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "name": "Jonah 2:5",
+            "text": " Et ego dixi :  Abjectus sum a conspectu oculorum tuorum ;  verumtamen rursus videbo templum sanctum tuum. "
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "name": "Jonah 2:6",
+            "text": " Circumdederunt me aquæ usque ad animam :  abyssus vallavit me,  pelagus operuit caput meum. "
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "name": "Jonah 2:7",
+            "text": " Ad extrema montium descendi ;  terræ vectes concluserunt me in æternum :  et sublevabis de corruptione vitam meam, Domine Deus meus. "
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "name": "Jonah 2:8",
+            "text": " Cum angustiaretur in me anima mea,  Domini recordatus sum :  ut veniat ad te oratio mea,  ad templum sanctum tuum. "
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "name": "Jonah 2:9",
+            "text": " Qui custodiunt vanitates frustra,  misericordiam suam derelinquunt. "
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "name": "Jonah 2:10",
+            "text": " Ego autem in voce laudis immolabo tibi :  quæcumque vovi, reddam pro salute Domino. "
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "name": "Jonah 2:11",
+            "text": "Et dixit Dominus pisci, et evomuit Jonam in aridam.  "
+        }
+    ]
+}

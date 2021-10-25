@@ -1,0 +1,98 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 41,
+    "name": "Psalms 41",
+    "verses": [
+        {
+            "chapter": 41,
+            "verse": 1,
+            "name": "Psalms 41:1",
+            "text": " Az éneklőmesternek; Dávid zsoltára."
+        },
+        {
+            "chapter": 41,
+            "verse": 2,
+            "name": "Psalms 41:2",
+            "text": "Boldog, a ki a nyomorultra gondol; a veszedelem napján megmenti azt az Úr. "
+        },
+        {
+            "chapter": 41,
+            "verse": 3,
+            "name": "Psalms 41:3",
+            "text": "Az Úr megőrzi azt és élteti azt; boldog lesz e földön, és nem adhatod oda ellenségei kivánságának."
+        },
+        {
+            "chapter": 41,
+            "verse": 4,
+            "name": "Psalms 41:4",
+            "text": "Az Úr megerősíti őt az ő betegágyán; bármilyen az ágya, megkönnyíted betegségében."
+        },
+        {
+            "chapter": 41,
+            "verse": 5,
+            "name": "Psalms 41:5",
+            "text": "Én azt mondtam: Uram kegyelmezz nékem, gyógyítsd meg lelkemet, mert vétkeztem ellened! "
+        },
+        {
+            "chapter": 41,
+            "verse": 6,
+            "name": "Psalms 41:6",
+            "text": "Ellenségeim rosszat mondanak felőlem: Mikor hal meg és vész ki a neve? "
+        },
+        {
+            "chapter": 41,
+            "verse": 7,
+            "name": "Psalms 41:7",
+            "text": "Ha látogatni jön be valaki, hiábavalóságot beszél; szíve álnokságot gyűjt össze magának, kimegy az utczára és beszél."
+        },
+        {
+            "chapter": 41,
+            "verse": 8,
+            "name": "Psalms 41:8",
+            "text": "Minden gyűlölőm együtt suttog reám, gonoszat koholnak ellenem: "
+        },
+        {
+            "chapter": 41,
+            "verse": 9,
+            "name": "Psalms 41:9",
+            "text": "Istennek átka szállott ő reá, s mivelhogy benne fekszik, nem kél fel többé!"
+        },
+        {
+            "chapter": 41,
+            "verse": 10,
+            "name": "Psalms 41:10",
+            "text": "Még az én jóakaróm is, a kiben bíztam, a ki kenyeremet ette, fölemelte sarkát ellenem. "
+        },
+        {
+            "chapter": 41,
+            "verse": 11,
+            "name": "Psalms 41:11",
+            "text": "De te Uram, könyörülj rajtam és emelj föl engemet, hadd fizessek meg nékik!"
+        },
+        {
+            "chapter": 41,
+            "verse": 12,
+            "name": "Psalms 41:12",
+            "text": "Abból tudom meg, hogy kedvelsz engemet, ha ellenségem nem ujjong felettem; "
+        },
+        {
+            "chapter": 41,
+            "verse": 13,
+            "name": "Psalms 41:13",
+            "text": "Engem pedig feddhetetlenségemben támogatsz, és színed elé állatsz mindenha. "
+        },
+        {
+            "chapter": 41,
+            "verse": 14,
+            "name": "Psalms 41:14",
+            "text": "Áldott az Úr, Izráelnek Istene öröktől fogva mindörökké. Ámen, ámen!   "
+        }
+    ]
+}

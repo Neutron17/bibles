@@ -1,0 +1,206 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 26,
+    "book_name": "Ezekiel",
+    "chapter": 18,
+    "name": "Ezekiel 18",
+    "verses": [
+        {
+            "chapter": 18,
+            "verse": 1,
+            "name": "Ezekiel 18:1",
+            "text": "Et factus est sermo Domini ad me, dicens : "
+        },
+        {
+            "chapter": 18,
+            "verse": 2,
+            "name": "Ezekiel 18:2",
+            "text": "Quid est quod inter vos parabolam vertitis in proverbium istud in terra Israël, dicentes : Patres comederunt uvam acerbam, et dentes filiorum obstupescunt ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 3,
+            "name": "Ezekiel 18:3",
+            "text": "Vivo ego, dicit Dominus Deus, si erit ultra vobis parabola hæc in proverbium in Israël. "
+        },
+        {
+            "chapter": 18,
+            "verse": 4,
+            "name": "Ezekiel 18:4",
+            "text": "Ecce omnes animæ meæ sunt : ut anima patris, ita et anima filii mea est : anima quæ peccaverit, ipsa morietur. "
+        },
+        {
+            "chapter": 18,
+            "verse": 5,
+            "name": "Ezekiel 18:5",
+            "text": "Et vir si fuerit justus, et fecerit judicium et justitiam, "
+        },
+        {
+            "chapter": 18,
+            "verse": 6,
+            "name": "Ezekiel 18:6",
+            "text": "in montibus non comederit, et oculos suos non levaverit ad idola domus Israël : et uxorem proximi sui non violaverit, et ad mulierem menstruatam non accesserit : "
+        },
+        {
+            "chapter": 18,
+            "verse": 7,
+            "name": "Ezekiel 18:7",
+            "text": "et hominem non contristaverit, pignus debitori reddiderit, per vim nihil rapuerit : panem suum esurienti dederit, et nudum operuerit vestimento : "
+        },
+        {
+            "chapter": 18,
+            "verse": 8,
+            "name": "Ezekiel 18:8",
+            "text": "ad usuram non commodaverit, et amplius non acceperit : ab iniquitate averterit manum suam, et judicium verum fecerit inter virum et virum : "
+        },
+        {
+            "chapter": 18,
+            "verse": 9,
+            "name": "Ezekiel 18:9",
+            "text": "in præceptis meis ambulaverit, et judicia mea custodierit, ut faciat veritatem : hic justus est ; vita vivet, ait Dominus Deus. "
+        },
+        {
+            "chapter": 18,
+            "verse": 10,
+            "name": "Ezekiel 18:10",
+            "text": "Quod si genuerit filium latronem, effundentem sanguinem, et fecerit unum de istis : "
+        },
+        {
+            "chapter": 18,
+            "verse": 11,
+            "name": "Ezekiel 18:11",
+            "text": "et hæc quidem omnia non facientem, sed in montibus comedentem, et uxorem proximi sui polluentem : "
+        },
+        {
+            "chapter": 18,
+            "verse": 12,
+            "name": "Ezekiel 18:12",
+            "text": "egenum et pauperem contristantem, rapientem rapinas, pignus non reddentem, et ad idola levantem oculos suos, abominationem facientem : "
+        },
+        {
+            "chapter": 18,
+            "verse": 13,
+            "name": "Ezekiel 18:13",
+            "text": "ad usuram dantem, et amplius accipientem : numquid vivet ? Non vivet : cum universa hæc detestanda fecerit, morte morietur ; sanguis ejus in ipso erit. "
+        },
+        {
+            "chapter": 18,
+            "verse": 14,
+            "name": "Ezekiel 18:14",
+            "text": "Quod si genuerit filium, qui videns omnia peccata patris sui quæ fecit, timuerit, et non fecerit simile eis : "
+        },
+        {
+            "chapter": 18,
+            "verse": 15,
+            "name": "Ezekiel 18:15",
+            "text": "super montes non comederit, et oculos suos non levaverit ad idola domus Israël, et uxorem proximi sui non violaverit : "
+        },
+        {
+            "chapter": 18,
+            "verse": 16,
+            "name": "Ezekiel 18:16",
+            "text": "et virum non contristaverit, pignus non retinuerit, et rapinam non rapuerit : panem suum esurienti dederit, et nudum operuerit vestimento : "
+        },
+        {
+            "chapter": 18,
+            "verse": 17,
+            "name": "Ezekiel 18:17",
+            "text": "a pauperis injuria averterit manum suam, usuram et superabundantiam non acceperit, judicia mea fecerit, in præceptis meis ambulaverit : hic non morietur in iniquitate patris sui, sed vita vivet. "
+        },
+        {
+            "chapter": 18,
+            "verse": 18,
+            "name": "Ezekiel 18:18",
+            "text": "Pater ejus, quia calumniatus est, et vim fecit fratri, et malum operatus est in medio populi sui, ecce mortuus est in iniquitate sua. "
+        },
+        {
+            "chapter": 18,
+            "verse": 19,
+            "name": "Ezekiel 18:19",
+            "text": "Et dicitis : Quare non portavit filius iniquitatem patris ? Videlicet quia filius judicium et justitiam operatus est, omnia præcepta mea custodivit, et fecit illa, vivet vita. "
+        },
+        {
+            "chapter": 18,
+            "verse": 20,
+            "name": "Ezekiel 18:20",
+            "text": "Anima quæ peccaverit, ipsa morietur : filius non portabit iniquitatem patris, et pater non portabit iniquitatem filii : justitia justi super eum erit, et impietas impii erit super eum.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 21,
+            "name": "Ezekiel 18:21",
+            "text": " Si autem impius egerit pœnitentiam ab omnibus peccatis suis quæ operatus est, et custodierit omnia præcepta mea, et fecerit judicium et justitiam, vita vivet, et non morietur. "
+        },
+        {
+            "chapter": 18,
+            "verse": 22,
+            "name": "Ezekiel 18:22",
+            "text": "Omnium iniquitatum ejus quas operatus est, non recordabor : in justitia sua quam operatus est, vivet. "
+        },
+        {
+            "chapter": 18,
+            "verse": 23,
+            "name": "Ezekiel 18:23",
+            "text": "Numquid voluntatis meæ est mors impii, dicit Dominus Deus, et non ut convertatur a viis suis, et vivat ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 24,
+            "name": "Ezekiel 18:24",
+            "text": "Si autem averterit se justus a justitia sua, et fecerit iniquitatem secundum omnes abominationes quas operari solet impius, numquid vivet ? Omnes justitiæ ejus quas fecerat, non recordabuntur : in prævaricatione qua prævaricatus est, et in peccato suo quod peccavit, in ipsis morietur.  "
+        },
+        {
+            "chapter": 18,
+            "verse": 25,
+            "name": "Ezekiel 18:25",
+            "text": " Et dixistis : Non est æqua via Domini ! Audite ergo, domus Israël : numquid via mea non est æqua, et non magis viæ vestræ pravæ sunt ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 26,
+            "name": "Ezekiel 18:26",
+            "text": "Cum enim averterit se justus a justitia sua, et fecerit iniquitatem, morietur in eis : in injustitia quam operatus est morietur. "
+        },
+        {
+            "chapter": 18,
+            "verse": 27,
+            "name": "Ezekiel 18:27",
+            "text": "Et cum averterit se impius ab impietate sua quam operatus est, et fecerit judicium et justitiam, ipse animam suam vivificabit : "
+        },
+        {
+            "chapter": 18,
+            "verse": 28,
+            "name": "Ezekiel 18:28",
+            "text": "considerans enim, et avertens se ab omnibus iniquitatibus suis quas operatus est, vita vivet, et non morietur. "
+        },
+        {
+            "chapter": 18,
+            "verse": 29,
+            "name": "Ezekiel 18:29",
+            "text": "Et dicunt filii Israël : Non est æqua via Domini ! Numquid viæ meæ non sunt æquæ, domus Israël, et non magis viæ vestræ pravæ ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 30,
+            "name": "Ezekiel 18:30",
+            "text": "Idcirco unumquemque juxta vias suas judicabo, domus Israël, ait Dominus Deus. Convertimini, et agite pœnitentiam ab omnibus iniquitatibus vestris, et non erit vobis in ruinam iniquitas. "
+        },
+        {
+            "chapter": 18,
+            "verse": 31,
+            "name": "Ezekiel 18:31",
+            "text": "Projicite a vobis omnes prævaricationes vestras in quibus prævaricati estis, et facite vobis cor novum, et spiritum novum : et quare moriemini, domus Israël ? "
+        },
+        {
+            "chapter": 18,
+            "verse": 32,
+            "name": "Ezekiel 18:32",
+            "text": "Quia nolo mortem morientis, dicit Dominus Deus : revertimini, et vivite.   "
+        }
+    ]
+}

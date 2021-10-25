@@ -1,0 +1,350 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 42,
+    "book_name": "Luke",
+    "chapter": 23,
+    "name": "Luke 23",
+    "verses": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "name": "Luke 23:1",
+            "text": "Et surgens omnis multitudo eorum, duxerunt illum ad Pilatum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "name": "Luke 23:2",
+            "text": "Cœperunt autem illum accusare, dicentes : Hunc invenimus subvertentem gentem nostram, et prohibentem tributa dare Cæsari, et dicentem se Christum regem esse. "
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "name": "Luke 23:3",
+            "text": "Pilatus autem interrogavit eum, dicens : Tu es rex Judæorum ? At ille respondens ait : Tu dicis. "
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "name": "Luke 23:4",
+            "text": "Ait autem Pilatus ad principes sacerdotum et turbas : Nihil invenio causæ in hoc homine. "
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "name": "Luke 23:5",
+            "text": "At illi invalescebant, dicentes : Commovet populum docens per universam Judæam, incipiens a Galilæa usque huc. "
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "name": "Luke 23:6",
+            "text": "Pilatus autem audiens Galilæam, interrogavit si homo Galilæus esset. "
+        },
+        {
+            "chapter": 23,
+            "verse": 7,
+            "name": "Luke 23:7",
+            "text": "Et ut cognovit quod de Herodis potestate esset, remisit eum ad Herodem, qui et ipse Jerosolymis erat illis diebus.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 8,
+            "name": "Luke 23:8",
+            "text": " Herodes autem viso Jesu, gavisus est valde. Erat enim cupiens ex multo tempore videre eum, eo quod audierat multa de eo, et sperabat signum aliquod videre ab eo fieri. "
+        },
+        {
+            "chapter": 23,
+            "verse": 9,
+            "name": "Luke 23:9",
+            "text": "Interrogabat autem eum multis sermonibus. At ipse nihil illi respondebat. "
+        },
+        {
+            "chapter": 23,
+            "verse": 10,
+            "name": "Luke 23:10",
+            "text": "Stabant autem principes sacerdotum et scribæ constanter accusantes eum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 11,
+            "name": "Luke 23:11",
+            "text": "Sprevit autem illum Herodes cum exercitu suo : et illusit indutum veste alba, et remisit ad Pilatum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 12,
+            "name": "Luke 23:12",
+            "text": "Et facti sunt amici Herodes et Pilatus in ipsa die : nam antea inimici erant ad invicem.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 13,
+            "name": "Luke 23:13",
+            "text": " Pilatus autem, convocatis principibus sacerdotum, et magistratibus, et plebe, "
+        },
+        {
+            "chapter": 23,
+            "verse": 14,
+            "name": "Luke 23:14",
+            "text": "dixit ad illos : Obtulistis mihi hunc hominem, quasi avertentem populum, et ecce ego coram vobis interrogans, nullam causam inveni in homine isto ex his in quibus eum accusatis. "
+        },
+        {
+            "chapter": 23,
+            "verse": 15,
+            "name": "Luke 23:15",
+            "text": "Sed neque Herodes : nam remisi vos ad illum, et ecce nihil dignum morte actum est ei. "
+        },
+        {
+            "chapter": 23,
+            "verse": 16,
+            "name": "Luke 23:16",
+            "text": "Emendatum ergo illum dimittam. "
+        },
+        {
+            "chapter": 23,
+            "verse": 17,
+            "name": "Luke 23:17",
+            "text": "Necesse autem habebat dimittere eis per diem festum unum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 18,
+            "name": "Luke 23:18",
+            "text": "Exclamavit autem simul universa turba, dicens : Tolle hunc, et dimitte nobis Barabbam : "
+        },
+        {
+            "chapter": 23,
+            "verse": 19,
+            "name": "Luke 23:19",
+            "text": "qui erat propter seditionem quamdam factam in civitate et homicidium missus in carcerem. "
+        },
+        {
+            "chapter": 23,
+            "verse": 20,
+            "name": "Luke 23:20",
+            "text": "Iterum autem Pilatus locutus est ad eos, volens dimittere Jesum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 21,
+            "name": "Luke 23:21",
+            "text": "At illi succlamabant, dicentes : Crucifige, crucifige eum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 22,
+            "name": "Luke 23:22",
+            "text": "Ille autem tertio dixit ad illos : Quid enim mali fecit iste ? nullam causam mortis invenio in eo : corripiam ergo illum et dimittam. "
+        },
+        {
+            "chapter": 23,
+            "verse": 23,
+            "name": "Luke 23:23",
+            "text": "At illi instabant vocibus magnis postulantes ut crucifigeretur : et invalescebant voces eorum.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 24,
+            "name": "Luke 23:24",
+            "text": " Et Pilatus adjudicavit fieri petitionem eorum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 25,
+            "name": "Luke 23:25",
+            "text": "Dimisit autem illis eum qui propter homicidium et seditionem missus fuerat in carcerem, quem petebant : Jesum vero tradidit voluntati eorum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 26,
+            "name": "Luke 23:26",
+            "text": "Et cum ducerent eum, apprehenderunt Simonem quemdam Cyrenensem venientem de villa : et imposuerunt illi crucem portare post Jesum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 27,
+            "name": "Luke 23:27",
+            "text": "Sequebatur autem illum multa turba populi et mulierum, quæ plangebant et lamentabantur eum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 28,
+            "name": "Luke 23:28",
+            "text": "Conversus autem ad illas Jesus, dixit : Filiæ Jerusalem, nolite flere super me, sed super vos ipsas flete et super filios vestros. "
+        },
+        {
+            "chapter": 23,
+            "verse": 29,
+            "name": "Luke 23:29",
+            "text": "Quoniam ecce venient dies in quibus dicent : Beatæ steriles, et ventres qui non genuerunt, et ubera quæ non lactaverunt. "
+        },
+        {
+            "chapter": 23,
+            "verse": 30,
+            "name": "Luke 23:30",
+            "text": "Tunc incipient dicere montibus : Cadite super nos ; et collibus : Operite nos. "
+        },
+        {
+            "chapter": 23,
+            "verse": 31,
+            "name": "Luke 23:31",
+            "text": "Quia si in viridi ligno hæc faciunt, in arido quid fiet ? "
+        },
+        {
+            "chapter": 23,
+            "verse": 32,
+            "name": "Luke 23:32",
+            "text": "Ducebantur autem et alii duo nequam cum eo, ut interficerentur.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 33,
+            "name": "Luke 23:33",
+            "text": " Et postquam venerunt in locum qui vocatur Calvariæ, ibi crucifixerunt eum : et latrones, unum a dextris, et alterum a sinistris. "
+        },
+        {
+            "chapter": 23,
+            "verse": 34,
+            "name": "Luke 23:34",
+            "text": "Jesus autem dicebat : Pater, dimitte illis : non enim sciunt quid faciunt. Dividentes vero vestimenta ejus, miserunt sortes. "
+        },
+        {
+            "chapter": 23,
+            "verse": 35,
+            "name": "Luke 23:35",
+            "text": "Et stabat populus spectans, et deridebant eum principes cum eis, dicentes : Alios salvos fecit, se salvum faciat, si hic est Christus Dei electus. "
+        },
+        {
+            "chapter": 23,
+            "verse": 36,
+            "name": "Luke 23:36",
+            "text": "Illudebant autem ei et milites accedentes, et acetum offerentes ei, "
+        },
+        {
+            "chapter": 23,
+            "verse": 37,
+            "name": "Luke 23:37",
+            "text": "et dicentes : Si tu es rex Judæorum, salvum te fac. "
+        },
+        {
+            "chapter": 23,
+            "verse": 38,
+            "name": "Luke 23:38",
+            "text": "Erat autem et superscriptio scripta super eum litteris græcis, et latinis, et hebraicis : Hic est rex Judæorum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 39,
+            "name": "Luke 23:39",
+            "text": "Unus autem de his, qui pendebant, latronibus, blasphemabat eum, dicens : Si tu es Christus, salvum fac temetipsum et nos. "
+        },
+        {
+            "chapter": 23,
+            "verse": 40,
+            "name": "Luke 23:40",
+            "text": "Respondens autem alter increpabat eum, dicens : Neque tu times Deum, quod in eadem damnatione es. "
+        },
+        {
+            "chapter": 23,
+            "verse": 41,
+            "name": "Luke 23:41",
+            "text": "Et nos quidem juste, nam digna factis recipimus : hic vero nihil mali gessit. "
+        },
+        {
+            "chapter": 23,
+            "verse": 42,
+            "name": "Luke 23:42",
+            "text": "Et dicebat ad Jesum : Domine, memento mei cum veneris in regnum tuum. "
+        },
+        {
+            "chapter": 23,
+            "verse": 43,
+            "name": "Luke 23:43",
+            "text": "Et dixit illi Jesus : Amen dico tibi : hodie mecum eris in paradiso.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 44,
+            "name": "Luke 23:44",
+            "text": " Erat autem fere hora sexta, et tenebræ factæ sunt in universam terram usque ad horam nonam. "
+        },
+        {
+            "chapter": 23,
+            "verse": 45,
+            "name": "Luke 23:45",
+            "text": "Et obscuratus est sol, et velum templi scissum est medium. "
+        },
+        {
+            "chapter": 23,
+            "verse": 46,
+            "name": "Luke 23:46",
+            "text": "Et clamans voce magna Jesus ait : Pater, in manus tuas commendo spiritum meum. Et hæc dicens, expiravit. "
+        },
+        {
+            "chapter": 23,
+            "verse": 47,
+            "name": "Luke 23:47",
+            "text": "Videns autem centurio quod factum fuerat, glorificavit Deum, dicens : Vere hic homo justus erat. "
+        },
+        {
+            "chapter": 23,
+            "verse": 48,
+            "name": "Luke 23:48",
+            "text": "Et omnis turba eorum, qui simul aderant ad spectaculum istud, et videbant quæ fiebant, percutientes pectora sua revertebantur. "
+        },
+        {
+            "chapter": 23,
+            "verse": 49,
+            "name": "Luke 23:49",
+            "text": "Stabant autem omnes noti ejus a longe, et mulieres, quæ secutæ eum erant a Galilæa, hæc videntes.  "
+        },
+        {
+            "chapter": 23,
+            "verse": 50,
+            "name": "Luke 23:50",
+            "text": " Et ecce vir nomine Joseph, qui erat decurio, vir bonus et justus : "
+        },
+        {
+            "chapter": 23,
+            "verse": 51,
+            "name": "Luke 23:51",
+            "text": "hic non consenserat consilio, et actibus eorum : ab Arimathæa civitate Judææ, qui exspectabat et ipse regnum Dei : "
+        },
+        {
+            "chapter": 23,
+            "verse": 52,
+            "name": "Luke 23:52",
+            "text": "hic accessit ad Pilatum et petiit corpus Jesu : "
+        },
+        {
+            "chapter": 23,
+            "verse": 53,
+            "name": "Luke 23:53",
+            "text": "et depositum involvit sindone, et posuit eum in monumento exciso, in quo nondum quisquam positus fuerat. "
+        },
+        {
+            "chapter": 23,
+            "verse": 54,
+            "name": "Luke 23:54",
+            "text": "Et dies erat parasceves, et sabbatum illucescebat. "
+        },
+        {
+            "chapter": 23,
+            "verse": 55,
+            "name": "Luke 23:55",
+            "text": "Subsecutæ autem mulieres, quæ cum eo venerant de Galilæa, viderunt monumentum, et quemadmodum positum erat corpus ejus. "
+        },
+        {
+            "chapter": 23,
+            "verse": 56,
+            "name": "Luke 23:56",
+            "text": "Et revertentes paraverunt aromata, et unguenta : et sabbato quidem siluerunt secundum mandatum.   "
+        }
+    ]
+}

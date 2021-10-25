@@ -1,0 +1,32 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 133,
+    "name": "Psalms 133",
+    "verses": [
+        {
+            "chapter": 133,
+            "verse": 1,
+            "name": "Psalms 133:1",
+            "text": "Canticum graduum.   Ecce nunc benedicite Dominum, omnes servi Domini :  qui statis in domo Domini,  in atriis domus Dei nostri. "
+        },
+        {
+            "chapter": 133,
+            "verse": 2,
+            "name": "Psalms 133:2",
+            "text": " In noctibus extollite manus vestras in sancta,  et benedicite Dominum. "
+        },
+        {
+            "chapter": 133,
+            "verse": 3,
+            "name": "Psalms 133:3",
+            "text": " Benedicat te Dominus ex Sion,  qui fecit cælum et terram.  "
+        }
+    ]
+}

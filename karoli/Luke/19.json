@@ -1,0 +1,302 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 42,
+    "book_name": "Luke",
+    "chapter": 19,
+    "name": "Luke 19",
+    "verses": [
+        {
+            "chapter": 19,
+            "verse": 1,
+            "name": "Luke 19:1",
+            "text": " És bemenvén, általméne Jerikhón. "
+        },
+        {
+            "chapter": 19,
+            "verse": 2,
+            "name": "Luke 19:2",
+            "text": "És ímé vala ott egy ember, a kit nevéről Zákeusnak hívtak; és az fővámszedő vala, és gazdag. "
+        },
+        {
+            "chapter": 19,
+            "verse": 3,
+            "name": "Luke 19:3",
+            "text": "És igyekezék Jézust látni, ki az; de a sokaságtól nem láthatá, mivelhogy termete szerint kis ember volt. "
+        },
+        {
+            "chapter": 19,
+            "verse": 4,
+            "name": "Luke 19:4",
+            "text": "És előre futván felhága egy eperfüge fára, hogy őt lássa; mert arra vala elmenendő. "
+        },
+        {
+            "chapter": 19,
+            "verse": 5,
+            "name": "Luke 19:5",
+            "text": "És mikor arra a helyre jutott, feltekintvén Jézus, látá őt, és monda néki: Zákeus, hamar szállj alá; mert ma nékem a te házadnál kell maradnom. "
+        },
+        {
+            "chapter": 19,
+            "verse": 6,
+            "name": "Luke 19:6",
+            "text": "És sietve leszálla, és örömmel fogadá őt. "
+        },
+        {
+            "chapter": 19,
+            "verse": 7,
+            "name": "Luke 19:7",
+            "text": "És mikor ezt látták, mindnyájan zúgolódának, mondván hogy: Bűnös emberhez ment be szállásra. "
+        },
+        {
+            "chapter": 19,
+            "verse": 8,
+            "name": "Luke 19:8",
+            "text": "Zákeus pedig előállván, monda az Úrnak: Uram, ímé minden vagyonomnak felét a szegényeknek adom, és ha valakitől valamit patvarkodással elvettem, négy annyit adok helyébe."
+        },
+        {
+            "chapter": 19,
+            "verse": 9,
+            "name": "Luke 19:9",
+            "text": "Monda pedig néki Jézus: Ma lett idvessége ennek a háznak! mivelhogy ő is Ábrahám fia. "
+        },
+        {
+            "chapter": 19,
+            "verse": 10,
+            "name": "Luke 19:10",
+            "text": "Mert azért jött az embernek Fia, hogy megkeresse és megtartsa, a mi elveszett.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 11,
+            "name": "Luke 19:11",
+            "text": " És mikor azok ezeket hallották, folytatá és monda egy példázatot, mivelhogy közel vala Jeruzsálemhez, és azok azt gondolák, hogy azonnal megjelenik az Isten országa."
+        },
+        {
+            "chapter": 19,
+            "verse": 12,
+            "name": "Luke 19:12",
+            "text": "Monda azért: Egy nemes ember elméne messze tartományba, hogy országot vegyen magának, aztán visszatérjen. "
+        },
+        {
+            "chapter": 19,
+            "verse": 13,
+            "name": "Luke 19:13",
+            "text": "Előszólítván azért tíz szolgáját, ada nékik tíz gírát, és monda nékik: Kereskedjetek, míg megjövök. "
+        },
+        {
+            "chapter": 19,
+            "verse": 14,
+            "name": "Luke 19:14",
+            "text": "Az ő alattvalói pedig gyűlölék őt, és követséget küldének utána, mondván: Nem akarjuk, hogy ő uralkodjék mi rajtunk. "
+        },
+        {
+            "chapter": 19,
+            "verse": 15,
+            "name": "Luke 19:15",
+            "text": "És lőn, mikor megjött az ország vétele után, parancsolá, hogy az ő szolgáit, a kiknek a pénzt adta, hívják ő hozzá, hogy megtudja, ki mint kereskedett."
+        },
+        {
+            "chapter": 19,
+            "verse": 16,
+            "name": "Luke 19:16",
+            "text": "Eljöve pedig az első, mondván: Uram, a te gírád tíz gírát nyert. "
+        },
+        {
+            "chapter": 19,
+            "verse": 17,
+            "name": "Luke 19:17",
+            "text": "Ő pedig monda néki: Jól vagyon jó szolgám; mivelhogy kevesen voltál hív, legyen birodalmad tíz városon. "
+        },
+        {
+            "chapter": 19,
+            "verse": 18,
+            "name": "Luke 19:18",
+            "text": "És jöve a második, mondván: Uram, a te gírád öt gírát nyert. "
+        },
+        {
+            "chapter": 19,
+            "verse": 19,
+            "name": "Luke 19:19",
+            "text": "Monda pedig ennek is: Néked is legyen birodalmad öt városon."
+        },
+        {
+            "chapter": 19,
+            "verse": 20,
+            "name": "Luke 19:20",
+            "text": "És jöve egy másik, mondván: Uram, imhol a te gírád, melyet egy keszkenőben eltéve tartottam;"
+        },
+        {
+            "chapter": 19,
+            "verse": 21,
+            "name": "Luke 19:21",
+            "text": "Mert féltem tőled, mivelhogy kemény ember vagy; elveszed a mit nem te tettél el, és aratod, a mit nem te vetettél."
+        },
+        {
+            "chapter": 19,
+            "verse": 22,
+            "name": "Luke 19:22",
+            "text": "Monda pedig annak: A te szádból ítéllek meg téged, gonosz szolga. Tudtad, hogy én kemény ember vagyok, ki elveszem, a mit nem én tettem el, és aratom, a mit nem én vetettem; "
+        },
+        {
+            "chapter": 19,
+            "verse": 23,
+            "name": "Luke 19:23",
+            "text": "Miért nem adtad azért az én pénzemet a pénzváltók asztalára, és én megjövén, kamatostól kaptam volna azt vissza? "
+        },
+        {
+            "chapter": 19,
+            "verse": 24,
+            "name": "Luke 19:24",
+            "text": "És az ott állóknak monda: Vegyétek el ettől a gírát, és adjátok annak, a kinek tíz gírája van. "
+        },
+        {
+            "chapter": 19,
+            "verse": 25,
+            "name": "Luke 19:25",
+            "text": "És mondának néki: Uram, tíz gírája van! "
+        },
+        {
+            "chapter": 19,
+            "verse": 26,
+            "name": "Luke 19:26",
+            "text": "És ő monda: Mert mondom néktek, hogy mindenkinek, a kinek van, adatik; a kinek pedig nincs, még a mije van is, elvétetik tőle. "
+        },
+        {
+            "chapter": 19,
+            "verse": 27,
+            "name": "Luke 19:27",
+            "text": "Sőt ennek felette amaz én ellenségeimet is, kik nem akarták, hogy én ő rajtok uralkodjam, hozzátok ide, és öljétek meg előttem! "
+        },
+        {
+            "chapter": 19,
+            "verse": 28,
+            "name": "Luke 19:28",
+            "text": "És ezeket mondván, megy vala elől, felmenvén Jeruzsálembe.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 29,
+            "name": "Luke 19:29",
+            "text": " És lőn, mikor közelgetett Béthfágéhoz és Bethániához, a hegyhez, mely Olajfák hegyének hívatik, elkülde kettőt az ő tanítványai közül, "
+        },
+        {
+            "chapter": 19,
+            "verse": 30,
+            "name": "Luke 19:30",
+            "text": "Mondván: Menjetek el az átellenben levő faluba; melybe bemenvén, találtok egy megkötött vemhet, melyen soha egy ember sem ült: eloldván azt, hozzátok ide. "
+        },
+        {
+            "chapter": 19,
+            "verse": 31,
+            "name": "Luke 19:31",
+            "text": "És ha valaki kérdez titeket: Miért oldjátok el? ezt mondjátok annak: Mert az Úrnak szüksége van reá. "
+        },
+        {
+            "chapter": 19,
+            "verse": 32,
+            "name": "Luke 19:32",
+            "text": "És elmenvén a küldöttek, úgy találák, a mint nékik mondotta. "
+        },
+        {
+            "chapter": 19,
+            "verse": 33,
+            "name": "Luke 19:33",
+            "text": "És mikor a vemhet eloldák, mondának nékik annak gazdái: Miért oldjátok el a vemhet? "
+        },
+        {
+            "chapter": 19,
+            "verse": 34,
+            "name": "Luke 19:34",
+            "text": "Ők pedig mondának: Az Úrnak szüksége van reá. "
+        },
+        {
+            "chapter": 19,
+            "verse": 35,
+            "name": "Luke 19:35",
+            "text": "Elvivék azért azt Jézushoz: és az ő felsőruháikat a vemhére vetvén, Jézust reá helyhezteték. "
+        },
+        {
+            "chapter": 19,
+            "verse": 36,
+            "name": "Luke 19:36",
+            "text": "És mikor ő méne, az ő felsőruháikat az útra teríték. "
+        },
+        {
+            "chapter": 19,
+            "verse": 37,
+            "name": "Luke 19:37",
+            "text": "Mikor pedig immár közelgete az Olajfák hegyének lejtőjéhez, a tanítványok egész sokasága örvendezve kezdé dicsérni az Istent fenszóval mindazokért a csodákért, a melyeket láttak; "
+        },
+        {
+            "chapter": 19,
+            "verse": 38,
+            "name": "Luke 19:38",
+            "text": "Mondván: Áldott a Király, ki jő az Úrnak nevében! Békesség a mennyben, és dicsőség a magasságban! "
+        },
+        {
+            "chapter": 19,
+            "verse": 39,
+            "name": "Luke 19:39",
+            "text": "És némelyek a farizeusok közül a sokaságból mondának néki: Mester, dorgáld meg a te tanítványaidat! "
+        },
+        {
+            "chapter": 19,
+            "verse": 40,
+            "name": "Luke 19:40",
+            "text": "És ő felelvén, monda nékik: Mondom néktek, hogyha ezek elhallgatnak, a kövek fognak kiáltani.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 41,
+            "name": "Luke 19:41",
+            "text": " És mikor közeledett, látván a várost, síra azon. "
+        },
+        {
+            "chapter": 19,
+            "verse": 42,
+            "name": "Luke 19:42",
+            "text": "Mondván: Vajha megismerted volna te is, csak e te mostani napodon is, a mik néked a te békességedre valók! de most elrejtettek a te szemeid elől. "
+        },
+        {
+            "chapter": 19,
+            "verse": 43,
+            "name": "Luke 19:43",
+            "text": "Mert jőnek reád napok, mikor a te ellenségeid te körülted palánkot építenek, és körülvesznek téged, és mindenfelől megszorítanak téged. "
+        },
+        {
+            "chapter": 19,
+            "verse": 44,
+            "name": "Luke 19:44",
+            "text": "És a földre tipornak téged, és a te fiaidat te benned; és nem hagynak te benned követ kövön; mivelhogy nem ismerted meg a te meglátogatásodnak idejét.  "
+        },
+        {
+            "chapter": 19,
+            "verse": 45,
+            "name": "Luke 19:45",
+            "text": " És bemenvén a templomba, kezdé kiűzni azokat, a kik adnak és vesznek vala abban, "
+        },
+        {
+            "chapter": 19,
+            "verse": 46,
+            "name": "Luke 19:46",
+            "text": "Mondván nékik: Meg van írva: Az én házam imádságnak háza; ti pedig azt latroknak barlangjává tettétek. "
+        },
+        {
+            "chapter": 19,
+            "verse": 47,
+            "name": "Luke 19:47",
+            "text": "És tanít vala minden nap a templomban. A főpapok pedig és az írástudók és a nép előkelői igyekeznek vala őt elveszteni: "
+        },
+        {
+            "chapter": 19,
+            "verse": 48,
+            "name": "Luke 19:48",
+            "text": "És nem találták el, mit cselekedjenek; mert az egész nép ő rajta függ vala, reá hallgatván.   "
+        }
+    ]
+}

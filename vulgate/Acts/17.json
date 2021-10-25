@@ -1,0 +1,218 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 44,
+    "book_name": "Acts",
+    "chapter": 17,
+    "name": "Acts 17",
+    "verses": [
+        {
+            "chapter": 17,
+            "verse": 1,
+            "name": "Acts 17:1",
+            "text": "Cum autem perambulassent Amphipolim et Apolloniam, venerunt Thessalonicam, ubi erat synagoga Judæorum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 2,
+            "name": "Acts 17:2",
+            "text": "Secundum consuetudinem autem Paulus introivit ad eos, et per sabbata tria disserebat eis de Scripturis, "
+        },
+        {
+            "chapter": 17,
+            "verse": 3,
+            "name": "Acts 17:3",
+            "text": "adaperiens et insinuans quia Christum oportuit pati, et resurgere a mortuis : et quia hic est Jesus Christus, quem ego annuntio vobis. "
+        },
+        {
+            "chapter": 17,
+            "verse": 4,
+            "name": "Acts 17:4",
+            "text": "Et quidam ex eis crediderunt et adjuncti sunt Paulo et Silæ : et de colentibus gentilibusque multitudo magna, et mulieres nobiles non paucæ. "
+        },
+        {
+            "chapter": 17,
+            "verse": 5,
+            "name": "Acts 17:5",
+            "text": "Zelantes autem Judæi, assumentesque de vulgo viros quosdam malos, et turba facta, concitaverunt civitatem : et assistentes domui Jasonis quærebant eos producere in populum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 6,
+            "name": "Acts 17:6",
+            "text": "Et cum non invenissent eos, trahebant Jasonem et quosdam fratres ad principes civitatis, clamantes : Quoniam hi qui urbem concitant, et huc venerunt, "
+        },
+        {
+            "chapter": 17,
+            "verse": 7,
+            "name": "Acts 17:7",
+            "text": "quos suscepit Jason, et hi omnes contra decreta Cæsaris faciunt, regem alium dicentes esse, Jesum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 8,
+            "name": "Acts 17:8",
+            "text": "Concitaverunt autem plebem et principes civitatis audientes hæc. "
+        },
+        {
+            "chapter": 17,
+            "verse": 9,
+            "name": "Acts 17:9",
+            "text": "Et accepta satisfactione a Jasone et a ceteris, dimiserunt eos.  "
+        },
+        {
+            "chapter": 17,
+            "verse": 10,
+            "name": "Acts 17:10",
+            "text": " Fratres vero confestim per noctem dimiserunt Paulum et Silam in Berœam. Qui cum venissent, in synagogam Judæorum introierunt. "
+        },
+        {
+            "chapter": 17,
+            "verse": 11,
+            "name": "Acts 17:11",
+            "text": "Hi autem erant nobiliores eorum qui sunt Thessalonicæ, qui susceperunt verbum cum omni aviditate, quotidie scrutantes Scripturas, si hæc ita se haberent. "
+        },
+        {
+            "chapter": 17,
+            "verse": 12,
+            "name": "Acts 17:12",
+            "text": "Et multi quidem crediderunt ex eis, et mulierum gentilium honestarum, et viri non pauci. "
+        },
+        {
+            "chapter": 17,
+            "verse": 13,
+            "name": "Acts 17:13",
+            "text": "Cum autem cognovissent in Thessalonica Judæi quia et Berœæ prædicatum est a Paulo verbum Dei, venerunt et illuc commoventes, et turbantes multitudinem. "
+        },
+        {
+            "chapter": 17,
+            "verse": 14,
+            "name": "Acts 17:14",
+            "text": "Statimque tunc Paulum dimiserunt fratres, ut iret usque ad mare : Silas autem et Timotheus remanserunt ibi.  "
+        },
+        {
+            "chapter": 17,
+            "verse": 15,
+            "name": "Acts 17:15",
+            "text": " Qui autem deducebant Paulum, perduxerunt eum usque Athenas, et accepto mandato ab eo ad Silam et Timotheum ut quam celeriter venirent ad illum, profecti sunt. "
+        },
+        {
+            "chapter": 17,
+            "verse": 16,
+            "name": "Acts 17:16",
+            "text": "Paulus autem cum Athenis eos exspectaret, incitabatur spiritus ejus in ipso, videns idololatriæ deditam civitatem. "
+        },
+        {
+            "chapter": 17,
+            "verse": 17,
+            "name": "Acts 17:17",
+            "text": "Disputabat igitur in synagoga cum Judæis et colentibus, et in foro, per omnes dies ad eos qui aderant. "
+        },
+        {
+            "chapter": 17,
+            "verse": 18,
+            "name": "Acts 17:18",
+            "text": "Quidam autem epicurei et stoici philosophi disserebant cum eo, et quidam dicebant : Quid vult seminiverbius hic dicere ? Alii vero : Novorum dæmoniorum videtur annuntiator esse : quia Jesum et resurrectionem annuntiabat eis.  "
+        },
+        {
+            "chapter": 17,
+            "verse": 19,
+            "name": "Acts 17:19",
+            "text": " Et apprehensum eum ad Areopagum duxerunt, dicentes : Possumus scire quæ est hæc nova, quæ a te dicitur, doctrina ? "
+        },
+        {
+            "chapter": 17,
+            "verse": 20,
+            "name": "Acts 17:20",
+            "text": "nova enim quædam infers auribus nostris : volumus ergo scire quidnam velint hæc esse. "
+        },
+        {
+            "chapter": 17,
+            "verse": 21,
+            "name": "Acts 17:21",
+            "text": "(Athenienses autem omnes, et advenæ hospites, ad nihil aliud vacabant nisi aut dicere aut audire aliquid novi.) "
+        },
+        {
+            "chapter": 17,
+            "verse": 22,
+            "name": "Acts 17:22",
+            "text": "Stans autem Paulus in medio Areopagi, ait : Viri Athenienses, per omnia quasi superstitiosiores vos video. "
+        },
+        {
+            "chapter": 17,
+            "verse": 23,
+            "name": "Acts 17:23",
+            "text": "Præteriens enim, et videns simulacra vestra, inveni et aram in qua scriptum erat : Ignoto Deo. Quod ergo ignorantes colitis, hoc ego annuntio vobis. "
+        },
+        {
+            "chapter": 17,
+            "verse": 24,
+            "name": "Acts 17:24",
+            "text": "Deus, qui fecit mundum, et omnia quæ in eo sunt, hic cæli et terræ cum sit Dominus, non in manufactis templis habitat, "
+        },
+        {
+            "chapter": 17,
+            "verse": 25,
+            "name": "Acts 17:25",
+            "text": "nec manibus humanis colitur indigens aliquo, cum ipse det omnibus vitam, et inspirationem, et omnia : "
+        },
+        {
+            "chapter": 17,
+            "verse": 26,
+            "name": "Acts 17:26",
+            "text": "fecitque ex uno omne genus hominum inhabitare super universam faciem terræ, definiens statuta tempora, et terminos habitationis eorum, "
+        },
+        {
+            "chapter": 17,
+            "verse": 27,
+            "name": "Acts 17:27",
+            "text": "quærere Deum si forte attrectent eum, aut inveniant, quamvis non longe sit ab unoquoque nostrum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 28,
+            "name": "Acts 17:28",
+            "text": "In ipso enim vivimus, et movemur, et sumus : sicut et quidam vestrorum poëtarum dixerunt : Ipsius enim et genus sumus. "
+        },
+        {
+            "chapter": 17,
+            "verse": 29,
+            "name": "Acts 17:29",
+            "text": "Genus ergo cum simus Dei, non debemus æstimare auro, aut argento, aut lapidi, sculpturæ artis, et cogitationis hominis, divinum esse simile. "
+        },
+        {
+            "chapter": 17,
+            "verse": 30,
+            "name": "Acts 17:30",
+            "text": "Et tempora quidem hujus ignorantiæ despiciens Deus, nunc annuntiat hominibus ut omnes ubique pœnitentiam agant, "
+        },
+        {
+            "chapter": 17,
+            "verse": 31,
+            "name": "Acts 17:31",
+            "text": "eo quod statuit diem in quo judicaturus est orbem in æquitate, in viro in quo statuit, fidem præbens omnibus, suscitans eum a mortuis. "
+        },
+        {
+            "chapter": 17,
+            "verse": 32,
+            "name": "Acts 17:32",
+            "text": "Cum audissent autem resurrectionem mortuorum, quidam quidem irridebant, quidam vero dixerunt : Audiemus te de hoc iterum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 33,
+            "name": "Acts 17:33",
+            "text": "Sic Paulus exivit de medio eorum. "
+        },
+        {
+            "chapter": 17,
+            "verse": 34,
+            "name": "Acts 17:34",
+            "text": "Quidam vero viri adhærentes ei, crediderunt : in quibus et Dionysius Areopagita, et mulier nomine Damaris, et alii cum eis.   "
+        }
+    ]
+}

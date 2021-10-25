@@ -1,0 +1,368 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 43,
+    "book_name": "John",
+    "chapter": 8,
+    "name": "John 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "John 8:1",
+            "text": "Jesus autem perrexit in montem Oliveti : "
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "John 8:2",
+            "text": "et diluculo iterum venit in templum, et omnis populus venit ad eum, et sedens docebat eos. "
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "John 8:3",
+            "text": "Adducunt autem scribæ et pharisæi mulierem in adulterio deprehensam : et statuerunt eam in medio, "
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "John 8:4",
+            "text": "et dixerunt ei : Magister, hæc mulier modo deprehensa est in adulterio. "
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "John 8:5",
+            "text": "In lege autem Moyses mandavit nobis hujusmodi lapidare. Tu ergo quid dicis ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "John 8:6",
+            "text": "Hoc autem dicebant tentantes eum, ut possent accusare eum. Jesus autem inclinans se deorsum, digito scribebat in terra. "
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "John 8:7",
+            "text": "Cum ergo perseverarent interrogantes eum, erexit se, et dixit eis : Qui sine peccato est vestrum, primus in illam lapidem mittat. "
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "John 8:8",
+            "text": "Et iterum se inclinans, scribebat in terra. "
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "John 8:9",
+            "text": "Audientes autem unus post unum exibant, incipientes a senioribus : et remansit solus Jesus, et mulier in medio stans. "
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "name": "John 8:10",
+            "text": "Erigens autem se Jesus, dixit ei : Mulier, ubi sunt qui te accusabant ? nemo te condemnavit ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 11,
+            "name": "John 8:11",
+            "text": "Quæ dixit : Nemo, Domine. Dixit autem Jesus : Nec ego te condemnabo : vade, et jam amplius noli peccare.  "
+        },
+        {
+            "chapter": 8,
+            "verse": 12,
+            "name": "John 8:12",
+            "text": " Iterum ergo locutus est eis Jesus, dicens : Ego sum lux mundi : qui sequitur me, non ambulat in tenebris, sed habebit lumen vitæ. "
+        },
+        {
+            "chapter": 8,
+            "verse": 13,
+            "name": "John 8:13",
+            "text": "Dixerunt ergo ei pharisæi : Tu de teipso testimonium perhibes ; testimonium tuum non est verum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 14,
+            "name": "John 8:14",
+            "text": "Respondit Jesus, et dixit eis : Et si ego testimonium perhibeo de meipso, verum est testimonium meum : quia scio unde veni et quo vado ; vos autem nescitis unde venio aut quo vado. "
+        },
+        {
+            "chapter": 8,
+            "verse": 15,
+            "name": "John 8:15",
+            "text": "Vos secundum carnem judicatis : ego non judico quemquam ; "
+        },
+        {
+            "chapter": 8,
+            "verse": 16,
+            "name": "John 8:16",
+            "text": "et si judico ego, judicium meum verum est, quia solus non sum : sed ego et qui misit me, Pater. "
+        },
+        {
+            "chapter": 8,
+            "verse": 17,
+            "name": "John 8:17",
+            "text": "Et in lege vestra scriptum est, quia duorum hominum testimonium verum est. "
+        },
+        {
+            "chapter": 8,
+            "verse": 18,
+            "name": "John 8:18",
+            "text": "Ego sum qui testimonium perhibeo de meipso, et testimonium perhibet de me qui misit me, Pater. "
+        },
+        {
+            "chapter": 8,
+            "verse": 19,
+            "name": "John 8:19",
+            "text": "Dicebant ergo ei : Ubi est Pater tuus ? Respondit Jesus : Neque me scitis, neque Patrem meum : si me sciretis, forsitan et Patrem meum sciretis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 20,
+            "name": "John 8:20",
+            "text": "Hæc verba locutus est Jesus in gazophylacio, docens in templo : et nemo apprehendit eum, quia necdum venerat hora ejus.  "
+        },
+        {
+            "chapter": 8,
+            "verse": 21,
+            "name": "John 8:21",
+            "text": " Dixit ergo iterum eis Jesus : Ego vado, et quæretis me, et in peccato vestro moriemini. Quo ego vado, vos non potestis venire. "
+        },
+        {
+            "chapter": 8,
+            "verse": 22,
+            "name": "John 8:22",
+            "text": "Dicebant ergo Judæi : Numquid interficiet semetipsum, quia dixit : Quo ego vado, vos non potestis venire ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 23,
+            "name": "John 8:23",
+            "text": "Et dicebat eis : Vos de deorsum estis, ego de supernis sum. Vos de mundo hoc estis, ego non sum de hoc mundo. "
+        },
+        {
+            "chapter": 8,
+            "verse": 24,
+            "name": "John 8:24",
+            "text": "Dixi ergo vobis quia moriemini in peccatis vestris : si enim non credideritis quia ego sum, moriemini in peccato vestro. "
+        },
+        {
+            "chapter": 8,
+            "verse": 25,
+            "name": "John 8:25",
+            "text": "Dicebant ergo ei : Tu quis es ? Dixit eis Jesus : Principium, qui et loquor vobis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 26,
+            "name": "John 8:26",
+            "text": "Multa habeo de vobis loqui, et judicare ; sed qui me misit, verax est ; et ego quæ audivi ab eo, hæc loquor in mundo. "
+        },
+        {
+            "chapter": 8,
+            "verse": 27,
+            "name": "John 8:27",
+            "text": "Et non cognoverunt quia Patrem ejus dicebat Deum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 28,
+            "name": "John 8:28",
+            "text": "Dixit ergo eis Jesus : Cum exaltaveritis Filium hominis, tunc cognoscetis quia ego sum, et a meipso facio nihil, sed sicut docuit me Pater, hæc loquor : "
+        },
+        {
+            "chapter": 8,
+            "verse": 29,
+            "name": "John 8:29",
+            "text": "et qui me misit, mecum est, et non reliquit me solum : quia ego quæ placita sunt ei, facio semper. "
+        },
+        {
+            "chapter": 8,
+            "verse": 30,
+            "name": "John 8:30",
+            "text": "Hæc illo loquente, multi crediderunt in eum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 31,
+            "name": "John 8:31",
+            "text": "Dicebat ergo Jesus ad eos, qui crediderunt ei, Judæos : Si vos manseritis in sermone meo, vere discipuli mei eritis, "
+        },
+        {
+            "chapter": 8,
+            "verse": 32,
+            "name": "John 8:32",
+            "text": "et cognoscetis veritatem, et veritas liberabit vos. "
+        },
+        {
+            "chapter": 8,
+            "verse": 33,
+            "name": "John 8:33",
+            "text": "Responderunt ei : Semen Abrahæ sumus, et nemini servivimus umquam : quomodo tu dicis : Liberi eritis ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 34,
+            "name": "John 8:34",
+            "text": "Respondit eis Jesus : Amen, amen dico vobis : quia omnis qui facit peccatum, servus est peccati. "
+        },
+        {
+            "chapter": 8,
+            "verse": 35,
+            "name": "John 8:35",
+            "text": "Servus autem non manet in domo in æternum : filius autem manet in æternum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 36,
+            "name": "John 8:36",
+            "text": "Si ergo vos filius liberaverit, vere liberi eritis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 37,
+            "name": "John 8:37",
+            "text": "Scio quia filii Abrahæ estis : sed quæritis me interficere, quia sermo meus non capit in vobis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 38,
+            "name": "John 8:38",
+            "text": "Ego quod vidi apud Patrem meum, loquor : et vos quæ vidistis apud patrem vestrum, facitis. "
+        },
+        {
+            "chapter": 8,
+            "verse": 39,
+            "name": "John 8:39",
+            "text": "Responderunt, et dixerunt ei : Pater noster Abraham est. Dicit eis Jesus : Si filii Abrahæ estis, opera Abrahæ facite. "
+        },
+        {
+            "chapter": 8,
+            "verse": 40,
+            "name": "John 8:40",
+            "text": "Nunc autem quæritis me interficere, hominem, qui veritatem vobis locutus sum, quam audivi a Deo : hoc Abraham non fecit. "
+        },
+        {
+            "chapter": 8,
+            "verse": 41,
+            "name": "John 8:41",
+            "text": "Vos facitis opera patris vestri. Dixerunt itaque ei : Nos ex fornicatione non sumus nati : unum patrem habemus Deum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 42,
+            "name": "John 8:42",
+            "text": "Dixit ergo eis Jesus : Si Deus pater vester esset, diligeretis utique et me ; ego enim ex Deo processi, et veni : neque enim a meipso veni, sed ille me misit. "
+        },
+        {
+            "chapter": 8,
+            "verse": 43,
+            "name": "John 8:43",
+            "text": "Quare loquelam meam non cognoscitis ? Quia non potestis audire sermonem meum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 44,
+            "name": "John 8:44",
+            "text": "Vos ex patre diabolo estis : et desideria patris vestri vultis facere. Ille homicida erat ab initio, et in veritate non stetit : quia non est veritas in eo : cum loquitur mendacium, ex propriis loquitur, quia mendax est, et pater ejus. "
+        },
+        {
+            "chapter": 8,
+            "verse": 45,
+            "name": "John 8:45",
+            "text": "Ego autem si veritatem dico, non creditis mihi. "
+        },
+        {
+            "chapter": 8,
+            "verse": 46,
+            "name": "John 8:46",
+            "text": "Quis ex vobis arguet me de peccato ? si veritatem dico vobis, quare non creditis mihi ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 47,
+            "name": "John 8:47",
+            "text": "Qui ex Deo est, verba Dei audit. Propterea vos non auditis, quia ex Deo non estis.  "
+        },
+        {
+            "chapter": 8,
+            "verse": 48,
+            "name": "John 8:48",
+            "text": " Responderunt ergo Judæi, et dixerunt ei : Nonne bene dicimus nos quia Samaritanus es tu, et dæmonium habes ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 49,
+            "name": "John 8:49",
+            "text": "Respondit Jesus : Ego dæmonium non habeo : sed honorifico Patrem meum, et vos inhonorastis me. "
+        },
+        {
+            "chapter": 8,
+            "verse": 50,
+            "name": "John 8:50",
+            "text": "Ego autem non quæro gloriam meam : est qui quærat, et judicet. "
+        },
+        {
+            "chapter": 8,
+            "verse": 51,
+            "name": "John 8:51",
+            "text": "Amen, amen dico vobis : si quis sermonem meum servaverit, mortem non videbit in æternum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 52,
+            "name": "John 8:52",
+            "text": "Dixerunt ergo Judæi : Nunc cognovimus quia dæmonium habes. Abraham mortuus est, et prophetæ ; et tu dicis : Si quis sermonem meum servaverit, non gustabit mortem in æternum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 53,
+            "name": "John 8:53",
+            "text": "Numquid tu major es patre nostro Abraham, qui mortuus est ? et prophetæ mortui sunt. Quem teipsum facis ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 54,
+            "name": "John 8:54",
+            "text": "Respondit Jesus : Si ego glorifico meipsum, gloria mea nihil est : est Pater meus, qui glorificat me, quem vos dicitis quia Deus vester est, "
+        },
+        {
+            "chapter": 8,
+            "verse": 55,
+            "name": "John 8:55",
+            "text": "et non cognovistis eum : ego autem novi eum. Et si dixero quia non scio eum, ero similis vobis, mendax. Sed scio eum, et sermonem ejus servo. "
+        },
+        {
+            "chapter": 8,
+            "verse": 56,
+            "name": "John 8:56",
+            "text": "Abraham pater vester exsultavit ut videret diem meum : vidit, et gavisus est. "
+        },
+        {
+            "chapter": 8,
+            "verse": 57,
+            "name": "John 8:57",
+            "text": "Dixerunt ergo Judæi ad eum : Quinquaginta annos nondum habes, et Abraham vidisti ? "
+        },
+        {
+            "chapter": 8,
+            "verse": 58,
+            "name": "John 8:58",
+            "text": "Dixit eis Jesus : Amen, amen dico vobis, antequam Abraham fieret, ego sum. "
+        },
+        {
+            "chapter": 8,
+            "verse": 59,
+            "name": "John 8:59",
+            "text": "Tulerunt ergo lapides, ut jacerent in eum : Jesus autem abscondit se, et exivit de templo.   "
+        }
+    ]
+}

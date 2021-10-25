@@ -1,0 +1,80 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 22,
+    "book_name": "Song of Songs",
+    "chapter": 3,
+    "name": "Song of Songs 3",
+    "verses": [
+        {
+            "chapter": 3,
+            "verse": 1,
+            "name": "Song of Songs 3:1",
+            "text": "In lectulo meo, per noctes,  quæsivi quem diligit anima mea :  quæsivi illum, et non inveni. "
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "name": "Song of Songs 3:2",
+            "text": " Surgam, et circuibo civitatem :  per vicos et plateas  quæram quem diligit anima mea :  quæsivi illum, et non inveni. "
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "name": "Song of Songs 3:3",
+            "text": " Invenerunt me vigiles qui custodiunt civitatem :  Num quem diligit anima mea vidistis ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "name": "Song of Songs 3:4",
+            "text": " Paululum cum pertransissem eos,  inveni quem diligit anima mea :  tenui eum, nec dimittam,  donec introducam illum in domum matris meæ,  et in cubiculum genetricis meæ.   "
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "name": "Song of Songs 3:5",
+            "text": "   Adjuro vos, filiæ Jerusalem,  per capreas cervosque camporum,  ne suscitetis, neque evigilare faciatis dilectam,  donec ipsa velit.   "
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "name": "Song of Songs 3:6",
+            "text": "   Quæ est ista quæ ascendit per desertum  sicut virgula fumi ex aromatibus myrrhæ,  et thuris, et universi pulveris pigmentarii ? "
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "name": "Song of Songs 3:7",
+            "text": " En lectulum Salomonis sexaginta fortes ambiunt  ex fortissimis Israël, "
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "name": "Song of Songs 3:8",
+            "text": " omnes tenentes gladios, et ad bella doctissimi :  uniuscujusque ensis super femur suum  propter timores nocturnos. "
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "name": "Song of Songs 3:9",
+            "text": " Ferculum fecit sibi rex Salomon  de lignis Libani ; "
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "name": "Song of Songs 3:10",
+            "text": " columnas ejus fecit argenteas,  reclinatorium aureum, ascensum purpureum ;  media caritate constravit,  propter filias Jerusalem. "
+        },
+        {
+            "chapter": 3,
+            "verse": 11,
+            "name": "Song of Songs 3:11",
+            "text": " Egredimini et videte, filiæ Sion,  regem Salomonem in diademate quo coronavit illum mater sua  in die desponsationis illius,  et in die lætitiæ cordis ejus.  "
+        }
+    ]
+}

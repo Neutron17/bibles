@@ -1,0 +1,356 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 43,
+    "book_name": "John",
+    "chapter": 11,
+    "name": "John 11",
+    "verses": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "name": "John 11:1",
+            "text": " Vala pedig egy beteg, Lázár, Bethániából, Máriának és az ő testvérének, Márthának falujából. "
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "name": "John 11:2",
+            "text": "Az a Mária volt pedig az, a kinek a testvére Lázár beteg vala, a ki megkente vala az Urat kenettel és a hajával törlé meg annak lábait. "
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "name": "John 11:3",
+            "text": "Küldének azért a testvérek ő hozzá, mondván: Uram, ímé, a kit szeretsz, beteg. "
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "name": "John 11:4",
+            "text": "Jézus pedig, a mikor ezt hallotta, monda: Ez a betegség nem halálos, hanem az Isten dicsőségére való, hogy dicsőíttessék általa az Istennek Fia. "
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "name": "John 11:5",
+            "text": "Szereti vala pedig Jézus Márthát és annak nőtestvérét, és Lázárt. "
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "name": "John 11:6",
+            "text": "Mikor azért meghallá, hogy beteg, akkor két napig marada azon a helyen, a hol vala. "
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "name": "John 11:7",
+            "text": "Ez után aztán monda tanítványainak: Menjünk ismét Júdeába."
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "name": "John 11:8",
+            "text": "Mondának néki a tanítványok: Mester, most akarnak vala téged megkövezni a Júdabeliek, és újra oda mégy? "
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "name": "John 11:9",
+            "text": "Felele Jézus: Avagy nem tizenkét órája van-é a napnak? Ha valaki nappal jár, nem botlik meg, mert látja e világnak világosságát."
+        },
+        {
+            "chapter": 11,
+            "verse": 10,
+            "name": "John 11:10",
+            "text": "De a ki éjjel jár, megbotlik, mert nincsen abban világosság."
+        },
+        {
+            "chapter": 11,
+            "verse": 11,
+            "name": "John 11:11",
+            "text": "Ezeket mondá; és ezután monda nékik: Lázár, a mi barátunk, elaludt; de elmegyek, hogy felköltsem őt. "
+        },
+        {
+            "chapter": 11,
+            "verse": 12,
+            "name": "John 11:12",
+            "text": "Mondának azért az ő tanítványai: Uram, ha elaludt, meggyógyul."
+        },
+        {
+            "chapter": 11,
+            "verse": 13,
+            "name": "John 11:13",
+            "text": "Pedig Jézus annak haláláról beszélt; de ők azt hitték, hogy álomnak alvásáról szól."
+        },
+        {
+            "chapter": 11,
+            "verse": 14,
+            "name": "John 11:14",
+            "text": "Ekkor azért nyilván monda nékik Jézus: Lázár megholt."
+        },
+        {
+            "chapter": 11,
+            "verse": 15,
+            "name": "John 11:15",
+            "text": "És örülök, hogy nem voltam ott, ti érettetek, hogy higyjetek. De menjünk el ő hozzá! "
+        },
+        {
+            "chapter": 11,
+            "verse": 16,
+            "name": "John 11:16",
+            "text": "Monda azért Tamás, a ki Kettősnek mondatik, az ő tanítványtársainak: Menjünk el mi is, hogy meghaljunk vele. "
+        },
+        {
+            "chapter": 11,
+            "verse": 17,
+            "name": "John 11:17",
+            "text": "Elmenvén azért Jézus, úgy találá, hogy az már négy napja vala sírban. "
+        },
+        {
+            "chapter": 11,
+            "verse": 18,
+            "name": "John 11:18",
+            "text": "Bethánia pedig közel vala Jeruzsálemhez, mintegy tizenöt futamatnyira; "
+        },
+        {
+            "chapter": 11,
+            "verse": 19,
+            "name": "John 11:19",
+            "text": "És a zsidók közül sokan mentek vala Márthához és Máriához, hogy vigasztalják őket az ő testvérök felől. "
+        },
+        {
+            "chapter": 11,
+            "verse": 20,
+            "name": "John 11:20",
+            "text": "Mártha azért, a mint hallja vala, hogy Jézus jő, elébe méne; Mária pedig otthon ül vala. "
+        },
+        {
+            "chapter": 11,
+            "verse": 21,
+            "name": "John 11:21",
+            "text": "Monda azért Mártha Jézusnak: Uram, ha itt lettél volna, nem halt volna meg a testvérem."
+        },
+        {
+            "chapter": 11,
+            "verse": 22,
+            "name": "John 11:22",
+            "text": "De most is tudom, hogy a mit csak kérsz az Istentől, megadja néked az Isten."
+        },
+        {
+            "chapter": 11,
+            "verse": 23,
+            "name": "John 11:23",
+            "text": "Monda néki Jézus: Feltámad a te testvéred. "
+        },
+        {
+            "chapter": 11,
+            "verse": 24,
+            "name": "John 11:24",
+            "text": "Monda néki Mártha: Tudom, hogy feltámad a feltámadáskor az utolsó napon. "
+        },
+        {
+            "chapter": 11,
+            "verse": 25,
+            "name": "John 11:25",
+            "text": "Monda néki Jézus: Én vagyok a feltámadás és az élet: a ki hisz én bennem, ha meghal is, él; "
+        },
+        {
+            "chapter": 11,
+            "verse": 26,
+            "name": "John 11:26",
+            "text": "És a ki csak él és hisz én bennem, soha meg nem hal. Hiszed-é ezt?"
+        },
+        {
+            "chapter": 11,
+            "verse": 27,
+            "name": "John 11:27",
+            "text": "Monda néki: Igen Uram, én hiszem, hogy te vagy a Krisztus, az Istennek Fia, a ki e világra jövendő vala. "
+        },
+        {
+            "chapter": 11,
+            "verse": 28,
+            "name": "John 11:28",
+            "text": "És a mint ezeket mondotta vala, elméne, és titkon szólítá az ő testvérét Máriát, mondván: A Mester itt van és hív téged."
+        },
+        {
+            "chapter": 11,
+            "verse": 29,
+            "name": "John 11:29",
+            "text": "Mihelyt ez hallá, felkele hamar és hozzá méne. "
+        },
+        {
+            "chapter": 11,
+            "verse": 30,
+            "name": "John 11:30",
+            "text": "Jézus pedig nem ment vala még be a faluba, hanem azon a helyen vala, a hová Mártha elébe ment vala. "
+        },
+        {
+            "chapter": 11,
+            "verse": 31,
+            "name": "John 11:31",
+            "text": "A zsidók azért, a kik ő vele otthon valának és vigasztalák őt, látván, hogy Mária hamar felkél és kimegy vala, utána menének, ezt mondván: A sírhoz megy, hogy ott sírjon. "
+        },
+        {
+            "chapter": 11,
+            "verse": 32,
+            "name": "John 11:32",
+            "text": "Mária azért, a mint oda ére, a hol Jézus vala, meglátván őt, az ő lábaihoz esék, mondván néki: Uram, ha itt voltál volna, nem halt volna meg az én testvérem. "
+        },
+        {
+            "chapter": 11,
+            "verse": 33,
+            "name": "John 11:33",
+            "text": "Jézus azért, a mint látja vala, hogy az sír és sírnak a vele jött zsidók is, elbúsula lelkében és igen megrendüle."
+        },
+        {
+            "chapter": 11,
+            "verse": 34,
+            "name": "John 11:34",
+            "text": "És monda: Hová helyeztétek őt? Mondának néki: Uram, jer és lásd meg! "
+        },
+        {
+            "chapter": 11,
+            "verse": 35,
+            "name": "John 11:35",
+            "text": "Könnyekre fakadt Jézus. "
+        },
+        {
+            "chapter": 11,
+            "verse": 36,
+            "name": "John 11:36",
+            "text": "Mondának azért a zsidók: Ímé, mennyire szerette őt!"
+        },
+        {
+            "chapter": 11,
+            "verse": 37,
+            "name": "John 11:37",
+            "text": "Némelyek pedig mondának közülök: Nem megtehette volna-é ez, a ki a vaknak szemét felnyitotta, hogy ez ne haljon meg?"
+        },
+        {
+            "chapter": 11,
+            "verse": 38,
+            "name": "John 11:38",
+            "text": "Jézus pedig újra felindulva magában, oda megy vala a sírhoz. Az pedig egy üreg vala, és kő feküvék rajta. "
+        },
+        {
+            "chapter": 11,
+            "verse": 39,
+            "name": "John 11:39",
+            "text": "Monda Jézus: Vegyétek el a követ. Monda néki a megholtnak nőtestvére, Mártha: Uram, immár szaga van, hiszen negyednapos."
+        },
+        {
+            "chapter": 11,
+            "verse": 40,
+            "name": "John 11:40",
+            "text": "Monda néki Jézus: Nem mondtam-é néked, hogy ha hiszel, meglátod majd az Istennek dicsőségét? "
+        },
+        {
+            "chapter": 11,
+            "verse": 41,
+            "name": "John 11:41",
+            "text": "Elvevék azért a követ onnan, a hol a megholt feküszik vala. Jézus pedig felemelé szemeit az égre, és monda: Atyám, hálát adok néked, hogy meghallgattál engem."
+        },
+        {
+            "chapter": 11,
+            "verse": 42,
+            "name": "John 11:42",
+            "text": "Tudtam is én, hogy te mindenkor meghallgatsz engem; csak a körülálló sokaságért mondtam, hogy elhigyjék, hogy te küldtél engem. "
+        },
+        {
+            "chapter": 11,
+            "verse": 43,
+            "name": "John 11:43",
+            "text": "És mikor ezeket mondá, fenszóval kiálta: Lázár, jőjj ki! "
+        },
+        {
+            "chapter": 11,
+            "verse": 44,
+            "name": "John 11:44",
+            "text": "És kijöve a megholt, lábain és kezein kötelékekkel megkötözve, és az orczája kendővel vala leborítva. Monda nékik Jézus: Oldozzátok meg őt, és hagyjátok menni. "
+        },
+        {
+            "chapter": 11,
+            "verse": 45,
+            "name": "John 11:45",
+            "text": "Sokan hivének azért ő benne ama zsidók közül, a kik Máriához mentek vala, és láták, a miket cselekedett vala. "
+        },
+        {
+            "chapter": 11,
+            "verse": 46,
+            "name": "John 11:46",
+            "text": " De némelyek azok közül elmenének a farizeusokhoz, és elbeszélék nékik, a miket Jézus cselekedett vala. "
+        },
+        {
+            "chapter": 11,
+            "verse": 47,
+            "name": "John 11:47",
+            "text": "Egybegyűjték azért a papifejedelmek és a farizeusok a főtanácsot, és mondának: Mit cselekedjünk? mert ez az ember sok csodát mível. "
+        },
+        {
+            "chapter": 11,
+            "verse": 48,
+            "name": "John 11:48",
+            "text": "Ha ekképen hagyjuk őt, mindenki hinni fog ő benne: és eljőnek majd a rómaiak és elveszik tőlünk mind e helyet, mind e népet. "
+        },
+        {
+            "chapter": 11,
+            "verse": 49,
+            "name": "John 11:49",
+            "text": "Egy pedig ő közülök, Kajafás, a ki főpap vala abban az esztendőben, monda nékik: Ti semmit sem tudtok. "
+        },
+        {
+            "chapter": 11,
+            "verse": 50,
+            "name": "John 11:50",
+            "text": "Meg sem gondoljátok, hogy jobb nékünk, hogy egy ember haljon meg a népért, és az egész nép el ne vesszen. "
+        },
+        {
+            "chapter": 11,
+            "verse": 51,
+            "name": "John 11:51",
+            "text": "Ezt pedig nem magától mondta: hanem mivelhogy abban az esztendőben főpap vala, jövendőt monda, hogy Jézus meg fog halni a népért;"
+        },
+        {
+            "chapter": 11,
+            "verse": 52,
+            "name": "John 11:52",
+            "text": "És nemcsak a népért, hanem azért is, hogy az Istennek elszéledt gyermekeit egybegyűjtse. "
+        },
+        {
+            "chapter": 11,
+            "verse": 53,
+            "name": "John 11:53",
+            "text": "Ama naptól azért azon tanakodának, hogy őt megöljék. "
+        },
+        {
+            "chapter": 11,
+            "verse": 54,
+            "name": "John 11:54",
+            "text": "Jézus azért nem jár vala többé nyilvánosan a zsidók között, hanem elméne onnan a vidékre, a pusztához közel, egy Efraim nevű városba; és ott tartózkodék az ő tanítványaival. "
+        },
+        {
+            "chapter": 11,
+            "verse": 55,
+            "name": "John 11:55",
+            "text": "Közel vala pedig a zsidók husvétja: és sokan menének fel Jeruzsálembe a vidékről husvét előtt, hogy megtisztuljanak. "
+        },
+        {
+            "chapter": 11,
+            "verse": 56,
+            "name": "John 11:56",
+            "text": "Keresék azért Jézust, és szólnak vala egymással a templomban állva: Mit gondoltok, hogy nem jön-é fel az ünnepre? "
+        },
+        {
+            "chapter": 11,
+            "verse": 57,
+            "name": "John 11:57",
+            "text": "A papi fejedelmek pedig és a farizeusok is parancsolatot adának, hogy ha valaki megtudja, hogy hol van, jelentse meg, hogy őt megfogják.   "
+        }
+    ]
+}

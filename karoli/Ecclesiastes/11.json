@@ -1,0 +1,62 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 21,
+    "book_name": "Ecclesiastes",
+    "chapter": 11,
+    "name": "Ecclesiastes 11",
+    "verses": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "name": "Ecclesiastes 11:1",
+            "text": " Vesd a te kenyeredet a víz színére, mert sok nap mulva megtalálod azt."
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "name": "Ecclesiastes 11:2",
+            "text": "Adj részt hétnek vagy nyolcznak is; mert nem tudod, micsoda veszedelem következik a földre. "
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "name": "Ecclesiastes 11:3",
+            "text": "Mikor a sűrű fellegek megtelnek, esőt adnak a földre; és ha leesik a fa délre vagy északra, a mely helyre leesik a fa, ott marad. "
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "name": "Ecclesiastes 11:4",
+            "text": "A ki a szelet nézi, nem vet az; és a ki sűrű fellegre néz, nem arat. "
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "name": "Ecclesiastes 11:5",
+            "text": "Miképen hogy nem tudod, melyik a szélnek útja, és miképen vannak a csontok a terhes asszony méhében; azonképen nem tudod az Istennek dolgát, a ki mindeneket cselekszik."
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "name": "Ecclesiastes 11:6",
+            "text": "Reggel vesd el a te magodat, és este se pihentesd kezedet; mert nem tudod, melyik jobb, ez-é vagy amaz, vagy ha mind a kettő jó lesz egyszersmind."
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "name": "Ecclesiastes 11:7",
+            "text": "Valóban, édes a világosság és jó a mi szemeinkkel néznünk a napot."
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "name": "Ecclesiastes 11:8",
+            "text": "Mert ha sok esztendeig él is az ember, mindazokban örvendezzen; és megemlékezzék a setétségnek napjairól, mert az sok lesz. Valami eljövendő, mind hiábavalóság.   "
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 7,
+    "name": "Numbers 7",
+    "verses": [
+        {
+            "chapter": 7,
+            "verse": 1,
+            "name": "Numbers 7:1",
+            "text": " És lőn, hogy a mely napon elvégezé Mózes a sátor felállítását, és felkené azt, és megszentelé azt, minden edényével egybe, és az oltárt és annak minden edényét; és felkené és megszentelé azokat: "
+        },
+        {
+            "chapter": 7,
+            "verse": 2,
+            "name": "Numbers 7:2",
+            "text": "Akkor előjövének az Izráel fejedelmei, az ő atyjok házának fejei; ezek a törzsek fejedelmei, és ezek a megszámláltattak felügyelői:"
+        },
+        {
+            "chapter": 7,
+            "verse": 3,
+            "name": "Numbers 7:3",
+            "text": "És vivék az ő áldozatukat az Úr elé: hat borított szekeret, és tizenkét ökröt; egy-egy szekeret két-két fejedelemért, és mindenikért egy-egy ökröt; és odavivék azokat a sátor elébe."
+        },
+        {
+            "chapter": 7,
+            "verse": 4,
+            "name": "Numbers 7:4",
+            "text": "És szóla az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 7,
+            "verse": 5,
+            "name": "Numbers 7:5",
+            "text": "Vedd el ő tőlök, és legyenek azok felhasználva a gyülekezet sátorának szolgálatában; és add azokat a lévitáknak, mindeniknek az ő szolgálata szerint."
+        },
+        {
+            "chapter": 7,
+            "verse": 6,
+            "name": "Numbers 7:6",
+            "text": "Elvevé azért Mózes a szekereket és ökröket, és adá azokat a lévitáknak."
+        },
+        {
+            "chapter": 7,
+            "verse": 7,
+            "name": "Numbers 7:7",
+            "text": "Két szekeret és négy ökröt ada a Gerson fiainak, az ő szolgálatuk szerint."
+        },
+        {
+            "chapter": 7,
+            "verse": 8,
+            "name": "Numbers 7:8",
+            "text": "Négy szekeret pedig és nyolcz ökröt ada a Mérári fiainak, az ő szolgálatuk szerint, Ithamárnak, Áron pap fiának keze alá."
+        },
+        {
+            "chapter": 7,
+            "verse": 9,
+            "name": "Numbers 7:9",
+            "text": "A Kéhát fiainak pedig semmit nem ada; mert a szentség szolgálata illette vala őket, a melyet vállon hordoznak vala."
+        },
+        {
+            "chapter": 7,
+            "verse": 10,
+            "name": "Numbers 7:10",
+            "text": "Vivének pedig a fejedelmek az oltár felszentelésére valókat azon napon, a melyen az felkenetett, és vivék a fejedelmek az ő áldozatukat az oltár elébe."
+        },
+        {
+            "chapter": 7,
+            "verse": 11,
+            "name": "Numbers 7:11",
+            "text": "És monda az Úr Mózesnek: Egyik napon egyik fejedelem, másik napon másik fejedelem vigye az ő áldozatát az oltár felszentelésére."
+        },
+        {
+            "chapter": 7,
+            "verse": 12,
+            "name": "Numbers 7:12",
+            "text": "És vivé első napon az ő áldozatát Naasson, az Amminádáb fia, Júda nemzetségéből."
+        },
+        {
+            "chapter": 7,
+            "verse": 13,
+            "name": "Numbers 7:13",
+            "text": "Vala pedig az ő áldozata, egy ezüst tál, száz és harmincz siklus súlyú, egy ezüst medencze hetven siklus súlyú, a szent siklus szerint, és mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul. "
+        },
+        {
+            "chapter": 7,
+            "verse": 14,
+            "name": "Numbers 7:14",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 15,
+            "name": "Numbers 7:15",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 16,
+            "name": "Numbers 7:16",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 17,
+            "name": "Numbers 7:17",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt kecskebak, öt bárány, esztendősök. Ez Naassonnak, Amminádáb fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 18,
+            "name": "Numbers 7:18",
+            "text": "Másodnapon vivé Néthanéel, Suárnak fia, Izsakhár nemzetségének fejedelme."
+        },
+        {
+            "chapter": 7,
+            "verse": 19,
+            "name": "Numbers 7:19",
+            "text": "Vive az ő áldozatául egy ezüst tálat, száz és harmincz siklus súlyút, egy ezüst medenczét, hetven siklus súlyút, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul. "
+        },
+        {
+            "chapter": 7,
+            "verse": 20,
+            "name": "Numbers 7:20",
+            "text": "Egy arany csészét, tíz siklus súlyút, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 21,
+            "name": "Numbers 7:21",
+            "text": "Egy fiatal tulkot, egy kost, egy esztendős bárányt egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 22,
+            "name": "Numbers 7:22",
+            "text": "Egy kecskebakot bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 23,
+            "name": "Numbers 7:23",
+            "text": "Hálaadó áldozatul pedig két ökröt, öt kost, öt bakot, öt bárányt, esztendősöket. Ez Néthanéelnek a Suár fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 24,
+            "name": "Numbers 7:24",
+            "text": "Harmadik napon a Zebulon fiainak fejedelme: Eliáb, Hélon fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 25,
+            "name": "Numbers 7:25",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 26,
+            "name": "Numbers 7:26",
+            "text": "Egy arany csésze, tíz siklus súlyú füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 27,
+            "name": "Numbers 7:27",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány, egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 28,
+            "name": "Numbers 7:28",
+            "text": "Egy kecskebak, bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 29,
+            "name": "Numbers 7:29",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Eliábnak, Hélon fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 30,
+            "name": "Numbers 7:30",
+            "text": "Negyedik napon a Rúben fiainak fejedelme: Elisúr, Sedeúrnak fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 31,
+            "name": "Numbers 7:31",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 32,
+            "name": "Numbers 7:32",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 33,
+            "name": "Numbers 7:33",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány, egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 34,
+            "name": "Numbers 7:34",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 35,
+            "name": "Numbers 7:35",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Elisúrnak, Sedeúr fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 36,
+            "name": "Numbers 7:36",
+            "text": "Ötödnapon a Simeon fiainak fejedelme: Selúmiel, Surisaddai fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 37,
+            "name": "Numbers 7:37",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 38,
+            "name": "Numbers 7:38",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 39,
+            "name": "Numbers 7:39",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány, egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 40,
+            "name": "Numbers 7:40",
+            "text": "Egy kecskebak, bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 41,
+            "name": "Numbers 7:41",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Selúmielnek, Surisaddai fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 42,
+            "name": "Numbers 7:42",
+            "text": "Hatodnapon a Gád fiainak fejedelme: Éliásáf, a Dehuél fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 43,
+            "name": "Numbers 7:43",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul. "
+        },
+        {
+            "chapter": 7,
+            "verse": 44,
+            "name": "Numbers 7:44",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 45,
+            "name": "Numbers 7:45",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány, egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 46,
+            "name": "Numbers 7:46",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 47,
+            "name": "Numbers 7:47",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Eliásáfnak, Dehuél fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 48,
+            "name": "Numbers 7:48",
+            "text": "Hetednapon az Efraim fiainak fejedelme: Elisáma, az Ammihúd fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 49,
+            "name": "Numbers 7:49",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 50,
+            "name": "Numbers 7:50",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 51,
+            "name": "Numbers 7:51",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány, egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 52,
+            "name": "Numbers 7:52",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 53,
+            "name": "Numbers 7:53",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Elisámának, Ammihúd fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 54,
+            "name": "Numbers 7:54",
+            "text": "Nyolczadnapon a Manasse fiainak fejedelme: Gamliél, Pédasúr fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 55,
+            "name": "Numbers 7:55",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 56,
+            "name": "Numbers 7:56",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 57,
+            "name": "Numbers 7:57",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 58,
+            "name": "Numbers 7:58",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 59,
+            "name": "Numbers 7:59",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Gámliélnek, a Pédasúr fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 60,
+            "name": "Numbers 7:60",
+            "text": "Kilenczednapon a Benjámin fiainak fejedelme: Abidán, a Gideóni fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 61,
+            "name": "Numbers 7:61",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 62,
+            "name": "Numbers 7:62",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 63,
+            "name": "Numbers 7:63",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 64,
+            "name": "Numbers 7:64",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 65,
+            "name": "Numbers 7:65",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Abidánnak, Gideóni fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 66,
+            "name": "Numbers 7:66",
+            "text": "Tizedik napon a Dán fiainak fejedelme: Ahiézer, az Ammisaddai fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 67,
+            "name": "Numbers 7:67",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 68,
+            "name": "Numbers 7:68",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 69,
+            "name": "Numbers 7:69",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 70,
+            "name": "Numbers 7:70",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 71,
+            "name": "Numbers 7:71",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Ahiézernek, az Ammisaddai fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 72,
+            "name": "Numbers 7:72",
+            "text": "Tizenegyedik napon az Áser fiainak fejedelme: Págiel, Okrán fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 73,
+            "name": "Numbers 7:73",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 74,
+            "name": "Numbers 7:74",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 75,
+            "name": "Numbers 7:75",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 76,
+            "name": "Numbers 7:76",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 77,
+            "name": "Numbers 7:77",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Págielnek, Okrán fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 78,
+            "name": "Numbers 7:78",
+            "text": "Tizenkettedik napon a Nafthali fiainak fejedelme: Ahira, Enán fia."
+        },
+        {
+            "chapter": 7,
+            "verse": 79,
+            "name": "Numbers 7:79",
+            "text": "Az ő áldozata volt egy ezüst tál, száz harmincz siklus súlyú, egy ezüst medencze, hetven siklus súlyú, a szent siklus szerint, mind a kettő telve vala olajjal elegyített lisztlánggal, ételáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 80,
+            "name": "Numbers 7:80",
+            "text": "Egy arany csésze, tíz siklus súlyú, füstölő szerekkel telve."
+        },
+        {
+            "chapter": 7,
+            "verse": 81,
+            "name": "Numbers 7:81",
+            "text": "Egy fiatal tulok, egy kos, egy esztendős bárány egészen égőáldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 82,
+            "name": "Numbers 7:82",
+            "text": "Egy kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 83,
+            "name": "Numbers 7:83",
+            "text": "Hálaadó áldozatul pedig két ökör, öt kos, öt bak, öt bárány, esztendősök. Ez Ahirának, az Enán fiának áldozata."
+        },
+        {
+            "chapter": 7,
+            "verse": 84,
+            "name": "Numbers 7:84",
+            "text": "Ez volt az áldozat az oltár felszentelésére, a napon, a melyen felkenetett, az Izráelnek fejedelmeitől. Tizenkét ezüst tál, tizenkét ezüst medencze, tizenkét arany csésze."
+        },
+        {
+            "chapter": 7,
+            "verse": 85,
+            "name": "Numbers 7:85",
+            "text": "Száz és harmincz siklus súlyú vala egy ezüst tál, egy ezüst medencze pedig hetven siklus súlyú; az edények minden ezüstje: kétezer négyszáz siklus, a szent siklus szerint;"
+        },
+        {
+            "chapter": 7,
+            "verse": 86,
+            "name": "Numbers 7:86",
+            "text": "Tizenkét arany csésze, füstölő szerekkel, tíz-tíz siklus súlyú vala egy-egy csésze, a szent siklus szerint: A csészéknek minden aranya: száz húsz siklus."
+        },
+        {
+            "chapter": 7,
+            "verse": 87,
+            "name": "Numbers 7:87",
+            "text": "Az egészen égőáldozatra való minden barom: tizenkét tulok, tizenkét kos, esztendős bárány tizenkettő, a hozzájok való ételáldozatokkal, és tizenkét kecskebak bűnért való áldozatul."
+        },
+        {
+            "chapter": 7,
+            "verse": 88,
+            "name": "Numbers 7:88",
+            "text": "A hálaadó áldozatra való minden barom pedig: huszonnégy tulok, hatvan kos, hatvan bak, esztendős bárány hatvan. Ez volt az oltár felszentelésére való áldozat, minekutána felkenetett volt."
+        },
+        {
+            "chapter": 7,
+            "verse": 89,
+            "name": "Numbers 7:89",
+            "text": "Mikor pedig bemegy vala Mózes a gyülekezet sátorába, hogy szóljon ő vele, hallja vala annak szavát, a ki szól vala vele a fedél felől, amely van a bizonyság ládáján, a két Kérub közűl; és szól vala vele.   "
+        }
+    ]
+}

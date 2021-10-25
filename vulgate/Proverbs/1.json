@@ -1,0 +1,212 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 20,
+    "book_name": "Proverbs",
+    "chapter": 1,
+    "name": "Proverbs 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Proverbs 1:1",
+            "text": "Parabolæ Salomonis, filii David, regis Israël, "
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Proverbs 1:2",
+            "text": " ad sciendam sapientiam et disciplinam ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Proverbs 1:3",
+            "text": " ad intelligenda verba prudentiæ,  et suscipiendam eruditionem doctrinæ,  justitiam, et judicium, et æquitatem : "
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Proverbs 1:4",
+            "text": " ut detur parvulis astutia,  adolescenti scientia et intellectus. "
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Proverbs 1:5",
+            "text": " Audiens sapiens, sapientior erit,  et intelligens gubernacula possidebit. "
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Proverbs 1:6",
+            "text": " Animadvertet parabolam et interpretationem,  verba sapientum et ænigmata eorum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "name": "Proverbs 1:7",
+            "text": " Timor Domini principium sapientiæ ;  sapientiam atque doctrinam stulti despiciunt. "
+        },
+        {
+            "chapter": 1,
+            "verse": 8,
+            "name": "Proverbs 1:8",
+            "text": " Audi, fili mi, disciplinam patris tui,  et ne dimittas legem matris tuæ : "
+        },
+        {
+            "chapter": 1,
+            "verse": 9,
+            "name": "Proverbs 1:9",
+            "text": " ut addatur gratia capiti tuo,  et torques collo tuo. "
+        },
+        {
+            "chapter": 1,
+            "verse": 10,
+            "name": "Proverbs 1:10",
+            "text": " Fili mi, si te lactaverint peccatores,  ne acquiescas eis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 11,
+            "name": "Proverbs 1:11",
+            "text": " Si dixerint : Veni nobiscum, insidiemur sanguini ;  abscondamus tendiculas contra insontem frustra ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 12,
+            "name": "Proverbs 1:12",
+            "text": " deglutiamus eum sicut infernus viventem,  et integrum quasi descendentem in lacum ; "
+        },
+        {
+            "chapter": 1,
+            "verse": 13,
+            "name": "Proverbs 1:13",
+            "text": " omnem pretiosam substantiam reperiemus ;  implebimus domos nostras spoliis : "
+        },
+        {
+            "chapter": 1,
+            "verse": 14,
+            "name": "Proverbs 1:14",
+            "text": " sortem mitte nobiscum,  marsupium unum sit omnium nostrum : "
+        },
+        {
+            "chapter": 1,
+            "verse": 15,
+            "name": "Proverbs 1:15",
+            "text": " fili mi, ne ambules cum eis ;  prohibe pedem tuum a semitis eorum : "
+        },
+        {
+            "chapter": 1,
+            "verse": 16,
+            "name": "Proverbs 1:16",
+            "text": " pedes enim illorum ad malum currunt,  et festinant ut effundant sanguinem. "
+        },
+        {
+            "chapter": 1,
+            "verse": 17,
+            "name": "Proverbs 1:17",
+            "text": " Frustra autem jacitur rete  ante oculos pennatorum. "
+        },
+        {
+            "chapter": 1,
+            "verse": 18,
+            "name": "Proverbs 1:18",
+            "text": " Ipsi quoque contra sanguinem suum insidiantur,  et moliuntur fraudes contra animas suas. "
+        },
+        {
+            "chapter": 1,
+            "verse": 19,
+            "name": "Proverbs 1:19",
+            "text": " Sic semitæ omnis avari :  animas possidentium rapiunt. "
+        },
+        {
+            "chapter": 1,
+            "verse": 20,
+            "name": "Proverbs 1:20",
+            "text": " Sapientia foris prædicat ;  in plateis dat vocem suam : "
+        },
+        {
+            "chapter": 1,
+            "verse": 21,
+            "name": "Proverbs 1:21",
+            "text": " in capite turbarum clamitat ;  in foribus portarum urbis profert verba sua, dicens : "
+        },
+        {
+            "chapter": 1,
+            "verse": 22,
+            "name": "Proverbs 1:22",
+            "text": " Usquequo, parvuli, diligitis infantiam,  et stulti ea quæ sibi sunt noxia cupient,  et imprudentes odibunt scientiam ? "
+        },
+        {
+            "chapter": 1,
+            "verse": 23,
+            "name": "Proverbs 1:23",
+            "text": " convertimini ad correptionem meam.  En proferam vobis spiritum meum,  et ostendam vobis verba mea. "
+        },
+        {
+            "chapter": 1,
+            "verse": 24,
+            "name": "Proverbs 1:24",
+            "text": " Quia vocavi, et renuistis ;  extendi manum meam, et non fuit qui aspiceret : "
+        },
+        {
+            "chapter": 1,
+            "verse": 25,
+            "name": "Proverbs 1:25",
+            "text": " despexistis omne consilium meum,  et increpationes meas neglexistis. "
+        },
+        {
+            "chapter": 1,
+            "verse": 26,
+            "name": "Proverbs 1:26",
+            "text": " Ego quoque in interitu vestro ridebo,  et subsannabo cum vobis id quod timebatis advenerit. "
+        },
+        {
+            "chapter": 1,
+            "verse": 27,
+            "name": "Proverbs 1:27",
+            "text": " Cum irruerit repentina calamitas,  et interitus quasi tempestas ingruerit ;  quando venerit super vos tribulatio et angustia : "
+        },
+        {
+            "chapter": 1,
+            "verse": 28,
+            "name": "Proverbs 1:28",
+            "text": " tunc invocabunt me, et non exaudiam ;  mane consurgent, et non invenient me : "
+        },
+        {
+            "chapter": 1,
+            "verse": 29,
+            "name": "Proverbs 1:29",
+            "text": " eo quod exosam habuerint disciplinam,  et timorem Domini non susceperint, "
+        },
+        {
+            "chapter": 1,
+            "verse": 30,
+            "name": "Proverbs 1:30",
+            "text": " nec acquieverint consilio meo,  et detraxerint universæ correptioni meæ. "
+        },
+        {
+            "chapter": 1,
+            "verse": 31,
+            "name": "Proverbs 1:31",
+            "text": " Comedent igitur fructus viæ suæ,  suisque consiliis saturabuntur. "
+        },
+        {
+            "chapter": 1,
+            "verse": 32,
+            "name": "Proverbs 1:32",
+            "text": " Aversio parvulorum interficiet eos,  et prosperitas stultorum perdet illos. "
+        },
+        {
+            "chapter": 1,
+            "verse": 33,
+            "name": "Proverbs 1:33",
+            "text": " Qui autem me audierit, absque terrore requiescet,  et abundantia perfruetur, timore malorum sublato.  "
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 4,
+    "book_name": "Numbers",
+    "chapter": 3,
+    "name": "Numbers 3",
+    "verses": [
+        {
+            "chapter": 3,
+            "verse": 1,
+            "name": "Numbers 3:1",
+            "text": " Ezek pedig Áronnak és Mózesnek szülöttei azon a napon, a melyen szólott az Úr Mózesnek a Sinai hegyen; "
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "name": "Numbers 3:2",
+            "text": "Ezek az Áron fiainak nevei: Az elsőszülött Nádáb, azután Abihú, Eleázár és Ithamár. "
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "name": "Numbers 3:3",
+            "text": "Ezek Áron fiainak, a felkenetett papoknak nevei, a kiket papi szolgálatra avattak fel. "
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "name": "Numbers 3:4",
+            "text": "De Nádáb és Abihú meghala az Úr előtt, mikor idegen tűzzel áldozának az Úr előtt a Sinai pusztájában, fiaik pedig nem valának nékik. Eleázár és Ithamár viselék azért a papságot, Áronnak, az ő atyjoknak színe előtt.  "
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "name": "Numbers 3:5",
+            "text": " Szóla pedig az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "name": "Numbers 3:6",
+            "text": "Hozd elő Lévi törzsét, és állassad Áron pap elé, hogy szolgáljanak néki. "
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "name": "Numbers 3:7",
+            "text": "És ügyeljenek az ő ügyére, és az egész gyülekezet ügyére a gyülekezet sátora előtt, hogy végezhessék a hajlék körül való szolgálatot. "
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "name": "Numbers 3:8",
+            "text": "Ügyeljenek pedig a gyülekezet sátorának minden eszközére is, és Izráel fiainak ügyeire is, hogy végezhessék a hajlék körül való szolgálatot."
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "name": "Numbers 3:9",
+            "text": "És adjad a lévitákat Áronnak és az ő fiainak; mert valóban néki adattak Izráel fiaitól."
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "name": "Numbers 3:10",
+            "text": "Áront pedig és az ő fiait rendeld föléjök, hogy őrizzék az ő papságukat; és ha idegen járulna oda, haljon meg."
+        },
+        {
+            "chapter": 3,
+            "verse": 11,
+            "name": "Numbers 3:11",
+            "text": "Szóla azután az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 3,
+            "verse": 12,
+            "name": "Numbers 3:12",
+            "text": "Ímé én kiválasztottam a lévitákat Izráel fiai közül, minden elsőszülött helyett, a mely az ő anyjának méhét megnyitja Izráel fiai között: azért legyenek a léviták enyéim. "
+        },
+        {
+            "chapter": 3,
+            "verse": 13,
+            "name": "Numbers 3:13",
+            "text": "Mert enyém minden elsőszülött; a mikor megöltem minden elsőszülöttet Égyiptom földén, magamnak szenteltem minden elsőszülöttet Izráelben; akár ember, akár barom, enyéim legyenek: én vagyok az Úr.  "
+        },
+        {
+            "chapter": 3,
+            "verse": 14,
+            "name": "Numbers 3:14",
+            "text": " Szóla azután az Úr Mózesnek a Sinai pusztájában, mondván:"
+        },
+        {
+            "chapter": 3,
+            "verse": 15,
+            "name": "Numbers 3:15",
+            "text": "Számláld meg Lévi fiait az ő atyáiknak háznépe szerint, az ő nemzetségeik szerint; egy hónapostól fogva, és azon felül minden fineműt számlálj meg."
+        },
+        {
+            "chapter": 3,
+            "verse": 16,
+            "name": "Numbers 3:16",
+            "text": "Megszámlálá azért Mózes őket az Úr szava szerint, a miképen meghagyatott vala néki."
+        },
+        {
+            "chapter": 3,
+            "verse": 17,
+            "name": "Numbers 3:17",
+            "text": "És ezek voltak a Lévi fiai az ő neveik szerint: Gerson, Kéhát és Mérári. "
+        },
+        {
+            "chapter": 3,
+            "verse": 18,
+            "name": "Numbers 3:18",
+            "text": "Ezek pedig a Gerson fiainak nevei az ő nemzetségök szerint: Libni és Simhi."
+        },
+        {
+            "chapter": 3,
+            "verse": 19,
+            "name": "Numbers 3:19",
+            "text": "Továbbá a Kéhát fiai az ő nemzetségök szerint: Amrám és Iczhár, Hebron és Uzziél. "
+        },
+        {
+            "chapter": 3,
+            "verse": 20,
+            "name": "Numbers 3:20",
+            "text": "A Mérári fiai pedig az ő nemzetségök szerint: Makhli és Músi. Ezek a Lévi nemzetségei, az ő atyáiknak háznépe szerint."
+        },
+        {
+            "chapter": 3,
+            "verse": 21,
+            "name": "Numbers 3:21",
+            "text": "Gersontól valók a Libni nemzetsége és a Simhi nemzetsége; ezek a Gersoniták nemzetségei."
+        },
+        {
+            "chapter": 3,
+            "verse": 22,
+            "name": "Numbers 3:22",
+            "text": "Az ő megszámláltjaik, az egy hónapostól fogva és feljebb minden fineműnek száma szerint, az ő megszámláltjaik: hétezer és ötszáz."
+        },
+        {
+            "chapter": 3,
+            "verse": 23,
+            "name": "Numbers 3:23",
+            "text": "A Gersoniták nemzetségei a hajlék megett járjanak tábort nyugot felől."
+        },
+        {
+            "chapter": 3,
+            "verse": 24,
+            "name": "Numbers 3:24",
+            "text": "És a Gersoniták atyái háznépének fejedelme legyen Eliásáf, a Láél fia."
+        },
+        {
+            "chapter": 3,
+            "verse": 25,
+            "name": "Numbers 3:25",
+            "text": "A Gerson fiainak tiszte pedig: ügyelni a gyülekezet sátorában, a hajlékra, a sátorra, annak takarójára, és a gyülekezet sátora nyílásának leplére."
+        },
+        {
+            "chapter": 3,
+            "verse": 26,
+            "name": "Numbers 3:26",
+            "text": "Továbbá a pitvarnak szőnyegeire, és a pitvar nyílásának leplére, a mely van a hajlékon és az oltáron köröskörül, és annak köteleire, és minden azzal járó szolgálatra."
+        },
+        {
+            "chapter": 3,
+            "verse": 27,
+            "name": "Numbers 3:27",
+            "text": "Kéháttól való pedig az Amrám nemzetsége, az Iczhár nemzetsége, a Hebron nemzetsége és az Uzziél nemzetsége: Ezek Kéhátnak nemzetségei."
+        },
+        {
+            "chapter": 3,
+            "verse": 28,
+            "name": "Numbers 3:28",
+            "text": "Minden fineműnek száma szerint, egy hónapostól fogva és feljebb, nyolczezeren és hatszázan valának a szenthelynek őrizői."
+        },
+        {
+            "chapter": 3,
+            "verse": 29,
+            "name": "Numbers 3:29",
+            "text": "A Kéhát fiainak nemzetségei a hajlék oldala mellett dél felől járjanak tábort."
+        },
+        {
+            "chapter": 3,
+            "verse": 30,
+            "name": "Numbers 3:30",
+            "text": "És a Kéhátiták nemzetségének, az ő atyái háznépének fejedelme legyen Elisáfán, Uzziélnek fia."
+        },
+        {
+            "chapter": 3,
+            "verse": 31,
+            "name": "Numbers 3:31",
+            "text": "Az ő tisztök pedig, ügyelni a ládára, az asztalra, a gyertyatartóra, az oltárokra és a szenthelynek edényeire, a melyekkel szolgálnak, és a takaróra, és minden azzal járó szolgálatra."
+        },
+        {
+            "chapter": 3,
+            "verse": 32,
+            "name": "Numbers 3:32",
+            "text": "Továbbá a léviták fejedelmeinek fejedelme legyen Eleázár, Áron pap fia: a szenthelyre ügyelőknek előljárója."
+        },
+        {
+            "chapter": 3,
+            "verse": 33,
+            "name": "Numbers 3:33",
+            "text": "Méráritól való a Makhli és Músi nemzetségei; ezek a Mérári nemzetségei."
+        },
+        {
+            "chapter": 3,
+            "verse": 34,
+            "name": "Numbers 3:34",
+            "text": "Az ő megszámláltjaik pedig minden fineműnek száma szerint, egy hónapostól fogva és feljebb: hatezer és kétszáz."
+        },
+        {
+            "chapter": 3,
+            "verse": 35,
+            "name": "Numbers 3:35",
+            "text": "És a Mérári nemzetségének, az ő atyái háznépének fejedelme legyen Suriel, az Abihail fia; a hajléknak észak felől való oldala mellett járjanak tábort."
+        },
+        {
+            "chapter": 3,
+            "verse": 36,
+            "name": "Numbers 3:36",
+            "text": "A Mérári fiainak pedig tisztök legyen felügyelni: a hajlék deszkáira, annak reteszrúdaira, oszlopaira és annak talpaira, minden edényeire és minden azzal járó szolgálatra;"
+        },
+        {
+            "chapter": 3,
+            "verse": 37,
+            "name": "Numbers 3:37",
+            "text": "Továbbá a pitvar körül való oszlopokra és azoknak talpaira, szegeire és köteleire."
+        },
+        {
+            "chapter": 3,
+            "verse": 38,
+            "name": "Numbers 3:38",
+            "text": "A hajlék előtt keletre, a gyülekezet sátora előtt naptámadat felől, Mózes, Áron és az ő fiai járjanak tábort, a kik felügyelnek a szenthely szolgálatára, és Izráel fiainak ügyeire; ha pedig idegen járulna oda, haljon meg. "
+        },
+        {
+            "chapter": 3,
+            "verse": 39,
+            "name": "Numbers 3:39",
+            "text": "A léviták minden megszámláltja, a kiket Mózes és Áron az Úr rendeletére nemzetségenként számláltak vala meg, minden finemű, az egy hónapostól fogva és feljebb: huszonkét ezer.  "
+        },
+        {
+            "chapter": 3,
+            "verse": 40,
+            "name": "Numbers 3:40",
+            "text": " És monda az Úr Mózesnek: Számláld meg Izráel fiainak minden finemű elsőszülöttét, egy hónapostól fogva és feljebb, és pedig névszerint számláld meg őket. "
+        },
+        {
+            "chapter": 3,
+            "verse": 41,
+            "name": "Numbers 3:41",
+            "text": "És válaszd a lévitákat nékem (én vagyok az Úr) az Izráel fiai közül való minden elsőszülött helyett; és a léviták barmait, Izráel fiai barmainak minden első fajzása helyett."
+        },
+        {
+            "chapter": 3,
+            "verse": 42,
+            "name": "Numbers 3:42",
+            "text": "Megszámlálá azért Mózes, a mint parancsolta vala néki az Úr, Izráel fiainak minden elsőszülöttét."
+        },
+        {
+            "chapter": 3,
+            "verse": 43,
+            "name": "Numbers 3:43",
+            "text": "És lőn minden finemű elsőszülött a nevek száma szerint, egy hónapostól fogva és feljebb, az ő megszámláltjaik: huszonkét ezer kétszáz és hetvenhárom."
+        },
+        {
+            "chapter": 3,
+            "verse": 44,
+            "name": "Numbers 3:44",
+            "text": "És szóla az Úr Mózesnek, mondván:"
+        },
+        {
+            "chapter": 3,
+            "verse": 45,
+            "name": "Numbers 3:45",
+            "text": "Válaszd a lévitákat az Izráel fiai közül való minden elsőszülött helyett; és a léviták barmait az ő barmaik helyett, és legyenek enyéim a léviták. Én vagyok az Úr."
+        },
+        {
+            "chapter": 3,
+            "verse": 46,
+            "name": "Numbers 3:46",
+            "text": "A mi pedig a kétszáz és hetvenháromnak megváltását illeti, a kik felül vannak a lévitákon Izráel fiainak elsőszülöttei közül:"
+        },
+        {
+            "chapter": 3,
+            "verse": 47,
+            "name": "Numbers 3:47",
+            "text": "Végy öt-öt siklust fejenként; a szent siklus szerint vedd azt, (húsz géra egy siklus). "
+        },
+        {
+            "chapter": 3,
+            "verse": 48,
+            "name": "Numbers 3:48",
+            "text": "És add azt a pénzt Áronnak és az ő fiainak, váltságul a köztök lévő számfelettiekért."
+        },
+        {
+            "chapter": 3,
+            "verse": 49,
+            "name": "Numbers 3:49",
+            "text": "Bevevé azért Mózes a váltságpénzt azoktól, a kik felül voltak a lévitáktól megváltottakon."
+        },
+        {
+            "chapter": 3,
+            "verse": 50,
+            "name": "Numbers 3:50",
+            "text": "Izráel fiainak elsőszülöttitől vevé be e pénzt: ezer háromszáz és hatvanöt siklust, a szent siklus szerint."
+        },
+        {
+            "chapter": 3,
+            "verse": 51,
+            "name": "Numbers 3:51",
+            "text": "És adá Mózes a megváltottaknak pénzét Áronnak és az ő fiainak, az Úr rendelete szerint, a miképen parancsolta az Úr Mózesnek.  "
+        }
+    ]
+}

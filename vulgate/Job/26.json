@@ -1,0 +1,98 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 18,
+    "book_name": "Job",
+    "chapter": 26,
+    "name": "Job 26",
+    "verses": [
+        {
+            "chapter": 26,
+            "verse": 1,
+            "name": "Job 26:1",
+            "text": "Respondens autem Job dixit :  "
+        },
+        {
+            "chapter": 26,
+            "verse": 2,
+            "name": "Job 26:2",
+            "text": "  Cujus adjutor es ? numquid imbecillis ?  et sustentas brachium ejus qui non est fortis ? "
+        },
+        {
+            "chapter": 26,
+            "verse": 3,
+            "name": "Job 26:3",
+            "text": " Cui dedisti consilium ?  forsitan illi qui non habet sapientiam :  et prudentiam tuam ostendisti plurimam. "
+        },
+        {
+            "chapter": 26,
+            "verse": 4,
+            "name": "Job 26:4",
+            "text": " Quem docere voluisti ?  nonne eum qui fecit spiramentum ? "
+        },
+        {
+            "chapter": 26,
+            "verse": 5,
+            "name": "Job 26:5",
+            "text": " Ecce gigantes gemunt sub aquis,  et qui habitant cum eis. "
+        },
+        {
+            "chapter": 26,
+            "verse": 6,
+            "name": "Job 26:6",
+            "text": " Nudus est infernus coram illo,  et nullum est operimentum perditioni. "
+        },
+        {
+            "chapter": 26,
+            "verse": 7,
+            "name": "Job 26:7",
+            "text": " Qui extendit aquilonem super vacuum,  et appendit terram super nihilum. "
+        },
+        {
+            "chapter": 26,
+            "verse": 8,
+            "name": "Job 26:8",
+            "text": " Qui ligat aquas in nubibus suis,  ut non erumpant pariter deorsum. "
+        },
+        {
+            "chapter": 26,
+            "verse": 9,
+            "name": "Job 26:9",
+            "text": " Qui tenet vultum solii sui,  et expandit super illud nebulam suam. "
+        },
+        {
+            "chapter": 26,
+            "verse": 10,
+            "name": "Job 26:10",
+            "text": " Terminum circumdedit aquis,  usque dum finiantur lux et tenebræ. "
+        },
+        {
+            "chapter": 26,
+            "verse": 11,
+            "name": "Job 26:11",
+            "text": " Columnæ cæli contremiscunt,  et pavent ad nutum ejus. "
+        },
+        {
+            "chapter": 26,
+            "verse": 12,
+            "name": "Job 26:12",
+            "text": " In fortitudine illius repente maria congregata sunt,  et prudentia ejus percussit superbum. "
+        },
+        {
+            "chapter": 26,
+            "verse": 13,
+            "name": "Job 26:13",
+            "text": " Spiritus ejus ornavit cælos,  et obstetricante manu ejus, eductus est coluber tortuosus. "
+        },
+        {
+            "chapter": 26,
+            "verse": 14,
+            "name": "Job 26:14",
+            "text": " Ecce hæc ex parte dicta sunt viarum ejus :  et cum vix parvam stillam sermonis ejus audierimus,  quis poterit tonitruum magnitudinis illius intueri ?  "
+        }
+    ]
+}

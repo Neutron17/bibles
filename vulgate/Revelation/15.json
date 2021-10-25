@@ -1,0 +1,62 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 66,
+    "book_name": "Revelation",
+    "chapter": 15,
+    "name": "Revelation 15",
+    "verses": [
+        {
+            "chapter": 15,
+            "verse": 1,
+            "name": "Revelation 15:1",
+            "text": "Et vidi aliud signum in cælo magnum et mirabile, angelos septem, habentes plagas septem novissimas : quoniam in illis consummata est ira Dei. "
+        },
+        {
+            "chapter": 15,
+            "verse": 2,
+            "name": "Revelation 15:2",
+            "text": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum, habentes citharas Dei : "
+        },
+        {
+            "chapter": 15,
+            "verse": 3,
+            "name": "Revelation 15:3",
+            "text": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes : Magna et mirabilia sunt opera tua, Domine Deus omnipotens : justæ et veræ sunt viæ tuæ, Rex sæculorum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 4,
+            "name": "Revelation 15:4",
+            "text": "Quis non timebit te, Domine, et magnificabit nomen tuum ? quia solus pius es : quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam judicia tua manifesta sunt.  "
+        },
+        {
+            "chapter": 15,
+            "verse": 5,
+            "name": "Revelation 15:5",
+            "text": " Et post hæc vidi : et ecce apertum est templum tabernaculi testimonii in cælo, "
+        },
+        {
+            "chapter": 15,
+            "verse": 6,
+            "name": "Revelation 15:6",
+            "text": "et exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et præcincti circa pectora zonis aureis. "
+        },
+        {
+            "chapter": 15,
+            "verse": 7,
+            "name": "Revelation 15:7",
+            "text": "Et unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum. "
+        },
+        {
+            "chapter": 15,
+            "verse": 8,
+            "name": "Revelation 15:8",
+            "text": "Et impletum est templum fumo a majestate Dei, et de virtute ejus : et nemo poterat introire in templum, donec consummarentur septem plagæ septem angelorum.   "
+        }
+    ]
+}

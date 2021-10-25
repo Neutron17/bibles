@@ -1,0 +1,440 @@
+{
+    "translation": "Vulgata Clementina",
+    "abbreviation": "vulgate",
+    "lang": "la",
+    "language": "Latin",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 42,
+    "book_name": "Luke",
+    "chapter": 22,
+    "name": "Luke 22",
+    "verses": [
+        {
+            "chapter": 22,
+            "verse": 1,
+            "name": "Luke 22:1",
+            "text": "Appropinquabat autem dies festus azymorum, qui dicitur Pascha : "
+        },
+        {
+            "chapter": 22,
+            "verse": 2,
+            "name": "Luke 22:2",
+            "text": "et quærebant principes sacerdotum, et scribæ, quomodo Jesum interficerent : timebant vero plebem. "
+        },
+        {
+            "chapter": 22,
+            "verse": 3,
+            "name": "Luke 22:3",
+            "text": "Intravit autem Satanas in Judam, qui cognominabatur Iscariotes, unum de duodecim : "
+        },
+        {
+            "chapter": 22,
+            "verse": 4,
+            "name": "Luke 22:4",
+            "text": "et abiit, et locutus est cum principibus sacerdotum, et magistratibus, quemadmodum illum traderet eis. "
+        },
+        {
+            "chapter": 22,
+            "verse": 5,
+            "name": "Luke 22:5",
+            "text": "Et gavisi sunt, et pacti sunt pecuniam illi dare. "
+        },
+        {
+            "chapter": 22,
+            "verse": 6,
+            "name": "Luke 22:6",
+            "text": "Et spopondit, et quærebat opportunitatem ut traderet illum sine turbis.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 7,
+            "name": "Luke 22:7",
+            "text": " Venit autem dies azymorum, in qua necesse erat occidi pascha. "
+        },
+        {
+            "chapter": 22,
+            "verse": 8,
+            "name": "Luke 22:8",
+            "text": "Et misit Petrum et Joannem, dicens : Euntes parate nobis pascha, ut manducemus. "
+        },
+        {
+            "chapter": 22,
+            "verse": 9,
+            "name": "Luke 22:9",
+            "text": "At illi dixerunt : Ubi vis paremus ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 10,
+            "name": "Luke 22:10",
+            "text": "Et dixit ad eos : Ecce introëuntibus vobis in civitatem occurret vobis homo quidam amphoram aquæ portans : sequimini eum in domum, in quam intrat, "
+        },
+        {
+            "chapter": 22,
+            "verse": 11,
+            "name": "Luke 22:11",
+            "text": "et dicetis patrifamilias domus : Dicit tibi Magister : Ubi est diversorium, ubi pascha cum discipulis meis manducem ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 12,
+            "name": "Luke 22:12",
+            "text": "Et ipse ostendet vobis cœnaculum magnum stratum, et ibi parate. "
+        },
+        {
+            "chapter": 22,
+            "verse": 13,
+            "name": "Luke 22:13",
+            "text": "Euntes autem invenerunt sicut dixit illis, et paraverunt pascha. "
+        },
+        {
+            "chapter": 22,
+            "verse": 14,
+            "name": "Luke 22:14",
+            "text": "Et cum facta esset hora, discubuit, et duodecim apostoli cum eo. "
+        },
+        {
+            "chapter": 22,
+            "verse": 15,
+            "name": "Luke 22:15",
+            "text": "Et ait illis : Desiderio desideravi hoc pascha manducare vobiscum, antequam patiar. "
+        },
+        {
+            "chapter": 22,
+            "verse": 16,
+            "name": "Luke 22:16",
+            "text": "Dico enim vobis, quia ex hoc non manducabo illud, donec impleatur in regno Dei. "
+        },
+        {
+            "chapter": 22,
+            "verse": 17,
+            "name": "Luke 22:17",
+            "text": "Et accepto calice gratias egit, et dixit : Accipite, et dividite inter vos. "
+        },
+        {
+            "chapter": 22,
+            "verse": 18,
+            "name": "Luke 22:18",
+            "text": "Dico enim vobis quod non bibam de generatione vitis donec regnum Dei veniat.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 19,
+            "name": "Luke 22:19",
+            "text": " Et accepto pane gratias egit, et fregit, et dedit eis, dicens : Hoc est corpus meum, quod pro vobis datur : hoc facite in meam commemorationem. "
+        },
+        {
+            "chapter": 22,
+            "verse": 20,
+            "name": "Luke 22:20",
+            "text": "Similiter et calicem, postquam cœnavit, dicens : Hic est calix novum testamentum in sanguine meo, qui pro vobis fundetur. "
+        },
+        {
+            "chapter": 22,
+            "verse": 21,
+            "name": "Luke 22:21",
+            "text": "Verumtamen ecce manus tradentis me, mecum est in mensa. "
+        },
+        {
+            "chapter": 22,
+            "verse": 22,
+            "name": "Luke 22:22",
+            "text": "Et quidem Filius hominis, secundum quod definitum est, vadit : verumtamen væ homini illi per quem tradetur. "
+        },
+        {
+            "chapter": 22,
+            "verse": 23,
+            "name": "Luke 22:23",
+            "text": "Et ipsi cœperunt quærere inter se quis esset ex eis qui hoc facturus esset.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 24,
+            "name": "Luke 22:24",
+            "text": " Facta est autem et contentio inter eos, quis eorum videretur esse major. "
+        },
+        {
+            "chapter": 22,
+            "verse": 25,
+            "name": "Luke 22:25",
+            "text": "Dixit autem eis : Reges gentium dominantur eorum : et qui potestatem habent super eos, benefici vocantur. "
+        },
+        {
+            "chapter": 22,
+            "verse": 26,
+            "name": "Luke 22:26",
+            "text": "Vos autem non sic : sed qui major est in vobis, fiat sicut minor : et qui præcessor est, sicut ministrator. "
+        },
+        {
+            "chapter": 22,
+            "verse": 27,
+            "name": "Luke 22:27",
+            "text": "Nam quis major est, qui recumbit, an qui ministrat ? nonne qui recumbit ? Ego autem in medio vestrum sum, sicut qui ministrat : "
+        },
+        {
+            "chapter": 22,
+            "verse": 28,
+            "name": "Luke 22:28",
+            "text": "vos autem estis, qui permansistis mecum in tentationibus meis. "
+        },
+        {
+            "chapter": 22,
+            "verse": 29,
+            "name": "Luke 22:29",
+            "text": "Et ego dispono vobis sicut disposuit mihi Pater meus regnum, "
+        },
+        {
+            "chapter": 22,
+            "verse": 30,
+            "name": "Luke 22:30",
+            "text": "ut edatis et bibatis super mensam meam in regno meo, et sedeatis super thronos judicantes duodecim tribus Israël.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 31,
+            "name": "Luke 22:31",
+            "text": " Ait autem Dominus : Simon, Simon, ecce Satanas expetivit vos ut cribraret sicut triticum : "
+        },
+        {
+            "chapter": 22,
+            "verse": 32,
+            "name": "Luke 22:32",
+            "text": "ego autem rogavi pro te ut non deficiat fides tua : et tu aliquando conversus, confirma fratres tuos. "
+        },
+        {
+            "chapter": 22,
+            "verse": 33,
+            "name": "Luke 22:33",
+            "text": "Qui dixit ei : Domine, tecum paratus sum et in carcerem et in mortem ire. "
+        },
+        {
+            "chapter": 22,
+            "verse": 34,
+            "name": "Luke 22:34",
+            "text": "At ille dixit : Dico tibi, Petre, non cantabit hodie gallus, donec ter abneges nosse me. Et dixit eis : "
+        },
+        {
+            "chapter": 22,
+            "verse": 35,
+            "name": "Luke 22:35",
+            "text": "Quando misi vos sine sacculo, et pera, et calceamentis, numquid aliquid defuit vobis ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 36,
+            "name": "Luke 22:36",
+            "text": "At illi dixerunt : Nihil. Dixit ergo eis : Sed nunc qui habet sacculum, tollat ; similiter et peram : et qui non habet, vendat tunicam suam et emat gladium. "
+        },
+        {
+            "chapter": 22,
+            "verse": 37,
+            "name": "Luke 22:37",
+            "text": "Dico enim vobis, quoniam adhuc hoc quod scriptum est, oportet impleri in me : Et cum iniquis deputatus est. Etenim ea quæ sunt de me finem habent. "
+        },
+        {
+            "chapter": 22,
+            "verse": 38,
+            "name": "Luke 22:38",
+            "text": "At illi dixerunt : Domine, ecce duo gladii hic. At ille dixit eis : Satis est.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 39,
+            "name": "Luke 22:39",
+            "text": " Et egressus ibat secundum consuetudinem in monte Olivarum. Secuti sunt autem illum et discipuli. "
+        },
+        {
+            "chapter": 22,
+            "verse": 40,
+            "name": "Luke 22:40",
+            "text": "Et cum pervenisset ad locum, dixit illis : Orate ne intretis in tentationem. "
+        },
+        {
+            "chapter": 22,
+            "verse": 41,
+            "name": "Luke 22:41",
+            "text": "Et ipse avulsus est ab eis quantum jactus est lapidis : et positis genibus orabat, "
+        },
+        {
+            "chapter": 22,
+            "verse": 42,
+            "name": "Luke 22:42",
+            "text": "dicens : Pater, si vis, transfer calicem istum a me : verumtamen non mea voluntas, sed tua fiat. "
+        },
+        {
+            "chapter": 22,
+            "verse": 43,
+            "name": "Luke 22:43",
+            "text": "Apparuit autem illi angelus de cælo, confortans eum. Et factus in agonia, prolixius orabat. "
+        },
+        {
+            "chapter": 22,
+            "verse": 44,
+            "name": "Luke 22:44",
+            "text": "Et factus est sudor ejus sicut guttæ sanguinis decurrentis in terram. "
+        },
+        {
+            "chapter": 22,
+            "verse": 45,
+            "name": "Luke 22:45",
+            "text": "Et cum surrexisset ab oratione et venisset ad discipulos suos, invenit eos dormientes præ tristitia. "
+        },
+        {
+            "chapter": 22,
+            "verse": 46,
+            "name": "Luke 22:46",
+            "text": "Et ait illis : Quid dormitis ? surgite, orate, ne intretis in tentationem.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 47,
+            "name": "Luke 22:47",
+            "text": " Adhuc eo loquente, ecce turba : et qui vocabatur Judas, unus de duodecim, antecedebat eos, et appropinquavit Jesu ut oscularetur eum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 48,
+            "name": "Luke 22:48",
+            "text": "Jesus autem dixit illi : Juda, osculo Filium hominis tradis ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 49,
+            "name": "Luke 22:49",
+            "text": "Videntes autem hi qui circa ipsum erant, quod futurum erat, dixerunt ei : Domine, si percutimus in gladio ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 50,
+            "name": "Luke 22:50",
+            "text": "Et percussit unus ex illis servum principis sacerdotum, et amputavit auriculam ejus dexteram. "
+        },
+        {
+            "chapter": 22,
+            "verse": 51,
+            "name": "Luke 22:51",
+            "text": "Respondens autem Jesus, ait : Sinite usque huc. Et cum tetigisset auriculam ejus, sanavit eum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 52,
+            "name": "Luke 22:52",
+            "text": "Dixit autem Jesus ad eos qui venerant ad se principes sacerdotum, et magistratus templi, et seniores : Quasi ad latronem existis cum gladiis et fustibus ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 53,
+            "name": "Luke 22:53",
+            "text": "Cum quotidie vobiscum fuerim in templo, non extendistis manus in me : sed hæc est hora vestra, et potestas tenebrarum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 54,
+            "name": "Luke 22:54",
+            "text": "Comprehendentes autem eum, duxerunt ad domum principis sacerdotum : Petrus vero sequebatur a longe.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 55,
+            "name": "Luke 22:55",
+            "text": " Accenso autem igne in medio atrii et circumsedentibus illis, erat Petrus in medio eorum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 56,
+            "name": "Luke 22:56",
+            "text": "Quem cum vidisset ancilla quædam sedentem ad lumen, et eum fuisset intuita, dixit : Et hic cum illo erat. "
+        },
+        {
+            "chapter": 22,
+            "verse": 57,
+            "name": "Luke 22:57",
+            "text": "At ille negavit eum, dicens : Mulier, non novi illum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 58,
+            "name": "Luke 22:58",
+            "text": "Et post pusillum alius videns eum, dixit : Et tu de illis es. Petrus vero ait : O homo, non sum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 59,
+            "name": "Luke 22:59",
+            "text": "Et intervallo facto quasi horæ unius, alius quidam affirmabat, dicens : Vere et hic cum illo erat : nam et Galilæus est. "
+        },
+        {
+            "chapter": 22,
+            "verse": 60,
+            "name": "Luke 22:60",
+            "text": "Et ait Petrus : Homo, nescio quid dicis. Et continuo, adhuc illo loquente, cantavit gallus. "
+        },
+        {
+            "chapter": 22,
+            "verse": 61,
+            "name": "Luke 22:61",
+            "text": "Et conversus Dominus respexit Petrum, et recordatus est Petrus verbi Domini, sicut dixerat : Quia priusquam gallus cantet, ter me negabis. "
+        },
+        {
+            "chapter": 22,
+            "verse": 62,
+            "name": "Luke 22:62",
+            "text": "Et egressus foras Petrus flevit amare.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 63,
+            "name": "Luke 22:63",
+            "text": " Et viri qui tenebant illum, illudebant ei, cædentes. "
+        },
+        {
+            "chapter": 22,
+            "verse": 64,
+            "name": "Luke 22:64",
+            "text": "Et velaverunt eum, et percutiebant faciem ejus : et interrogabant eum, dicentes : Prophetiza, quis est, qui te percussit ? "
+        },
+        {
+            "chapter": 22,
+            "verse": 65,
+            "name": "Luke 22:65",
+            "text": "Et alia multa blasphemantes dicebant in eum.  "
+        },
+        {
+            "chapter": 22,
+            "verse": 66,
+            "name": "Luke 22:66",
+            "text": " Et ut factus est dies, convenerunt seniores plebis, et principes sacerdotum, et scribæ, et duxerunt illum in concilium suum, dicentes : Si tu es Christus, dic nobis. "
+        },
+        {
+            "chapter": 22,
+            "verse": 67,
+            "name": "Luke 22:67",
+            "text": "Et ait illis : Si vobis dixero, non credetis mihi : "
+        },
+        {
+            "chapter": 22,
+            "verse": 68,
+            "name": "Luke 22:68",
+            "text": "si autem et interrogavero, non respondebitis mihi, neque dimittetis. "
+        },
+        {
+            "chapter": 22,
+            "verse": 69,
+            "name": "Luke 22:69",
+            "text": "Ex hoc autem erit Filius hominis sedens a dextris virtutis Dei. "
+        },
+        {
+            "chapter": 22,
+            "verse": 70,
+            "name": "Luke 22:70",
+            "text": "Dixerunt autem omnes : Tu ergo es Filius Dei ? Qui ait : Vos dicitis, quia ego sum. "
+        },
+        {
+            "chapter": 22,
+            "verse": 71,
+            "name": "Luke 22:71",
+            "text": "At illi dixerunt : Quid adhuc desideramus testimonium ? ipsi enim audivimus de ore ejus.   "
+        }
+    ]
+}

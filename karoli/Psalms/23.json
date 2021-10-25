@@ -1,0 +1,50 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 23,
+    "name": "Psalms 23",
+    "verses": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "name": "Psalms 23:1",
+            "text": " Dávid zsoltára. Az Úr az én pásztorom; nem szűkölködöm. "
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "name": "Psalms 23:2",
+            "text": "Fűves legelőkön nyugtat engem, és csendes vizekhez terelget engem. "
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "name": "Psalms 23:3",
+            "text": "Lelkemet megvidámítja, az igazság ösvényein vezet engem az ő nevéért. "
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "name": "Psalms 23:4",
+            "text": "Még ha a halál árnyékának völgyében járok is, nem félek a gonosztól, mert te velem vagy; a te veszsződ és botod, azok vigasztalnak engem. "
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "name": "Psalms 23:5",
+            "text": "Asztalt terítesz nékem az én ellenségeim előtt; elárasztod fejem olajjal; csordultig van a poharam. "
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "name": "Psalms 23:6",
+            "text": "Bizonyára jóságod és kegyelmed követnek engem életem minden napján, s az Úr házában lakozom hosszú ideig.   "
+        }
+    ]
+}

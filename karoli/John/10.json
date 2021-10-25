@@ -1,0 +1,266 @@
+{
+    "translation": "Hungarian Karoli",
+    "abbreviation": "karoli",
+    "lang": "hu",
+    "language": "Hungarian",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 43,
+    "book_name": "John",
+    "chapter": 10,
+    "name": "John 10",
+    "verses": [
+        {
+            "chapter": 10,
+            "verse": 1,
+            "name": "John 10:1",
+            "text": " Bizony, bizony mondom néktek: A ki nem az ajtón megy be a juhok aklába, hanem másunnan hág be, tolvaj az és rabló. "
+        },
+        {
+            "chapter": 10,
+            "verse": 2,
+            "name": "John 10:2",
+            "text": "A ki pedig az ajtón megy be, a juhok pásztora az."
+        },
+        {
+            "chapter": 10,
+            "verse": 3,
+            "name": "John 10:3",
+            "text": "Ennek az ajtónálló ajtót nyit; és a juhok hallgatnak annak szavára; és a maga juhait nevökön szólítja, és kivezeti őket."
+        },
+        {
+            "chapter": 10,
+            "verse": 4,
+            "name": "John 10:4",
+            "text": "És mikor kiereszti az ő juhait, előttök megy; és a juhok követik őt, mert ismerik az ő hangját. "
+        },
+        {
+            "chapter": 10,
+            "verse": 5,
+            "name": "John 10:5",
+            "text": "Idegent pedig nem követnek, hanem elfutnak attól: mert nem ismerik az idegenek hangját. "
+        },
+        {
+            "chapter": 10,
+            "verse": 6,
+            "name": "John 10:6",
+            "text": "Ezt a példázatot mondá nékik Jézus; de ők nem értették, mi az, a mit szól vala nékik. "
+        },
+        {
+            "chapter": 10,
+            "verse": 7,
+            "name": "John 10:7",
+            "text": "Újra monda azért nékik Jézus: Bizony, bizony mondom néktek, hogy én vagyok a juhoknak ajtaja. "
+        },
+        {
+            "chapter": 10,
+            "verse": 8,
+            "name": "John 10:8",
+            "text": "Mindazok, a kik előttem jöttek, tolvajok és rablók: de nem hallgattak rájok a juhok. "
+        },
+        {
+            "chapter": 10,
+            "verse": 9,
+            "name": "John 10:9",
+            "text": "Én vagyok az ajtó: ha valaki én rajtam megy be, megtartatik és bejár és kijár majd, és legelőt talál. "
+        },
+        {
+            "chapter": 10,
+            "verse": 10,
+            "name": "John 10:10",
+            "text": "A tolvaj nem egyébért jő, hanem hogy lopjon és öljön és pusztítson; én azért jöttem, hogy életök legyen, és bővölködjenek. "
+        },
+        {
+            "chapter": 10,
+            "verse": 11,
+            "name": "John 10:11",
+            "text": "Én vagyok a jó pásztor: a jó pásztor életét adja a juhokért. "
+        },
+        {
+            "chapter": 10,
+            "verse": 12,
+            "name": "John 10:12",
+            "text": "A béres pedig és a ki nem pásztor, a kinek a juhok nem tulajdonai, látja a farkast jőni, és elhagyja a juhokat, és elfut: és a farkas elragadozza azokat, és elszéleszti a juhokat. "
+        },
+        {
+            "chapter": 10,
+            "verse": 13,
+            "name": "John 10:13",
+            "text": "A béres pedig azért fut el, mert béres, és nincs gondja a juhokra. "
+        },
+        {
+            "chapter": 10,
+            "verse": 14,
+            "name": "John 10:14",
+            "text": "Én vagyok a jó pásztor; és ismerem az enyéimet, és engem is ismernek az enyéim, "
+        },
+        {
+            "chapter": 10,
+            "verse": 15,
+            "name": "John 10:15",
+            "text": "A miként ismer engem az Atya, és én is ismerem az Atyát; és életemet adom a juhokért. "
+        },
+        {
+            "chapter": 10,
+            "verse": 16,
+            "name": "John 10:16",
+            "text": "Más juhaim is vannak nékem, a melyek nem ebből az akolból valók: azokat is elő kell hoznom, és hallgatnak majd az én szómra; és lészen egy akol és egy pásztor. "
+        },
+        {
+            "chapter": 10,
+            "verse": 17,
+            "name": "John 10:17",
+            "text": "Azért szeret engem az Atya, mert én leteszem az én életemet, hogy újra felvegyem azt. "
+        },
+        {
+            "chapter": 10,
+            "verse": 18,
+            "name": "John 10:18",
+            "text": "Senki sem veszi azt el én tőlem, hanem én teszem le azt én magamtól. Van hatalmam letenni azt, és van hatalmam ismét felvenni azt. Ezt a parancsolatot vettem az én Atyámtól. "
+        },
+        {
+            "chapter": 10,
+            "verse": 19,
+            "name": "John 10:19",
+            "text": "Újra hasonlás lőn a zsidók között e beszédek miatt. "
+        },
+        {
+            "chapter": 10,
+            "verse": 20,
+            "name": "John 10:20",
+            "text": "És sokan mondják vala közülök: Ördög van benne és bolondozik, mit hallgattok reá? "
+        },
+        {
+            "chapter": 10,
+            "verse": 21,
+            "name": "John 10:21",
+            "text": "Mások mondának: Ezek nem ördöngősnek beszédei. Vajjon az ördög megnyithatja-é a vakok szemeit?"
+        },
+        {
+            "chapter": 10,
+            "verse": 22,
+            "name": "John 10:22",
+            "text": "Lőn pedig Jeruzsálemben a templomszentelés ünnepe: és tél vala;"
+        },
+        {
+            "chapter": 10,
+            "verse": 23,
+            "name": "John 10:23",
+            "text": "És Jézus a templomban, a Salamon tornáczában jár vala."
+        },
+        {
+            "chapter": 10,
+            "verse": 24,
+            "name": "John 10:24",
+            "text": "Körülvevék azért őt a zsidók, és mondának néki: Meddig tartasz még bizonytalanságban bennünket? Ha te vagy a Krisztus, mondd meg nékünk nyilván! "
+        },
+        {
+            "chapter": 10,
+            "verse": 25,
+            "name": "John 10:25",
+            "text": "Felele nékik Jézus: Megmondtam néktek, és nem hiszitek: a cselekedetek, a melyeket én cselekszem az én Atyám nevében, azok tesznek bizonyságot rólam. "
+        },
+        {
+            "chapter": 10,
+            "verse": 26,
+            "name": "John 10:26",
+            "text": "De ti nem hisztek, mert ti nem az én juhaim közül vagytok. A mint megmondtam néktek: "
+        },
+        {
+            "chapter": 10,
+            "verse": 27,
+            "name": "John 10:27",
+            "text": "Az én juhaim hallják az én szómat, és én ismerem őket, és követnek engem: "
+        },
+        {
+            "chapter": 10,
+            "verse": 28,
+            "name": "John 10:28",
+            "text": "És én örök életet adok nékik; és soha örökké el nem vesznek, és senki ki nem ragadja őket az én kezemből. "
+        },
+        {
+            "chapter": 10,
+            "verse": 29,
+            "name": "John 10:29",
+            "text": "Az én Atyám, a ki azokat adta nékem, nagyobb mindeneknél; és senki sem ragadhatja ki azokat az én Atyámnak kezéből. "
+        },
+        {
+            "chapter": 10,
+            "verse": 30,
+            "name": "John 10:30",
+            "text": "Én és az Atya egy vagyunk. "
+        },
+        {
+            "chapter": 10,
+            "verse": 31,
+            "name": "John 10:31",
+            "text": "Ismét köveket ragadának azért a zsidók, hogy megkövezzék őt. "
+        },
+        {
+            "chapter": 10,
+            "verse": 32,
+            "name": "John 10:32",
+            "text": "Felele nékik Jézus: Sok jó dolgot mutattam néktek az én Atyámtól; azok közül melyik dologért köveztek meg engem?"
+        },
+        {
+            "chapter": 10,
+            "verse": 33,
+            "name": "John 10:33",
+            "text": "Felelének néki a zsidók, mondván: Jó dologért nem kövezünk meg téged, hanem káromlásért, tudniillik, hogy te ember létedre Istenné teszed magadat. "
+        },
+        {
+            "chapter": 10,
+            "verse": 34,
+            "name": "John 10:34",
+            "text": "Felele nékik Jézus: Nincs-é megírva a ti törvényetekben: Én mondám: Istenek vagytok? "
+        },
+        {
+            "chapter": 10,
+            "verse": 35,
+            "name": "John 10:35",
+            "text": "Ha azokat isteneknek mondá, a kikhez az Isten beszéde lőn (és az írás fel nem bontható),"
+        },
+        {
+            "chapter": 10,
+            "verse": 36,
+            "name": "John 10:36",
+            "text": "Arról mondjátok-é ti, a kit az Atya megszentelt és elküldött e világra: Káromlást szólsz; mivelhogy azt mondám: Az Isten Fia vagyok?! "
+        },
+        {
+            "chapter": 10,
+            "verse": 37,
+            "name": "John 10:37",
+            "text": "Ha az én Atyám dolgait nem cselekszem, ne higyjetek nékem;"
+        },
+        {
+            "chapter": 10,
+            "verse": 38,
+            "name": "John 10:38",
+            "text": "Ha pedig azokat cselekszem, ha nékem nem hisztek is, higyjetek a cselekedeteknek: hogy megtudjátok és elhigyjétek, hogy az Atya én bennem van, és én ő benne vagyok. "
+        },
+        {
+            "chapter": 10,
+            "verse": 39,
+            "name": "John 10:39",
+            "text": "Ismét meg akarák azért őt fogni; de kiméne az ő kezökből. "
+        },
+        {
+            "chapter": 10,
+            "verse": 40,
+            "name": "John 10:40",
+            "text": "És újra elméne túl a Jordánon, arra a helyre, a hol János először keresztelt vala; és ott marada. "
+        },
+        {
+            "chapter": 10,
+            "verse": 41,
+            "name": "John 10:41",
+            "text": "És sokan menének ő hozzá és mondják vala, hogy: János nem tett ugyan semmi csodát; de mindaz, a mit János e felől mondott, igaz vala. "
+        },
+        {
+            "chapter": 10,
+            "verse": 42,
+            "name": "John 10:42",
+            "text": "És sokan hivének ott ő benne.   "
+        }
+    ]
+}
